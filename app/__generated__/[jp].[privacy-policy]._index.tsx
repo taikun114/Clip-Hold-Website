@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-04T12:22:53.154Z";
+      export const lastPublished = "2025-07-04T12:32:20.707Z";
 
       export const siteName = "Clip Hold";
 
@@ -515,7 +515,7 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 </Fragment_1>
 </Slot>
 <div
-className={`w-element c7z4ryg c1qopeiv c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 cks2l98 c1sacup0`}>
+className={`w-element c7z4ryg c1qopeiv c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27`}>
 <div
 className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1jt805z c1ruoz7k c1ovvagj c1xsewl7 cv0104a`}>
 <h1
@@ -528,7 +528,7 @@ className={`w-element c1yn6h70`}>
 </p>
 <MarkdownEmbed
 code={"## 情報の収集について\nClip Holdは、ユーザーのいかなる情報も収集・送信しません。\\\nシステム設定の「プライバシーとセキュリティ」設定内にある「解析と改善」で「アプリデベロッパと共有」をオンにしているユーザーの使用状況データとクラッシュレポートが共有される場合がありますが、アプリ自体には情報を収集して送信する機能は全く搭載されていません。プライバシーが心配な方でも安心してお使いいただけます。\n\n## Clip Holdが取得する情報\nClip Holdの機能が正しく動作するために取得する情報があります。次の情報が取得されます。\n\n- クリップボードのコンテンツ\n  - クリップボードの履歴を保存するために使用されています。\n- コピーした時刻\n  - コピーされた時刻を記録・表示するために使用されています。\n- キーボード入力\n  - グローバルショートカットを認識するために使用されています。\n- 実行中のアプリ名・情報\n  - 「除外するアプリ」に追加する際、実行中のアプリから追加できるようにするために使用されています。\n- コピー元のアプリ名・情報\n  - アプリが「除外するアプリ」に登録されているかどうかを検出するために使用されています。\n- システム情報・アプリのバージョン情報\n  - アプリ内の「フィードバックを送信」ボタンをクリックした際に、フィードバックテンプレート言語の自動検出及びこちらで必要な情報が事前入力される機能のために使用されています。この機能には、以下の情報が取得されます。\n    - アプリの言語（日本語かそれ以外か）\n    - 機種ID（例: Mac16,11）\n    - CPUアーキテクチャ（例: Apple Silicon (arm64)）\n    - macOSバージョン情報（例: バージョン15.5（ビルド24F74））\n    - アプリバージョン情報（例: バージョン1.0.0（ビルド202507031827））\n \nこれらの取得された情報はアプリ内にのみとどまり、外部へ送信される事は一切ありません。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t ctef7ov`}>
 </MarkdownEmbed>
 </div>
 <Slot>

@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-04T12:22:53.154Z";
+      export const lastPublished = "2025-07-04T12:32:20.707Z";
 
       export const siteName = "Clip Hold";
 
@@ -517,7 +517,7 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 </Fragment_1>
 </Slot>
 <div
-className={`w-element c7z4ryg c1qopeiv c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 cks2l98 c1sacup0`}>
+className={`w-element c7z4ryg c1qopeiv c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27`}>
 <div
 className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1jt805z c1ruoz7k c1ovvagj c1xsewl7 cv0104a`}>
 <h1
@@ -530,7 +530,7 @@ className={`w-element c1yn6h70`}>
 </p>
 <MarkdownEmbed
 code={"## About Information Collection\nClip Hold does not collect or send any information of users.\\\nWhile usage data and crash reports may be shared if users have enabled “Share with app developers” under “Analytics & Improvements” in the System Settings' “Privacy & Security” section, the app itself is entirely devoid of any functionality to collect or send user-related information. Even if you are concerned about privacy, you can use it with confidence.\n\n## Information Clip Hold Retrieves\nThere is information that is retrieved in order for the Clip Hold features to work properly. The following information is retrieved\n\n- Clipboard contents\n  - Used to save the clipboard history.\n- Copied time\n  - Used to store and display the copied time.\n- Keyboard Input\n  - Used to recognize global shortcuts.\n- Running app name/information\n  - Used to add to “Apps to Exclude” from running apps.\n- Copy source app name/information\n  - Used to detect if an app is registered in the “Apps to Exclude” list.\n- System information / app version information\n  - Used for automatic detection of the feedback template language and for the function to pre-fill in the information required by me when the “Send Feedback” button in the app is clicked. The following information is collected for this feature\n    - Language of the app (Japanese or other)\n    - Model ID (e.g. Mac16,11)\n    - CPU architecture (e.g. Apple Silicon (arm64))\n    - macOS version information (e.g., Version 15.5 (build 24F74))\n    - App version information (e.g. Version 1.0.0 (build 202507031827))\n \nThis information will stay only in the app and will not be sent to outside."}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t ctef7ov`}>
 </MarkdownEmbed>
 </div>
 <Slot>
