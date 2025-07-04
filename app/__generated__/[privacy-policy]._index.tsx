@@ -11,14 +11,14 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-04T11:59:52.450Z";
+      export const lastPublished = "2025-07-04T12:16:01.384Z";
 
       export const siteName = "Clip Hold";
 
       export const breakpoints = [{"id":"oQXIk9J0diVFLo9CICSX4"},{"id":"B0T4Y4tFMYnO_ML6FGp4J","maxWidth":991},{"id":"afOKZgZfwBblQI0wlO-1n","maxWidth":767},{"id":"b9eF-sVvYuDQH1Ii8lJ6h","maxWidth":479}];
 
       export const favIconAsset: string | undefined =
-        "favicon_rr6la8v4jFwT-QfvBy1jE.ico";
+        "favicon_yW8bOlKkwbqRX_xCN5mvv.ico";
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =
@@ -536,14 +536,14 @@ className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t`}>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1vr770l c10idg3e c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c10ahqwr ccy4onp c12v245d c1atdl27 cv0104a cepgicz czzgdu c1f7ljgu c1ikxxo6 c1otyg8m`}>
+className={`w-element c7z4ryg c1vr770l c10idg3e c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c10ahqwr ccy4onp c12v245d c1atdl27 cv0104a cepgicz c16j4kee cyxspfs cb9779l`}>
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <Image
 src={"/assets/App_Icon512_yfUerJqzgO_Ly6tZ_QXZ9.webp"}
-width={256}
-height={256}
-loading={"eager"}
+width={200}
+height={200}
+loading={"lazy"}
 className={`w-image`} />
 <div
 className={`w-element c1mbyuac c17yqxus c1ghn8z4`}>

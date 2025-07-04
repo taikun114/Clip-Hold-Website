@@ -823,6 +823,9 @@
   .c1co68v6 {
     justify-content: center
   }
+  .cb9779l {
+    height: 500px
+  }
 }
 @media all and (max-width: 479px) {
   .czzgdu {
@@ -845,5 +848,11 @@
   }
   .cjr3ihk {
     display: none
+  }
+  .c16j4kee {
+    height: 600px
+  }
+  .cyxspfs {
+    padding: 1rem
   }
 }

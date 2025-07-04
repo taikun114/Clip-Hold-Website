@@ -11,14 +11,14 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-04T11:59:52.450Z";
+      export const lastPublished = "2025-07-04T12:16:01.384Z";
 
       export const siteName = "Clip Hold";
 
       export const breakpoints = [{"id":"oQXIk9J0diVFLo9CICSX4"},{"id":"B0T4Y4tFMYnO_ML6FGp4J","maxWidth":991},{"id":"afOKZgZfwBblQI0wlO-1n","maxWidth":767},{"id":"b9eF-sVvYuDQH1Ii8lJ6h","maxWidth":479}];
 
       export const favIconAsset: string | undefined =
-        "favicon_rr6la8v4jFwT-QfvBy1jE.ico";
+        "favicon_yW8bOlKkwbqRX_xCN5mvv.ico";
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =

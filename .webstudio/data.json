@@ -1,14 +1,14 @@
 {
   "build": {
-    "id": "8c74410a-53c2-4c54-891e-ff5233c4ec55",
+    "id": "1453b26c-18a2-4154-8d3e-4cd042b50191",
     "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
-    "version": 1228,
-    "createdAt": "2025-07-04T11:59:52.45+00:00",
-    "updatedAt": "2025-07-04T11:59:52.45+00:00",
+    "version": 1263,
+    "createdAt": "2025-07-04T12:16:01.384+00:00",
+    "updatedAt": "2025-07-04T12:16:01.384+00:00",
     "pages": {
       "meta": {
         "siteName": "Clip Hold",
-        "faviconAssetId": "ffb08f95339413281ec92ea38f0c4bc8a09077f81f6d5410f983899dc2ba113f",
+        "faviconAssetId": "e8f95551003d8951bc2e6b0e1bbb246a238ce709190db06b78d9cfddcfab374f",
         "code": "<!-- Web Fonts -->\n<style>\n@import url('https://api.fonts.coollabs.io/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Noto+Sans+JP:wght@100..900&display=swap');\n</style>\n\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PDPFPP4EHC\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PDPFPP4EHC');\n</script>"
       },
       "homePage": {
@@ -31119,13 +31119,13 @@
       [
         "aYmhx1sHlODHTW8NNJ476:b9eF-sVvYuDQH1Ii8lJ6h:paddingTop:",
         {
-          "styleSourceId": "aYmhx1sHlODHTW8NNJ476",
           "breakpointId": "b9eF-sVvYuDQH1Ii8lJ6h",
+          "styleSourceId": "aYmhx1sHlODHTW8NNJ476",
           "property": "paddingTop",
           "value": {
             "type": "unit",
             "unit": "rem",
-            "value": 6
+            "value": 1
           }
         }
       ],
@@ -32140,13 +32140,13 @@
       [
         "FNxMZt_qG92B_A3na88nY:b9eF-sVvYuDQH1Ii8lJ6h:paddingTop:",
         {
-          "styleSourceId": "FNxMZt_qG92B_A3na88nY",
           "breakpointId": "b9eF-sVvYuDQH1Ii8lJ6h",
+          "styleSourceId": "FNxMZt_qG92B_A3na88nY",
           "property": "paddingTop",
           "value": {
             "type": "unit",
             "unit": "rem",
-            "value": 6
+            "value": 1
           }
         }
       ],
@@ -33241,32 +33241,6 @@
         }
       ],
       [
-        "W1JvEbpXKg4lKiBRGcuSs:afOKZgZfwBblQI0wlO-1n:paddingLeft:",
-        {
-          "breakpointId": "afOKZgZfwBblQI0wlO-1n",
-          "styleSourceId": "W1JvEbpXKg4lKiBRGcuSs",
-          "property": "paddingLeft",
-          "value": {
-            "type": "unit",
-            "unit": "rem",
-            "value": 1
-          }
-        }
-      ],
-      [
-        "W1JvEbpXKg4lKiBRGcuSs:afOKZgZfwBblQI0wlO-1n:paddingRight:",
-        {
-          "breakpointId": "afOKZgZfwBblQI0wlO-1n",
-          "styleSourceId": "W1JvEbpXKg4lKiBRGcuSs",
-          "property": "paddingRight",
-          "value": {
-            "type": "unit",
-            "unit": "rem",
-            "value": 1
-          }
-        }
-      ],
-      [
         "kJnuuHqnZoYwnUnTb5Eu4:oQXIk9J0diVFLo9CICSX4:width:",
         {
           "breakpointId": "oQXIk9J0diVFLo9CICSX4",
@@ -33662,32 +33636,6 @@
             "type": "unit",
             "unit": "px",
             "value": 1200
-          }
-        }
-      ],
-      [
-        "PRjiCSZJVUIZ2x2JDIr0v:afOKZgZfwBblQI0wlO-1n:paddingLeft:",
-        {
-          "breakpointId": "afOKZgZfwBblQI0wlO-1n",
-          "styleSourceId": "PRjiCSZJVUIZ2x2JDIr0v",
-          "property": "paddingLeft",
-          "value": {
-            "type": "unit",
-            "unit": "rem",
-            "value": 1
-          }
-        }
-      ],
-      [
-        "PRjiCSZJVUIZ2x2JDIr0v:afOKZgZfwBblQI0wlO-1n:paddingRight:",
-        {
-          "breakpointId": "afOKZgZfwBblQI0wlO-1n",
-          "styleSourceId": "PRjiCSZJVUIZ2x2JDIr0v",
-          "property": "paddingRight",
-          "value": {
-            "type": "unit",
-            "unit": "rem",
-            "value": 1
           }
         }
       ],
@@ -42625,6 +42573,162 @@
             "value": "auto"
           }
         }
+      ],
+      [
+        "FNxMZt_qG92B_A3na88nY:afOKZgZfwBblQI0wlO-1n:height:",
+        {
+          "breakpointId": "afOKZgZfwBblQI0wlO-1n",
+          "styleSourceId": "FNxMZt_qG92B_A3na88nY",
+          "property": "height",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 500
+          }
+        }
+      ],
+      [
+        "4zx9zc8_KxnoRNJuT_b-T:b9eF-sVvYuDQH1Ii8lJ6h:paddingLeft:",
+        {
+          "breakpointId": "b9eF-sVvYuDQH1Ii8lJ6h",
+          "styleSourceId": "4zx9zc8_KxnoRNJuT_b-T",
+          "property": "paddingLeft",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "4zx9zc8_KxnoRNJuT_b-T:b9eF-sVvYuDQH1Ii8lJ6h:paddingRight:",
+        {
+          "breakpointId": "b9eF-sVvYuDQH1Ii8lJ6h",
+          "styleSourceId": "4zx9zc8_KxnoRNJuT_b-T",
+          "property": "paddingRight",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "4zx9zc8_KxnoRNJuT_b-T:b9eF-sVvYuDQH1Ii8lJ6h:paddingBottom:",
+        {
+          "breakpointId": "b9eF-sVvYuDQH1Ii8lJ6h",
+          "styleSourceId": "4zx9zc8_KxnoRNJuT_b-T",
+          "property": "paddingBottom",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "4zx9zc8_KxnoRNJuT_b-T:b9eF-sVvYuDQH1Ii8lJ6h:paddingTop:",
+        {
+          "breakpointId": "b9eF-sVvYuDQH1Ii8lJ6h",
+          "styleSourceId": "4zx9zc8_KxnoRNJuT_b-T",
+          "property": "paddingTop",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "FNxMZt_qG92B_A3na88nY:b9eF-sVvYuDQH1Ii8lJ6h:height:",
+        {
+          "breakpointId": "b9eF-sVvYuDQH1Ii8lJ6h",
+          "styleSourceId": "FNxMZt_qG92B_A3na88nY",
+          "property": "height",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 600
+          }
+        }
+      ],
+      [
+        "aYmhx1sHlODHTW8NNJ476:afOKZgZfwBblQI0wlO-1n:height:",
+        {
+          "breakpointId": "afOKZgZfwBblQI0wlO-1n",
+          "styleSourceId": "aYmhx1sHlODHTW8NNJ476",
+          "property": "height",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 500
+          }
+        }
+      ],
+      [
+        "WevFnqzYBmy_0Bicq28Sv:b9eF-sVvYuDQH1Ii8lJ6h:paddingTop:",
+        {
+          "breakpointId": "b9eF-sVvYuDQH1Ii8lJ6h",
+          "styleSourceId": "WevFnqzYBmy_0Bicq28Sv",
+          "property": "paddingTop",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "WevFnqzYBmy_0Bicq28Sv:b9eF-sVvYuDQH1Ii8lJ6h:paddingBottom:",
+        {
+          "breakpointId": "b9eF-sVvYuDQH1Ii8lJ6h",
+          "styleSourceId": "WevFnqzYBmy_0Bicq28Sv",
+          "property": "paddingBottom",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "WevFnqzYBmy_0Bicq28Sv:b9eF-sVvYuDQH1Ii8lJ6h:paddingRight:",
+        {
+          "breakpointId": "b9eF-sVvYuDQH1Ii8lJ6h",
+          "styleSourceId": "WevFnqzYBmy_0Bicq28Sv",
+          "property": "paddingRight",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "WevFnqzYBmy_0Bicq28Sv:b9eF-sVvYuDQH1Ii8lJ6h:paddingLeft:",
+        {
+          "breakpointId": "b9eF-sVvYuDQH1Ii8lJ6h",
+          "styleSourceId": "WevFnqzYBmy_0Bicq28Sv",
+          "property": "paddingLeft",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "aYmhx1sHlODHTW8NNJ476:b9eF-sVvYuDQH1Ii8lJ6h:height:",
+        {
+          "breakpointId": "b9eF-sVvYuDQH1Ii8lJ6h",
+          "styleSourceId": "aYmhx1sHlODHTW8NNJ476",
+          "property": "height",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 600
+          }
+        }
       ]
     ],
     "styleSources": [
@@ -48455,7 +48559,7 @@
           "instanceId": "BLmG73gUpU46DVjL-QMPQ",
           "name": "width",
           "type": "number",
-          "value": 256
+          "value": 200
         }
       ],
       [
@@ -48465,7 +48569,7 @@
           "instanceId": "BLmG73gUpU46DVjL-QMPQ",
           "name": "height",
           "type": "number",
-          "value": 256
+          "value": 200
         }
       ],
       [
@@ -48475,7 +48579,7 @@
           "instanceId": "BLmG73gUpU46DVjL-QMPQ",
           "name": "loading",
           "type": "string",
-          "value": "eager"
+          "value": "lazy"
         }
       ],
       [
@@ -48705,7 +48809,7 @@
           "instanceId": "3p7o7V0bQPTesk5l1Z_lW",
           "name": "width",
           "type": "number",
-          "value": 256
+          "value": 200
         }
       ],
       [
@@ -48715,7 +48819,7 @@
           "instanceId": "3p7o7V0bQPTesk5l1Z_lW",
           "name": "height",
           "type": "number",
-          "value": 256
+          "value": 200
         }
       ],
       [
@@ -48725,7 +48829,7 @@
           "instanceId": "3p7o7V0bQPTesk5l1Z_lW",
           "name": "loading",
           "type": "string",
-          "value": "eager"
+          "value": "lazy"
         }
       ],
       [
@@ -56697,17 +56801,17 @@
       }
     },
     {
-      "id": "ffb08f95339413281ec92ea38f0c4bc8a09077f81f6d5410f983899dc2ba113f",
-      "name": "favicon_rr6la8v4jFwT-QfvBy1jE.ico",
+      "id": "e8f95551003d8951bc2e6b0e1bbb246a238ce709190db06b78d9cfddcfab374f",
+      "name": "favicon_yW8bOlKkwbqRX_xCN5mvv.ico",
       "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
-      "size": 17470,
+      "size": 4414,
       "type": "image",
       "format": "ico",
-      "createdAt": "2025-07-04T07:45:59.121+00:00",
+      "createdAt": "2025-07-04T12:03:50.126+00:00",
       "meta": {
-        "width": 64,
-        "height": 64
+        "width": 32,
+        "height": 32
       }
     }
   ],
