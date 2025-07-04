@@ -1,14 +1,14 @@
 {
   "build": {
-    "id": "1453b26c-18a2-4154-8d3e-4cd042b50191",
+    "id": "546aa3b2-96d6-4d56-9d22-653929f26589",
     "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
-    "version": 1263,
-    "createdAt": "2025-07-04T12:16:01.384+00:00",
-    "updatedAt": "2025-07-04T12:16:01.384+00:00",
+    "version": 1266,
+    "createdAt": "2025-07-04T12:22:53.154+00:00",
+    "updatedAt": "2025-07-04T12:22:53.154+00:00",
     "pages": {
       "meta": {
         "siteName": "Clip Hold",
-        "faviconAssetId": "e8f95551003d8951bc2e6b0e1bbb246a238ce709190db06b78d9cfddcfab374f",
+        "faviconAssetId": "86be66b342b71798417afa4fd559c3a9df01529ecd7856a2c69e628839b1cbfd",
         "code": "<!-- Web Fonts -->\n<style>\n@import url('https://api.fonts.coollabs.io/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Noto+Sans+JP:wght@100..900&display=swap');\n</style>\n\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PDPFPP4EHC\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PDPFPP4EHC');\n</script>"
       },
       "homePage": {
@@ -56801,14 +56801,14 @@
       }
     },
     {
-      "id": "e8f95551003d8951bc2e6b0e1bbb246a238ce709190db06b78d9cfddcfab374f",
-      "name": "favicon_yW8bOlKkwbqRX_xCN5mvv.ico",
+      "id": "86be66b342b71798417afa4fd559c3a9df01529ecd7856a2c69e628839b1cbfd",
+      "name": "favicon_yQ1O3EOPCGzC9uDxg4M9f.png",
       "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
-      "size": 4414,
+      "size": 2884,
       "type": "image",
-      "format": "ico",
-      "createdAt": "2025-07-04T12:03:50.126+00:00",
+      "format": "png",
+      "createdAt": "2025-07-04T12:22:41.328+00:00",
       "meta": {
         "width": 32,
         "height": 32
