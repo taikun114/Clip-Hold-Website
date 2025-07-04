@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-04T12:32:20.707Z";
+      export const lastPublished = "2025-07-04T12:38:57.114Z";
 
       export const siteName = "Clip Hold";
 
@@ -517,7 +517,7 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 <div
 className={`w-element c7z4ryg c1qopeiv c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27`}>
 <div
-className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1jt805z c1ruoz7k c1ovvagj c1xsewl7 cv0104a`}>
+className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1jt805z c1ruoz7k c1ovvagj c1xsewl7 cv0104a cyxspfs`}>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"プライバシーポリシー"}
