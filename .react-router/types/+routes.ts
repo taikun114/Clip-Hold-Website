@@ -19,7 +19,13 @@ type Pages = {
   "/privacy-policy": {
     params: {};
   };
+  "/jp/support": {
+    params: {};
+  };
   "/sitemap.xml": {
+    params: {};
+  };
+  "/support": {
     params: {};
   };
   "/robots.txt": {
@@ -43,7 +49,7 @@ type Pages = {
 type RouteFiles = {
   "root.tsx": {
     id: "root";
-    page: "/" | "/jp/privacy-policy" | "/privacy-policy" | "/sitemap.xml" | "/robots.txt" | "/jp" | "/_image/*" | "/*";
+    page: "/" | "/jp/privacy-policy" | "/privacy-policy" | "/jp/support" | "/sitemap.xml" | "/support" | "/robots.txt" | "/jp" | "/_image/*" | "/*";
   };
   "routes/[jp].[privacy-policy]._index.tsx": {
     id: "routes/[jp].[privacy-policy]._index";
@@ -53,9 +59,17 @@ type RouteFiles = {
     id: "routes/[privacy-policy]._index";
     page: "/privacy-policy";
   };
+  "routes/[jp].[support]._index.tsx": {
+    id: "routes/[jp].[support]._index";
+    page: "/jp/support";
+  };
   "routes/[sitemap.xml]._index.tsx": {
     id: "routes/[sitemap.xml]._index";
     page: "/sitemap.xml";
+  };
+  "routes/[support]._index.tsx": {
+    id: "routes/[support]._index";
+    page: "/support";
   };
   "routes/[robots.txt].tsx": {
     id: "routes/[robots.txt]";

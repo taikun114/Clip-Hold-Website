@@ -4,8 +4,8 @@
 
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
-      import { Body as Body, Link as Link, Link as Link_1 } from "@webstudio-is/sdk-components-react-router";
-import { Fragment as Fragment_1, Slot as Slot, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph } from "@webstudio-is/sdk-components-react";
+      import { Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, Image as Image, Slot as Slot, MarkdownEmbed as MarkdownEmbed } from "@webstudio-is/sdk-components-react";
+import { Link as Link, Link as Link_1, Body as Body } from "@webstudio-is/sdk-components-react-router";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuLink as NavigationMenuLink, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 
 
@@ -31,7 +31,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       const Page = (_props: { system: any; }) => {
 return <Body
-className={`w-element c12v245d ccy4onp c1uoa21q`}>
+className={`w-element c1uoa21q`}>
 <Slot>
 <Fragment_1>
 <div
@@ -517,20 +517,80 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 </Fragment_1>
 </Slot>
 <div
-className={`w-element c10ahqwr ccy4onp c12v245d c7z4ryg c1qopeiv c1n9ido6`}>
+className={`w-element c7z4ryg c1qopeiv c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 cks2l98 c1sacup0`}>
 <div
-className={`w-element c7z4ryg c1jt805z c1xsewl7 c1ovvagj c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 cv0104a`}>
+className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1jt805z c1ruoz7k c1ovvagj c1xsewl7 cv0104a`}>
 <h1
-className={`w-element c1fw9qp0 c23z8nw c1dgg9g4 cua250e`}>
-{"404 Not Found"}
+className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
+{"Support and Feedback"}
 </h1>
 <p
-className={`w-element cqo7lub c23z8nw c1yn6h70`}>
-{"Sorry, the information you were looking for could not be found. Please make sure you are accessing the correct page."}
-<br />
-{""}
+className={`w-element c1yn6h70`}>
+{"Last Update: July 4, 2025"}
+</p>
+<MarkdownEmbed
+code={"## If you find a bug\nClip Hold is an application developed using generative AI. I have tested it many times while developing it, but there may still be some bugs or some functions may not operate as intended.\n\nIf you find a bug or a behavior problem, please check the [**Issues**](https://github.com/taikun114/Clip-Hold/issues) (known bugs or problems) already opened and look for the same problem reported by others. If you cannot find the same issue, please open a new Issue and report the problem.\\\nTo make bug tracking easier, if you want to report more than one issue, please open a separate Issue for each problem. In other words, if you want to report two bugs, you must open two Issues.\n\n## Feedback\nIf you do not have a GitHub account and would like to report a bug, share an idea, or send a message to the developer (me), you can click [**this link**](mailto:contact.taikun@gmail.com?subject=Clip%20Hold%20Feedback:%20&body=Please%20describe%20your%20feedback%20in%20detail:%0D%0A%0D%0A%0D%0ASystem%20Information:%0D%0A%0D%0A-%20System%20%0D%0APlease%20enter%20your%20Mac%20model.%0D%0A%0D%0A%0D%0A-%20macOS%20Version%20%0D%0AIf%20you%20are%20experiencing%20problems,%20please%20enter%20the%20macOS%20version.%0D%0A%0D%0A%0D%0A-%20App%20Version%0D%0AIf%20you%20are%20experiencing%20problems,%20please%20enter%20the%20app%20version.%0D%0A%0D%0A) or click the “Send Feedback” button in the “Information” tab in the app settings to send an email (please note that I may not be able to reply to all messages).\\\nWhen you open the Send Email window from the button in the app, necessary information, such as Mac system information (Model ID, CPU architecture type, macOS version information) and app version information, will be pre-filled, so sending feedback from there is recommended.\n\n## Community\nYou can share new features you would like to see added to the app, ask questions about questions about potential issues that may or may not be bugs, exchange opinions with others, and more on the [**discussion page**](https://github.com/taikun114/Clip-Hold/discussions).\\\nPlease use the page as a place to exchange information. I often look in on the page, so messages to the developer are also highly welcome!"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t`}>
+</MarkdownEmbed>
+</div>
+<Slot>
+<Fragment_1>
+<div
+className={`w-element c7z4ryg c1vr770l c10idg3e c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c10ahqwr ccy4onp c12v245d c1atdl27 cv0104a cepgicz czzgdu c1f7ljgu c1ikxxo6 c1otyg8m`}>
+<div
+className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
+<Image
+src={"/assets/App_Icon512_yfUerJqzgO_Ly6tZ_QXZ9.webp"}
+width={256}
+height={256}
+loading={"eager"}
+className={`w-image`} />
+<div
+className={`w-element c1mbyuac c17yqxus c1ghn8z4`}>
+<h1
+className={`w-element cvddzxn cbgovzd c117tk5u clk5tgp c7ep1pc c1x1dfts c1f3f3n8 c15f739v`}>
+{"Clip Hold"}
+</h1>
+<p
+className={`w-element c1x1dfts c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 cqx7kte`}>
+{"Clipboard and Standard Phrase Manager for macOS"}
+</p>
+<Slot>
+<Fragment_1>
+<div
+className={`w-element c10ahqwr ctnbop5 c17rvfg7 cz4mm69 c1co68v6`}>
+<div
+className={`w-element c10ahqwr ccy4onp c12v245d c1atdl27 c1t3ekai`}>
+<Image
+src={"/assets/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917_wsuiz2VllMYTAd-yb-_mG.svg"}
+width={200}
+loading={"eager"}
+className={`w-image c12biunr`} />
+<p
+className={`w-element c18r7lsh c1qv4dnq c19cs4i7 c1x1dfts cbgovzd c2uk1tc`}>
+{"Preparing"}
 </p>
 </div>
+<Link
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
+target={"_blank"}
+className={`w-element cs02lc cdjvmmy`}>
+<div
+className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c13aqipm crjscgb c1x1dfts casc1r c1r2cvcb c1vy6ir c1q046h6 c1gw9gp7 c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
+<p
+className={`w-element`}>
+{"Download on GitHub"}
+</p>
+</div>
+</Link>
+</div>
+</Fragment_1>
+</Slot>
+</div>
+</div>
+</div>
+</Fragment_1>
+</Slot>
 </div>
 </Body>
 }

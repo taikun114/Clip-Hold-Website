@@ -6,12 +6,12 @@
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body, Link as Link, Link as Link_1 } from "@webstudio-is/sdk-components-react-router";
 import { Slot as Slot, Fragment as Fragment_1, Image as Image, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph } from "@webstudio-is/sdk-components-react";
-import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuLink as NavigationMenuLink, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
+import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuLink as NavigationMenuLink, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-04T08:59:10.198Z";
+      export const lastPublished = "2025-07-04T11:59:52.450Z";
 
       export const siteName = "Clip Hold";
 
@@ -63,7 +63,7 @@ className={`w-element c1qopeiv c7z4ryg c1jt805z c1mbyuac c1c43ngc c10ahqwr ccy4o
 href={"/"}
 className={`w-element c10ahqwr ccy4onp ciqrpa6 cdjvmmy`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://room.taikun.blog/wp-content/uploads/2025/07/Clip-Hold-Logo-Dark.png\"\n  />\n  <img\n    src=\"https://room.taikun.blog/wp-content/uploads/2025/07/Clip-Hold-Logo-Light.png\"\n    alt=\"\"\n    height=\"52\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Dark.png\"\n  />\n  <img\n    src=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Light.png\"\n    alt=\"\"\n    height=\"52\"\n  />\n</picture>\n"}
 className={`w-html-embed`} />
 <p
 className={`w-element clk5tgp c16eseyo c1mbyuac cvddzxn cbgovzd cua250e c117tk5u cjr3ihk`}>
@@ -77,14 +77,73 @@ className={`w-menu-list c10ahqwr c1u51yoh c1fyxozx c1oby77s c1vqhak5 ccy4onp c12
 <NavigationMenuItem
 data-ws-index="0"
 className={`w-menu-item`}>
+<NavigationMenuTrigger>
+<Button
+className={`w-button c6t8baf ccy4onp c12v245d c22bltr c1qhcdyy c1fi5cuq cht0eit ci7vqja c1yco124 c19kzc1u c1cijgzd ced3s0y cw8qqgw c170tjmx c1vn5tfs c1kp31s8 czucxib cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ey153p c1wffj6h cg3odet cwblwtu c14z3omo ca508ev c1r1ndh8 cl0rcjj ckffmm9 crs1rsf c1q1affg cjb1u0k c1uzl7ts cao2a7h c1jvzd51 c19z7nzm`}>
+<Text
+className={`w-text c10svky5`}>
+{"Documents"}
+</Text>
+<Box
+className={`w-box cgegxet c1dw4829 c1uc2j84 c1kss2rn c1mrqewb c1x8i01y c5gq79w c4xa34q cw3x7ao cpv83kh`}>
+<HtmlEmbed
+code={"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" width=\"100%\" height=\"100%\" style=\"display: block;\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m4 6 4 4 4-4\"/></svg>"}
+className={`w-html-embed c10svky5`} />
+</Box>
+</Button>
+</NavigationMenuTrigger>
+<NavigationMenuContent
+className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
+<Box
+className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
+<Box
+className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
 href={"https://github.com/taikun114/Clip-Hold/wiki"}
 target={"_blank"}
-className={`w-link c6t8baf ccy4onp c12v245d c1qhcdyy c1fi5cuq cht0eit ci7vqja c1yco124 c19kzc1u c1cijgzd ced3s0y cdjvmmy c10svky5 c22bltr c170tjmx c1vn5tfs c1kp31s8 czucxib c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ey153p c1wffj6h cg3odet c19s3qaq ckffmm9 crs1rsf c19ybxl6`}>
-{"Docs"}
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+<Text
+className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
+{"GitHub Wiki"}
+</Text>
+<Paragraph
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+{"How to use the app and other documentation"}
+</Paragraph>
 </Link_1>
 </NavigationMenuLink>
+<NavigationMenuLink>
+<Link_1
+href={"/support"}
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+<Text
+className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
+{"Support and Feedback"}
+</Text>
+<Paragraph
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+{"Bug reports, contacts, etc."}
+</Paragraph>
+</Link_1>
+</NavigationMenuLink>
+<NavigationMenuLink>
+<Link_1
+href={"/privacy-policy"}
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+<Text
+className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
+{"Privacy Policy"}
+</Text>
+<Paragraph
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+{"About handling of personal information in the app"}
+</Paragraph>
+</Link_1>
+</NavigationMenuLink>
+</Box>
+</Box>
+</NavigationMenuContent>
 </NavigationMenuItem>
 <NavigationMenuItem
 data-ws-index="1"
@@ -343,7 +402,50 @@ className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
 <Box
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
-className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
+className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27 ctsrmp7 c142ylfi ctv2jj6`}>
+<NavigationMenuLink>
+<Link_1
+href={"https://github.com/taikun114/Clip-Hold/wiki"}
+target={"_blank"}
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+<Text
+className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
+{"GitHub Wiki"}
+</Text>
+<Paragraph
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+{"How to use the app and other documentation"}
+</Paragraph>
+</Link_1>
+</NavigationMenuLink>
+<NavigationMenuLink>
+<Link_1
+href={"/support"}
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+<Text
+className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
+{"Support and Feedback"}
+</Text>
+<Paragraph
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+{"Bug reports, contacts, etc."}
+</Paragraph>
+</Link_1>
+</NavigationMenuLink>
+<NavigationMenuLink>
+<Link_1
+href={"/privacy-policy"}
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+<Text
+className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
+{"Privacy Policy"}
+</Text>
+<Paragraph
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+{"About handling of personal information in the app"}
+</Paragraph>
+</Link_1>
+</NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
 href={"/"}

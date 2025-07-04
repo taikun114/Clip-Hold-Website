@@ -21,14 +21,14 @@ export const getResources = (_props: { system: System }) => {
   resources: Record<string, any>;
 }): PageMeta => {
   return {
-    title: "Clip Hold - macOS用のクリップボードと定型文マネージャー",
-    description: undefined,
+    title: "サポートとフィードバック - Clip Hold",
+    description: "",
     excludePageFromSearch: false,
     language: "ja-jp",
     socialImageAssetName: "Clip_Hold_Social_IV7LDKbPNduOSUmijsWy5.png",
     socialImageUrl: undefined,
     status: undefined,
-    redirect: undefined,
+    redirect: "",
     custom: [
     ],
   };
