@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-05T09:27:20.849Z";
+      export const lastPublished = "2025-07-05T12:44:24.102Z";
 
       export const siteName = "Clip Hold";
 
@@ -586,6 +586,10 @@ className={`w-element c1f3f3n8`}>
 </div>
 </Fragment_1>
 </Slot>
+<p
+className={`w-element c2oe4sx cqo7lub c15rzea7 cbgovzd c1f3f3n8`}>
+{"macOS Sonoma（14.0）またはそれ以降に対応"}
+</p>
 </div>
 </div>
 </div>

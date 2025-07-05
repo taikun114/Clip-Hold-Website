@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-05T09:27:20.849Z";
+      export const lastPublished = "2025-07-05T12:44:24.102Z";
 
       export const siteName = "Clip Hold";
 
@@ -588,6 +588,10 @@ className={`w-element c1f3f3n8`}>
 </div>
 </Fragment_1>
 </Slot>
+<p
+className={`w-element c2oe4sx cqo7lub c15rzea7 cbgovzd c1f3f3n8`}>
+{"Compatible with macOS Sonoma (14.0) or later"}
+</p>
 </div>
 </div>
 <p
@@ -705,7 +709,7 @@ className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz c
 <div
 className={`w-element c1r1zv9s`}>
 <h2
-className={`w-element c1yn6h70 ck3238v c1mbyuac c1cgzzq8 c1dgg9g4 c1c43ngc c1imcjwr c1r10jp3`}>
+className={`w-element c1yn6h70 ck3238v c1mbyuac c23z8nw c1dgg9g4 c1c43ngc c1imcjwr c1r10jp3`}>
 {"Perfect Privacy"}
 </h2>
 <p
@@ -725,6 +729,9 @@ className={`w-element`}>
 {"app itself is entirely devoid of any functionality to collect or send user-related information"}
 </b>
 {". Even if you are concerned about privacy, you can use it with confidence."}
+{""}
+<br />
+{""}
 {""}
 <br />
 {""}
@@ -891,6 +898,10 @@ className={`w-element c1f3f3n8`}>
 </div>
 </Fragment_1>
 </Slot>
+<p
+className={`w-element c2oe4sx cqo7lub c15rzea7 cbgovzd c1f3f3n8`}>
+{"Compatible with macOS Sonoma (14.0) or later"}
+</p>
 </div>
 </div>
 </div>

@@ -872,9 +872,6 @@
   .c1karaxo {
     font-size: 28px
   }
-  .c1cgzzq8 {
-    margin-top: 2rem
-  }
   .c5lrunv {
     background-color: light-dark(#fff,#000)
   }
@@ -910,6 +907,9 @@
   }
   .czl0ltz {
     border: 0.5px solid light-dark(#13183833, #F2F4FF33)
+  }
+  .c15rzea7 {
+    color: rgba(255, 255, 255, 0.65)
   }
 }
 @media all and (max-width: 991px) {
