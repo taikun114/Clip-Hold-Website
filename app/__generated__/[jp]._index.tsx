@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-04T12:38:57.114Z";
+      export const lastPublished = "2025-07-05T06:07:39.598Z";
 
       export const siteName = "Clip Hold";
 
@@ -35,24 +35,24 @@ className={`w-element c109howh`}>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d c1ilsqas c1kvf9mp cjnw8bq c8rm0tm cvyvt8m cegjyhq`}>
+className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d c1ilsqas cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq`}>
 <div
 className={`w-element c1qopeiv c7z4ryg c1jt805z c1mbyuac c1c43ngc c10ahqwr ccy4onp cdm1ag0`}>
 <Link
 href={"/jp"}
 className={`w-element c10ahqwr ccy4onp ciqrpa6 cdjvmmy`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Dark.png\"\n  />\n  <img\n    src=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Light.png\"\n    alt=\"\"\n    height=\"52\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Dark.png\"\n  />\n  <img\n    src=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Light.png\"\n    alt=\"\"\n    height=\"48\"\n  />\n</picture>\n"}
 className={`w-html-embed`} />
 <p
-className={`w-element clk5tgp c16eseyo c1mbyuac cvddzxn cbgovzd cua250e c117tk5u cjr3ihk`}>
+className={`w-element clk5tgp c16eseyo c1mbyuac cvddzxn cbgovzd cua250e c117tk5u c1615a3h cjr3ihk`}>
 {"Clip Hold"}
 </p>
 </Link>
 <NavigationMenu
 className={`w-navigation-menu c18r7lsh c1nkdqmy c1s7f7m6`}>
 <NavigationMenuList
-className={`w-menu-list c10ahqwr c1u51yoh c1fyxozx c1oby77s c1vqhak5 ccy4onp c12v245d cq4ywzg cb3my67 cwjh6ed cuugp9g`}>
+className={`w-menu-list c10ahqwr c1u51yoh c1fyxozx c1oby77s c1vqhak5 ccy4onp c12v245d chz2lhu c1mr8pq3 cwjh6ed cuugp9g`}>
 <NavigationMenuItem
 data-ws-index="0"
 className={`w-menu-item`}>
@@ -132,7 +132,7 @@ className={`w-menu-item`}>
 className={`w-button c6t8baf ccy4onp c12v245d c22bltr c1qhcdyy c1fi5cuq cht0eit ci7vqja c1yco124 c19kzc1u c1cijgzd ced3s0y cw8qqgw c170tjmx c1vn5tfs c1kp31s8 czucxib cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ey153p c1wffj6h cg3odet cwblwtu c14z3omo ca508ev c1r1ndh8 cl0rcjj ckffmm9 crs1rsf c1q1affg cjb1u0k c1uzl7ts cao2a7h c1jvzd51 c19z7nzm`}>
 <Text
 className={`w-text c10svky5`}>
-{"私をサポート"}
+{"開発者をサポート"}
 </Text>
 <Box
 className={`w-box cgegxet c1dw4829 c1uc2j84 c1kss2rn c1mrqewb c1x8i01y c5gq79w c4xa34q cw3x7ao cpv83kh`}>
@@ -304,7 +304,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </NavigationMenuItem>
 </NavigationMenuList>
 <Box
-className={`w-box c12fyb4s chu2gw7 c10ahqwr c12v245d cgikgum`}>
+className={`w-box c12fyb4s chu2gw7 c10ahqwr c12v245d cllx2wu`}>
 <NavigationMenuViewport
 className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c18rgb3y caqkv26 cknkzax chdvygq c145ebzo c1hmrw97 c109howh cafscv2 c1tt00pm c5gq79w cfq9b07 cbsu0mq cpv83kh`} />
 </Box>
@@ -556,10 +556,10 @@ href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 className={`w-element cs02lc cdjvmmy`}>
 <div
-className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c13aqipm crjscgb c1x1dfts casc1r c1r2cvcb c1vy6ir c1q046h6 c1gw9gp7 c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
+className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c13aqipm crjscgb c1x1dfts crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cbgovzd c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
 <p
 className={`w-element`}>
-{"GitHubでダウンロード"}
+{"GitHubから無料でダウンロード"}
 </p>
 </div>
 </Link>
@@ -574,12 +574,304 @@ className={`w-element c1x1dfts c12fyb4s c15d85bk c1mbyuac c1c43ngc c19cs4i7`}>
 </p>
 </div>
 <div
-className={`w-element c7z4ryg c1flomrq c10ahqwr ccy4onp c12v245d`}>
+className={`w-element c7z4ryg c10ahqwr ccy4onp c12v245d cbbr0dc c1atdl27 c1stm7fv c1o69y7d c1s01ekh c11iyp3e c159jr2l c1pnm7s cks2l98 c1sacup0 c1ndny3z c1kwqs5p cnbgtry ch91fr5 cdw0jo8 cbcybab`}>
+<div
+className={`w-element c1r1zv9s`}>
+<h2
+className={`w-element c1yn6h70 ck3238v c1mbyuac c23z8nw c1ruoz7k c1c43ngc c1imcjwr c1r10jp3`}>
+{"機能紹介"}
+</h2>
+<h3
+className={`w-element c1yn6h70 ck3238v c1mbyuac c23z8nw cqo7lub c1c43ngc c1karaxo cqx7kte`}>
+{"メニューから定型文と履歴に素早くアクセス"}
+</h3>
 <p
-className={`w-element c7qjy52 c1mbyuac c1c43ngc c19cs4i7`}>
-{"現在、コンテンツの準備中です。しばらくお待ちください。"}
+className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2yq0 c12817z7`}>
+{"よく使う定型文とコピー履歴には、メニューからすぐにアクセスできます。項目をクリックするだけで簡単にコピーすることができます。"}
+</p>
+<Image
+src={"/assets/Standard-Phrase-and-History-ja_r5HyqLG0j-2isVoG_qISz.webp"}
+width={1384}
+height={906}
+alt={"定型文とコピー履歴"}
+loading={"lazy"}
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
+</div>
+<hr
+className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz cbodz54`} />
+<div
+className={`w-element c1r1zv9s`}>
+<h3
+className={`w-element c1yn6h70 ck3238v c1mbyuac c23z8nw cqo7lub c1c43ngc c1karaxo cqx7kte`}>
+{"定型文ウィンドウと履歴ウィンドウ"}
+</h3>
+<p
+className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2yq0 c12817z7`}>
+{"設定したすべての定型文と、保存されたすべての履歴を一覧表示することができます。項目をダブルクリックするだけで簡単にコピーすることができます。"}
+</p>
+<Image
+src={"/assets/Standard-Phrase-and-History-Window-ja_cQ0AxOwLppKoTxpMMEby6.webp"}
+width={1605}
+height={966}
+alt={"定型文ウィンドウとは履歴ウィンドウ"}
+loading={"lazy"}
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
+</div>
+<hr
+className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz cbodz54`} />
+<div
+className={`w-element c1r1zv9s`}>
+<h3
+className={`w-element c1yn6h70 ck3238v c1mbyuac c23z8nw cqo7lub c1c43ngc c1karaxo cqx7kte`}>
+{"充実したショートカットキー"}
+</h3>
+<p
+className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2yq0 c12817z7`}>
+{"各10個までの定型文とコピー履歴をすぐさまコピーできるショートカットキーが用意されており、素早くコピーすることができます。定型文や履歴ウィンドウを開くのも一瞬。"}
+</p>
+<Image
+src={"/assets/Shortcuts-ja_aBpgdQzo-eSkI_8N0oYNo.webp"}
+width={1622}
+height={1087}
+alt={"ショートカットキー"}
+loading={"lazy"}
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
+</div>
+<hr
+className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz cbodz54`} />
+<div
+className={`w-element c1r1zv9s`}>
+<h3
+className={`w-element c1yn6h70 ck3238v c1mbyuac c23z8nw cqo7lub c1c43ngc c1karaxo cqx7kte`}>
+{"クイックペーストですぐにペースト"}
+</h3>
+<p
+className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2yq0 c12817z7`}>
+{"「クイックペースト」機能を使えば、メニューで項目をコピーした時やショートカットキーを使ってコピーしたとき、コピーした内容が即座にペーストされます。わざわざ自分でペーストする必要はありません。"}
+</p>
+<Image
+src={"/assets/Quick-Paste-ja_ts9aKg4BVThggJ7A7qcA7.gif"}
+width={1080}
+height={608}
+alt={"クイックペースト"}
+loading={"lazy"}
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
+</div>
+<hr
+className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz cbodz54`} />
+<div
+className={`w-element c1r1zv9s`}>
+<h3
+className={`w-element c1yn6h70 ck3238v c1mbyuac c23z8nw cqo7lub c1c43ngc c1karaxo cqx7kte`}>
+{"インポートとエクスポート機能"}
+</h3>
+<p
+className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2yq0 c12817z7`}>
+{"定型文とクリップボード履歴は、インポートしたりエクスポートしたりすることができます。自分がよく使う定型文を誰かと共有したり、他のMacからのクリップボード履歴を読み込んだりすることができます。"}
+</p>
+<Image
+src={"/assets/Import-Export-ja_fm62CD3pUTmRVAJqoNEeY.webp"}
+width={1280}
+height={720}
+alt={"インポートとエクスポート機能"}
+loading={"lazy"}
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
+</div>
+<hr
+className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz cbodz54`} />
+<div
+className={`w-element c1r1zv9s`}>
+<h2
+className={`w-element c1yn6h70 ck3238v c1mbyuac c1cgzzq8 c1dgg9g4 c1c43ngc c1imcjwr c1r10jp3`}>
+{"プライバシーもバッチリ"}
+</h2>
+<p
+className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2yq0 c12817z7`}>
+{"Clip Holdは"}
+<b
+className={`w-element`}>
+{"ユーザーに関する情報は一切収集しません"}
+</b>
+{"。"}
+<br />
+{"システム設定の「プライバシーとセキュリティ」設定内にある「解析と改善」で「アプリデベロッパと共有」をオンにしているユーザーの使用状況データとクラッシュレポートが共有される場合がありますが、"}
+<b
+className={`w-element`}>
+{"アプリ自体には情報を収集して送信する機能は全く搭載されていません"}
+</b>
+{"。プライバシーが心配な方でも安心してお使いいただけます。"}
+<br />
+{""}
+<br />
+{"以下に、アプリに搭載されているプライバシー機能を紹介します。"}
+</p>
+<h3
+className={`w-element c1yn6h70 ck3238v c1mbyuac c23z8nw cqo7lub c1c43ngc c1karaxo cqx7kte`}>
+{"履歴に保存されて欲しくない時はいつでも一時停止"}
+</h3>
+<p
+className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2yq0 c12817z7`}>
+{"パスワードや機密情報をコピーする時など、コピーした内容が履歴に保存されて欲しくない時はクリップボード監視を一時停止することができます。"}
+{""}
+<br />
+{""}
+{"一時停止中はメニューバーアイコンが半透明になり、現在の状態が一目でわかります。一時停止の状態でアプリを起動すると通知が届くので、クリップボード監視の再開を忘れることもありません。"}
+</p>
+<Image
+src={"/assets/Pause-Clipboard-Monitoring-ja_jyM1EpahTgeXFiKIkozje.webp"}
+width={871}
+height={420}
+alt={"クリップボード監視の一時停止"}
+loading={"lazy"}
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
+</div>
+<hr
+className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz cbodz54`} />
+<div
+className={`w-element c1r1zv9s`}>
+<h3
+className={`w-element c1yn6h70 ck3238v c1mbyuac c23z8nw cqo7lub c1c43ngc c1karaxo cqx7kte`}>
+{"クリップボード監視からアプリを除外できる"}
+</h3>
+<p
+className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2yq0 c12817z7`}>
+{"特定のアプリでのみ履歴が保存されて欲しくない時でも大丈夫、クリップボード監視から除外できるアプリを追加できます。わざわざクリップボード監視を一時停止する必要はありません。"}
+</p>
+<Image
+src={"/assets/Apps-to-Exclude-ja_foGE3joBB5kcnKfyP4MBz.webp"}
+width={1212}
+height={591}
+alt={"除外するアプリ"}
+loading={"lazy"}
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
+</div>
+<div
+className={`w-element c7z4ryg c1r1zv9s c5lrunv cfoar8i c13ilcm6 c1w497fm c8dkrv8 c10ahqwr c1atdl27 c453hbm c1or5y3g cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs c1arwhab c1ye5hc2`}>
+<div
+className={`w-element`}>
+<h3
+className={`w-element c1yn6h70 ck3238v c23z8nw cqo7lub c1karaxo`}>
+{"フィードバックをお待ちしています！"}
+</h3>
+<p
+className={`w-element c1yn6h70 clfs8zh c2oe4sx c1dgg9g4 c1uj2yq0 c12817z7`}>
+{"見つけたバグの報告やアプリを使ってみた感想など、皆様からのフィードバックをお待ちしています。フィードバックの送信方法については、「サポートとフィードバック」ページをご覧ください。"}
+</p>
+<Link
+href={"/jp/support"}
+className={`w-element cs02lc cdjvmmy`}>
+<div
+className={`w-element c1bxwz0t c170tjmx c1vn5tfs c1kp31s8 czucxib cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld cyi660d ca7rlbl c1atnx78 c1s95ji1 c10mtjet c1kkdyp6`}>
+<p
+className={`w-element c23z8nw cqo7lub`}>
+{"サポートとフィードバック"}
 </p>
 </div>
+</Link>
+</div>
+<div
+className={`w-element`}>
+<h3
+className={`w-element c1yn6h70 ck3238v c23z8nw cqo7lub c1karaxo`}>
+{"皆様からのサポートが開発の励みになります！"}
+</h3>
+<p
+className={`w-element c1yn6h70 clfs8zh c2oe4sx c1dgg9g4 c1uj2yq0 c12817z7`}>
+{"Clip Holdを使ってみてとても便利だと感じていただけましたら、開発者をサポートしていただけますと嬉しいです。開発を続けるモチベーションになります！"}
+{""}
+<br />
+{""}
+{"サポートしていただける場合は、以下のサービスを使ってサポートしていただけます。"}
+</p>
+<div
+className={`w-element c10ahqwr c17rvfg7 cc7vtwb cz4mm69`}>
+<Link
+href={"https://www.buymeacoffee.com/i_am_taikun"}
+target={"_blank"}
+className={`w-element cs02lc cdjvmmy`}>
+<div
+className={`w-element c1bxwz0t c170tjmx c1vn5tfs c1kp31s8 czucxib cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld cyi660d ca7rlbl c1atnx78 c1s95ji1 c10mtjet c1kkdyp6`}>
+<p
+className={`w-element c23z8nw cqo7lub`}>
+{"Buy Me a Coffee"}
+</p>
+</div>
+</Link>
+<Link
+href={"https://paypal.me/taikun114"}
+target={"_blank"}
+className={`w-element cs02lc cdjvmmy`}>
+<div
+className={`w-element c1bxwz0t c170tjmx c1vn5tfs c1kp31s8 czucxib cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld cyi660d ca7rlbl c1atnx78 c1s95ji1 c10mtjet c1kkdyp6`}>
+<p
+className={`w-element c23z8nw cqo7lub`}>
+{"PayPal.Me"}
+</p>
+</div>
+</Link>
+</div>
+</div>
+</div>
+</div>
+<Slot>
+<Fragment_1>
+<div
+className={`w-element c7z4ryg c1vr770l c10idg3e c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c10ahqwr ccy4onp c12v245d c1atdl27 cv0104a cepgicz c16j4kee cyxspfs cb9779l`}>
+<div
+className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
+<Image
+src={"/assets/App_Icon512_yfUerJqzgO_Ly6tZ_QXZ9.webp"}
+width={200}
+height={200}
+loading={"lazy"}
+className={`w-image`} />
+<div
+className={`w-element c1mbyuac c17yqxus c1ghn8z4`}>
+<h2
+className={`w-element cvddzxn cbgovzd c117tk5u clk5tgp c7ep1pc c1x1dfts c1f3f3n8 c15f739v`}>
+{"Clip Hold"}
+</h2>
+<p
+className={`w-element c1x1dfts c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 cqx7kte`}>
+{"macOS用のクリップボードと定型文マネージャー"}
+</p>
+<Slot>
+<Fragment_1>
+<div
+className={`w-element c10ahqwr ctnbop5 c17rvfg7 cz4mm69 c1co68v6`}>
+<div
+className={`w-element c10ahqwr ccy4onp c12v245d c1atdl27 cwsnxpz`}>
+<Image
+src={"/assets/Download_on_the_Mac_App_Store_Badge_JP_RGB_blk_100317_PBTOdZUu8ZYNgCcHrs3tY.svg"}
+width={200}
+loading={"eager"}
+height={40}
+className={`w-image c12biunr`} />
+<p
+className={`w-element c18r7lsh chmyefk c19cs4i7 c1x1dfts cbgovzd c2uk1tc`}>
+{"準備中"}
+</p>
+</div>
+<Link
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
+target={"_blank"}
+className={`w-element cs02lc cdjvmmy`}>
+<div
+className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c13aqipm crjscgb c1x1dfts crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cbgovzd c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
+<p
+className={`w-element`}>
+{"GitHubから無料でダウンロード"}
+</p>
+</div>
+</Link>
+</div>
+</Fragment_1>
+</Slot>
+</div>
+</div>
+</div>
+</Fragment_1>
+</Slot>
 </Body>
 }
 

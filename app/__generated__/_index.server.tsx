@@ -25,7 +25,7 @@ export const getResources = (_props: { system: System }) => {
     description: undefined,
     excludePageFromSearch: false,
     language: undefined,
-    socialImageAssetName: "Clip_Hold_Social_IV7LDKbPNduOSUmijsWy5.png",
+    socialImageAssetName: "Clip_Hold_Social_TE0NTEigfDQqYTpCbg0vj.webp",
     socialImageUrl: undefined,
     status: undefined,
     redirect: undefined,

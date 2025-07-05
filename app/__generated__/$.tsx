@@ -5,13 +5,13 @@
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body, Link as Link, Link as Link_1 } from "@webstudio-is/sdk-components-react-router";
-import { Fragment as Fragment_1, Slot as Slot, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph } from "@webstudio-is/sdk-components-react";
+import { Fragment as Fragment_1, Slot as Slot, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, Image as Image } from "@webstudio-is/sdk-components-react";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuLink as NavigationMenuLink, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-04T12:38:57.114Z";
+      export const lastPublished = "2025-07-05T06:07:39.598Z";
 
       export const siteName = "Clip Hold";
 
@@ -35,24 +35,24 @@ className={`w-element c12v245d ccy4onp c1uoa21q`}>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d c1ilsqas c1kvf9mp cjnw8bq c8rm0tm cvyvt8m cegjyhq`}>
+className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d c1ilsqas cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq`}>
 <div
 className={`w-element c1qopeiv c7z4ryg c1jt805z c1mbyuac c1c43ngc c10ahqwr ccy4onp cdm1ag0`}>
 <Link
 href={"/"}
 className={`w-element c10ahqwr ccy4onp ciqrpa6 cdjvmmy`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Dark.png\"\n  />\n  <img\n    src=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Light.png\"\n    alt=\"\"\n    height=\"52\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Dark.png\"\n  />\n  <img\n    src=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Light.png\"\n    alt=\"\"\n    height=\"48\"\n  />\n</picture>\n"}
 className={`w-html-embed`} />
 <p
-className={`w-element clk5tgp c16eseyo c1mbyuac cvddzxn cbgovzd cua250e c117tk5u cjr3ihk`}>
+className={`w-element clk5tgp c16eseyo c1mbyuac cvddzxn cbgovzd cua250e c117tk5u c1615a3h cjr3ihk`}>
 {"Clip Hold"}
 </p>
 </Link>
 <NavigationMenu
 className={`w-navigation-menu c18r7lsh c1nkdqmy c1s7f7m6`}>
 <NavigationMenuList
-className={`w-menu-list c10ahqwr c1u51yoh c1fyxozx c1oby77s c1vqhak5 ccy4onp c12v245d cq4ywzg cb3my67 cwjh6ed cuugp9g`}>
+className={`w-menu-list c10ahqwr c1u51yoh c1fyxozx c1oby77s c1vqhak5 ccy4onp c12v245d chz2lhu c1mr8pq3 cwjh6ed cuugp9g`}>
 <NavigationMenuItem
 data-ws-index="0"
 className={`w-menu-item`}>
@@ -132,7 +132,7 @@ className={`w-menu-item`}>
 className={`w-button c6t8baf ccy4onp c12v245d c22bltr c1qhcdyy c1fi5cuq cht0eit ci7vqja c1yco124 c19kzc1u c1cijgzd ced3s0y cw8qqgw c170tjmx c1vn5tfs c1kp31s8 czucxib cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ey153p c1wffj6h cg3odet cwblwtu c14z3omo ca508ev c1r1ndh8 cl0rcjj ckffmm9 crs1rsf c1q1affg cjb1u0k c1uzl7ts cao2a7h c1jvzd51 c19z7nzm`}>
 <Text
 className={`w-text c10svky5`}>
-{"Support Me"}
+{"Support Developer"}
 </Text>
 <Box
 className={`w-box cgegxet c1dw4829 c1uc2j84 c1kss2rn c1mrqewb c1x8i01y c5gq79w c4xa34q cw3x7ao cpv83kh`}>
@@ -304,7 +304,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </NavigationMenuItem>
 </NavigationMenuList>
 <Box
-className={`w-box c12fyb4s chu2gw7 c10ahqwr c12v245d cgikgum`}>
+className={`w-box c12fyb4s chu2gw7 c10ahqwr c12v245d cllx2wu`}>
 <NavigationMenuViewport
 className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c18rgb3y caqkv26 cknkzax chdvygq c145ebzo c1hmrw97 c109howh cafscv2 c1tt00pm c5gq79w cfq9b07 cbsu0mq cpv83kh`} />
 </Box>
@@ -517,11 +517,13 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 </Fragment_1>
 </Slot>
 <div
-className={`w-element c10ahqwr ccy4onp c12v245d c7z4ryg c1qopeiv c1n9ido6`}>
+className={`w-element c10ahqwr ccy4onp cdm1ag0 c7z4ryg c1qopeiv c1n9ido6 c1atdl27`}>
+<div
+className={`w-element c7z4ryg c1qopeiv c10ahqwr ccy4onp c12v245d`}>
 <div
 className={`w-element c7z4ryg c1jt805z c1xsewl7 c1ovvagj c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 cv0104a`}>
 <h1
-className={`w-element c1fw9qp0 c23z8nw c1dgg9g4 cua250e`}>
+className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"404 Not Found"}
 </h1>
 <p
@@ -531,6 +533,65 @@ className={`w-element cqo7lub c23z8nw c1yn6h70`}>
 {""}
 </p>
 </div>
+</div>
+<Slot>
+<Fragment_1>
+<div
+className={`w-element c7z4ryg c1vr770l c10idg3e c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c10ahqwr ccy4onp c12v245d c1atdl27 cv0104a cepgicz c16j4kee cyxspfs cb9779l`}>
+<div
+className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
+<Image
+src={"/assets/App_Icon512_yfUerJqzgO_Ly6tZ_QXZ9.webp"}
+width={200}
+height={200}
+loading={"lazy"}
+className={`w-image`} />
+<div
+className={`w-element c1mbyuac c17yqxus c1ghn8z4`}>
+<h1
+className={`w-element cvddzxn cbgovzd c117tk5u clk5tgp c7ep1pc c1x1dfts c1f3f3n8 c15f739v`}>
+{"Clip Hold"}
+</h1>
+<p
+className={`w-element c1x1dfts c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 cqx7kte`}>
+{"Clipboard and Standard Phrase Manager for macOS"}
+</p>
+<Slot>
+<Fragment_1>
+<div
+className={`w-element c10ahqwr ctnbop5 c17rvfg7 cz4mm69 c1co68v6`}>
+<div
+className={`w-element c10ahqwr ccy4onp c12v245d c1atdl27 c1t3ekai`}>
+<Image
+src={"/assets/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917_wsuiz2VllMYTAd-yb-_mG.svg"}
+width={200}
+loading={"eager"}
+className={`w-image c12biunr`} />
+<p
+className={`w-element c18r7lsh c1qv4dnq c19cs4i7 c1x1dfts cbgovzd c2uk1tc`}>
+{"Preparing"}
+</p>
+</div>
+<Link
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
+target={"_blank"}
+className={`w-element cs02lc cdjvmmy`}>
+<div
+className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c13aqipm crjscgb c1x1dfts crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cbgovzd c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
+<p
+className={`w-element`}>
+{"Free Download on GitHub"}
+</p>
+</div>
+</Link>
+</div>
+</Fragment_1>
+</Slot>
+</div>
+</div>
+</div>
+</Fragment_1>
+</Slot>
 </div>
 </Body>
 }

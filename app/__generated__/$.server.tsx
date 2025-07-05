@@ -21,11 +21,11 @@ export const getResources = (_props: { system: System }) => {
   resources: Record<string, any>;
 }): PageMeta => {
   return {
-    title: "Page not found",
+    title: "Page Not Found - Clip Hold",
     description: undefined,
     excludePageFromSearch: true,
     language: undefined,
-    socialImageAssetName: undefined,
+    socialImageAssetName: "Clip_Hold_Social_TE0NTEigfDQqYTpCbg0vj.webp",
     socialImageUrl: undefined,
     status: 404,
     redirect: undefined,
