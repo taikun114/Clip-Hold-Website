@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-05T06:07:39.598Z";
+      export const lastPublished = "2025-07-05T09:27:20.849Z";
 
       export const siteName = "Clip Hold";
 
@@ -231,7 +231,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"アプリを購入して開発者サポート"}
+{"アプリを購入して開発者をサポート"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
@@ -435,7 +435,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"アプリを購入して開発者サポート"}
+{"アプリを購入して開発者をサポート"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
@@ -515,9 +515,9 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 </Fragment_1>
 </Slot>
 <div
-className={`w-element c7z4ryg c1qopeiv c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27`}>
+className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c1s01ekh c11iyp3e c1k001t5 c1sacup0 cks2l98 cnbgtry ch91fr5`}>
 <div
-className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1jt805z c1ruoz7k c1ovvagj c1xsewl7 cv0104a cyxspfs`}>
+className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1jt805z cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"プライバシーポリシー"}
@@ -528,8 +528,9 @@ className={`w-element c1yn6h70`}>
 </p>
 <MarkdownEmbed
 code={"## 情報の収集について\nClip Holdは、ユーザーのいかなる情報も収集・送信しません。\\\nシステム設定の「プライバシーとセキュリティ」設定内にある「解析と改善」で「アプリデベロッパと共有」をオンにしているユーザーの使用状況データとクラッシュレポートが共有される場合がありますが、アプリ自体には情報を収集して送信する機能は全く搭載されていません。プライバシーが心配な方でも安心してお使いいただけます。\n\n## Clip Holdが取得する情報\nClip Holdの機能が正しく動作するために取得する情報があります。次の情報が取得されます。\n\n- クリップボードのコンテンツ\n  - クリップボードの履歴を保存するために使用されています。\n- コピーした時刻\n  - コピーされた時刻を記録・表示するために使用されています。\n- キーボード入力\n  - グローバルショートカットを認識するために使用されています。\n- 実行中のアプリ名・情報\n  - 「除外するアプリ」に追加する際、実行中のアプリから追加できるようにするために使用されています。\n- コピー元のアプリ名・情報\n  - アプリが「除外するアプリ」に登録されているかどうかを検出するために使用されています。\n- システム情報・アプリのバージョン情報\n  - アプリ内の「フィードバックを送信」ボタンをクリックした際に、フィードバックテンプレート言語の自動検出及びこちらで必要な情報が事前入力される機能のために使用されています。この機能には、以下の情報が取得されます。\n    - アプリの言語（日本語かそれ以外か）\n    - 機種ID（例: Mac16,11）\n    - CPUアーキテクチャ（例: Apple Silicon (arm64)）\n    - macOSバージョン情報（例: バージョン15.5（ビルド24F74））\n    - アプリバージョン情報（例: バージョン1.0.0（ビルド202507031827））\n \nこれらの取得された情報はアプリ内にのみとどまり、外部へ送信される事は一切ありません。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t c1l93n79 c11k13wx ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 c1l93n79 c11k13wx ch6h5mx`}>
 </MarkdownEmbed>
+</div>
 </div>
 <Slot>
 <Fragment_1>
@@ -542,11 +543,11 @@ src={"/assets/App_Icon512_yfUerJqzgO_Ly6tZ_QXZ9.webp"}
 width={200}
 height={200}
 loading={"lazy"}
-className={`w-image`} />
+className={`w-image cp5616u`} />
 <div
 className={`w-element c1mbyuac c17yqxus c1ghn8z4`}>
 <h2
-className={`w-element cvddzxn cbgovzd c117tk5u clk5tgp c7ep1pc c1x1dfts c1f3f3n8 c15f739v`}>
+className={`w-element cvddzxn cbgovzd c117tk5u clk5tgp c7ep1pc c1x1dfts c1f3f3n8 cks20wo`}>
 {"Clip Hold"}
 </h2>
 <p
@@ -577,7 +578,7 @@ className={`w-element cs02lc cdjvmmy`}>
 <div
 className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c13aqipm crjscgb c1x1dfts crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cbgovzd c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
 <p
-className={`w-element`}>
+className={`w-element c1f3f3n8`}>
 {"GitHubから無料でダウンロード"}
 </p>
 </div>
@@ -590,7 +591,6 @@ className={`w-element`}>
 </div>
 </Fragment_1>
 </Slot>
-</div>
 </Body>
 }
 

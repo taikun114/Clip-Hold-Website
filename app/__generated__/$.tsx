@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-05T06:07:39.598Z";
+      export const lastPublished = "2025-07-05T09:27:20.849Z";
 
       export const siteName = "Clip Hold";
 
@@ -517,11 +517,11 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 </Fragment_1>
 </Slot>
 <div
-className={`w-element c10ahqwr ccy4onp cdm1ag0 c7z4ryg c1qopeiv c1n9ido6 c1atdl27`}>
+className={`w-element c10ahqwr ccy4onp cdm1ag0 c7z4ryg c1n9ido6 c1atdl27 c1qopeiv`}>
 <div
 className={`w-element c7z4ryg c1qopeiv c10ahqwr ccy4onp c12v245d`}>
 <div
-className={`w-element c7z4ryg c1jt805z c1xsewl7 c1ovvagj c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 cv0104a`}>
+className={`w-element c7z4ryg c1jt805z c1xsewl7 c1ovvagj c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 cv0104a c1gy5szp c1bwyry7 cfmsnte cbw2ygz cg5ykre c1merv6x cdot8hu cssz5kv`}>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"404 Not Found"}
@@ -545,11 +545,11 @@ src={"/assets/App_Icon512_yfUerJqzgO_Ly6tZ_QXZ9.webp"}
 width={200}
 height={200}
 loading={"lazy"}
-className={`w-image`} />
+className={`w-image cp5616u`} />
 <div
 className={`w-element c1mbyuac c17yqxus c1ghn8z4`}>
 <h1
-className={`w-element cvddzxn cbgovzd c117tk5u clk5tgp c7ep1pc c1x1dfts c1f3f3n8 c15f739v`}>
+className={`w-element cvddzxn cbgovzd c117tk5u clk5tgp c7ep1pc c1x1dfts c1f3f3n8 cks20wo`}>
 {"Clip Hold"}
 </h1>
 <p
@@ -559,7 +559,7 @@ className={`w-element c1x1dfts c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 cqx7kte`}>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c10ahqwr ctnbop5 c17rvfg7 cz4mm69 c1co68v6`}>
+className={`w-element c10ahqwr cc7vtwb c17rvfg7 cz4mm69 c1co68v6`}>
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c1atdl27 c1t3ekai`}>
 <Image
@@ -579,7 +579,7 @@ className={`w-element cs02lc cdjvmmy`}>
 <div
 className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c13aqipm crjscgb c1x1dfts crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cbgovzd c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
 <p
-className={`w-element`}>
+className={`w-element c1f3f3n8`}>
 {"Free Download on GitHub"}
 </p>
 </div>

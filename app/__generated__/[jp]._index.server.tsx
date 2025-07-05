@@ -22,7 +22,7 @@ export const getResources = (_props: { system: System }) => {
 }): PageMeta => {
   return {
     title: "Clip Hold - macOS用のクリップボードと定型文マネージャー",
-    description: undefined,
+    description: "Clip Holdはただのクリップボードマネージャーではありません。\n10年以上Macを使い続けているパワーユーザーの私が考えた、大変便利な機能がたくさん詰まったクリップボードマネージャーアプリです。",
     excludePageFromSearch: false,
     language: "ja-jp",
     socialImageAssetName: "Clip_Hold_Social-ja_FwhRk0b8xy2H06AW7fnhQ.webp",
@@ -41,5 +41,5 @@ export const getRemixParams = ({ ...params }: Params): Params => {
 }
 
 
-      export const contactEmail = "hello@webstudio.is";
+      export const contactEmail = "contact.taikun@gmail.com";
     

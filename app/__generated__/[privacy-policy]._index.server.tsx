@@ -22,7 +22,7 @@ export const getResources = (_props: { system: System }) => {
 }): PageMeta => {
   return {
     title: "Privacy Policy - Clip Hold",
-    description: "",
+    description: "How Clip Hold handles personal information in its apps",
     excludePageFromSearch: false,
     language: "",
     socialImageAssetName: "Clip_Hold_Social_TE0NTEigfDQqYTpCbg0vj.webp",
@@ -41,5 +41,5 @@ export const getRemixParams = ({ ...params }: Params): Params => {
 }
 
 
-      export const contactEmail = "hello@webstudio.is";
+      export const contactEmail = "contact.taikun@gmail.com";
     

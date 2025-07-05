@@ -22,7 +22,7 @@ export const getResources = (_props: { system: System }) => {
 }): PageMeta => {
   return {
     title: "Clip Hold - Clipboard and Standard Phrase Manager for macOS",
-    description: undefined,
+    description: "Clip Hold is not just a clipboard manager.\nIt is a clipboard manager app with a lot of very useful features that were designed by me, a power user who has been using Mac for more than 10 years.",
     excludePageFromSearch: false,
     language: undefined,
     socialImageAssetName: "Clip_Hold_Social_TE0NTEigfDQqYTpCbg0vj.webp",
@@ -41,5 +41,5 @@ export const getRemixParams = ({ ...params }: Params): Params => {
 }
 
 
-      export const contactEmail = "hello@webstudio.is";
+      export const contactEmail = "contact.taikun@gmail.com";
     

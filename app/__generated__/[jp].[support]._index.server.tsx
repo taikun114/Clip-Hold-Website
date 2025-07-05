@@ -22,7 +22,7 @@ export const getResources = (_props: { system: System }) => {
 }): PageMeta => {
   return {
     title: "サポートとフィードバック - Clip Hold",
-    description: "",
+    description: "見つけたバグの報告方法や、アイデア共有や開発者へのメッセージ等のフィードバックの送信方法等について",
     excludePageFromSearch: false,
     language: "ja-jp",
     socialImageAssetName: "Clip_Hold_Social-ja_FwhRk0b8xy2H06AW7fnhQ.webp",
@@ -41,5 +41,5 @@ export const getRemixParams = ({ ...params }: Params): Params => {
 }
 
 
-      export const contactEmail = "hello@webstudio.is";
+      export const contactEmail = "contact.taikun@gmail.com";
     

@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-05T06:07:39.598Z";
+      export const lastPublished = "2025-07-05T09:27:20.849Z";
 
       export const siteName = "Clip Hold";
 
@@ -231,7 +231,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"アプリを購入して開発者サポート"}
+{"アプリを購入して開発者をサポート"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
@@ -435,7 +435,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"アプリを購入して開発者サポート"}
+{"アプリを購入して開発者をサポート"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
@@ -515,7 +515,7 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 </Fragment_1>
 </Slot>
 <div
-className={`w-element c7z4ryg c14pipg4 c10idg3e c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv caanqdp c10ahqwr ccy4onp c12v245d c1k001t5 c11iyp3e c1s01ekh c1atdl27 cepgicz czzgdu c1f7ljgu c1ikxxo6 c1otyg8m`}>
+className={`w-element c7z4ryg c14pipg4 c10idg3e c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv caanqdp c10ahqwr ccy4onp c12v245d c1k001t5 c11iyp3e c1s01ekh c1atdl27 cepgicz c1f7ljgu c1ikxxo6 c1otyg8m ccwkvc`}>
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <Image
@@ -523,15 +523,15 @@ src={"/assets/App_Icon512_yfUerJqzgO_Ly6tZ_QXZ9.webp"}
 width={256}
 height={256}
 loading={"eager"}
-className={`w-image`} />
+className={`w-image cp5616u cuia65m`} />
 <div
 className={`w-element c1mbyuac c17yqxus c1ghn8z4`}>
 <h1
-className={`w-element cvddzxn cbgovzd ca4a49p clk5tgp c7ep1pc c1x1dfts c1f3f3n8 c15f739v`}>
+className={`w-element cvddzxn cbgovzd ca4a49p clk5tgp c7ep1pc c1x1dfts c1f3f3n8 cjzicij c10ek0dz c1tvshu2`}>
 {"Clip Hold"}
 </h1>
 <p
-className={`w-element c1x1dfts c117tk5u clk5tgp c1dgg9g4 c1f3f3n8 cqx7kte`}>
+className={`w-element c1x1dfts c117tk5u clk5tgp c1dgg9g4 c1f3f3n8 c1z0u7ya cqnvqsc c16kfi9b`}>
 {"macOS用のクリップボードと定型文マネージャー"}
 </p>
 <Slot>
@@ -558,7 +558,7 @@ className={`w-element cs02lc cdjvmmy`}>
 <div
 className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c13aqipm crjscgb c1x1dfts crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cbgovzd c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
 <p
-className={`w-element`}>
+className={`w-element c1f3f3n8`}>
 {"GitHubから無料でダウンロード"}
 </p>
 </div>
@@ -569,7 +569,7 @@ className={`w-element`}>
 </div>
 </div>
 <p
-className={`w-element c1x1dfts c12fyb4s c15d85bk c1mbyuac c1c43ngc c19cs4i7`}>
+className={`w-element c1x1dfts c12fyb4s cik47ol c1mbyuac c1c43ngc c19cs4i7 c2oe4sx c1ruoz7k cbgovzd cmnwzjl`}>
 {"スクロールして詳細を表示"}
 </p>
 </div>
@@ -655,6 +655,7 @@ width={1080}
 height={608}
 alt={"クイックペースト"}
 loading={"lazy"}
+optimize={false}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
 </div>
 <hr
@@ -824,11 +825,11 @@ src={"/assets/App_Icon512_yfUerJqzgO_Ly6tZ_QXZ9.webp"}
 width={200}
 height={200}
 loading={"lazy"}
-className={`w-image`} />
+className={`w-image cp5616u`} />
 <div
 className={`w-element c1mbyuac c17yqxus c1ghn8z4`}>
 <h2
-className={`w-element cvddzxn cbgovzd c117tk5u clk5tgp c7ep1pc c1x1dfts c1f3f3n8 c15f739v`}>
+className={`w-element cvddzxn cbgovzd c117tk5u clk5tgp c7ep1pc c1x1dfts c1f3f3n8 cks20wo`}>
 {"Clip Hold"}
 </h2>
 <p
@@ -859,7 +860,7 @@ className={`w-element cs02lc cdjvmmy`}>
 <div
 className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c13aqipm crjscgb c1x1dfts crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cbgovzd c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
 <p
-className={`w-element`}>
+className={`w-element c1f3f3n8`}>
 {"GitHubから無料でダウンロード"}
 </p>
 </div>

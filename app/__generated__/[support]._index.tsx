@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-05T06:07:39.598Z";
+      export const lastPublished = "2025-07-05T09:27:20.849Z";
 
       export const siteName = "Clip Hold";
 
@@ -517,9 +517,9 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 </Fragment_1>
 </Slot>
 <div
-className={`w-element c7z4ryg c1qopeiv c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27`}>
+className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c11iyp3e c1k001t5 c1s01ekh cks2l98 c1sacup0 cnbgtry ch91fr5`}>
 <div
-className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1jt805z c1ruoz7k c1ovvagj c1xsewl7 cv0104a cyxspfs`}>
+className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1jt805z cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"Support and Feedback"}
@@ -530,8 +530,9 @@ className={`w-element c1yn6h70`}>
 </p>
 <MarkdownEmbed
 code={"## If you find a bug\nClip Hold is an application developed using generative AI. I have tested it many times while developing it, but there may still be some bugs or some functions may not operate as intended.\n\nIf you find a bug or a behavior problem, please check the [**Issues**](https://github.com/taikun114/Clip-Hold/issues) (known bugs or problems) already opened and look for the same problem reported by others. If you cannot find the same issue, please open a new Issue and report the problem.\\\nTo make bug tracking easier, if you want to report more than one issue, please open a separate Issue for each problem. In other words, if you want to report two bugs, you must open two Issues.\n\n## Feedback\nIf you do not have a GitHub account and would like to report a bug, share an idea, or send a message to the developer (me), you can click [**this link**](mailto:contact.taikun@gmail.com?subject=Clip%20Hold%20Feedback:%20&body=Please%20describe%20your%20feedback%20in%20detail:%0D%0A%0D%0A%0D%0ASystem%20Information:%0D%0A%0D%0A-%20System%20%0D%0APlease%20enter%20your%20Mac%20model.%0D%0A%0D%0A%0D%0A-%20macOS%20Version%20%0D%0AIf%20you%20are%20experiencing%20problems,%20please%20enter%20the%20macOS%20version.%0D%0A%0D%0A%0D%0A-%20App%20Version%0D%0AIf%20you%20are%20experiencing%20problems,%20please%20enter%20the%20app%20version.%0D%0A%0D%0A) or click the “Send Feedback” button in the “Information” tab in the app settings to send an email (please note that I may not be able to reply to all messages).\\\nWhen you open the Send Email window from the button in the app, necessary information, such as Mac system information (Model ID, CPU architecture type, macOS version information) and app version information, will be pre-filled, so sending feedback from there is recommended.\n\n## Community\nYou can share new features you would like to see added to the app, ask questions about questions about potential issues that may or may not be bugs, exchange opinions with others, and more on the [**discussion page**](https://github.com/taikun114/Clip-Hold/discussions).\\\nPlease use the page as a place to exchange information. I often look in on the page, so messages to the developer are also highly welcome!"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t c1l93n79 c11k13wx ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 c1l93n79 c11k13wx ch6h5mx`}>
 </MarkdownEmbed>
+</div>
 </div>
 <Slot>
 <Fragment_1>
@@ -544,11 +545,11 @@ src={"/assets/App_Icon512_yfUerJqzgO_Ly6tZ_QXZ9.webp"}
 width={200}
 height={200}
 loading={"lazy"}
-className={`w-image`} />
+className={`w-image cp5616u`} />
 <div
 className={`w-element c1mbyuac c17yqxus c1ghn8z4`}>
 <h1
-className={`w-element cvddzxn cbgovzd c117tk5u clk5tgp c7ep1pc c1x1dfts c1f3f3n8 c15f739v`}>
+className={`w-element cvddzxn cbgovzd c117tk5u clk5tgp c7ep1pc c1x1dfts c1f3f3n8 cks20wo`}>
 {"Clip Hold"}
 </h1>
 <p
@@ -558,7 +559,7 @@ className={`w-element c1x1dfts c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 cqx7kte`}>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c10ahqwr ctnbop5 c17rvfg7 cz4mm69 c1co68v6`}>
+className={`w-element c10ahqwr cc7vtwb c17rvfg7 cz4mm69 c1co68v6`}>
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c1atdl27 c1t3ekai`}>
 <Image
@@ -578,7 +579,7 @@ className={`w-element cs02lc cdjvmmy`}>
 <div
 className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c13aqipm crjscgb c1x1dfts crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cbgovzd c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
 <p
-className={`w-element`}>
+className={`w-element c1f3f3n8`}>
 {"Free Download on GitHub"}
 </p>
 </div>
@@ -591,7 +592,6 @@ className={`w-element`}>
 </div>
 </Fragment_1>
 </Slot>
-</div>
 </Body>
 }
 
