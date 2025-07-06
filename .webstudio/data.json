@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "2c4bd12b-f351-4c37-aad6-a4896d71ea0a",
+    "id": "2562cb3f-8131-48d7-a853-7cd6cebef7f5",
     "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
-    "version": 2252,
-    "createdAt": "2025-07-06T05:16:09.884+00:00",
-    "updatedAt": "2025-07-06T05:16:09.884+00:00",
+    "version": 2259,
+    "createdAt": "2025-07-06T05:28:08.992+00:00",
+    "updatedAt": "2025-07-06T05:28:08.992+00:00",
     "pages": {
       "meta": {
         "siteName": "Clip Hold",
@@ -64768,7 +64768,7 @@
           "instanceId": "i8WelCeiBMVB8rwmU-Jh3",
           "name": "href",
           "type": "string",
-          "value": "/"
+          "value": "https://apps.apple.com/app/clip-hold/id6748125479"
         }
       ],
       [
@@ -65138,7 +65138,7 @@
           "instanceId": "lR58TW1Me5bv8bBnIlQCK",
           "name": "href",
           "type": "string",
-          "value": "/jp"
+          "value": "https://apps.apple.com/jp/app/clip-hold/id6748125479"
         }
       ],
       [
@@ -67610,6 +67610,26 @@
           "type": "string",
           "value": "PayPal.Me button"
         }
+      ],
+      [
+        "hARcVunssCEkZ9PdccmMb",
+        {
+          "id": "hARcVunssCEkZ9PdccmMb",
+          "instanceId": "lR58TW1Me5bv8bBnIlQCK",
+          "name": "target",
+          "type": "string",
+          "value": "_blank"
+        }
+      ],
+      [
+        "D-6K5xZom6nL8m0eBcx_G",
+        {
+          "id": "D-6K5xZom6nL8m0eBcx_G",
+          "instanceId": "i8WelCeiBMVB8rwmU-Jh3",
+          "name": "target",
+          "type": "string",
+          "value": "_blank"
+        }
       ]
     ],
     "dataSources": [],
@@ -68668,7 +68688,7 @@
           "children": [
             {
               "type": "text",
-              "value": "from Mac App Store (Preparing)"
+              "value": "from Mac App Store"
             }
           ]
         }
@@ -70384,7 +70404,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Mac App Storeから（準備中）"
+              "value": "Mac App Storeから"
             }
           ]
         }
