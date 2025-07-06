@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-05T12:44:24.102Z";
+      export const lastPublished = "2025-07-06T05:16:09.884Z";
 
       export const siteName = "Clip Hold";
 
@@ -537,28 +537,28 @@ className={`w-element c1x1dfts c117tk5u clk5tgp c1dgg9g4 c1f3f3n8 c1z0u7ya cqnvq
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c10ahqwr ctnbop5 c17rvfg7 cz4mm69 c1co68v6`}>
-<div
-className={`w-element c10ahqwr ccy4onp c12v245d c1atdl27 cwsnxpz`}>
+className={`w-element c10ahqwr cc7vtwb c17rvfg7 cz4mm69 c1co68v6`}>
+<Link
+href={"https://apps.apple.com/jp/app/clip-hold/id6748125479"}
+target={"_blank"}
+aria-label={"Mac App Storeからダウンロードボタン"}
+className={`w-element cs02lc`}>
 <Image
 src={"/assets/Download_on_the_Mac_App_Store_Badge_JP_RGB_blk_100317_PBTOdZUu8ZYNgCcHrs3tY.svg"}
 width={200}
 loading={"eager"}
 height={40}
-className={`w-image c12biunr`} />
-<p
-className={`w-element c18r7lsh chmyefk c19cs4i7 c1x1dfts cbgovzd c2uk1tc`}>
-{"準備中"}
-</p>
-</div>
+className={`w-image`} />
+</Link>
 <Link
 href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+aria-label={"GitHubから無料でダウンロードボタン"}
 className={`w-element cs02lc cdjvmmy`}>
 <div
-className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c13aqipm crjscgb c1x1dfts crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cbgovzd c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
+className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c1x1dfts crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cbgovzd c1qopeiv c10ahqwr ccy4onp c12v245d c1ays5ld c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
 <p
-className={`w-element c1f3f3n8`}>
+className={`w-element c1f3f3n8 c23z8nw cqo7lub`}>
 {"GitHubから無料でダウンロード"}
 </p>
 </div>
@@ -764,6 +764,7 @@ className={`w-element c1yn6h70 clfs8zh c2oe4sx c1dgg9g4 c1uj2yq0 c12817z7`}>
 </p>
 <Link
 href={"/jp/support"}
+aria-label={"サポートとフィードバックボタン"}
 className={`w-element cs02lc cdjvmmy`}>
 <div
 className={`w-element c1bxwz0t c170tjmx c1vn5tfs c1kp31s8 czucxib cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld cyi660d ca7rlbl c1atnx78 c1s95ji1 c10mtjet c1kkdyp6`}>
@@ -793,6 +794,7 @@ className={`w-element c10ahqwr c17rvfg7 cc7vtwb cz4mm69`}>
 <Link
 href={"https://www.buymeacoffee.com/i_am_taikun"}
 target={"_blank"}
+aria-label={"Buy Me a Coffeeボタン"}
 className={`w-element cs02lc cdjvmmy`}>
 <div
 className={`w-element c1bxwz0t c170tjmx c1vn5tfs c1kp31s8 czucxib cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld cyi660d ca7rlbl c1atnx78 c1s95ji1 c10mtjet c1kkdyp6`}>
@@ -805,6 +807,7 @@ className={`w-element c23z8nw cqo7lub`}>
 <Link
 href={"https://paypal.me/taikun114"}
 target={"_blank"}
+aria-label={"PayPal.Meボタン"}
 className={`w-element cs02lc cdjvmmy`}>
 <div
 className={`w-element c1bxwz0t c170tjmx c1vn5tfs c1kp31s8 czucxib cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld cyi660d ca7rlbl c1atnx78 c1s95ji1 c10mtjet c1kkdyp6`}>
@@ -843,28 +846,28 @@ className={`w-element c1x1dfts c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 cqx7kte`}>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c10ahqwr ctnbop5 c17rvfg7 cz4mm69 c1co68v6`}>
-<div
-className={`w-element c10ahqwr ccy4onp c12v245d c1atdl27 cwsnxpz`}>
+className={`w-element c10ahqwr cc7vtwb c17rvfg7 cz4mm69 c1co68v6`}>
+<Link
+href={"https://apps.apple.com/jp/app/clip-hold/id6748125479"}
+target={"_blank"}
+aria-label={"Mac App Storeからダウンロードボタン"}
+className={`w-element cs02lc`}>
 <Image
 src={"/assets/Download_on_the_Mac_App_Store_Badge_JP_RGB_blk_100317_PBTOdZUu8ZYNgCcHrs3tY.svg"}
 width={200}
 loading={"eager"}
 height={40}
-className={`w-image c12biunr`} />
-<p
-className={`w-element c18r7lsh chmyefk c19cs4i7 c1x1dfts cbgovzd c2uk1tc`}>
-{"準備中"}
-</p>
-</div>
+className={`w-image`} />
+</Link>
 <Link
 href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+aria-label={"GitHubから無料でダウンロードボタン"}
 className={`w-element cs02lc cdjvmmy`}>
 <div
-className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c13aqipm crjscgb c1x1dfts crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cbgovzd c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
+className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c1x1dfts crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cbgovzd c1qopeiv c10ahqwr ccy4onp c12v245d c1ays5ld c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
 <p
-className={`w-element c1f3f3n8`}>
+className={`w-element c1f3f3n8 c23z8nw cqo7lub`}>
 {"GitHubから無料でダウンロード"}
 </p>
 </div>

@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "1243eb4c-981e-4a8f-ad39-16e5f6f3b2d4",
+    "id": "2c4bd12b-f351-4c37-aad6-a4896d71ea0a",
     "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
-    "version": 2167,
-    "createdAt": "2025-07-05T12:44:24.102+00:00",
-    "updatedAt": "2025-07-05T12:44:24.102+00:00",
+    "version": 2252,
+    "createdAt": "2025-07-06T05:16:09.884+00:00",
+    "updatedAt": "2025-07-06T05:16:09.884+00:00",
     "pages": {
       "meta": {
         "siteName": "Clip Hold",
@@ -23794,19 +23794,6 @@
         }
       ],
       [
-        "bQBs0flq6Kb32rceBw1Ry:oQXIk9J0diVFLo9CICSX4:right:",
-        {
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "styleSourceId": "bQBs0flq6Kb32rceBw1Ry",
-          "property": "right",
-          "value": {
-            "type": "unit",
-            "unit": "px",
-            "value": 96
-          }
-        }
-      ],
-      [
         "A6csfrP0LaO7grPifcLvT:oQXIk9J0diVFLo9CICSX4:right:",
         {
           "styleSourceId": "A6csfrP0LaO7grPifcLvT",
@@ -29215,7 +29202,7 @@
           "value": {
             "type": "unit",
             "unit": "rem",
-            "value": 1
+            "value": 0.5
           }
         }
       ],
@@ -29478,216 +29465,6 @@
           "value": {
             "type": "keyword",
             "value": "center"
-          }
-        }
-      ],
-      [
-        "gAFsjf-haGcnXZJkacAeN:oQXIk9J0diVFLo9CICSX4:filter:",
-        {
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "styleSourceId": "gAFsjf-haGcnXZJkacAeN",
-          "property": "filter",
-          "value": {
-            "type": "tuple",
-            "value": [
-              {
-                "type": "function",
-                "args": {
-                  "type": "tuple",
-                  "value": [
-                    {
-                      "type": "unit",
-                      "unit": "%",
-                      "value": 25
-                    }
-                  ]
-                },
-                "name": "contrast"
-              },
-              {
-                "type": "function",
-                "args": {
-                  "type": "tuple",
-                  "value": [
-                    {
-                      "type": "unit",
-                      "unit": "%",
-                      "value": 75
-                    }
-                  ]
-                },
-                "name": "opacity"
-              }
-            ]
-          }
-        }
-      ],
-      [
-        "7iPNO_yJ8gYZJCRoz_15x:oQXIk9J0diVFLo9CICSX4:position:",
-        {
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "styleSourceId": "7iPNO_yJ8gYZJCRoz_15x",
-          "property": "position",
-          "value": {
-            "type": "keyword",
-            "value": "relative"
-          }
-        }
-      ],
-      [
-        "7iPNO_yJ8gYZJCRoz_15x:oQXIk9J0diVFLo9CICSX4:top:",
-        {
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "styleSourceId": "7iPNO_yJ8gYZJCRoz_15x",
-          "property": "top",
-          "value": {
-            "type": "unit",
-            "unit": "px",
-            "value": -55
-          }
-        }
-      ],
-      [
-        "FfgY3pxUQog4nT-jjklp0:oQXIk9J0diVFLo9CICSX4:display:",
-        {
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "styleSourceId": "FfgY3pxUQog4nT-jjklp0",
-          "property": "display",
-          "value": {
-            "type": "keyword",
-            "value": "flex"
-          }
-        }
-      ],
-      [
-        "FfgY3pxUQog4nT-jjklp0:oQXIk9J0diVFLo9CICSX4:alignItems:",
-        {
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "styleSourceId": "FfgY3pxUQog4nT-jjklp0",
-          "property": "alignItems",
-          "value": {
-            "type": "keyword",
-            "value": "center"
-          }
-        }
-      ],
-      [
-        "FfgY3pxUQog4nT-jjklp0:oQXIk9J0diVFLo9CICSX4:justifyContent:",
-        {
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "styleSourceId": "FfgY3pxUQog4nT-jjklp0",
-          "property": "justifyContent",
-          "value": {
-            "type": "keyword",
-            "value": "center"
-          }
-        }
-      ],
-      [
-        "FfgY3pxUQog4nT-jjklp0:oQXIk9J0diVFLo9CICSX4:flexDirection:",
-        {
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "styleSourceId": "FfgY3pxUQog4nT-jjklp0",
-          "property": "flexDirection",
-          "value": {
-            "type": "keyword",
-            "value": "column"
-          }
-        }
-      ],
-      [
-        "FfgY3pxUQog4nT-jjklp0:oQXIk9J0diVFLo9CICSX4:marginBottom:",
-        {
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "styleSourceId": "FfgY3pxUQog4nT-jjklp0",
-          "property": "marginBottom",
-          "value": {
-            "type": "unit",
-            "unit": "px",
-            "value": -55
-          }
-        }
-      ],
-      [
-        "7iPNO_yJ8gYZJCRoz_15x:oQXIk9J0diVFLo9CICSX4:textAlign:",
-        {
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "styleSourceId": "7iPNO_yJ8gYZJCRoz_15x",
-          "property": "textAlign",
-          "value": {
-            "type": "keyword",
-            "value": "center"
-          }
-        }
-      ],
-      [
-        "7iPNO_yJ8gYZJCRoz_15x:oQXIk9J0diVFLo9CICSX4:color:",
-        {
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "styleSourceId": "7iPNO_yJ8gYZJCRoz_15x",
-          "property": "color",
-          "value": {
-            "type": "rgb",
-            "alpha": 1,
-            "r": 242,
-            "g": 244,
-            "b": 255
-          }
-        }
-      ],
-      [
-        "7iPNO_yJ8gYZJCRoz_15x:oQXIk9J0diVFLo9CICSX4:fontWeight:",
-        {
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "styleSourceId": "7iPNO_yJ8gYZJCRoz_15x",
-          "property": "fontWeight",
-          "value": {
-            "type": "keyword",
-            "value": "600"
-          }
-        }
-      ],
-      [
-        "7iPNO_yJ8gYZJCRoz_15x:oQXIk9J0diVFLo9CICSX4:boxShadow:",
-        {
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "styleSourceId": "7iPNO_yJ8gYZJCRoz_15x",
-          "property": "boxShadow",
-          "value": {
-            "type": "layers",
-            "value": [
-              {
-                "type": "shadow",
-                "position": "outset",
-                "offsetX": {
-                  "type": "unit",
-                  "unit": "px",
-                  "value": 0
-                },
-                "offsetY": {
-                  "type": "unit",
-                  "unit": "px",
-                  "value": 0
-                },
-                "blur": {
-                  "type": "unit",
-                  "unit": "px",
-                  "value": 8
-                },
-                "spread": {
-                  "type": "unit",
-                  "unit": "px",
-                  "value": 0
-                },
-                "color": {
-                  "type": "rgb",
-                  "alpha": 0.5,
-                  "r": 0,
-                  "g": 0,
-                  "b": 0
-                }
-              }
-            ]
           }
         }
       ],
@@ -31770,216 +31547,6 @@
           "value": {
             "type": "keyword",
             "value": "center"
-          }
-        }
-      ],
-      [
-        "1Gr8dJbtamJmhkU_nP6q-:oQXIk9J0diVFLo9CICSX4:filter:",
-        {
-          "styleSourceId": "1Gr8dJbtamJmhkU_nP6q-",
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "property": "filter",
-          "value": {
-            "type": "tuple",
-            "value": [
-              {
-                "type": "function",
-                "name": "contrast",
-                "args": {
-                  "type": "tuple",
-                  "value": [
-                    {
-                      "type": "unit",
-                      "unit": "%",
-                      "value": 25
-                    }
-                  ]
-                }
-              },
-              {
-                "type": "function",
-                "name": "opacity",
-                "args": {
-                  "type": "tuple",
-                  "value": [
-                    {
-                      "type": "unit",
-                      "unit": "%",
-                      "value": 75
-                    }
-                  ]
-                }
-              }
-            ]
-          }
-        }
-      ],
-      [
-        "TER0PSZPcsgpE0EzGneib:oQXIk9J0diVFLo9CICSX4:position:",
-        {
-          "styleSourceId": "TER0PSZPcsgpE0EzGneib",
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "property": "position",
-          "value": {
-            "type": "keyword",
-            "value": "relative"
-          }
-        }
-      ],
-      [
-        "TER0PSZPcsgpE0EzGneib:oQXIk9J0diVFLo9CICSX4:top:",
-        {
-          "styleSourceId": "TER0PSZPcsgpE0EzGneib",
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "property": "top",
-          "value": {
-            "type": "unit",
-            "unit": "px",
-            "value": -50
-          }
-        }
-      ],
-      [
-        "2ylheVriUowYJBpc2neuw:oQXIk9J0diVFLo9CICSX4:display:",
-        {
-          "styleSourceId": "2ylheVriUowYJBpc2neuw",
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "property": "display",
-          "value": {
-            "type": "keyword",
-            "value": "flex"
-          }
-        }
-      ],
-      [
-        "2ylheVriUowYJBpc2neuw:oQXIk9J0diVFLo9CICSX4:alignItems:",
-        {
-          "styleSourceId": "2ylheVriUowYJBpc2neuw",
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "property": "alignItems",
-          "value": {
-            "type": "keyword",
-            "value": "center"
-          }
-        }
-      ],
-      [
-        "2ylheVriUowYJBpc2neuw:oQXIk9J0diVFLo9CICSX4:justifyContent:",
-        {
-          "styleSourceId": "2ylheVriUowYJBpc2neuw",
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "property": "justifyContent",
-          "value": {
-            "type": "keyword",
-            "value": "center"
-          }
-        }
-      ],
-      [
-        "2ylheVriUowYJBpc2neuw:oQXIk9J0diVFLo9CICSX4:flexDirection:",
-        {
-          "styleSourceId": "2ylheVriUowYJBpc2neuw",
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "property": "flexDirection",
-          "value": {
-            "type": "keyword",
-            "value": "column"
-          }
-        }
-      ],
-      [
-        "2ylheVriUowYJBpc2neuw:oQXIk9J0diVFLo9CICSX4:marginBottom:",
-        {
-          "styleSourceId": "2ylheVriUowYJBpc2neuw",
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "property": "marginBottom",
-          "value": {
-            "type": "unit",
-            "unit": "px",
-            "value": -50
-          }
-        }
-      ],
-      [
-        "TER0PSZPcsgpE0EzGneib:oQXIk9J0diVFLo9CICSX4:textAlign:",
-        {
-          "styleSourceId": "TER0PSZPcsgpE0EzGneib",
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "property": "textAlign",
-          "value": {
-            "type": "keyword",
-            "value": "center"
-          }
-        }
-      ],
-      [
-        "TER0PSZPcsgpE0EzGneib:oQXIk9J0diVFLo9CICSX4:color:",
-        {
-          "styleSourceId": "TER0PSZPcsgpE0EzGneib",
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "property": "color",
-          "value": {
-            "type": "rgb",
-            "r": 242,
-            "g": 244,
-            "b": 255,
-            "alpha": 1
-          }
-        }
-      ],
-      [
-        "TER0PSZPcsgpE0EzGneib:oQXIk9J0diVFLo9CICSX4:fontWeight:",
-        {
-          "styleSourceId": "TER0PSZPcsgpE0EzGneib",
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "property": "fontWeight",
-          "value": {
-            "type": "keyword",
-            "value": "600"
-          }
-        }
-      ],
-      [
-        "TER0PSZPcsgpE0EzGneib:oQXIk9J0diVFLo9CICSX4:boxShadow:",
-        {
-          "styleSourceId": "TER0PSZPcsgpE0EzGneib",
-          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
-          "property": "boxShadow",
-          "value": {
-            "type": "layers",
-            "value": [
-              {
-                "type": "shadow",
-                "position": "outset",
-                "offsetX": {
-                  "type": "unit",
-                  "unit": "px",
-                  "value": 0
-                },
-                "offsetY": {
-                  "type": "unit",
-                  "unit": "px",
-                  "value": 0
-                },
-                "blur": {
-                  "type": "unit",
-                  "unit": "px",
-                  "value": 8
-                },
-                "spread": {
-                  "type": "unit",
-                  "unit": "px",
-                  "value": 0
-                },
-                "color": {
-                  "type": "rgb",
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "alpha": 0.5
-                }
-              }
-            ]
           }
         }
       ],
@@ -57396,6 +56963,245 @@
             "value": "center"
           }
         }
+      ],
+      [
+        "PQNknk9N1X5m2f9mAJLXe:oQXIk9J0diVFLo9CICSX4:display:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "PQNknk9N1X5m2f9mAJLXe",
+          "property": "display",
+          "value": {
+            "type": "keyword",
+            "value": "inline-block"
+          }
+        }
+      ],
+      [
+        "_BaCnsLzuvijYaOydfAO4:oQXIk9J0diVFLo9CICSX4:display:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "_BaCnsLzuvijYaOydfAO4",
+          "property": "display",
+          "value": {
+            "type": "keyword",
+            "value": "inline-block"
+          }
+        }
+      ],
+      [
+        "-aTYdjJjLefBovJMVGK6F:oQXIk9J0diVFLo9CICSX4:marginTop:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "-aTYdjJjLefBovJMVGK6F",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "-aTYdjJjLefBovJMVGK6F:oQXIk9J0diVFLo9CICSX4:marginBottom:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "-aTYdjJjLefBovJMVGK6F",
+          "property": "marginBottom",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "LfotCw_8tJiLei2LjO27G:oQXIk9J0diVFLo9CICSX4:height:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "LfotCw_8tJiLei2LjO27G",
+          "property": "height",
+          "value": {
+            "type": "unit",
+            "unit": "%",
+            "value": 100
+          }
+        }
+      ],
+      [
+        "LfotCw_8tJiLei2LjO27G:oQXIk9J0diVFLo9CICSX4:display:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "LfotCw_8tJiLei2LjO27G",
+          "property": "display",
+          "value": {
+            "type": "keyword",
+            "value": "flex"
+          }
+        }
+      ],
+      [
+        "LfotCw_8tJiLei2LjO27G:oQXIk9J0diVFLo9CICSX4:alignItems:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "LfotCw_8tJiLei2LjO27G",
+          "property": "alignItems",
+          "value": {
+            "type": "keyword",
+            "value": "center"
+          }
+        }
+      ],
+      [
+        "LfotCw_8tJiLei2LjO27G:oQXIk9J0diVFLo9CICSX4:justifyContent:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "LfotCw_8tJiLei2LjO27G",
+          "property": "justifyContent",
+          "value": {
+            "type": "keyword",
+            "value": "center"
+          }
+        }
+      ],
+      [
+        "LfotCw_8tJiLei2LjO27G:oQXIk9J0diVFLo9CICSX4:paddingTop:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "LfotCw_8tJiLei2LjO27G",
+          "property": "paddingTop",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "LfotCw_8tJiLei2LjO27G:oQXIk9J0diVFLo9CICSX4:paddingBottom:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "LfotCw_8tJiLei2LjO27G",
+          "property": "paddingBottom",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "fgYjy3o-7oNI7pufrXHF4:oQXIk9J0diVFLo9CICSX4:marginTop:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "fgYjy3o-7oNI7pufrXHF4",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "fgYjy3o-7oNI7pufrXHF4:oQXIk9J0diVFLo9CICSX4:marginBottom:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "fgYjy3o-7oNI7pufrXHF4",
+          "property": "marginBottom",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "ico9y-lQwIIR7maXGLUtA:oQXIk9J0diVFLo9CICSX4:paddingTop:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "ico9y-lQwIIR7maXGLUtA",
+          "property": "paddingTop",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "ico9y-lQwIIR7maXGLUtA:oQXIk9J0diVFLo9CICSX4:paddingBottom:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "ico9y-lQwIIR7maXGLUtA",
+          "property": "paddingBottom",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "ico9y-lQwIIR7maXGLUtA:oQXIk9J0diVFLo9CICSX4:display:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "ico9y-lQwIIR7maXGLUtA",
+          "property": "display",
+          "value": {
+            "type": "keyword",
+            "value": "flex"
+          }
+        }
+      ],
+      [
+        "ico9y-lQwIIR7maXGLUtA:oQXIk9J0diVFLo9CICSX4:alignItems:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "ico9y-lQwIIR7maXGLUtA",
+          "property": "alignItems",
+          "value": {
+            "type": "keyword",
+            "value": "center"
+          }
+        }
+      ],
+      [
+        "ico9y-lQwIIR7maXGLUtA:oQXIk9J0diVFLo9CICSX4:justifyContent:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "ico9y-lQwIIR7maXGLUtA",
+          "property": "justifyContent",
+          "value": {
+            "type": "keyword",
+            "value": "center"
+          }
+        }
+      ],
+      [
+        "ico9y-lQwIIR7maXGLUtA:oQXIk9J0diVFLo9CICSX4:height:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "ico9y-lQwIIR7maXGLUtA",
+          "property": "height",
+          "value": {
+            "type": "unit",
+            "unit": "%",
+            "value": 100
+          }
+        }
+      ],
+      [
+        "bQBs0flq6Kb32rceBw1Ry:oQXIk9J0diVFLo9CICSX4:right:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "bQBs0flq6Kb32rceBw1Ry",
+          "property": "right",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 96
+          }
+        }
       ]
     ],
     "styleSources": [
@@ -58751,27 +58557,6 @@
         }
       ],
       [
-        "FfgY3pxUQog4nT-jjklp0",
-        {
-          "type": "local",
-          "id": "FfgY3pxUQog4nT-jjklp0"
-        }
-      ],
-      [
-        "gAFsjf-haGcnXZJkacAeN",
-        {
-          "type": "local",
-          "id": "gAFsjf-haGcnXZJkacAeN"
-        }
-      ],
-      [
-        "7iPNO_yJ8gYZJCRoz_15x",
-        {
-          "type": "local",
-          "id": "7iPNO_yJ8gYZJCRoz_15x"
-        }
-      ],
-      [
         "Vt3iSKVuI76BjCavs1o_W",
         {
           "type": "local",
@@ -58902,27 +58687,6 @@
         {
           "type": "local",
           "id": "7BMvC3PN9wmqMOXJHY5nk"
-        }
-      ],
-      [
-        "2ylheVriUowYJBpc2neuw",
-        {
-          "type": "local",
-          "id": "2ylheVriUowYJBpc2neuw"
-        }
-      ],
-      [
-        "1Gr8dJbtamJmhkU_nP6q-",
-        {
-          "type": "local",
-          "id": "1Gr8dJbtamJmhkU_nP6q-"
-        }
-      ],
-      [
-        "TER0PSZPcsgpE0EzGneib",
-        {
-          "type": "local",
-          "id": "TER0PSZPcsgpE0EzGneib"
         }
       ],
       [
@@ -60450,6 +60214,34 @@
         {
           "type": "local",
           "id": "jbv_WLQ4L0976_oKXZiA9"
+        }
+      ],
+      [
+        "PQNknk9N1X5m2f9mAJLXe",
+        {
+          "type": "local",
+          "id": "PQNknk9N1X5m2f9mAJLXe"
+        }
+      ],
+      [
+        "VdH4DNNFIbJ4USjLXN2rS",
+        {
+          "type": "local",
+          "id": "VdH4DNNFIbJ4USjLXN2rS"
+        }
+      ],
+      [
+        "_BaCnsLzuvijYaOydfAO4",
+        {
+          "type": "local",
+          "id": "_BaCnsLzuvijYaOydfAO4"
+        }
+      ],
+      [
+        "4L_FZiLXRlZS5rnfe0nxT",
+        {
+          "type": "local",
+          "id": "4L_FZiLXRlZS5rnfe0nxT"
         }
       ]
     ],
@@ -62192,33 +61984,6 @@
         }
       ],
       [
-        "MSduwuCwxy7NxinJipffU",
-        {
-          "instanceId": "MSduwuCwxy7NxinJipffU",
-          "values": [
-            "FfgY3pxUQog4nT-jjklp0"
-          ]
-        }
-      ],
-      [
-        "yFo5o89DGf61PXQedD8fB",
-        {
-          "instanceId": "yFo5o89DGf61PXQedD8fB",
-          "values": [
-            "gAFsjf-haGcnXZJkacAeN"
-          ]
-        }
-      ],
-      [
-        "QqfZThjlFI7phAun_RDVN",
-        {
-          "instanceId": "QqfZThjlFI7phAun_RDVN",
-          "values": [
-            "7iPNO_yJ8gYZJCRoz_15x"
-          ]
-        }
-      ],
-      [
         "N_3F3XM2cvu95QXy5NakB",
         {
           "instanceId": "N_3F3XM2cvu95QXy5NakB",
@@ -62386,33 +62151,6 @@
           "instanceId": "l_eeQH4D1hO4ZOQtdOJ2s",
           "values": [
             "7BMvC3PN9wmqMOXJHY5nk"
-          ]
-        }
-      ],
-      [
-        "hQ0F7Gi3Bg5zk9q3tOxvW",
-        {
-          "instanceId": "hQ0F7Gi3Bg5zk9q3tOxvW",
-          "values": [
-            "2ylheVriUowYJBpc2neuw"
-          ]
-        }
-      ],
-      [
-        "rGW975V-7O_tMxlqtE3A3",
-        {
-          "instanceId": "rGW975V-7O_tMxlqtE3A3",
-          "values": [
-            "1Gr8dJbtamJmhkU_nP6q-"
-          ]
-        }
-      ],
-      [
-        "LeYdI8OTn-_OXgBDlfbWj",
-        {
-          "instanceId": "LeYdI8OTn-_OXgBDlfbWj",
-          "values": [
-            "TER0PSZPcsgpE0EzGneib"
           ]
         }
       ],
@@ -64824,6 +64562,42 @@
             "jbv_WLQ4L0976_oKXZiA9"
           ]
         }
+      ],
+      [
+        "X3lC2GkMZanvOZPjfj3zq",
+        {
+          "instanceId": "X3lC2GkMZanvOZPjfj3zq",
+          "values": [
+            "PQNknk9N1X5m2f9mAJLXe"
+          ]
+        }
+      ],
+      [
+        "jtdHdrfu3wtl51ldTSpdu",
+        {
+          "instanceId": "jtdHdrfu3wtl51ldTSpdu",
+          "values": [
+            "VdH4DNNFIbJ4USjLXN2rS"
+          ]
+        }
+      ],
+      [
+        "oBxalcAoLAv1Lh-f-y_Go",
+        {
+          "instanceId": "oBxalcAoLAv1Lh-f-y_Go",
+          "values": [
+            "_BaCnsLzuvijYaOydfAO4"
+          ]
+        }
+      ],
+      [
+        "MVAA7zv01Jk6nufqbY-26",
+        {
+          "instanceId": "MVAA7zv01Jk6nufqbY-26",
+          "values": [
+            "4L_FZiLXRlZS5rnfe0nxT"
+          ]
+        }
       ]
     ],
     "props": [
@@ -65648,46 +65422,6 @@
         }
       ],
       [
-        "DQoApm-6lanVXMjhAAxnV",
-        {
-          "id": "DQoApm-6lanVXMjhAAxnV",
-          "instanceId": "yFo5o89DGf61PXQedD8fB",
-          "name": "src",
-          "type": "asset",
-          "value": "445f06e93bc7e4e3fbaf95d3667f17cd63304e7f404bc7911957ea3d96b3c42b"
-        }
-      ],
-      [
-        "xChwqZ0sCZcOT44HtZmq1",
-        {
-          "id": "xChwqZ0sCZcOT44HtZmq1",
-          "instanceId": "yFo5o89DGf61PXQedD8fB",
-          "name": "width",
-          "type": "number",
-          "value": 200
-        }
-      ],
-      [
-        "c2vONHtgVfWM-SW8R2XJX",
-        {
-          "id": "c2vONHtgVfWM-SW8R2XJX",
-          "instanceId": "yFo5o89DGf61PXQedD8fB",
-          "name": "loading",
-          "type": "string",
-          "value": "eager"
-        }
-      ],
-      [
-        "qvQVR_WAK9AYK3rrQ3kbb",
-        {
-          "id": "qvQVR_WAK9AYK3rrQ3kbb",
-          "instanceId": "yFo5o89DGf61PXQedD8fB",
-          "name": "height",
-          "type": "asset",
-          "value": "445f06e93bc7e4e3fbaf95d3667f17cd63304e7f404bc7911957ea3d96b3c42b"
-        }
-      ],
-      [
         "moY0vlLt8ZKEVu8lbXHpO",
         {
           "id": "moY0vlLt8ZKEVu8lbXHpO",
@@ -65785,36 +65519,6 @@
           "name": "target",
           "type": "string",
           "value": "_blank"
-        }
-      ],
-      [
-        "uFGUOlwk7MaR9nxdZiZ-o",
-        {
-          "id": "uFGUOlwk7MaR9nxdZiZ-o",
-          "instanceId": "rGW975V-7O_tMxlqtE3A3",
-          "name": "src",
-          "type": "asset",
-          "value": "15111cd04380b58d95307dcb07f0b6b06304dbc7504c57fd9cdbf0a2f78e3a92"
-        }
-      ],
-      [
-        "tXzzRDxTugg0UN5qJQJX3",
-        {
-          "id": "tXzzRDxTugg0UN5qJQJX3",
-          "instanceId": "rGW975V-7O_tMxlqtE3A3",
-          "name": "width",
-          "type": "number",
-          "value": 200
-        }
-      ],
-      [
-        "AU2zpHA0qT6wGpINqgEHu",
-        {
-          "id": "AU2zpHA0qT6wGpINqgEHu",
-          "instanceId": "rGW975V-7O_tMxlqtE3A3",
-          "name": "loading",
-          "type": "string",
-          "value": "eager"
         }
       ],
       [
@@ -67695,6 +67399,216 @@
           "name": "optimize",
           "type": "boolean",
           "value": false
+        }
+      ],
+      [
+        "Dya2T4VhMn7S8bBKxqDpW",
+        {
+          "id": "Dya2T4VhMn7S8bBKxqDpW",
+          "instanceId": "jtdHdrfu3wtl51ldTSpdu",
+          "name": "src",
+          "type": "asset",
+          "value": "15111cd04380b58d95307dcb07f0b6b06304dbc7504c57fd9cdbf0a2f78e3a92"
+        }
+      ],
+      [
+        "1Q6hGDlgptJPIz_zOB63b",
+        {
+          "id": "1Q6hGDlgptJPIz_zOB63b",
+          "instanceId": "jtdHdrfu3wtl51ldTSpdu",
+          "name": "width",
+          "type": "number",
+          "value": 200
+        }
+      ],
+      [
+        "mIDWjPQ25TetOvUL-wABm",
+        {
+          "id": "mIDWjPQ25TetOvUL-wABm",
+          "instanceId": "jtdHdrfu3wtl51ldTSpdu",
+          "name": "loading",
+          "type": "string",
+          "value": "eager"
+        }
+      ],
+      [
+        "24TN_GA9Eo_Fd2CnA6xGo",
+        {
+          "id": "24TN_GA9Eo_Fd2CnA6xGo",
+          "instanceId": "X3lC2GkMZanvOZPjfj3zq",
+          "name": "href",
+          "type": "string",
+          "value": "https://apps.apple.com/app/clip-hold/id6748125479"
+        }
+      ],
+      [
+        "0NFuRSEzT0J7l-rU-Amrv",
+        {
+          "id": "0NFuRSEzT0J7l-rU-Amrv",
+          "instanceId": "X3lC2GkMZanvOZPjfj3zq",
+          "name": "target",
+          "type": "string",
+          "value": "_blank"
+        }
+      ],
+      [
+        "TGAbJ-fgz8UJZr5qisW9V",
+        {
+          "id": "TGAbJ-fgz8UJZr5qisW9V",
+          "instanceId": "MVAA7zv01Jk6nufqbY-26",
+          "name": "src",
+          "type": "asset",
+          "value": "445f06e93bc7e4e3fbaf95d3667f17cd63304e7f404bc7911957ea3d96b3c42b"
+        }
+      ],
+      [
+        "HFYYJ2vLm5g3dheNz8QY_",
+        {
+          "id": "HFYYJ2vLm5g3dheNz8QY_",
+          "instanceId": "MVAA7zv01Jk6nufqbY-26",
+          "name": "width",
+          "type": "number",
+          "value": 200
+        }
+      ],
+      [
+        "BQtZndNQI4O0zep4As4PD",
+        {
+          "id": "BQtZndNQI4O0zep4As4PD",
+          "instanceId": "MVAA7zv01Jk6nufqbY-26",
+          "name": "loading",
+          "type": "string",
+          "value": "eager"
+        }
+      ],
+      [
+        "VKz79y2yJmJ6OLvNpVyjR",
+        {
+          "id": "VKz79y2yJmJ6OLvNpVyjR",
+          "instanceId": "MVAA7zv01Jk6nufqbY-26",
+          "name": "height",
+          "type": "asset",
+          "value": "445f06e93bc7e4e3fbaf95d3667f17cd63304e7f404bc7911957ea3d96b3c42b"
+        }
+      ],
+      [
+        "iloctGw95mKSGYIQR7w5I",
+        {
+          "id": "iloctGw95mKSGYIQR7w5I",
+          "instanceId": "oBxalcAoLAv1Lh-f-y_Go",
+          "name": "href",
+          "type": "string",
+          "value": "https://apps.apple.com/jp/app/clip-hold/id6748125479"
+        }
+      ],
+      [
+        "gHKAKAM-vP11nQOSoHk2O",
+        {
+          "id": "gHKAKAM-vP11nQOSoHk2O",
+          "instanceId": "oBxalcAoLAv1Lh-f-y_Go",
+          "name": "target",
+          "type": "string",
+          "value": "_blank"
+        }
+      ],
+      [
+        "6aSfd8aXzecPHcits7zgU",
+        {
+          "id": "6aSfd8aXzecPHcits7zgU",
+          "instanceId": "N_3F3XM2cvu95QXy5NakB",
+          "name": "aria-label",
+          "type": "string",
+          "value": "GitHubから無料でダウンロードボタン"
+        }
+      ],
+      [
+        "sp591THkrj8meyQ4oer90",
+        {
+          "id": "sp591THkrj8meyQ4oer90",
+          "instanceId": "oBxalcAoLAv1Lh-f-y_Go",
+          "name": "aria-label",
+          "type": "string",
+          "value": "Mac App Storeからダウンロードボタン"
+        }
+      ],
+      [
+        "iK9RUztHNiOqf-wHUgEwy",
+        {
+          "id": "iK9RUztHNiOqf-wHUgEwy",
+          "instanceId": "g-U48fQs6Ganx5KMWkAHV",
+          "name": "aria-label",
+          "type": "string",
+          "value": "サポートとフィードバックボタン"
+        }
+      ],
+      [
+        "M9JthBDogFVFXepTG8S6e",
+        {
+          "id": "M9JthBDogFVFXepTG8S6e",
+          "instanceId": "QeSzmAmHSfNUgg2fGh6KT",
+          "name": "aria-label",
+          "type": "string",
+          "value": "Buy Me a Coffeeボタン"
+        }
+      ],
+      [
+        "EmkUaveCsRetNuzUSq1bi",
+        {
+          "id": "EmkUaveCsRetNuzUSq1bi",
+          "instanceId": "yeNK5GqVf21EICrScgveU",
+          "name": "aria-label",
+          "type": "string",
+          "value": "PayPal.Meボタン"
+        }
+      ],
+      [
+        "TCaR-Z4X1CKqTi__-5wle",
+        {
+          "id": "TCaR-Z4X1CKqTi__-5wle",
+          "instanceId": "FXsoa5jWYaqgpwKHbT-HZ",
+          "name": "aria-label",
+          "type": "string",
+          "value": "Free Download on GitHub button"
+        }
+      ],
+      [
+        "U3VH0VBpLQLV3eRqa15WJ",
+        {
+          "id": "U3VH0VBpLQLV3eRqa15WJ",
+          "instanceId": "X3lC2GkMZanvOZPjfj3zq",
+          "name": "aria-label",
+          "type": "string",
+          "value": "Download on the Mac App Store  button"
+        }
+      ],
+      [
+        "bxa1pTTGBHTglsHAIcLcv",
+        {
+          "id": "bxa1pTTGBHTglsHAIcLcv",
+          "instanceId": "m9YGQ5iJirMkAY7XfqMT5",
+          "name": "aria-label",
+          "type": "string",
+          "value": "Support and Feedback button"
+        }
+      ],
+      [
+        "wHnyh5dllGVrZfFDY9trt",
+        {
+          "id": "wHnyh5dllGVrZfFDY9trt",
+          "instanceId": "fVennFo6OdmD9ncCXGxj5",
+          "name": "aria-label",
+          "type": "string",
+          "value": "Buy Me a Coffee button"
+        }
+      ],
+      [
+        "DPaXNPDoUAsmT0PMa2rc_",
+        {
+          "id": "DPaXNPDoUAsmT0PMa2rc_",
+          "instanceId": "p_b6pdEkxWRrA8ekbamH6",
+          "name": "aria-label",
+          "type": "string",
+          "value": "PayPal.Me button"
         }
       ]
     ],
@@ -71689,55 +71603,11 @@
           "children": [
             {
               "type": "id",
-              "value": "MSduwuCwxy7NxinJipffU"
+              "value": "oBxalcAoLAv1Lh-f-y_Go"
             },
             {
               "type": "id",
               "value": "N_3F3XM2cvu95QXy5NakB"
-            }
-          ]
-        }
-      ],
-      [
-        "MSduwuCwxy7NxinJipffU",
-        {
-          "type": "instance",
-          "id": "MSduwuCwxy7NxinJipffU",
-          "component": "ws:element",
-          "tag": "div",
-          "children": [
-            {
-              "type": "id",
-              "value": "yFo5o89DGf61PXQedD8fB"
-            },
-            {
-              "type": "id",
-              "value": "QqfZThjlFI7phAun_RDVN"
-            }
-          ]
-        }
-      ],
-      [
-        "yFo5o89DGf61PXQedD8fB",
-        {
-          "type": "instance",
-          "id": "yFo5o89DGf61PXQedD8fB",
-          "component": "Image",
-          "label": "Mac App Storeでダウンロードボタン",
-          "children": []
-        }
-      ],
-      [
-        "QqfZThjlFI7phAun_RDVN",
-        {
-          "type": "instance",
-          "id": "QqfZThjlFI7phAun_RDVN",
-          "component": "ws:element",
-          "tag": "p",
-          "children": [
-            {
-              "type": "text",
-              "value": "準備中"
             }
           ]
         }
@@ -72189,55 +72059,11 @@
           "children": [
             {
               "type": "id",
-              "value": "hQ0F7Gi3Bg5zk9q3tOxvW"
+              "value": "X3lC2GkMZanvOZPjfj3zq"
             },
             {
               "type": "id",
               "value": "FXsoa5jWYaqgpwKHbT-HZ"
-            }
-          ]
-        }
-      ],
-      [
-        "hQ0F7Gi3Bg5zk9q3tOxvW",
-        {
-          "type": "instance",
-          "id": "hQ0F7Gi3Bg5zk9q3tOxvW",
-          "component": "ws:element",
-          "tag": "div",
-          "children": [
-            {
-              "type": "id",
-              "value": "rGW975V-7O_tMxlqtE3A3"
-            },
-            {
-              "type": "id",
-              "value": "LeYdI8OTn-_OXgBDlfbWj"
-            }
-          ]
-        }
-      ],
-      [
-        "rGW975V-7O_tMxlqtE3A3",
-        {
-          "type": "instance",
-          "id": "rGW975V-7O_tMxlqtE3A3",
-          "component": "Image",
-          "label": "Mac App Storeでダウンロードボタン",
-          "children": []
-        }
-      ],
-      [
-        "LeYdI8OTn-_OXgBDlfbWj",
-        {
-          "type": "instance",
-          "id": "LeYdI8OTn-_OXgBDlfbWj",
-          "component": "ws:element",
-          "tag": "p",
-          "children": [
-            {
-              "type": "text",
-              "value": "Preparing"
             }
           ]
         }
@@ -76817,6 +76643,56 @@
               "value": "macOS Sonoma（14.0）またはそれ以降に対応"
             }
           ]
+        }
+      ],
+      [
+        "X3lC2GkMZanvOZPjfj3zq",
+        {
+          "type": "instance",
+          "id": "X3lC2GkMZanvOZPjfj3zq",
+          "component": "ws:element",
+          "tag": "a",
+          "children": [
+            {
+              "type": "id",
+              "value": "jtdHdrfu3wtl51ldTSpdu"
+            }
+          ]
+        }
+      ],
+      [
+        "jtdHdrfu3wtl51ldTSpdu",
+        {
+          "type": "instance",
+          "id": "jtdHdrfu3wtl51ldTSpdu",
+          "component": "Image",
+          "label": "Mac App Storeでダウンロードボタン",
+          "children": []
+        }
+      ],
+      [
+        "oBxalcAoLAv1Lh-f-y_Go",
+        {
+          "type": "instance",
+          "id": "oBxalcAoLAv1Lh-f-y_Go",
+          "component": "ws:element",
+          "tag": "a",
+          "children": [
+            {
+              "type": "id",
+              "value": "MVAA7zv01Jk6nufqbY-26"
+            }
+          ]
+        }
+      ],
+      [
+        "MVAA7zv01Jk6nufqbY-26",
+        {
+          "type": "instance",
+          "id": "MVAA7zv01Jk6nufqbY-26",
+          "component": "Image",
+          "label": "Mac App Storeでダウンロードボタン",
+          "children": []
         }
       ]
     ],
