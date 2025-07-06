@@ -192,14 +192,17 @@
   }
 }
 @media all {
-  .c12v245d {
-    justify-content: center
-  }
-  .ccy4onp {
-    align-items: center
+  .cdm1ag0 {
+    justify-content: space-between
   }
   .c1uoa21q {
     background-color: light-dark(#F2F4FF, #131838)
+  }
+  .c10ahqwr {
+    display: flex
+  }
+  .c1atdl27 {
+    flex-direction: column
   }
   :root {
     color-scheme: light dark;
@@ -212,8 +215,11 @@
   .c1bv1fm7 {
     height: 5rem
   }
-  .c10ahqwr {
-    display: flex
+  .ccy4onp {
+    align-items: center
+  }
+  .c12v245d {
+    justify-content: center
   }
   .c1ilsqas {
     box-shadow: 0px 0px 16px 0px rgba(0, 0, 0, 0.2)
@@ -270,9 +276,6 @@
   }
   .c1s01ekh {
     padding-left: 2rem
-  }
-  .c1atdl27 {
-    flex-direction: column
   }
   .cepgicz {
     background-position: 0% 0%
@@ -342,9 +345,6 @@
   }
   .c1jt805z {
     max-width: 1200px
-  }
-  .cdm1ag0 {
-    justify-content: space-between
   }
   .ciqrpa6 {
     justify-content: start
@@ -695,9 +695,6 @@
   .ctv2jj6 {
     overflow-y: auto
   }
-  .c1n9ido6 {
-    padding-top: 5rem
-  }
   .cfoar8i {
     border-top-left-radius: 32px
   }
@@ -797,12 +794,6 @@
   .c7qjy52 {
     font-size: 24px
   }
-  .c1xsewl7 {
-    margin-left: 2rem
-  }
-  .c1ovvagj {
-    margin-right: 2rem
-  }
   .c1btyfa {
     line-height: 1.7
   }
@@ -816,6 +807,9 @@
     line-height: 1.7
   }
   .cz7p94 h2 {
+    margin-bottom: -16px
+  }
+  .cpz8b15 h3 {
     margin-bottom: -16px
   }
   .c1l93n79 a {
@@ -939,12 +933,6 @@
   .cb9779l {
     height: 500px
   }
-  .c1gy5szp {
-    margin-right: 1rem
-  }
-  .c1bwyry7 {
-    margin-left: 1rem
-  }
   .c1arwhab {
     column-gap: 4rem
   }
@@ -1018,12 +1006,6 @@
   }
   .cqx7kte {
     font-size: 24px
-  }
-  .cfmsnte {
-    margin-left: 0rem
-  }
-  .cbw2ygz {
-    margin-right: 0rem
   }
   .c1r10jp3 {
     font-size: 32px

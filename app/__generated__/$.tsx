@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-06T05:28:08.992Z";
+      export const lastPublished = "2025-07-06T13:02:25.335Z";
 
       export const siteName = "Clip Hold";
 
@@ -31,7 +31,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       const Page = (_props: { system: any; }) => {
 return <Body
-className={`w-element c12v245d ccy4onp c1uoa21q`}>
+className={`w-element cdm1ag0 c1uoa21q c10ahqwr c1atdl27`}>
 <Slot>
 <Fragment_1>
 <div
@@ -42,7 +42,7 @@ className={`w-element c1qopeiv c7z4ryg c1jt805z c1mbyuac c1c43ngc c10ahqwr ccy4o
 href={"/"}
 className={`w-element c10ahqwr ccy4onp ciqrpa6 cdjvmmy`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Dark.png\"\n  />\n  <img\n    src=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Light.png\"\n    alt=\"\"\n    height=\"48\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Dark.png\"\n  />\n  <img\n    src=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Light.png\"\n    alt=\"Clip Hold Logo\"\n    height=\"48\"\n  />\n</picture>\n"}
 className={`w-html-embed`} />
 <p
 className={`w-element clk5tgp c16eseyo c1mbyuac cvddzxn cbgovzd cua250e c117tk5u c1615a3h cjr3ihk`}>
@@ -89,6 +89,20 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
 {"How to use the app and other documentation"}
+</Paragraph>
+</Link_1>
+</NavigationMenuLink>
+<NavigationMenuLink>
+<Link_1
+href={"/release-notes"}
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+<Text
+className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
+{"Release Notes"}
+</Text>
+<Paragraph
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+{"Update history and changelog"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
@@ -400,6 +414,20 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
+href={"/release-notes"}
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+<Text
+className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
+{"Release Notes"}
+</Text>
+<Paragraph
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+{"Update history and changelog"}
+</Paragraph>
+</Link_1>
+</NavigationMenuLink>
+<NavigationMenuLink>
+<Link_1
 href={"/support"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
@@ -518,11 +546,9 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 </Fragment_1>
 </Slot>
 <div
-className={`w-element c10ahqwr ccy4onp cdm1ag0 c7z4ryg c1n9ido6 c1atdl27 c1qopeiv`}>
+className={`w-element c7z4ryg c10ahqwr ccy4onp c12v245d c11iyp3e c1k001t5 c1s01ekh caanqdp c1sacup0 cks2l98 cnbgtry ch91fr5`}>
 <div
-className={`w-element c7z4ryg c1qopeiv c10ahqwr ccy4onp c12v245d`}>
-<div
-className={`w-element c7z4ryg c1jt805z c1xsewl7 c1ovvagj c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 cv0104a c1gy5szp c1bwyry7 cfmsnte cbw2ygz cg5ykre c1merv6x cdot8hu cssz5kv`}>
+className={`w-element c7z4ryg c1jt805z c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 cv0104a cg5ykre c1merv6x cdot8hu cssz5kv`}>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"404 Not Found"}
@@ -570,6 +596,8 @@ className={`w-element cs02lc`}>
 src={"/assets/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917_wsuiz2VllMYTAd-yb-_mG.svg"}
 width={200}
 loading={"eager"}
+alt={"Download on the Mac App Store"}
+height={40}
 className={`w-image`} />
 </Link>
 <Link
@@ -597,7 +625,6 @@ className={`w-element c2oe4sx cqo7lub c15rzea7 cbgovzd c1f3f3n8`}>
 </div>
 </Fragment_1>
 </Slot>
-</div>
 </Body>
 }
 

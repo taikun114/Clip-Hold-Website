@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-06T05:28:08.992Z";
+      export const lastPublished = "2025-07-06T13:02:25.335Z";
 
       export const siteName = "Clip Hold";
 
@@ -31,7 +31,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       const Page = (_props: { system: any; }) => {
 return <Body
-className={`w-element c1uoa21q`}>
+className={`w-element c1uoa21q c10ahqwr c1atdl27 cdm1ag0`}>
 <Slot>
 <Fragment_1>
 <div
@@ -42,7 +42,7 @@ className={`w-element c1qopeiv c7z4ryg c1jt805z c1mbyuac c1c43ngc c10ahqwr ccy4o
 href={"/"}
 className={`w-element c10ahqwr ccy4onp ciqrpa6 cdjvmmy`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Dark.png\"\n  />\n  <img\n    src=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Light.png\"\n    alt=\"\"\n    height=\"48\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Dark.png\"\n  />\n  <img\n    src=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Light.png\"\n    alt=\"Clip Hold Logo\"\n    height=\"48\"\n  />\n</picture>\n"}
 className={`w-html-embed`} />
 <p
 className={`w-element clk5tgp c16eseyo c1mbyuac cvddzxn cbgovzd cua250e c117tk5u c1615a3h cjr3ihk`}>
@@ -89,6 +89,20 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
 {"How to use the app and other documentation"}
+</Paragraph>
+</Link_1>
+</NavigationMenuLink>
+<NavigationMenuLink>
+<Link_1
+href={"/release-notes"}
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+<Text
+className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
+{"Release Notes"}
+</Text>
+<Paragraph
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+{"Update history and changelog"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
@@ -400,6 +414,20 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
+href={"/release-notes"}
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+<Text
+className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
+{"Release Notes"}
+</Text>
+<Paragraph
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+{"Update history and changelog"}
+</Paragraph>
+</Link_1>
+</NavigationMenuLink>
+<NavigationMenuLink>
+<Link_1
 href={"/support"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
@@ -531,7 +559,7 @@ className={`w-element c1yn6h70`}>
 </p>
 <MarkdownEmbed
 code={"## About Information Collection\nClip Hold does not collect or send any information of users.\\\nWhile usage data and crash reports may be shared if users have enabled “Share with app developers” under “Analytics & Improvements” in the System Settings' “Privacy & Security” section, the app itself is entirely devoid of any functionality to collect or send user-related information. Even if you are concerned about privacy, you can use it with confidence.\n\n## Information Clip Hold Retrieves\nThere is information that is retrieved in order for the Clip Hold features to work properly. The following information is retrieved\n\n- Clipboard contents\n  - Used to save the clipboard history.\n- Copied time\n  - Used to store and display the copied time.\n- Keyboard Input\n  - Used to recognize global shortcuts.\n- Running app name/information\n  - Used to add to “Apps to Exclude” from running apps.\n- Copy source app name/information\n  - Used to detect if an app is registered in the “Apps to Exclude” list.\n- System information / app version information\n  - Used for automatic detection of the feedback template language and for the function to pre-fill in the information required by me when the “Send Feedback” button in the app is clicked. The following information is collected for this feature\n    - Language of the app (Japanese or other)\n    - Model ID (e.g. Mac16,11)\n    - CPU architecture (e.g. Apple Silicon (arm64))\n    - macOS version information (e.g., Version 15.5 (build 24F74))\n    - App version information (e.g. Version 1.0.0 (build 202507031827))\n \nThis information will stay only in the app and will not be sent to outside."}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 c1l93n79 c11k13wx ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 c1l93n79 c11k13wx ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>
@@ -570,6 +598,8 @@ className={`w-element cs02lc`}>
 src={"/assets/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917_wsuiz2VllMYTAd-yb-_mG.svg"}
 width={200}
 loading={"eager"}
+alt={"Download on the Mac App Store"}
+height={40}
 className={`w-image`} />
 </Link>
 <Link

@@ -23,6 +23,14 @@
   {
     "path": "/support",
     "lastModified": "2025-07-06"
+  },
+  {
+    "path": "/release-notes",
+    "lastModified": "2025-07-06"
+  },
+  {
+    "path": "/jp/release-notes",
+    "lastModified": "2025-07-06"
   }
 ];
     

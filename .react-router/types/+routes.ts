@@ -16,7 +16,13 @@ type Pages = {
   "/jp/privacy-policy": {
     params: {};
   };
+  "/jp/release-notes": {
+    params: {};
+  };
   "/privacy-policy": {
+    params: {};
+  };
+  "/release-notes": {
     params: {};
   };
   "/jp/support": {
@@ -49,15 +55,23 @@ type Pages = {
 type RouteFiles = {
   "root.tsx": {
     id: "root";
-    page: "/" | "/jp/privacy-policy" | "/privacy-policy" | "/jp/support" | "/sitemap.xml" | "/support" | "/robots.txt" | "/jp" | "/_image/*" | "/*";
+    page: "/" | "/jp/privacy-policy" | "/jp/release-notes" | "/privacy-policy" | "/release-notes" | "/jp/support" | "/sitemap.xml" | "/support" | "/robots.txt" | "/jp" | "/_image/*" | "/*";
   };
   "routes/[jp].[privacy-policy]._index.tsx": {
     id: "routes/[jp].[privacy-policy]._index";
     page: "/jp/privacy-policy";
   };
+  "routes/[jp].[release-notes]._index.tsx": {
+    id: "routes/[jp].[release-notes]._index";
+    page: "/jp/release-notes";
+  };
   "routes/[privacy-policy]._index.tsx": {
     id: "routes/[privacy-policy]._index";
     page: "/privacy-policy";
+  };
+  "routes/[release-notes]._index.tsx": {
+    id: "routes/[release-notes]._index";
+    page: "/release-notes";
   };
   "routes/[jp].[support]._index.tsx": {
     id: "routes/[jp].[support]._index";

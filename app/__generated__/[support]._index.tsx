@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-06T05:28:08.992Z";
+      export const lastPublished = "2025-07-06T13:02:25.335Z";
 
       export const siteName = "Clip Hold";
 
@@ -31,7 +31,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       const Page = (_props: { system: any; }) => {
 return <Body
-className={`w-element c1uoa21q`}>
+className={`w-element c1uoa21q c10ahqwr c1atdl27 cdm1ag0`}>
 <Slot>
 <Fragment_1>
 <div
@@ -42,7 +42,7 @@ className={`w-element c1qopeiv c7z4ryg c1jt805z c1mbyuac c1c43ngc c10ahqwr ccy4o
 href={"/"}
 className={`w-element c10ahqwr ccy4onp ciqrpa6 cdjvmmy`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Dark.png\"\n  />\n  <img\n    src=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Light.png\"\n    alt=\"\"\n    height=\"48\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Dark.png\"\n  />\n  <img\n    src=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Light.png\"\n    alt=\"Clip Hold Logo\"\n    height=\"48\"\n  />\n</picture>\n"}
 className={`w-html-embed`} />
 <p
 className={`w-element clk5tgp c16eseyo c1mbyuac cvddzxn cbgovzd cua250e c117tk5u c1615a3h cjr3ihk`}>
@@ -89,6 +89,20 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
 {"How to use the app and other documentation"}
+</Paragraph>
+</Link_1>
+</NavigationMenuLink>
+<NavigationMenuLink>
+<Link_1
+href={"/release-notes"}
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+<Text
+className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
+{"Release Notes"}
+</Text>
+<Paragraph
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+{"Update history and changelog"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
@@ -400,6 +414,20 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
+href={"/release-notes"}
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+<Text
+className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
+{"Release Notes"}
+</Text>
+<Paragraph
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+{"Update history and changelog"}
+</Paragraph>
+</Link_1>
+</NavigationMenuLink>
+<NavigationMenuLink>
+<Link_1
 href={"/support"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
@@ -531,7 +559,7 @@ className={`w-element c1yn6h70`}>
 </p>
 <MarkdownEmbed
 code={"## If you find a bug\nClip Hold is an application developed using generative AI. I have tested it many times while developing it, but there may still be some bugs or some functions may not operate as intended.\n\nIf you find a bug or a behavior problem, please check the [**Issues**](https://github.com/taikun114/Clip-Hold/issues) (known bugs or problems) already opened and look for the same problem reported by others. If you cannot find the same issue, please open a new Issue and report the problem.\\\nTo make bug tracking easier, if you want to report more than one issue, please open a separate Issue for each problem. In other words, if you want to report two bugs, you must open two Issues.\n\n## Feedback\nIf you do not have a GitHub account and would like to report a bug, share an idea, or send a message to the developer (me), you can click [**this link**](mailto:contact.taikun@gmail.com?subject=Clip%20Hold%20Feedback:%20&body=Please%20describe%20your%20feedback%20in%20detail:%0D%0A%0D%0A%0D%0ASystem%20Information:%0D%0A%0D%0A-%20System%20%0D%0APlease%20enter%20your%20Mac%20model.%0D%0A%0D%0A%0D%0A-%20macOS%20Version%20%0D%0AIf%20you%20are%20experiencing%20problems,%20please%20enter%20the%20macOS%20version.%0D%0A%0D%0A%0D%0A-%20App%20Version%0D%0AIf%20you%20are%20experiencing%20problems,%20please%20enter%20the%20app%20version.%0D%0A%0D%0A) or click the “Send Feedback” button in the “Information” tab in the app settings to send an email (please note that I may not be able to reply to all messages).\\\nWhen you open the Send Email window from the button in the app, necessary information, such as Mac system information (Model ID, CPU architecture type, macOS version information) and app version information, will be pre-filled, so sending feedback from there is recommended.\n\n## Community\nYou can share new features you would like to see added to the app, ask questions about questions about potential issues that may or may not be bugs, exchange opinions with others, and more on the [**discussion page**](https://github.com/taikun114/Clip-Hold/discussions).\\\nPlease use the page as a place to exchange information. I often look in on the page, so messages to the developer are also highly welcome!"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 c1l93n79 c11k13wx ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 c1l93n79 c11k13wx ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>
@@ -570,6 +598,8 @@ className={`w-element cs02lc`}>
 src={"/assets/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917_wsuiz2VllMYTAd-yb-_mG.svg"}
 width={200}
 loading={"eager"}
+alt={"Download on the Mac App Store"}
+height={40}
 className={`w-image`} />
 </Link>
 <Link

@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-06T05:28:08.992Z";
+      export const lastPublished = "2025-07-06T13:02:25.335Z";
 
       export const siteName = "Clip Hold";
 
@@ -31,7 +31,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       const Page = (_props: { system: any; }) => {
 return <Body
-className={`w-element c1uoa21q`}>
+className={`w-element c1uoa21q c10ahqwr c1atdl27 cdm1ag0`}>
 <Slot>
 <Fragment_1>
 <div
@@ -42,7 +42,7 @@ className={`w-element c1qopeiv c7z4ryg c1jt805z c1mbyuac c1c43ngc c10ahqwr ccy4o
 href={"/jp"}
 className={`w-element c10ahqwr ccy4onp ciqrpa6 cdjvmmy`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Dark.png\"\n  />\n  <img\n    src=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Light.png\"\n    alt=\"\"\n    height=\"48\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Dark.png\"\n  />\n  <img\n    src=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Light.png\"\n    alt=\"Clip Holdのロゴ\"\n    height=\"48\"\n  />\n</picture>\n"}
 className={`w-html-embed`} />
 <p
 className={`w-element clk5tgp c16eseyo c1mbyuac cvddzxn cbgovzd cua250e c117tk5u c1615a3h cjr3ihk`}>
@@ -89,6 +89,20 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
 {"アプリの使い方などのドキュメント"}
+</Paragraph>
+</Link_1>
+</NavigationMenuLink>
+<NavigationMenuLink>
+<Link_1
+href={"/jp/release-notes"}
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+<Text
+className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
+{"リリースノート"}
+</Text>
+<Paragraph
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+{"アップデート履歴と変更ログ"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
@@ -400,6 +414,20 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
+href={"/jp/release-notes"}
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+<Text
+className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
+{"リリースノート"}
+</Text>
+<Paragraph
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+{"アップデート履歴と変更ログ"}
+</Paragraph>
+</Link_1>
+</NavigationMenuLink>
+<NavigationMenuLink>
+<Link_1
 href={"/jp/support"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
@@ -529,7 +557,7 @@ className={`w-element c1yn6h70`}>
 </p>
 <MarkdownEmbed
 code={"## 情報の収集について\nClip Holdは、ユーザーのいかなる情報も収集・送信しません。\\\nシステム設定の「プライバシーとセキュリティ」設定内にある「解析と改善」で「アプリデベロッパと共有」をオンにしているユーザーの使用状況データとクラッシュレポートが共有される場合がありますが、アプリ自体には情報を収集して送信する機能は全く搭載されていません。プライバシーが心配な方でも安心してお使いいただけます。\n\n## Clip Holdが取得する情報\nClip Holdの機能が正しく動作するために取得する情報があります。次の情報が取得されます。\n\n- クリップボードのコンテンツ\n  - クリップボードの履歴を保存するために使用されています。\n- コピーした時刻\n  - コピーされた時刻を記録・表示するために使用されています。\n- キーボード入力\n  - グローバルショートカットを認識するために使用されています。\n- 実行中のアプリ名・情報\n  - 「除外するアプリ」に追加する際、実行中のアプリから追加できるようにするために使用されています。\n- コピー元のアプリ名・情報\n  - アプリが「除外するアプリ」に登録されているかどうかを検出するために使用されています。\n- システム情報・アプリのバージョン情報\n  - アプリ内の「フィードバックを送信」ボタンをクリックした際に、フィードバックテンプレート言語の自動検出及びこちらで必要な情報が事前入力される機能のために使用されています。この機能には、以下の情報が取得されます。\n    - アプリの言語（日本語かそれ以外か）\n    - 機種ID（例: Mac16,11）\n    - CPUアーキテクチャ（例: Apple Silicon (arm64)）\n    - macOSバージョン情報（例: バージョン15.5（ビルド24F74））\n    - アプリバージョン情報（例: バージョン1.0.0（ビルド202507031827））\n \nこれらの取得された情報はアプリ内にのみとどまり、外部へ送信される事は一切ありません。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 c1l93n79 c11k13wx ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 c1l93n79 c11k13wx ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>
@@ -568,6 +596,7 @@ className={`w-element cs02lc`}>
 src={"/assets/Download_on_the_Mac_App_Store_Badge_JP_RGB_blk_100317_PBTOdZUu8ZYNgCcHrs3tY.svg"}
 width={200}
 loading={"eager"}
+alt={"Mac App Storeからダウンロード"}
 height={40}
 className={`w-image`} />
 </Link>
