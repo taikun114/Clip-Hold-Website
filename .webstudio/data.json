@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "23d0496d-4b42-497e-8a63-5d0ff62f43a3",
+    "id": "f9bdb0fa-20ec-4808-b82a-fbe73107b883",
     "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
-    "version": 2399,
-    "createdAt": "2025-07-06T13:02:25.335+00:00",
-    "updatedAt": "2025-07-06T13:02:25.335+00:00",
+    "version": 2427,
+    "createdAt": "2025-07-07T14:11:42.333+00:00",
+    "updatedAt": "2025-07-07T14:11:42.333+00:00",
     "pages": {
       "meta": {
         "siteName": "Clip Hold",
@@ -71995,7 +71995,7 @@
           "instanceId": "BIblUsMnpFaRgl8JVempU",
           "name": "code",
           "type": "string",
-          "value": "## Version 1.0.0 \nRelease: July 6, 2025\n\n### Update Details\n- Initial release"
+          "value": "## Version 1.0.1\nRelease: July 7, 2025\n\n### Update Details\n- Add accessibility labels\n  - Descriptions have been added to help VoiceOver users understand items.\n- Add option to temporarily hide menu bar icon\n  - The icon will reappear when you reopen the app.\n\n## Version 1.0.0 \nRelease: July 6, 2025\n\n### Update Details\n- Initial release"
         }
       ],
       [
@@ -72205,7 +72205,7 @@
           "instanceId": "RZSxeeX7htVRLHYUqKJdZ",
           "name": "code",
           "type": "string",
-          "value": "## バージョン 1.0.0\nリリース: 2025年7月6日\n\n### アップデート内容\n- 初期リリース"
+          "value": "## バージョン 1.0.1\nリリース: 2025年7月7日\n\n### アップデート内容\n- アクセシビリティラベルの追加\n  - VoiceOverユーザーが項目を理解できるように説明が追加されました。\n- メニューバーアイコンを一時的に非表示にするオプションの追加\n  - アプリを開き直すと再びアイコンが表示されるようになります。\n\n## バージョン 1.0.0\nリリース: 2025年7月6日\n\n### アップデート内容\n- 初期リリース"
         }
       ],
       [

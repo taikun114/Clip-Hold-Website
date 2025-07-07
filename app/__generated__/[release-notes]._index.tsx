@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-06T13:02:25.335Z";
+      export const lastPublished = "2025-07-07T14:11:42.333Z";
 
       export const siteName = "Clip Hold";
 
@@ -554,7 +554,7 @@ className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"Clip Hold Release Notes"}
 </h1>
 <MarkdownEmbed
-code={"## Version 1.0.0 \nRelease: July 6, 2025\n\n### Update Details\n- Initial release"}
+code={"## Version 1.0.1\nRelease: July 7, 2025\n\n### Update Details\n- Add accessibility labels\n  - Descriptions have been added to help VoiceOver users understand items.\n- Add option to temporarily hide menu bar icon\n  - The icon will reappear when you reopen the app.\n\n## Version 1.0.0 \nRelease: July 6, 2025\n\n### Update Details\n- Initial release"}
 className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 c1l93n79 c11k13wx ch6h5mx`}>
 </MarkdownEmbed>
 </div>

@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-06T13:02:25.335Z";
+      export const lastPublished = "2025-07-07T14:11:42.333Z";
 
       export const siteName = "Clip Hold";
 
@@ -552,7 +552,7 @@ className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"Clip Hold リリースノート"}
 </h1>
 <MarkdownEmbed
-code={"## バージョン 1.0.0\nリリース: 2025年7月6日\n\n### アップデート内容\n- 初期リリース"}
+code={"## バージョン 1.0.1\nリリース: 2025年7月7日\n\n### アップデート内容\n- アクセシビリティラベルの追加\n  - VoiceOverユーザーが項目を理解できるように説明が追加されました。\n- メニューバーアイコンを一時的に非表示にするオプションの追加\n  - アプリを開き直すと再びアイコンが表示されるようになります。\n\n## バージョン 1.0.0\nリリース: 2025年7月6日\n\n### アップデート内容\n- 初期リリース"}
 className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 c1l93n79 c11k13wx ch6h5mx`}>
 </MarkdownEmbed>
 </div>
