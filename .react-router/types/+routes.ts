@@ -13,10 +13,37 @@ type Pages = {
   "/": {
     params: {};
   };
+  "/jp/docs/standard-phrases-window-and-history-window": {
+    params: {};
+  };
+  "/docs/standard-phrases-window-and-history-window": {
+    params: {};
+  };
+  "/jp/docs/standard-phrases-and-copy-history": {
+    params: {};
+  };
+  "/docs/standard-phrases-and-copy-history": {
+    params: {};
+  };
+  "/jp/docs/notifications": {
+    params: {};
+  };
+  "/docs/notifications": {
+    params: {};
+  };
+  "/jp/docs/settings": {
+    params: {};
+  };
   "/jp/privacy-policy": {
     params: {};
   };
   "/jp/release-notes": {
+    params: {};
+  };
+  "/docs/settings": {
+    params: {};
+  };
+  "/jp/docs/faq": {
     params: {};
   };
   "/privacy-policy": {
@@ -31,7 +58,16 @@ type Pages = {
   "/sitemap.xml": {
     params: {};
   };
+  "/docs/faq": {
+    params: {};
+  };
+  "/jp/docs": {
+    params: {};
+  };
   "/support": {
+    params: {};
+  };
+  "/docs": {
     params: {};
   };
   "/robots.txt": {
@@ -55,7 +91,35 @@ type Pages = {
 type RouteFiles = {
   "root.tsx": {
     id: "root";
-    page: "/" | "/jp/privacy-policy" | "/jp/release-notes" | "/privacy-policy" | "/release-notes" | "/jp/support" | "/sitemap.xml" | "/support" | "/robots.txt" | "/jp" | "/_image/*" | "/*";
+    page: "/" | "/jp/docs/standard-phrases-window-and-history-window" | "/docs/standard-phrases-window-and-history-window" | "/jp/docs/standard-phrases-and-copy-history" | "/docs/standard-phrases-and-copy-history" | "/jp/docs/notifications" | "/docs/notifications" | "/jp/docs/settings" | "/jp/privacy-policy" | "/jp/release-notes" | "/docs/settings" | "/jp/docs/faq" | "/privacy-policy" | "/release-notes" | "/jp/support" | "/sitemap.xml" | "/docs/faq" | "/jp/docs" | "/support" | "/docs" | "/robots.txt" | "/jp" | "/_image/*" | "/*";
+  };
+  "routes/[jp].[docs].[standard-phrases-window-and-history-window]._index.tsx": {
+    id: "routes/[jp].[docs].[standard-phrases-window-and-history-window]._index";
+    page: "/jp/docs/standard-phrases-window-and-history-window";
+  };
+  "routes/[docs].[standard-phrases-window-and-history-window]._index.tsx": {
+    id: "routes/[docs].[standard-phrases-window-and-history-window]._index";
+    page: "/docs/standard-phrases-window-and-history-window";
+  };
+  "routes/[jp].[docs].[standard-phrases-and-copy-history]._index.tsx": {
+    id: "routes/[jp].[docs].[standard-phrases-and-copy-history]._index";
+    page: "/jp/docs/standard-phrases-and-copy-history";
+  };
+  "routes/[docs].[standard-phrases-and-copy-history]._index.tsx": {
+    id: "routes/[docs].[standard-phrases-and-copy-history]._index";
+    page: "/docs/standard-phrases-and-copy-history";
+  };
+  "routes/[jp].[docs].[notifications]._index.tsx": {
+    id: "routes/[jp].[docs].[notifications]._index";
+    page: "/jp/docs/notifications";
+  };
+  "routes/[docs].[notifications]._index.tsx": {
+    id: "routes/[docs].[notifications]._index";
+    page: "/docs/notifications";
+  };
+  "routes/[jp].[docs].[settings]._index.tsx": {
+    id: "routes/[jp].[docs].[settings]._index";
+    page: "/jp/docs/settings";
   };
   "routes/[jp].[privacy-policy]._index.tsx": {
     id: "routes/[jp].[privacy-policy]._index";
@@ -64,6 +128,14 @@ type RouteFiles = {
   "routes/[jp].[release-notes]._index.tsx": {
     id: "routes/[jp].[release-notes]._index";
     page: "/jp/release-notes";
+  };
+  "routes/[docs].[settings]._index.tsx": {
+    id: "routes/[docs].[settings]._index";
+    page: "/docs/settings";
+  };
+  "routes/[jp].[docs].[faq]._index.tsx": {
+    id: "routes/[jp].[docs].[faq]._index";
+    page: "/jp/docs/faq";
   };
   "routes/[privacy-policy]._index.tsx": {
     id: "routes/[privacy-policy]._index";
@@ -81,9 +153,21 @@ type RouteFiles = {
     id: "routes/[sitemap.xml]._index";
     page: "/sitemap.xml";
   };
+  "routes/[docs].[faq]._index.tsx": {
+    id: "routes/[docs].[faq]._index";
+    page: "/docs/faq";
+  };
+  "routes/[jp].[docs]._index.tsx": {
+    id: "routes/[jp].[docs]._index";
+    page: "/jp/docs";
+  };
   "routes/[support]._index.tsx": {
     id: "routes/[support]._index";
     page: "/support";
+  };
+  "routes/[docs]._index.tsx": {
+    id: "routes/[docs]._index";
+    page: "/docs";
   };
   "routes/[robots.txt].tsx": {
     id: "routes/[robots.txt]";

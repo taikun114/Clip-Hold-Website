@@ -544,15 +544,25 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 </Fragment_1>
 </Slot>
 <div
-className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c11iyp3e c1k001t5 c1s01ekh cks2l98 c1sacup0 cnbgtry ch91fr5`}>
+className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c1k001t5 c1s01ekh c11iyp3e cks2l98 c1sacup0 cnbgtry ch91fr5`}>
 <div
 className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1jt805z cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
-{"Clip Hold Release Notes"}
+{"Standard Phrases and Copy History"}
 </h1>
+<h2
+className={`w-element c23z8nw c1dgg9g4 cua250e`}>
+{"Standard Phrases Window and History Window"}
+</h2>
+<Image
+src={"/assets/Standard-Phrase-and-History-Window_Fh9NSTn8wzn93rXNIJ7__.webp"}
+width={1627}
+height={987}
+loading={"eager"}
+className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
-code={"## Version 1.1.0\nRelease: July 11, 2025\n\n### Update Details\n#### New Features\n- Add the feature to create a QR Code from copied text\n  - Click “Show QR Code” in the item options of the History Window and Standard Phrases Window to generate a QR Code.\n- Add the feature to copy an image that contains a QR code to add the content to the history.\n  - You can use it by enabling “Scan QR Code Image” in the settings.\n- Add the feature to drag and drop an image that contains a QR code into the history window to copy the content\n- Add the feature to create a standard phrase from the clipboard contents.\n  - Added shortcut key to add a standard phrase from the current clipboard contents.\n  - Added the feature to add a standard phrase from an item in the History Window.\n- Add the feature to automatically scroll to the top when the history list is updated\n  - You can use it by enabling “Scroll to the Top When the List is Updated” in the settings.\n\n#### Bug Fixes and Improvements\n- Improve the context menu in the Standard Phrase Window and History Window\n  - Items that show an additional screen now have a trailing “...” and added a divider line above “Delete...”.\n- Improve placement in General settings\n- Improve the Standard Phrases Window to be able to reorder items.\n  - You can reorder only if you are not searching.\n- Fix the Standard Phrase Window and the History Window to remember the correct position\n\n## Version 1.0.1\nRelease: July 7, 2025\n\n### Update Details\n#### Bug Fixes and Improvements\n- Add accessibility labels\n  - Descriptions have been added to help VoiceOver users understand items.\n- Add option to temporarily hide menu bar icon\n  - The icon will reappear when you reopen the app.\n\n## Version 1.0.0 \nRelease: July 6, 2025\n\n### Update Details\n- Initial release"}
+code={"All standard phrases and copy history can be accessed from the Standard Phrases Window and the History Window.\\\nThe Standard Phrases Window can be opened by clicking \"Show All Standard Phrases...\" in the Clip Hold menu bar icon, and the History Window by clicking \"Show All Copy History...\".\\\nThese windows can also be opened using shortcut keys. The Standard Phrases Window opens by default with Control + Command + V, and the History Window with Option + Command + V.\n\n#### About Each Item\nYou can copy items displayed in the window by double-clicking them.\\\nBy default, the window closes automatically after copying, but you can change this in the settings to keep it open.\n\n> **Tip**\\\n> Hovering over each item displays the entire content in a tooltip. This is useful when you want to check long content before copying it.\n\nAdditionally, you can right-click each item to copy or create a QR Code, and even delete it (if deleted, it is also removed from storage).\\\nIn addition to these, the Standard Phrases Window shows the option to edit a standard phrase, and the History Window shows the option to create a standard phrase from the item.\n\n> **Note**\\\n> The options to create a QR Code, edit a standard phrase, and create a standard phrase from the item requires Clip Hold 1.1.0 or later.\n\n#### Search\nYou can also search for standard phrases and copy history by typing keywords into the search bar at the top. The search function operates in the background, allowing for fast searches without freezing the UI, even with a large number of standard phrases or copy histories.\n\n### Scanning QR Code Images \n> **Note**\\\n> Requires Clip Hold 1.1.0 or later.\n\nDrag and drop an image containing a QR Code into the History Window, the contents of the QR Code will be copied and added to the History.\n\n> **Tip**\\\n> It is not necessary for the entire image to contain a QR Code as long as it contains a minimum readable resolution of QR Code.\n\n### Settings\nFor settings related to the Standard Phrases Window, please refer to [**this page**](/docs/settings#standard-phrases-window), and for settings related to the History Window, please refer to [**this page**](/docs/settings#history-window)."}
 className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1l93n79 c11k13wx c1kaohmx c3pvp22 c10uadrl cce85kl c5usisw c1lkw1ez c1bu1h3m ch6h5mx`}>
 </MarkdownEmbed>
 </div>

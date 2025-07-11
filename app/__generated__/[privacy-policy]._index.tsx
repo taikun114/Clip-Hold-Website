@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-07T14:11:42.333Z";
+      export const lastPublished = "2025-07-10T14:10:46.047Z";
 
       export const siteName = "Clip Hold";
 
@@ -79,12 +79,11 @@ className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
-href={"https://github.com/taikun114/Clip-Hold/wiki"}
-target={"_blank"}
+href={"/docs"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
-{"GitHub Wiki"}
+{"Documents"}
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
@@ -399,12 +398,11 @@ className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27 ctsrmp7 c142ylfi ctv2jj6`}>
 <NavigationMenuLink>
 <Link_1
-href={"https://github.com/taikun114/Clip-Hold/wiki"}
-target={"_blank"}
+href={"/docs"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
-{"GitHub Wiki"}
+{"Documents"}
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
@@ -559,14 +557,14 @@ className={`w-element c1yn6h70`}>
 </p>
 <MarkdownEmbed
 code={"## About Information Collection\nClip Hold does not collect or send any information of users.\\\nWhile usage data and crash reports may be shared if users have enabled “Share with app developers” under “Analytics & Improvements” in the System Settings' “Privacy & Security” section, the app itself is entirely devoid of any functionality to collect or send user-related information. Even if you are concerned about privacy, you can use it with confidence.\n\n## Information Clip Hold Retrieves\nThere is information that is retrieved in order for the Clip Hold features to work properly. The following information is retrieved\n\n- Clipboard contents\n  - Used to save the clipboard history.\n- Copied time\n  - Used to store and display the copied time.\n- Keyboard Input\n  - Used to recognize global shortcuts.\n- Running app name/information\n  - Used to add to “Apps to Exclude” from running apps.\n- Copy source app name/information\n  - Used to detect if an app is registered in the “Apps to Exclude” list.\n- System information / app version information\n  - Used for automatic detection of the feedback template language and for the function to pre-fill in the information required by me when the “Send Feedback” button in the app is clicked. The following information is collected for this feature\n    - Language of the app (Japanese or other)\n    - Model ID (e.g. Mac16,11)\n    - CPU architecture (e.g. Apple Silicon (arm64))\n    - macOS version information (e.g., Version 15.5 (build 24F74))\n    - App version information (e.g. Version 1.0.0 (build 202507031827))\n \nThis information will stay only in the app and will not be sent to outside."}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 c1l93n79 c11k13wx ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1l93n79 c11k13wx c1kaohmx c3pvp22 c10uadrl cce85kl c5usisw c1lkw1ez c1bu1h3m ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1vr770l c10idg3e c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c10ahqwr ccy4onp c12v245d c1atdl27 cv0104a cepgicz c16j4kee cyxspfs cb9779l`}>
+className={`w-element c7z4ryg c1vr770l c10idg3e c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c10ahqwr ccy4onp c12v245d c1atdl27 cv0104a cepgicz cyxspfs c1qe7rj6 c1xndikr`}>
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <Image
@@ -574,7 +572,7 @@ src={"/assets/App_Icon512_yfUerJqzgO_Ly6tZ_QXZ9.webp"}
 width={200}
 height={200}
 loading={"lazy"}
-className={`w-image cp5616u`} />
+className={`w-image cp5616u c10k2c2o ctbwnqh`} />
 <div
 className={`w-element c1mbyuac c17yqxus c1ghn8z4`}>
 <h1
@@ -618,8 +616,42 @@ className={`w-element c1f3f3n8 c23z8nw cqo7lub`}>
 </div>
 </Fragment_1>
 </Slot>
+<Slot>
+<Fragment_1>
+<div
+className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub c12grc7c c1co68v6`}>
+<Link
+href={"https://github.com/taikun114/Clip-Hold"}
+target={"_blank"}
+className={`w-element cs02lc`}>
+<MarkdownEmbed
+code={"![GitHub Repo stars](https://img.shields.io/github/stars/taikun114/Clip-Hold?style=for-the-badge&labelColor=131838&color=f2f4ff)"}
+className={`w-markdown-embed c13jyokv cvwxmdx c17xwl4u c1445yj8 c1tqhnvc c1xhku0o c1liz230 cxebacj`}>
+</MarkdownEmbed>
+</Link>
+<Link
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
+target={"_blank"}
+className={`w-element cs02lc`}>
+<MarkdownEmbed
+code={"![GitHub Latest Release](https://img.shields.io/github/v/release/taikun114/Clip-Hold?sort=semver&display_name=tag&style=for-the-badge&label=Latest%20Release&labelColor=131838&color=f2f4ff)"}
+className={`w-markdown-embed c13jyokv cvwxmdx c17xwl4u c1445yj8 c1tqhnvc c1xhku0o c1liz230 cxebacj`}>
+</MarkdownEmbed>
+</Link>
+<Link
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
+target={"_blank"}
+className={`w-element cs02lc`}>
+<MarkdownEmbed
+code={"![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/taikun114/Clip-Hold/total?style=for-the-badge&label=Free%20Downloads&labelColor=131838&color=f2f4ff)"}
+className={`w-markdown-embed cvwxmdx c13jyokv c17xwl4u c1445yj8 c1tqhnvc c1xhku0o c1liz230 cxebacj`}>
+</MarkdownEmbed>
+</Link>
+</div>
+</Fragment_1>
+</Slot>
 <p
-className={`w-element c2oe4sx cqo7lub c15rzea7 cbgovzd c1f3f3n8`}>
+className={`w-element cmfetcc cqo7lub c15rzea7 cbgovzd c1f3f3n8`}>
 {"Compatible with macOS Sonoma (14.0) or later"}
 </p>
 </div>

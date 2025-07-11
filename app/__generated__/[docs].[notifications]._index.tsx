@@ -544,15 +544,21 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 </Fragment_1>
 </Slot>
 <div
-className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c11iyp3e c1k001t5 c1s01ekh cks2l98 c1sacup0 cnbgtry ch91fr5`}>
+className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c1k001t5 c1s01ekh c11iyp3e cks2l98 c1sacup0 cnbgtry ch91fr5`}>
 <div
 className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1jt805z cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
-{"Clip Hold Release Notes"}
+{"Notifications"}
 </h1>
+<Image
+src={"/assets/Pause-Clipboard-Monitoring_zxcXZdErYvRo1_GUAIPZd.webp"}
+width={897}
+height={419}
+loading={"eager"}
+className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
-code={"## Version 1.1.0\nRelease: July 11, 2025\n\n### Update Details\n#### New Features\n- Add the feature to create a QR Code from copied text\n  - Click “Show QR Code” in the item options of the History Window and Standard Phrases Window to generate a QR Code.\n- Add the feature to copy an image that contains a QR code to add the content to the history.\n  - You can use it by enabling “Scan QR Code Image” in the settings.\n- Add the feature to drag and drop an image that contains a QR code into the history window to copy the content\n- Add the feature to create a standard phrase from the clipboard contents.\n  - Added shortcut key to add a standard phrase from the current clipboard contents.\n  - Added the feature to add a standard phrase from an item in the History Window.\n- Add the feature to automatically scroll to the top when the history list is updated\n  - You can use it by enabling “Scroll to the Top When the List is Updated” in the settings.\n\n#### Bug Fixes and Improvements\n- Improve the context menu in the Standard Phrase Window and History Window\n  - Items that show an additional screen now have a trailing “...” and added a divider line above “Delete...”.\n- Improve placement in General settings\n- Improve the Standard Phrases Window to be able to reorder items.\n  - You can reorder only if you are not searching.\n- Fix the Standard Phrase Window and the History Window to remember the correct position\n\n## Version 1.0.1\nRelease: July 7, 2025\n\n### Update Details\n#### Bug Fixes and Improvements\n- Add accessibility labels\n  - Descriptions have been added to help VoiceOver users understand items.\n- Add option to temporarily hide menu bar icon\n  - The icon will reappear when you reopen the app.\n\n## Version 1.0.0 \nRelease: July 6, 2025\n\n### Update Details\n- Initial release"}
+code={"Clip Hold has the feature to **send notifications based on the status of the clipboard monitoring**.\n\nNotifications are sent at the following events.\n\n- When clipboard monitoring is paused\n- When clipboard monitoring is resumed\n- When an app is launched while clipboard monitoring is paused\n- When a test notification is sent from the settings.\n\nOf these notifications, only the notification that is sent “When an app is launched while clipboard monitoring is paused” will play a sound.\\\nThere is also a “Resume” button in this notification panel, where you can quickly resume clipboard monitoring by clicking on it."}
 className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1l93n79 c11k13wx c1kaohmx c3pvp22 c10uadrl cce85kl c5usisw c1lkw1ez c1bu1h3m ch6h5mx`}>
 </MarkdownEmbed>
 </div>

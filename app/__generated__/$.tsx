@@ -5,13 +5,13 @@
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body, Link as Link, Link as Link_1 } from "@webstudio-is/sdk-components-react-router";
-import { Fragment as Fragment_1, Slot as Slot, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, Image as Image } from "@webstudio-is/sdk-components-react";
+import { Fragment as Fragment_1, Slot as Slot, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, Image as Image, MarkdownEmbed as MarkdownEmbed } from "@webstudio-is/sdk-components-react";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuLink as NavigationMenuLink, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-07T14:11:42.333Z";
+      export const lastPublished = "2025-07-10T14:10:46.047Z";
 
       export const siteName = "Clip Hold";
 
@@ -79,12 +79,11 @@ className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
-href={"https://github.com/taikun114/Clip-Hold/wiki"}
-target={"_blank"}
+href={"/docs"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
-{"GitHub Wiki"}
+{"Documents"}
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
@@ -399,12 +398,11 @@ className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27 ctsrmp7 c142ylfi ctv2jj6`}>
 <NavigationMenuLink>
 <Link_1
-href={"https://github.com/taikun114/Clip-Hold/wiki"}
-target={"_blank"}
+href={"/docs"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
-{"GitHub Wiki"}
+{"Documents"}
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
@@ -564,7 +562,7 @@ className={`w-element cqo7lub c23z8nw c1yn6h70`}>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1vr770l c10idg3e c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c10ahqwr ccy4onp c12v245d c1atdl27 cv0104a cepgicz c16j4kee cyxspfs cb9779l`}>
+className={`w-element c7z4ryg c1vr770l c10idg3e c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c10ahqwr ccy4onp c12v245d c1atdl27 cv0104a cepgicz cyxspfs c1qe7rj6 c1xndikr`}>
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <Image
@@ -572,7 +570,7 @@ src={"/assets/App_Icon512_yfUerJqzgO_Ly6tZ_QXZ9.webp"}
 width={200}
 height={200}
 loading={"lazy"}
-className={`w-image cp5616u`} />
+className={`w-image cp5616u c10k2c2o ctbwnqh`} />
 <div
 className={`w-element c1mbyuac c17yqxus c1ghn8z4`}>
 <h1
@@ -616,8 +614,42 @@ className={`w-element c1f3f3n8 c23z8nw cqo7lub`}>
 </div>
 </Fragment_1>
 </Slot>
+<Slot>
+<Fragment_1>
+<div
+className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub c12grc7c c1co68v6`}>
+<Link
+href={"https://github.com/taikun114/Clip-Hold"}
+target={"_blank"}
+className={`w-element cs02lc`}>
+<MarkdownEmbed
+code={"![GitHub Repo stars](https://img.shields.io/github/stars/taikun114/Clip-Hold?style=for-the-badge&labelColor=131838&color=f2f4ff)"}
+className={`w-markdown-embed c13jyokv cvwxmdx c17xwl4u c1445yj8 c1tqhnvc c1xhku0o c1liz230 cxebacj`}>
+</MarkdownEmbed>
+</Link>
+<Link
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
+target={"_blank"}
+className={`w-element cs02lc`}>
+<MarkdownEmbed
+code={"![GitHub Latest Release](https://img.shields.io/github/v/release/taikun114/Clip-Hold?sort=semver&display_name=tag&style=for-the-badge&label=Latest%20Release&labelColor=131838&color=f2f4ff)"}
+className={`w-markdown-embed c13jyokv cvwxmdx c17xwl4u c1445yj8 c1tqhnvc c1xhku0o c1liz230 cxebacj`}>
+</MarkdownEmbed>
+</Link>
+<Link
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
+target={"_blank"}
+className={`w-element cs02lc`}>
+<MarkdownEmbed
+code={"![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/taikun114/Clip-Hold/total?style=for-the-badge&label=Free%20Downloads&labelColor=131838&color=f2f4ff)"}
+className={`w-markdown-embed cvwxmdx c13jyokv c17xwl4u c1445yj8 c1tqhnvc c1xhku0o c1liz230 cxebacj`}>
+</MarkdownEmbed>
+</Link>
+</div>
+</Fragment_1>
+</Slot>
 <p
-className={`w-element c2oe4sx cqo7lub c15rzea7 cbgovzd c1f3f3n8`}>
+className={`w-element cmfetcc cqo7lub c15rzea7 cbgovzd c1f3f3n8`}>
 {"Compatible with macOS Sonoma (14.0) or later"}
 </p>
 </div>
