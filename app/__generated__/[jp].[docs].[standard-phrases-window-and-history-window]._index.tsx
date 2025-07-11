@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-10T14:10:46.047Z";
+      export const lastPublished = "2025-07-11T05:50:21.356Z";
 
       export const siteName = "Clip Hold";
 
@@ -558,10 +558,11 @@ src={"/assets/Standard-Phrase-and-History-Window-ja_cQ0AxOwLppKoTxpMMEby6.webp"}
 width={1605}
 height={966}
 loading={"eager"}
+alt={"定型文ウィンドウと履歴ウィンドウ"}
 className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
 code={"すべての定型文やコピー履歴は、定型文ウィンドウと履歴ウィンドウからアクセスすることができます。\\\n定型文ウィンドウは、Clip Holdのメニューバーアイコンの「すべての定型文を表示...」、履歴ウィンドウは「すべてのコピー履歴を表示...」をクリックすることで開くことができます。\\\nこれらのウィンドウはショートカットキーを使って開くこともできます。定型文ウィンドウはデフォルトでControl + Command + Vキー、履歴ウィンドウはデフォルトでOption + Command + Vキーで開くことができます。\n\n### 各項目について\nウィンドウ内に表示される各項目をダブルクリックすることでコピーすることができます。\\\nデフォルトではコピー後にウインドウが自動的に閉じますが、設定で閉じないようにすることもできます。\n\n> **豆知識**\\\n> 各項目にカーソルを乗せると、ツールチップにコンテンツ全体が表示されます。コピーする前に長いコンテンツを確認したいときに便利です。\n\n他にも、各項目を右クリックしてコピーやQRコードの作成、そして削除することもできます（削除した場合、ストレージからも削除されます）。\\\nこれらに加えて、定型文ウィンドウでは定型文の編集を、履歴ウィンドウではその項目から定型文を作成するオプションが表示されます。\n\n> **注意**\\\n> QRコードの作成、定型文の編集、項目から定型文を作成するオプションは、Clip Hold 1.1.0またはそれ以降が必要です。\n\n### 検索\n上部にある検索欄にキーワードを入力することで定型文やコピー履歴を検索することができます。検索機能はバックグラウンドで行われるため、定型文やコピー履歴の数が多くてもUIがフリーズすることなく高速に検索することができます。\n\n## QRコード画像のスキャン\n> **注意**\\\n> Clip Hold 1.1.0またはそれ以降が必要です。\n\nQRコードが含まれた画像を履歴ウィンドウにドラッグアンドドロップすると、QRコードのコンテンツがコピーされ、履歴に追加されます。\n\n> **豆知識**\\\n> 最低限読み取り可能な解像度のQRコードが含まれていれば、画像全体にQRコードが表示されている必要はありません。\n\n### 設定項目\n定型文ウィンドウに関する設定は[**こちらのページ**](/jp/docs/settings#%E5%AE%9A%E5%9E%8B%E6%96%87%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6)、履歴ウィンドウに関する設定は[**こちらのページ**](/jp/docs/settings#%E5%B1%A5%E6%AD%B4%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6)をご覧ください。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1l93n79 c11k13wx c1kaohmx c3pvp22 c10uadrl cce85kl c5usisw c1lkw1ez c1bu1h3m ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i ckedyeo c11k13wx c1kaohmx c3pvp22 c10uadrl chqip0y c2xlg9q c1jhqcl3 c13xtvcd ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>

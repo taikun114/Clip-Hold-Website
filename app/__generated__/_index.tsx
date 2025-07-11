@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-10T14:10:46.047Z";
+      export const lastPublished = "2025-07-11T05:50:21.356Z";
 
       export const siteName = "Clip Hold";
 
@@ -857,7 +857,7 @@ href={"/support"}
 aria-label={"Support and Feedback button"}
 className={`w-element cs02lc cdjvmmy`}>
 <div
-className={`w-element c1bxwz0t c170tjmx c1vn5tfs c1kp31s8 czucxib cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld cyi660d ca7rlbl c1atnx78 c1s95ji1 c10mtjet c1kkdyp6`}>
+className={`w-element c5shpkj c170tjmx c1vn5tfs c1kp31s8 czucxib cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld c1yk3zoa c1ga2ams cgbsic3 cinh8md c10mtjet c10h7c1p`}>
 <p
 className={`w-element c23z8nw cqo7lub`}>
 {"Support and Feedback"}
@@ -887,7 +887,7 @@ target={"_blank"}
 aria-label={"Buy Me a Coffee button"}
 className={`w-element cs02lc cdjvmmy`}>
 <div
-className={`w-element c1bxwz0t c170tjmx c1vn5tfs c1kp31s8 czucxib cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld cyi660d ca7rlbl c1atnx78 c1s95ji1 c10mtjet c1kkdyp6`}>
+className={`w-element c5shpkj c170tjmx c1vn5tfs c1kp31s8 czucxib cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld c1yk3zoa c1ga2ams cgbsic3 cinh8md c10mtjet c10h7c1p`}>
 <p
 className={`w-element c23z8nw cqo7lub`}>
 {"Buy Me a Coffee"}
@@ -900,7 +900,7 @@ target={"_blank"}
 aria-label={"PayPal.Me button"}
 className={`w-element cs02lc cdjvmmy`}>
 <div
-className={`w-element c1bxwz0t c170tjmx c1vn5tfs c1kp31s8 czucxib cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld cyi660d ca7rlbl c1atnx78 c1s95ji1 c10mtjet c1kkdyp6`}>
+className={`w-element c5shpkj c170tjmx c1vn5tfs c1kp31s8 czucxib cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld c1yk3zoa c1ga2ams cgbsic3 cinh8md c10mtjet c10h7c1p`}>
 <p
 className={`w-element c23z8nw cqo7lub`}>
 {"PayPal.Me"}

@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-10T14:10:46.047Z";
+      export const lastPublished = "2025-07-11T05:50:21.356Z";
 
       export const siteName = "Clip Hold";
 
@@ -560,10 +560,11 @@ src={"/assets/Standard-Phrase-and-History-Window_Fh9NSTn8wzn93rXNIJ7__.webp"}
 width={1627}
 height={987}
 loading={"eager"}
+alt={"Standard Phrases Window and History Window"}
 className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
 code={"All standard phrases and copy history can be accessed from the Standard Phrases Window and the History Window.\\\nThe Standard Phrases Window can be opened by clicking \"Show All Standard Phrases...\" in the Clip Hold menu bar icon, and the History Window by clicking \"Show All Copy History...\".\\\nThese windows can also be opened using shortcut keys. The Standard Phrases Window opens by default with Control + Command + V, and the History Window with Option + Command + V.\n\n#### About Each Item\nYou can copy items displayed in the window by double-clicking them.\\\nBy default, the window closes automatically after copying, but you can change this in the settings to keep it open.\n\n> **Tip**\\\n> Hovering over each item displays the entire content in a tooltip. This is useful when you want to check long content before copying it.\n\nAdditionally, you can right-click each item to copy or create a QR Code, and even delete it (if deleted, it is also removed from storage).\\\nIn addition to these, the Standard Phrases Window shows the option to edit a standard phrase, and the History Window shows the option to create a standard phrase from the item.\n\n> **Note**\\\n> The options to create a QR Code, edit a standard phrase, and create a standard phrase from the item requires Clip Hold 1.1.0 or later.\n\n#### Search\nYou can also search for standard phrases and copy history by typing keywords into the search bar at the top. The search function operates in the background, allowing for fast searches without freezing the UI, even with a large number of standard phrases or copy histories.\n\n### Scanning QR Code Images \n> **Note**\\\n> Requires Clip Hold 1.1.0 or later.\n\nDrag and drop an image containing a QR Code into the History Window, the contents of the QR Code will be copied and added to the History.\n\n> **Tip**\\\n> It is not necessary for the entire image to contain a QR Code as long as it contains a minimum readable resolution of QR Code.\n\n### Settings\nFor settings related to the Standard Phrases Window, please refer to [**this page**](/docs/settings#standard-phrases-window), and for settings related to the History Window, please refer to [**this page**](/docs/settings#history-window)."}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1l93n79 c11k13wx c1kaohmx c3pvp22 c10uadrl cce85kl c5usisw c1lkw1ez c1bu1h3m ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i ckedyeo c11k13wx c1kaohmx c3pvp22 c10uadrl chqip0y c2xlg9q c1jhqcl3 c13xtvcd ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>

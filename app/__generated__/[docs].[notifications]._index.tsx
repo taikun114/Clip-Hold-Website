@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-10T14:10:46.047Z";
+      export const lastPublished = "2025-07-11T05:50:21.356Z";
 
       export const siteName = "Clip Hold";
 
@@ -556,10 +556,11 @@ src={"/assets/Pause-Clipboard-Monitoring_zxcXZdErYvRo1_GUAIPZd.webp"}
 width={897}
 height={419}
 loading={"eager"}
+alt={"Pause Clipboard Monitoring"}
 className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
 code={"Clip Hold has the feature to **send notifications based on the status of the clipboard monitoring**.\n\nNotifications are sent at the following events.\n\n- When clipboard monitoring is paused\n- When clipboard monitoring is resumed\n- When an app is launched while clipboard monitoring is paused\n- When a test notification is sent from the settings.\n\nOf these notifications, only the notification that is sent “When an app is launched while clipboard monitoring is paused” will play a sound.\\\nThere is also a “Resume” button in this notification panel, where you can quickly resume clipboard monitoring by clicking on it."}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1l93n79 c11k13wx c1kaohmx c3pvp22 c10uadrl cce85kl c5usisw c1lkw1ez c1bu1h3m ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i ckedyeo c11k13wx c1kaohmx c3pvp22 c10uadrl chqip0y c2xlg9q c1jhqcl3 c13xtvcd ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>

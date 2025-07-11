@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-10T14:10:46.047Z";
+      export const lastPublished = "2025-07-11T05:50:21.356Z";
 
       export const siteName = "Clip Hold";
 
@@ -557,7 +557,7 @@ className={`w-element c1yn6h70`}>
 </p>
 <MarkdownEmbed
 code={"## About Information Collection\nClip Hold does not collect or send any information of users.\\\nWhile usage data and crash reports may be shared if users have enabled “Share with app developers” under “Analytics & Improvements” in the System Settings' “Privacy & Security” section, the app itself is entirely devoid of any functionality to collect or send user-related information. Even if you are concerned about privacy, you can use it with confidence.\n\n## Information Clip Hold Retrieves\nThere is information that is retrieved in order for the Clip Hold features to work properly. The following information is retrieved\n\n- Clipboard contents\n  - Used to save the clipboard history.\n- Copied time\n  - Used to store and display the copied time.\n- Keyboard Input\n  - Used to recognize global shortcuts.\n- Running app name/information\n  - Used to add to “Apps to Exclude” from running apps.\n- Copy source app name/information\n  - Used to detect if an app is registered in the “Apps to Exclude” list.\n- System information / app version information\n  - Used for automatic detection of the feedback template language and for the function to pre-fill in the information required by me when the “Send Feedback” button in the app is clicked. The following information is collected for this feature\n    - Language of the app (Japanese or other)\n    - Model ID (e.g. Mac16,11)\n    - CPU architecture (e.g. Apple Silicon (arm64))\n    - macOS version information (e.g., Version 15.5 (build 24F74))\n    - App version information (e.g. Version 1.0.0 (build 202507031827))\n \nThis information will stay only in the app and will not be sent to outside."}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1l93n79 c11k13wx c1kaohmx c3pvp22 c10uadrl cce85kl c5usisw c1lkw1ez c1bu1h3m ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i ckedyeo c11k13wx c1kaohmx c3pvp22 c10uadrl chqip0y c2xlg9q c1jhqcl3 c13xtvcd ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>

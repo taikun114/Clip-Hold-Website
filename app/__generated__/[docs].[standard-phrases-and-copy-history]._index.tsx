@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-10T14:10:46.047Z";
+      export const lastPublished = "2025-07-11T05:50:21.356Z";
 
       export const siteName = "Clip Hold";
 
@@ -560,10 +560,11 @@ src={"/assets/Standard-Phrase-and-History_jbS92_carHGf2r1yDu_M7.webp"}
 width={1384}
 height={906}
 loading={"eager"}
+alt={"Standard Phrases and Copy History"}
 className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
 code={"Standard phrases and copy history can be accessed from the Clip Hold icon on the menu bar.\\\nClicking on each item will copy its contents to the clipboard.\n\nStandard phrases and copy history can also be copied by using shortcut keys.\\\nFor standard phrases, the default is **Control + Command + 1-0 numeric keys**, and for copy history, the default is **Option + Command + 1-0 numeric keys**.\\\nShortcut keys can be changed from the “Shortcuts” tab in Clip Hold settings."}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1l93n79 c11k13wx c1kaohmx c3pvp22 c10uadrl cce85kl c5usisw c1lkw1ez c1bu1h3m ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i ckedyeo c11k13wx c1kaohmx c3pvp22 c10uadrl chqip0y c2xlg9q c1jhqcl3 c13xtvcd ch6h5mx`}>
 </MarkdownEmbed>
 <h2
 id={"quick-paste"}
@@ -576,10 +577,11 @@ width={1080}
 height={608}
 loading={"lazy"}
 optimize={false}
+alt={"Quick Paste"}
 className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
 code={"If the “Quick Paste” feature is enabled in the settings, the Command + V key action will be sent and **pasted into the foreground app** at the same time the selected content is copied.\\\nAccessibility permission is required to use this feature. When you try to use this feature for the first time, a prompt will appear asking for accessibility permission, and you will need to grant it to be able to use Quick Paste (if it is not displayed or denied, you will need to add it in the System Settings).\n\n### About accessibility permissions\n\nYou can check to see if Clip Hold has accessibility permissions currently granted by going to the “Permissions” section under the “Privacy” tab in the Clip Hold settings.\\\nIf it says “Granted”, then you have the appropriate permissions and can use it by enabling Quick Paste.\\\nIf it says “Open Settings”, you do not have the permissions yet and will need to open the System Settings to do so. Click “Open Settings” to open the accessibility permission settings in the System Settings, add Clip Hold, and turn it on.\n\n> **Note**\\\n> If you already have Clip Hold in your accessibility permissions and it is turned on but not “Granted” in the Clip Hold settings, you will need to remove it from the list of accessibility permissions in your System Settings and then add it back in and turn it on again.\n> \n> This may happen if you update the app or move the app to a different folder."}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1l93n79 c11k13wx c1kaohmx c3pvp22 c10uadrl cce85kl c5usisw c1lkw1ez c1bu1h3m ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i ckedyeo c11k13wx c1kaohmx c3pvp22 c10uadrl chqip0y c2xlg9q c1jhqcl3 c13xtvcd ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>

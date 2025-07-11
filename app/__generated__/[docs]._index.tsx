@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-10T14:10:46.047Z";
+      export const lastPublished = "2025-07-11T05:50:21.356Z";
 
       export const siteName = "Clip Hold";
 
@@ -556,10 +556,11 @@ src={"/assets/Clip-Hold_Banner_-JXKFz96Vg6hFcGxDvPTn.webp"}
 width={3840}
 height={960}
 loading={"eager"}
+alt={"Clip Hold Clipboard and Standard Phrase Manager"}
 className={`w-image c7z4ryg`} />
 <MarkdownEmbed
 code={"Welcome to the Clip Hold Documents!\\\nThis page provides information about Clip Hold, from how to use it to detailed settings (it is also described in [**GitHub Wiki**](https://github.com/taikun114/Clip-Hold/wiki)).\n\nDocumentation is still in preparation. There may be missing information.\n\n- [**FAQ**](/docs/faq)\n  - Frequently asked questions and answers are listed here, so if you have any questions, please see here.\n- [**Standard Phrases and Copy History**](/docs/standard-phrases-and-copy-history)\n  - For information on accessing Standard Phrases and Copy History and related features, please see here.\n- [**Standard Phrases Window and History Window**](/docs/standard-phrases-window-and-history-window)\n  - For information on how to open and use the Standard Phrases Window and History Window, please see here.\n- [**Notifications**](/docs/notifications)\n  - For information on notifications from Clip Hold, please see here.\n- [**Settings**](/docs/settings)\n  - For information on all settings in Clip Hold, please see here."}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1l93n79 c11k13wx c1kaohmx c3pvp22 c10uadrl cce85kl c5usisw c1lkw1ez c1bu1h3m ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i ckedyeo c11k13wx c1kaohmx c3pvp22 c10uadrl chqip0y c2xlg9q c1jhqcl3 c13xtvcd ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>

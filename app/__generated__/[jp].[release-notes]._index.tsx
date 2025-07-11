@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-10T14:10:46.047Z";
+      export const lastPublished = "2025-07-11T05:50:21.356Z";
 
       export const siteName = "Clip Hold";
 
@@ -551,7 +551,7 @@ className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 </h1>
 <MarkdownEmbed
 code={"## バージョン 1.1.0\nリリース: 2025年7月11日\n\n### アップデート内容\n#### 新機能\n- コピーしたテキストからQRコードを作成する機能を追加\n  - 履歴ウィンドウと定型文ウィンドウの項目オプションにある「QRコードを表示」をクリックするとQRコードが生成されます。\n- QRコードを含む画像をコピーしたときに履歴に追加する機能を追加\n  - 設定で「QRコード画像をスキャンする」をオンにすると利用可能になります。\n- QRコードを含む画像を履歴ウィンドウにドラッグアンドドロップしたときにコンテンツをコピーする機能を追加\n- クリップボードの内容から定型文を作成する機能の追加\n  - 現在のクリップボード内容から定型文を追加するショートカットキーを追加しました。\n  - 履歴ウィンドウの項目から定型文を追加する機能を追加しました。\n- 履歴リストが更新されたときに自動的に一番上にスクロールする機能を追加\n  - 設定で「リストが更新されたら最も上にスクロールする」をオンにすると利用できます。\n\n#### バグ修正と改善\n- 定型文ウィンドウと履歴ウィンドウでのコンテキストメニューを改善\n  - 追加の画面が表示される項目には末尾に「...」を追加し、「削除…」の上に区切り線を追加しました。\n- 一般設定の配置を改善\n- 定型文ウィンドウで項目を並び替えられるように改善\n  - 検索中でない場合のみ並び替えることができます。\n- 定型文ウィンドウと履歴ウィンドウの位置を正しく記憶するように修正\n\n## バージョン 1.0.1\nリリース: 2025年7月7日\n\n### アップデート内容\n#### バグ修正と改善\n- アクセシビリティラベルの追加\n  - VoiceOverユーザーが項目を理解できるように説明が追加されました。\n- メニューバーアイコンを一時的に非表示にするオプションの追加\n  - アプリを開き直すと再びアイコンが表示されるようになります。\n\n## バージョン 1.0.0\nリリース: 2025年7月6日\n\n### アップデート内容\n- 初期リリース"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1l93n79 c11k13wx c1kaohmx c3pvp22 c10uadrl cce85kl c5usisw c1lkw1ez c1bu1h3m ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i ckedyeo c11k13wx c1kaohmx c3pvp22 c10uadrl chqip0y c2xlg9q c1jhqcl3 c13xtvcd ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>
