@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-11T05:50:21.356Z";
+      export const lastPublished = "2025-07-11T05:59:13.548Z";
 
       export const siteName = "Clip Hold";
 
@@ -555,6 +555,7 @@ width={3840}
 height={960}
 loading={"eager"}
 alt={"Clip Hold クリップボードと定型文マネージャー"}
+fetchPriority={"high"}
 className={`w-image c7z4ryg`} />
 <MarkdownEmbed
 code={"Clip Holdのドキュメントへようこそ！\\\nClip Holdの使い方から細かい設定まで、Clip Holdに関する情報がまとめられています（[**GitHub Wiki**](https://github.com/taikun114/Clip-Hold/wiki)にも同様の内容がまとめられています）。\n\nドキュメントはまだ準備中です。不足している情報がある場合があります。\n\n- [**FAQ**](/jp/docs/faq)\n  - よくある質問と回答がまとめられていますので、気になることがあればこちらをご覧ください。\n- [**定型文とコピー履歴**](/jp/docs/standard-phrases-and-copy-history)\n  - 定型文とコピー履歴へのアクセス、およびその関連機能についてはこちらをご覧ください。\n- [**定型文ウィンドウと履歴ウィンドウ**](/jp/docs/standard-phrases-window-and-history-window)\n  - 定型文ウィンドウと履歴ウィンドウの開き方と使い方についてはこちらをご覧ください。\n- [**通知**](/jp/docs/notifications)\n  - Clip Holdからの通知についてはこちらをご覧ください。\n- [**設定**](/jp/docs/settings)\n  - Clip Holdのすべての設定項目についてはこちらをご覧ください。"}

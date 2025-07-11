@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-11T05:50:21.356Z";
+      export const lastPublished = "2025-07-11T05:59:13.548Z";
 
       export const siteName = "Clip Hold";
 
@@ -555,6 +555,7 @@ width={871}
 height={420}
 loading={"eager"}
 alt={"クリップボード監視の一時停止"}
+fetchPriority={"high"}
 className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
 code={"Clip Holdには、**クリップボード監視の状態に応じて通知が送信される**機能が搭載されています。\n\n以下の時に通知が届きます。\n\n- クリップボード監視を一時停止した時\n- クリップボード監視を再開した時\n- クリップボード監視が一時停止の状態でアプリを起動した時\n- 設定からテスト通知を送信した時\n\nこのうち、「クリップボード監視が一時停止の状態でアプリを起動した時」に届く通知のみサウンドが再生されます。\\\nまた、この通知パネルには「再開」ボタンがあり、そこをクリックすることでクリップボード監視を素早く再開することができます。"}

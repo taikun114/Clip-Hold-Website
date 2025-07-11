@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-11T05:50:21.356Z";
+      export const lastPublished = "2025-07-11T05:59:13.548Z";
 
       export const siteName = "Clip Hold";
 
@@ -561,6 +561,7 @@ width={1384}
 height={906}
 loading={"eager"}
 alt={"Standard Phrases and Copy History"}
+fetchPriority={"high"}
 className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
 code={"Standard phrases and copy history can be accessed from the Clip Hold icon on the menu bar.\\\nClicking on each item will copy its contents to the clipboard.\n\nStandard phrases and copy history can also be copied by using shortcut keys.\\\nFor standard phrases, the default is **Control + Command + 1-0 numeric keys**, and for copy history, the default is **Option + Command + 1-0 numeric keys**.\\\nShortcut keys can be changed from the “Shortcuts” tab in Clip Hold settings."}

@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "f41c523f-13dc-41c8-97e2-6a5fbeec4904",
+    "id": "8c254a20-a7fc-47aa-ab8d-e10b36a3baa7",
     "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
-    "version": 3324,
-    "createdAt": "2025-07-11T05:50:21.356+00:00",
-    "updatedAt": "2025-07-11T05:50:21.356+00:00",
+    "version": 3344,
+    "createdAt": "2025-07-11T05:59:13.548+00:00",
+    "updatedAt": "2025-07-11T05:59:13.548+00:00",
     "pages": {
       "meta": {
         "siteName": "Clip Hold",
@@ -90459,6 +90459,106 @@
           "name": "alt",
           "type": "string",
           "value": "クリップボード監視の一時停止"
+        }
+      ],
+      [
+        "7zSxepR7R3wDB-VtWNMkR",
+        {
+          "id": "7zSxepR7R3wDB-VtWNMkR",
+          "instanceId": "hTduuhXKR7ARnHN3xl6I5",
+          "name": "fetchpriority",
+          "type": "string",
+          "value": "high"
+        }
+      ],
+      [
+        "QY3dMdLE-dkGAy10dsqZq",
+        {
+          "id": "QY3dMdLE-dkGAy10dsqZq",
+          "instanceId": "uVoABprhC8oWFrH0NsAAn",
+          "name": "fetchpriority",
+          "type": "string",
+          "value": "high"
+        }
+      ],
+      [
+        "K_4r32Nlmv67ezlgpMlxq",
+        {
+          "id": "K_4r32Nlmv67ezlgpMlxq",
+          "instanceId": "NFn-JyDJdm7ewnHhWJEa_",
+          "name": "fetchpriority",
+          "type": "string",
+          "value": "high"
+        }
+      ],
+      [
+        "lnJb3y9-oNVPceCIcHWqN",
+        {
+          "id": "lnJb3y9-oNVPceCIcHWqN",
+          "instanceId": "lnnb9x-vmDYq_tFtyVo11",
+          "name": "fetchpriority",
+          "type": "string",
+          "value": "high"
+        }
+      ],
+      [
+        "CxOzZQBx0a2J9EBC16doT",
+        {
+          "id": "CxOzZQBx0a2J9EBC16doT",
+          "instanceId": "xbmWN-TK0BvpXzYVe1cSw",
+          "name": "fetchpriority",
+          "type": "string",
+          "value": "high"
+        }
+      ],
+      [
+        "55iIsw10Eu2NllWqc1C5w",
+        {
+          "id": "55iIsw10Eu2NllWqc1C5w",
+          "instanceId": "vUVON3FLLSbLn-Rq_hzr-",
+          "name": "fetchpriority",
+          "type": "string",
+          "value": "high"
+        }
+      ],
+      [
+        "3p9LiLs0YPe-NZrJ0szJK",
+        {
+          "id": "3p9LiLs0YPe-NZrJ0szJK",
+          "instanceId": "1T7Lw6pC82aSIGhUcdCMT",
+          "name": "fetchpriority",
+          "type": "string",
+          "value": "high"
+        }
+      ],
+      [
+        "vCmsMUhnYZOSU4tyE9f5Y",
+        {
+          "id": "vCmsMUhnYZOSU4tyE9f5Y",
+          "instanceId": "WNYe4L-W6okpHaPhP0qqg",
+          "name": "fetchpriority",
+          "type": "string",
+          "value": "high"
+        }
+      ],
+      [
+        "by-q6KTZq1yfngWHmx1V1",
+        {
+          "id": "by-q6KTZq1yfngWHmx1V1",
+          "instanceId": "7-zIPhruoYzK2zV-WFABC",
+          "name": "fetchpriority",
+          "type": "string",
+          "value": "high"
+        }
+      ],
+      [
+        "cFzG68NbxROrAxdRaJGzJ",
+        {
+          "id": "cFzG68NbxROrAxdRaJGzJ",
+          "instanceId": "BZJxzSCN5M7juhGKxQbKy",
+          "name": "fetchpriority",
+          "type": "string",
+          "value": "high"
         }
       ]
     ],

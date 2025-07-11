@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-11T05:50:21.356Z";
+      export const lastPublished = "2025-07-11T05:59:13.548Z";
 
       export const siteName = "Clip Hold";
 
@@ -557,6 +557,7 @@ width={897}
 height={419}
 loading={"eager"}
 alt={"Pause Clipboard Monitoring"}
+fetchPriority={"high"}
 className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
 code={"Clip Hold has the feature to **send notifications based on the status of the clipboard monitoring**.\n\nNotifications are sent at the following events.\n\n- When clipboard monitoring is paused\n- When clipboard monitoring is resumed\n- When an app is launched while clipboard monitoring is paused\n- When a test notification is sent from the settings.\n\nOf these notifications, only the notification that is sent “When an app is launched while clipboard monitoring is paused” will play a sound.\\\nThere is also a “Resume” button in this notification panel, where you can quickly resume clipboard monitoring by clicking on it."}

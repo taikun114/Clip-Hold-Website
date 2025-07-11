@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-11T05:50:21.356Z";
+      export const lastPublished = "2025-07-11T05:59:13.548Z";
 
       export const siteName = "Clip Hold";
 
@@ -550,6 +550,7 @@ src={"/assets/App_Icon512_yfUerJqzgO_Ly6tZ_QXZ9.webp"}
 width={256}
 height={256}
 loading={"eager"}
+fetchPriority={"high"}
 className={`w-image cp5616u cuia65m ctbwnqh`} />
 <div
 className={`w-element c1mbyuac c17yqxus c1ghn8z4`}>

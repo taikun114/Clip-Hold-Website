@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-11T05:50:21.356Z";
+      export const lastPublished = "2025-07-11T05:59:13.548Z";
 
       export const siteName = "Clip Hold";
 
@@ -559,6 +559,7 @@ width={1384}
 height={906}
 loading={"eager"}
 alt={"定型文とコピー履歴"}
+fetchPriority={"high"}
 className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
 code={"定型文とコピー履歴には、メニューバーに表示されているClip Holdのアイコンからアクセスすることができます。\\\nそれぞれの項目をクリックするとクリップボードに内容がコピーされます。\n\n定型文とコピー履歴は、ショートカットキーを使うことでもコピーすることができます。\\\n定型文の場合はデフォルトで**Control + Command + 1〜0の数字キー**、コピー履歴の場合はデフォルトで**Option + Command + 1〜0の数字キー**でコピーすることができます。\\\nショートカットキーはClip Hold設定の「ショートカット」タブから変更することができます。"}
