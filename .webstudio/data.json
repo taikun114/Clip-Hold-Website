@@ -1,15 +1,15 @@
 {
   "build": {
-    "id": "8c254a20-a7fc-47aa-ab8d-e10b36a3baa7",
+    "id": "f69822c1-2a22-4799-9686-85fe866e3fa0",
     "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
-    "version": 3344,
-    "createdAt": "2025-07-11T05:59:13.548+00:00",
-    "updatedAt": "2025-07-11T05:59:13.548+00:00",
+    "version": 3367,
+    "createdAt": "2025-07-12T16:59:36.31+00:00",
+    "updatedAt": "2025-07-12T16:59:36.31+00:00",
     "pages": {
       "meta": {
         "siteName": "Clip Hold",
         "contactEmail": "contact.taikun@gmail.com",
-        "faviconAssetId": "86be66b342b71798417afa4fd559c3a9df01529ecd7856a2c69e628839b1cbfd",
+        "faviconAssetId": "ba18a1c2db7c39011d60a5bdd5d736ad805e79163044d4c28f2754291becdb1d",
         "code": "<!-- Style Settings -->\n<style>\n  html {\n    scroll-padding-top: 6rem;\n    scroll-behavior: smooth;\n  }\n</style>\n\n<!-- Web Fonts -->\n<style>\n@import url('https://api.fonts.coollabs.io/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Montserrat+Alternates:wght@600&family=Noto+Sans+JP:wght@100..900&display=swap');\n</style>\n\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PDPFPP4EHC\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PDPFPP4EHC');\n</script>"
       },
       "homePage": {
@@ -83768,7 +83768,7 @@
           "instanceId": "BIblUsMnpFaRgl8JVempU",
           "name": "code",
           "type": "string",
-          "value": "## Version 1.1.0\nRelease: July 11, 2025\n\n### Update Details\n#### New Features\n- Add the feature to create a QR Code from copied text\n  - Click “Show QR Code” in the item options of the History Window and Standard Phrases Window to generate a QR Code.\n- Add the feature to copy an image that contains a QR code to add the content to the history.\n  - You can use it by enabling “Scan QR Code Image” in the settings.\n- Add the feature to drag and drop an image that contains a QR code into the history window to copy the content\n- Add the feature to create a standard phrase from the clipboard contents.\n  - Added shortcut key to add a standard phrase from the current clipboard contents.\n  - Added the feature to add a standard phrase from an item in the History Window.\n- Add the feature to automatically scroll to the top when the history list is updated\n  - You can use it by enabling “Scroll to the Top When the List is Updated” in the settings.\n\n#### Bug Fixes and Improvements\n- Improve the context menu in the Standard Phrase Window and History Window\n  - Items that show an additional screen now have a trailing “...” and added a divider line above “Delete...”.\n- Improve placement in General settings\n- Improve the Standard Phrases Window to be able to reorder items.\n  - You can reorder only if you are not searching.\n- Fix the Standard Phrase Window and the History Window to remember the correct position\n\n## Version 1.0.1\nRelease: July 7, 2025\n\n### Update Details\n#### Bug Fixes and Improvements\n- Add accessibility labels\n  - Descriptions have been added to help VoiceOver users understand items.\n- Add option to temporarily hide menu bar icon\n  - The icon will reappear when you reopen the app.\n\n## Version 1.0.0 \nRelease: July 6, 2025\n\n### Update Details\n- Initial release"
+          "value": "## Version 1.1.1\nRelease: July 13, 2025\n\n### Update Details\n#### Bug Fixes and Improvements\n- Add limit to number of characters displayed in standard phrases as well\n  - Standard phrases displayed in menus, list items in standard phrase settings, and shortcut settings will not be too long.\n\n## Version 1.1.0\nRelease: July 11, 2025\n\n### Update Details\n#### New Features\n- Add the feature to create a QR Code from copied text\n  - Click “Show QR Code” in the item options of the History Window and Standard Phrases Window to generate a QR Code.\n- Add the feature to copy an image that contains a QR code to add the content to the history.\n  - You can use it by enabling “Scan QR Code Image” in the settings.\n- Add the feature to drag and drop an image that contains a QR code into the history window to copy the content\n- Add the feature to create a standard phrase from the clipboard contents.\n  - Added shortcut key to add a standard phrase from the current clipboard contents.\n  - Added the feature to add a standard phrase from an item in the History Window.\n- Add the feature to automatically scroll to the top when the history list is updated\n  - You can use it by enabling “Scroll to the Top When the List is Updated” in the settings.\n\n#### Bug Fixes and Improvements\n- Improve the context menu in the Standard Phrase Window and History Window\n  - Items that show an additional screen now have a trailing “...” and added a divider line above “Delete...”.\n- Improve placement in General settings\n- Improve the Standard Phrases Window to be able to reorder items.\n  - You can reorder only if you are not searching.\n- Fix the Standard Phrase Window and the History Window to remember the correct position\n\n## Version 1.0.1\nRelease: July 7, 2025\n\n### Update Details\n#### Bug Fixes and Improvements\n- Add accessibility labels\n  - Descriptions have been added to help VoiceOver users understand items.\n- Add option to temporarily hide menu bar icon\n  - The icon will reappear when you reopen the app.\n\n## Version 1.0.0 \nRelease: July 6, 2025\n\n### Update Details\n- Initial release"
         }
       ],
       [
@@ -83978,7 +83978,7 @@
           "instanceId": "RZSxeeX7htVRLHYUqKJdZ",
           "name": "code",
           "type": "string",
-          "value": "## バージョン 1.1.0\nリリース: 2025年7月11日\n\n### アップデート内容\n#### 新機能\n- コピーしたテキストからQRコードを作成する機能を追加\n  - 履歴ウィンドウと定型文ウィンドウの項目オプションにある「QRコードを表示」をクリックするとQRコードが生成されます。\n- QRコードを含む画像をコピーしたときに履歴に追加する機能を追加\n  - 設定で「QRコード画像をスキャンする」をオンにすると利用可能になります。\n- QRコードを含む画像を履歴ウィンドウにドラッグアンドドロップしたときにコンテンツをコピーする機能を追加\n- クリップボードの内容から定型文を作成する機能の追加\n  - 現在のクリップボード内容から定型文を追加するショートカットキーを追加しました。\n  - 履歴ウィンドウの項目から定型文を追加する機能を追加しました。\n- 履歴リストが更新されたときに自動的に一番上にスクロールする機能を追加\n  - 設定で「リストが更新されたら最も上にスクロールする」をオンにすると利用できます。\n\n#### バグ修正と改善\n- 定型文ウィンドウと履歴ウィンドウでのコンテキストメニューを改善\n  - 追加の画面が表示される項目には末尾に「...」を追加し、「削除…」の上に区切り線を追加しました。\n- 一般設定の配置を改善\n- 定型文ウィンドウで項目を並び替えられるように改善\n  - 検索中でない場合のみ並び替えることができます。\n- 定型文ウィンドウと履歴ウィンドウの位置を正しく記憶するように修正\n\n## バージョン 1.0.1\nリリース: 2025年7月7日\n\n### アップデート内容\n#### バグ修正と改善\n- アクセシビリティラベルの追加\n  - VoiceOverユーザーが項目を理解できるように説明が追加されました。\n- メニューバーアイコンを一時的に非表示にするオプションの追加\n  - アプリを開き直すと再びアイコンが表示されるようになります。\n\n## バージョン 1.0.0\nリリース: 2025年7月6日\n\n### アップデート内容\n- 初期リリース"
+          "value": "## バージョン 1.1.1\nリリース: 2025年7月13日\n\n### アップデート内容\n#### バグ修正と改善\n- 定型文にも表示される文字数制限を追加\n  - メニューに表示される定型文、定型文設定のリスト項目、ショートカット設定に表示される定型文が長くなりすぎないようになります。\n\n## バージョン 1.1.0\nリリース: 2025年7月11日\n\n### アップデート内容\n#### 新機能\n- コピーしたテキストからQRコードを作成する機能を追加\n  - 履歴ウィンドウと定型文ウィンドウの項目オプションにある「QRコードを表示」をクリックするとQRコードが生成されます。\n- QRコードを含む画像をコピーしたときに履歴に追加する機能を追加\n  - 設定で「QRコード画像をスキャンする」をオンにすると利用可能になります。\n- QRコードを含む画像を履歴ウィンドウにドラッグアンドドロップしたときにコンテンツをコピーする機能を追加\n- クリップボードの内容から定型文を作成する機能の追加\n  - 現在のクリップボード内容から定型文を追加するショートカットキーを追加しました。\n  - 履歴ウィンドウの項目から定型文を追加する機能を追加しました。\n- 履歴リストが更新されたときに自動的に一番上にスクロールする機能を追加\n  - 設定で「リストが更新されたら最も上にスクロールする」をオンにすると利用できます。\n\n#### バグ修正と改善\n- 定型文ウィンドウと履歴ウィンドウでのコンテキストメニューを改善\n  - 追加の画面が表示される項目には末尾に「...」を追加し、「削除…」の上に区切り線を追加しました。\n- 一般設定の配置を改善\n- 定型文ウィンドウで項目を並び替えられるように改善\n  - 検索中でない場合のみ並び替えることができます。\n- 定型文ウィンドウと履歴ウィンドウの位置を正しく記憶するように修正\n\n## バージョン 1.0.1\nリリース: 2025年7月7日\n\n### アップデート内容\n#### バグ修正と改善\n- アクセシビリティラベルの追加\n  - VoiceOverユーザーが項目を理解できるように説明が追加されました。\n- メニューバーアイコンを一時的に非表示にするオプションの追加\n  - アプリを開き直すと再びアイコンが表示されるようになります。\n\n## バージョン 1.0.0\nリリース: 2025年7月6日\n\n### アップデート内容\n- 初期リリース"
         }
       ],
       [
@@ -110806,20 +110806,6 @@
       }
     },
     {
-      "id": "86be66b342b71798417afa4fd559c3a9df01529ecd7856a2c69e628839b1cbfd",
-      "name": "favicon_yQ1O3EOPCGzC9uDxg4M9f.png",
-      "description": null,
-      "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
-      "size": 2884,
-      "type": "image",
-      "format": "png",
-      "createdAt": "2025-07-04T12:22:41.328+00:00",
-      "meta": {
-        "width": 32,
-        "height": 32
-      }
-    },
-    {
       "id": "9fcf8b529079da5f0d1f7e573529c05d41f3794f5b443cbccce83bdcb90758cf",
       "name": "Quick-Paste_WOEL-Mx06jT8x4r9aHEpE.gif",
       "description": null,
@@ -110887,6 +110873,20 @@
       "meta": {
         "width": 1232,
         "height": 586
+      }
+    },
+    {
+      "id": "ba18a1c2db7c39011d60a5bdd5d736ad805e79163044d4c28f2754291becdb1d",
+      "name": "favicon_s3qidvMMGRxZju269ILbB.png",
+      "description": null,
+      "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
+      "size": 25214,
+      "type": "image",
+      "format": "png",
+      "createdAt": "2025-07-12T09:41:27.264+00:00",
+      "meta": {
+        "width": 192,
+        "height": 192
       }
     },
     {

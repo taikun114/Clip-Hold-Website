@@ -11,14 +11,14 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-11T05:59:13.548Z";
+      export const lastPublished = "2025-07-12T16:59:36.310Z";
 
       export const siteName = "Clip Hold";
 
       export const breakpoints = [{"id":"oQXIk9J0diVFLo9CICSX4"},{"id":"B0T4Y4tFMYnO_ML6FGp4J","maxWidth":991},{"id":"afOKZgZfwBblQI0wlO-1n","maxWidth":767},{"id":"b9eF-sVvYuDQH1Ii8lJ6h","maxWidth":479}];
 
       export const favIconAsset: string | undefined =
-        "favicon_yQ1O3EOPCGzC9uDxg4M9f.png";
+        "favicon_s3qidvMMGRxZju269ILbB.png";
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =
@@ -552,7 +552,7 @@ className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"Clip Hold Release Notes"}
 </h1>
 <MarkdownEmbed
-code={"## Version 1.1.0\nRelease: July 11, 2025\n\n### Update Details\n#### New Features\n- Add the feature to create a QR Code from copied text\n  - Click “Show QR Code” in the item options of the History Window and Standard Phrases Window to generate a QR Code.\n- Add the feature to copy an image that contains a QR code to add the content to the history.\n  - You can use it by enabling “Scan QR Code Image” in the settings.\n- Add the feature to drag and drop an image that contains a QR code into the history window to copy the content\n- Add the feature to create a standard phrase from the clipboard contents.\n  - Added shortcut key to add a standard phrase from the current clipboard contents.\n  - Added the feature to add a standard phrase from an item in the History Window.\n- Add the feature to automatically scroll to the top when the history list is updated\n  - You can use it by enabling “Scroll to the Top When the List is Updated” in the settings.\n\n#### Bug Fixes and Improvements\n- Improve the context menu in the Standard Phrase Window and History Window\n  - Items that show an additional screen now have a trailing “...” and added a divider line above “Delete...”.\n- Improve placement in General settings\n- Improve the Standard Phrases Window to be able to reorder items.\n  - You can reorder only if you are not searching.\n- Fix the Standard Phrase Window and the History Window to remember the correct position\n\n## Version 1.0.1\nRelease: July 7, 2025\n\n### Update Details\n#### Bug Fixes and Improvements\n- Add accessibility labels\n  - Descriptions have been added to help VoiceOver users understand items.\n- Add option to temporarily hide menu bar icon\n  - The icon will reappear when you reopen the app.\n\n## Version 1.0.0 \nRelease: July 6, 2025\n\n### Update Details\n- Initial release"}
+code={"## Version 1.1.1\nRelease: July 13, 2025\n\n### Update Details\n#### Bug Fixes and Improvements\n- Add limit to number of characters displayed in standard phrases as well\n  - Standard phrases displayed in menus, list items in standard phrase settings, and shortcut settings will not be too long.\n\n## Version 1.1.0\nRelease: July 11, 2025\n\n### Update Details\n#### New Features\n- Add the feature to create a QR Code from copied text\n  - Click “Show QR Code” in the item options of the History Window and Standard Phrases Window to generate a QR Code.\n- Add the feature to copy an image that contains a QR code to add the content to the history.\n  - You can use it by enabling “Scan QR Code Image” in the settings.\n- Add the feature to drag and drop an image that contains a QR code into the history window to copy the content\n- Add the feature to create a standard phrase from the clipboard contents.\n  - Added shortcut key to add a standard phrase from the current clipboard contents.\n  - Added the feature to add a standard phrase from an item in the History Window.\n- Add the feature to automatically scroll to the top when the history list is updated\n  - You can use it by enabling “Scroll to the Top When the List is Updated” in the settings.\n\n#### Bug Fixes and Improvements\n- Improve the context menu in the Standard Phrase Window and History Window\n  - Items that show an additional screen now have a trailing “...” and added a divider line above “Delete...”.\n- Improve placement in General settings\n- Improve the Standard Phrases Window to be able to reorder items.\n  - You can reorder only if you are not searching.\n- Fix the Standard Phrase Window and the History Window to remember the correct position\n\n## Version 1.0.1\nRelease: July 7, 2025\n\n### Update Details\n#### Bug Fixes and Improvements\n- Add accessibility labels\n  - Descriptions have been added to help VoiceOver users understand items.\n- Add option to temporarily hide menu bar icon\n  - The icon will reappear when you reopen the app.\n\n## Version 1.0.0 \nRelease: July 6, 2025\n\n### Update Details\n- Initial release"}
 className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i ckedyeo c11k13wx c1kaohmx c3pvp22 c10uadrl chqip0y c2xlg9q c1jhqcl3 c13xtvcd ch6h5mx`}>
 </MarkdownEmbed>
 </div>
