@@ -1,16 +1,16 @@
 {
   "build": {
-    "id": "97ac2bc3-2240-4c14-b2ff-5091c9e02c85",
+    "id": "fae793a5-3d6e-45e1-8dbe-c661e45d2367",
     "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
-    "version": 3812,
-    "createdAt": "2025-07-23T07:10:20.401+00:00",
-    "updatedAt": "2025-07-23T07:10:20.401+00:00",
+    "version": 3832,
+    "createdAt": "2025-07-23T07:40:13.666+00:00",
+    "updatedAt": "2025-07-23T07:40:13.666+00:00",
     "pages": {
       "meta": {
         "siteName": "Clip Hold",
         "contactEmail": "contact.taikun@gmail.com",
         "faviconAssetId": "ba18a1c2db7c39011d60a5bdd5d736ad805e79163044d4c28f2754291becdb1d",
-        "code": "<!-- Style Settings -->\n<style>\n  html {\n    scroll-padding-top: 6rem;\n    scroll-behavior: smooth;\n  }\n</style>\n\n<!-- Web Fonts -->\n<style>\n@import url('https://api.fonts.coollabs.io/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Montserrat+Alternates:wght@600&family=Noto+Sans+JP:wght@100..900&display=swap');\n</style>\n\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PDPFPP4EHC\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PDPFPP4EHC');\n</script>"
+        "code": "<!-- Style Settings -->\n<style>\n  html {\n    scroll-padding-top: 6rem;\n    scroll-behavior: smooth;\n  }\n</style>\n\n<!-- Web Fonts -->\n<style>\n@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&family=Montserrat+Alternates:wght@600&family=Noto+Sans+JP:wght@100..900&display=swap');\n</style>\n\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PDPFPP4EHC\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PDPFPP4EHC');\n</script>"
       },
       "homePage": {
         "id": "g5DKr_QSUu9D04gZRpY1F",
@@ -66280,6 +66280,21 @@
             "value": 0
           }
         }
+      ],
+      [
+        "fLNvVT3Rr3Zk-lzcNclQE:oQXIk9J0diVFLo9CICSX4:fontFamily:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "fLNvVT3Rr3Zk-lzcNclQE",
+          "property": "fontFamily",
+          "value": {
+            "type": "fontFamily",
+            "value": [
+              "Google Sans Code",
+              "monospace"
+            ]
+          }
+        }
       ]
     ],
     "styleSources": [
@@ -70743,6 +70758,13 @@
         {
           "type": "local",
           "id": "YwiXuFTU4t4qDw0lSKxeE"
+        }
+      ],
+      [
+        "iyEfSshE9vUCM46I7LodU",
+        {
+          "type": "local",
+          "id": "iyEfSshE9vUCM46I7LodU"
         }
       ]
     ],
@@ -80848,7 +80870,8 @@
         {
           "instanceId": "iiYoWe7-veSsQrH9adha-",
           "values": [
-            "fLNvVT3Rr3Zk-lzcNclQE"
+            "fLNvVT3Rr3Zk-lzcNclQE",
+            "iyEfSshE9vUCM46I7LodU"
           ]
         }
       ],
@@ -87402,7 +87425,7 @@
           "instanceId": "5XqRbe-uS6RY47fBKrLhP",
           "name": "code",
           "type": "string",
-          "value": "すべての定型文やコピー履歴は、定型文ウィンドウと履歴ウィンドウからアクセスすることができます。\\\n定型文ウィンドウは、Clip Holdのメニューバーアイコンの「すべての定型文を表示...」、履歴ウィンドウは「すべてのコピー履歴を表示...」をクリックすることで開くことができます。\\\nこれらのウィンドウはショートカットキーを使って開くこともできます。定型文ウィンドウはデフォルトでControl + Command + Vキー、履歴ウィンドウはデフォルトでOption + Command + Vキーで開くことができます。\n\n### 各項目について\nウィンドウ内に表示される各項目をダブルクリックすることでコピーすることができます。\\\nデフォルトではコピー後にウインドウが自動的に閉じますが、設定で閉じないようにすることもできます。\n\n> **豆知識**\\\n> 各項目にカーソルを乗せると、ツールチップにコンテンツ全体が表示されます。コピーする前に長いコンテンツを確認したいときに便利です。"
+          "value": "すべての定型文やコピー履歴は、定型文ウィンドウと履歴ウィンドウからアクセスすることができます。\\\n定型文ウィンドウは、Clip Holdのメニューバーアイコンの「すべての定型文を表示...」、履歴ウィンドウは「すべてのコピー履歴を表示...」をクリックすることで開くことができます。\\\nこれらのウィンドウはショートカットキーを使って開くこともできます。定型文ウィンドウはデフォルトで`^ (Control)` + `⌘ (Command)` + `V`、履歴ウィンドウはデフォルトで`⌥ (Option)` + `⌘ (Command)` + `V`で開くことができます。\n\n### 各項目について\nウィンドウ内に表示される各項目をダブルクリックすることでコピーすることができます。\\\nデフォルトではコピー後にウインドウが自動的に閉じますが、設定で閉じないようにすることもできます。\n\n> **豆知識**\\\n> 各項目にカーソルを乗せると、ツールチップにコンテンツ全体が表示されます。コピーする前に長いコンテンツを確認したいときに便利です。"
         }
       ],
       [
@@ -89072,7 +89095,7 @@
           "instanceId": "Dfdd57gAt98lwIp8rbwaU",
           "name": "code",
           "type": "string",
-          "value": "All standard phrases and copy history can be accessed from the Standard Phrases Window and the History Window.\\\nThe Standard Phrases Window can be opened by clicking \"Show All Standard Phrases...\" in the Clip Hold menu bar icon, and the History Window by clicking \"Show All Copy History...\".\\\nThese windows can also be opened using shortcut keys. The Standard Phrases Window opens by default with Control + Command + V, and the History Window with Option + Command + V.\n\n#### About Each Item\nYou can copy items displayed in the window by double-clicking them.\\\nBy default, the window closes automatically after copying, but you can change this in the settings to keep it open.\n\n> **Tip**\\\n> Hovering over each item displays the entire content in a tooltip. This is useful when you want to check long content before copying it."
+          "value": "All standard phrases and copy history can be accessed from the Standard Phrases Window and the History Window.\\\nThe Standard Phrases Window can be opened by clicking \"Show All Standard Phrases...\" in the Clip Hold menu bar icon, and the History Window by clicking \"Show All Copy History...\".\\\nThese windows can also be opened using shortcut keys. The Standard Phrases Window opens by default with `^ (Control)` + `⌘ (Command)` + `V`, and the History Window with `⌥ (Option)` + `⌘ (Command)` + `V`.\n\n#### About Each Item\nYou can copy items displayed in the window by double-clicking them.\\\nBy default, the window closes automatically after copying, but you can change this in the settings to keep it open.\n\n> **Tip**\\\n> Hovering over each item displays the entire content in a tooltip. This is useful when you want to check long content before copying it."
         }
       ],
       [

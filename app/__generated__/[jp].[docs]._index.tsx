@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-23T07:10:20.401Z";
+      export const lastPublished = "2025-07-23T07:40:13.666Z";
 
       export const siteName = "Clip Hold";
 
@@ -559,7 +559,7 @@ fetchPriority={"high"}
 className={`w-image c7z4ryg`} />
 <MarkdownEmbed
 code={"Clip Holdのドキュメントへようこそ！\\\nClip Holdの使い方から細かい設定まで、Clip Holdに関する情報がまとめられています（[**GitHub Wiki**](https://github.com/taikun114/Clip-Hold/wiki)にも同様の内容がまとめられています）。\n\nドキュメントはまだ準備中です。不足している情報がある場合があります。\n\n- [**よくある質問と回答**](/jp/docs/faq)\n  - よくある質問と回答がまとめられていますので、気になることがあればこちらをご覧ください。\n- [**定型文とコピー履歴**](/jp/docs/standard-phrases-and-copy-history)\n  - 定型文とコピー履歴へのアクセス、およびその関連機能についてはこちらをご覧ください。\n- [**定型文ウィンドウと履歴ウィンドウ**](/jp/docs/standard-phrases-window-and-history-window)\n  - 定型文ウィンドウと履歴ウィンドウの開き方と使い方についてはこちらをご覧ください。\n- [**通知**](/jp/docs/notifications)\n  - Clip Holdからの通知についてはこちらをご覧ください。\n- [**設定**](/jp/docs/settings)\n  - Clip Holdのすべての設定項目についてはこちらをご覧ください。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>
