@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-23T07:40:13.666Z";
+      export const lastPublished = "2025-07-23T08:15:33.095Z";
 
       export const siteName = "Clip Hold";
 
@@ -563,7 +563,7 @@ fetchPriority={"high"}
 className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
 code={"定型文とコピー履歴には、メニューバーに表示されているClip Holdのアイコンからアクセスすることができます。\\\nそれぞれの項目をクリックするとクリップボードに内容がコピーされます。\n\n定型文とコピー履歴は、ショートカットキーを使うことでもコピーすることができます。\\\n定型文の場合はデフォルトで`^ (Control)` + `⌘ (Command)` + `1`〜`0`の数字キー、コピー履歴の場合はデフォルトで`⌥ (Option)` + `⌘ (Command)` + `1`〜`0`の数字キーでコピーすることができます。\\\nショートカットキーはClip Hold設定の「ショートカット」タブから変更することができます。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
 </MarkdownEmbed>
 <h2
 id={"大容量ファイルコピー時のアラート"}
@@ -580,7 +580,7 @@ alt={"アラート"}
 className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
 code={"> **注意**\\\n> Clip Hold 1.2.0またはそれ以降が必要です。\n\n大きなファイルをコピーした際、このようなアラートが表示されることがあります。\\\nClip Holdの設定でアラートを表示する容量を設定しておくことで、設定容量よりも大きなファイルをコピーした際にこのようなアラートを表示させることができます。\n\nClip Holdではファイルや画像の履歴も保存しますが、大きなファイルをいくつもコピーしているとストレージを圧迫してしまう場合があります。\\\nそのため、大きなファイルを履歴に保存したくない場合に役立つ機能です。\n\n> **豆知識**\\\n> デフォルトでは`1 GB`を超えるファイルコピー時にアラートが表示されるようになっていますが、Clip Holdの設定からお好みの容量に変更したり、そもそもアラートを表示させないようにしたりすることができます。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
 </MarkdownEmbed>
 <h2
 id={"クイックペースト"}
@@ -597,7 +597,7 @@ alt={"クイックペースト"}
 className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
 code={"設定で「クイックペースト」機能がオンになっている場合、選択した内容がコピーされると同時に`⌘ (Command)` + `V`キー操作が送信され、**最前面のアプリにペースト**されます。\\\nこの機能を使うにはアクセシビリティの許可が必要です。この機能を初めて使おうとしたときにアクセシビリティの許可を求める画面が表示されるので、許可することでクイックペーストが使用できるようになります（表示されなかった場合や拒否した場合はシステム設定で追加する必要があります）。\n\n### アクセシビリティの許可について\n現在Clip Holdにアクセシビリティの許可が与えられているかどうかは、Clip Hold設定の「プライバシー」タブにある「権限」セクションから確認できます。\\\n「許可済み」となっている場合は適切な許可が与えられているため、クイックペーストをオンにすれば使用することができます。\\\n「設定を開く」となっている場合はまだ許可が与えられていないため、システム設定を開いて許可する必要があります。「設定を開く」をクリックするとシステム設定のアクセシビリティ許可設定を開くことができるので、Clip Holdを追加してオンにしてください。\n\n> **注意**\\\n> すでにアクセシビリティ許可設定にClip Holdが入っていて、オンになっているにもかかわらずClip Holdの設定で「許可済み」になっていない場合、一度システム設定のアクセシビリティ許可リストからClip Holdを削除し、追加し直してオンにする必要があります。\n>\n> アプリをアップデートした場合や、アプリを別のフォルダへ移動した場合などにこのような表示になることがあります。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>

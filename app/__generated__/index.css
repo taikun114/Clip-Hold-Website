@@ -809,6 +809,9 @@
   .cbahgcg code {
     font-family: "Google Sans Code", monospace
   }
+  .c1pdgxs0 :where(ul, ol) {
+    line-height: 2
+  }
   .ch6h5mx li {
     margin-left: -24px
   }

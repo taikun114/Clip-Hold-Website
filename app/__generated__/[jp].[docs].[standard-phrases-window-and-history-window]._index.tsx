@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-23T07:40:13.666Z";
+      export const lastPublished = "2025-07-23T08:15:33.095Z";
 
       export const siteName = "Clip Hold";
 
@@ -563,7 +563,7 @@ fetchPriority={"high"}
 className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
 code={"すべての定型文やコピー履歴は、定型文ウィンドウと履歴ウィンドウからアクセスすることができます。\\\n定型文ウィンドウは、Clip Holdのメニューバーアイコンの「すべての定型文を表示...」、履歴ウィンドウは「すべてのコピー履歴を表示...」をクリックすることで開くことができます。\\\nこれらのウィンドウはショートカットキーを使って開くこともできます。定型文ウィンドウはデフォルトで`^ (Control)` + `⌘ (Command)` + `V`、履歴ウィンドウはデフォルトで`⌥ (Option)` + `⌘ (Command)` + `V`で開くことができます。\n\n### 各項目について\nウィンドウ内に表示される各項目をダブルクリックすることでコピーすることができます。\\\nデフォルトではコピー後にウインドウが自動的に閉じますが、設定で閉じないようにすることもできます。\n\n> **豆知識**\\\n> 各項目にカーソルを乗せると、ツールチップにコンテンツ全体が表示されます。コピーする前に長いコンテンツを確認したいときに便利です。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
 </MarkdownEmbed>
 <Image
 src={"/assets/QR-Code-ja_sUrbImc07dvFs3SCHUwo0.webp"}
@@ -574,7 +574,7 @@ alt={"QRコードの作成"}
 className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
 code={"他にも、各項目を右クリックしてコピーやQRコードの作成、そして削除することもできます（削除した場合、ストレージからも削除されます）。\\\nこれらに加えて、定型文ウィンドウでは定型文の編集を、履歴ウィンドウではその項目から定型文を作成するオプションが表示されます。\n\n> **注意**\\\n> QRコードの作成、定型文の編集、項目から定型文を作成するオプションは、Clip Hold 1.1.0またはそれ以降が必要です。\n\n### 検索\n上部にある検索欄にキーワードを入力することで定型文やコピー履歴を検索することができます。検索機能はバックグラウンドで行われるため、定型文やコピー履歴の数が多くてもUIがフリーズすることなく高速に検索することができます。\n\n#### フィルタリングと並べ替え"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
 </MarkdownEmbed>
 <Image
 src={"/assets/Filter-and-Sort-ja_FE9DbAMD2iYuTOy901AcI.webp"}
@@ -585,7 +585,7 @@ alt={"フィルタリングと並べ替え"}
 className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg c2oe4sx`} />
 <MarkdownEmbed
 code={"> **注意**\\\n> Clip Hold 1.2.0またはそれ以降が必要です。\n\n検索ボックスの右側にある2つのボタンからそれぞれフィルタリングと並べ替えを行うことができます。\n\nフィルタリングオプションは以下の通りです。\n- すべての項目\n- テキストのみ\n- ファイルのみ\n  - 画像を含みます。\n- 画像のみ\n\n並べ替えオプションは以下の通りです。\n- 新しい順\n- 古い順\n- ファイルサイズが大きい順\n- ファイルサイズが小さい順\n\n> **豆知識**\\\n> 並べ替えオプションの「ファイルサイズが小さい順」を選択する際、フィルタリングオプションで「ファイルのみ」または「画像のみ」を指定しておくとテキスト項目が表示されなくなるため便利です。\n\n## QRコード画像のスキャン\n> **注意**\\\n> Clip Hold 1.1.0またはそれ以降が必要です。\n\nQRコードが含まれた画像を履歴ウィンドウにドラッグアンドドロップすると、QRコードのコンテンツがコピーされ、履歴に追加されます。\n\n> **豆知識**\\\n> 最低限読み取り可能な解像度のQRコードが含まれていれば、画像全体にQRコードが表示されている必要はありません。\n\n### 設定項目\n定型文ウィンドウに関する設定は[**こちらのページ**](/jp/docs/settings#%E5%AE%9A%E5%9E%8B%E6%96%87%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6)、履歴ウィンドウに関する設定は[**こちらのページ**](/jp/docs/settings#%E5%B1%A5%E6%AD%B4%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6)をご覧ください。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>

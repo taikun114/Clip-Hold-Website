@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "fae793a5-3d6e-45e1-8dbe-c661e45d2367",
+    "id": "2997eda5-912e-4f7a-81e5-a703a30291e6",
     "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
-    "version": 3832,
-    "createdAt": "2025-07-23T07:40:13.666+00:00",
-    "updatedAt": "2025-07-23T07:40:13.666+00:00",
+    "version": 3834,
+    "createdAt": "2025-07-23T08:15:33.095+00:00",
+    "updatedAt": "2025-07-23T08:15:33.095+00:00",
     "pages": {
       "meta": {
         "siteName": "Clip Hold",
@@ -66293,6 +66293,19 @@
               "Google Sans Code",
               "monospace"
             ]
+          }
+        }
+      ],
+      [
+        "7WP_J8837sf0QenStepUj:oQXIk9J0diVFLo9CICSX4:lineHeight:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "7WP_J8837sf0QenStepUj",
+          "property": "lineHeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 2
           }
         }
       ]

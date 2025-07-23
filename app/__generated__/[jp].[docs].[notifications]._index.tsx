@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-23T07:40:13.666Z";
+      export const lastPublished = "2025-07-23T08:15:33.095Z";
 
       export const siteName = "Clip Hold";
 
@@ -559,7 +559,7 @@ fetchPriority={"high"}
 className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
 code={"Clip Holdには、**クリップボード監視の状態に応じて通知が送信される**機能が搭載されています。\n\n以下の時に通知が届きます。\n\n- クリップボード監視を一時停止した時\n- クリップボード監視を再開した時\n- クリップボード監視が一時停止の状態でアプリを起動した時\n- 設定からテスト通知を送信した時\n\nこのうち、「クリップボード監視が一時停止の状態でアプリを起動した時」に届く通知のみサウンドが再生されます。\\\nまた、この通知パネルには「再開」ボタンがあり、そこをクリックすることでクリップボード監視を素早く再開することができます。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>
