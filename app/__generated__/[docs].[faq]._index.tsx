@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-12T16:59:36.310Z";
+      export const lastPublished = "2025-07-22T12:48:29.360Z";
 
       export const siteName = "Clip Hold";
 
@@ -552,8 +552,8 @@ className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"FAQ"}
 </h1>
 <MarkdownEmbed
-code={"## Is there a difference between the paid and free versions?\n**No, there is no difference in the features included in the app.**\n\nClip Hold has a free version (GitHub version) and a paid version (Mac App Store version), but there is almost no difference in functionality between them. The only difference is the **availability of an automatic update function**.\\\nThe paid version can automatically update and install through the App Store's features, but the free version does not currently have an update checking and installation function (so there is no difference in any of the app's functionality!) \n\nI would be grateful if you could purchase it from the App Store, but if you download it for free first and feel it is very useful, I would be very happy if you could purchase it or make a [**donation**](#how-can-i-support-the-developer)!\n\n\n## What are Clip Hold's system requirements?\nClip Hold is compatible with **Intel-based Mac computers** and **Mac computers with Apple silicon** running **macOS Sonoma (14.0) or later**.\n\n## Does Clip Hold collect personal information?\n**No, it does not collect personal information.**\n\nWhile usage data and crash reports may be shared if users have enabled “Share with app developers” under “Analytics & Improvements” in the System Settings' “Privacy & Security” section, the **app itself is entirely devoid of any functionality to collect or send user-related information**. Even if you are concerned about privacy, you can use it with confidence.\n\nFor information about the data the app acquires and how it is handled, please refer to the [**Privacy Policy**](/privacy-policy) page.\n\n## Is Clip Hold heavy?\n**No, Clip Hold is very lightweight.**\n\nThe app size is less than 10 MB and is designed to run comfortably even on older systems.\n\n## Does Clip Hold support images or files?\n**No, it only supports text.**\n\nWhile there are plans to support more than just text in the future, it currently only supports text format.\n\n## What should I do if I find a bug?\nPlease report bugs according to the instructions on the [**Support and Feedback**](/support) page.\n\n## I want to request a feature.\nSimilar to bug reports, please send feedback according to the instructions on the [**Support and Feedback**](/support) page.\n\n## How do I update Clip Hold?\n### For those who purchased from the Mac App Store\nYou can update using the App Store.\n\n### For those who downloaded from GitHub\nPlease update using the following steps:\n\n1. Download the latest version from the [**Release page**](https://github.com/taikun114/Clip-Hold/releases/latest).\n2. Open the downloaded disk image.\n3. Drag and drop the Clip Hold icon from the disk image to your Applications folder and overwrite the existing file.\n4. The update is complete.\n\n> **Note**\\\n> When overwriting, if Clip Hold is running, you need to quit it first.\n> Don't worry, updating the app will not delete your data. If you are concerned, you can export your standard phrases and history before updating."}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i ckedyeo c11k13wx c1kaohmx c3pvp22 c10uadrl chqip0y c2xlg9q c1jhqcl3 c13xtvcd ch6h5mx`}>
+code={"## Is there a difference between the paid and free versions?\n**No, there is no difference in the features included in the app.**\n\nClip Hold has a free version (GitHub version) and a paid version (Mac App Store version), but there is almost no difference in functionality between them. The only difference is the **availability of an automatic update function**.\\\nThe paid version can automatically update and install through the App Store's features, but the free version does not currently have an update checking and installation function (so there is no difference in any of the app's functionality!) \n\nI would be grateful if you could purchase it from the App Store, but if you download it for free first and feel it is very useful, I would be very happy if you could purchase it or make a [**donation**](#how-can-i-support-the-developer)!\n\n\n## What are Clip Hold's system requirements?\nClip Hold is compatible with **Intel-based Mac computers** and **Mac computers with Apple silicon** running **macOS Sonoma (14.0) or later**.\n\n## Does Clip Hold collect personal information?\n**No, it does not collect personal information.**\n\nWhile usage data and crash reports may be shared if users have enabled “Share with app developers” under “Analytics & Improvements” in the System Settings' “Privacy & Security” section, the **app itself is entirely devoid of any functionality to collect or send user-related information**. Even if you are concerned about privacy, you can use it with confidence.\n\nFor information about the data the app acquires and how it is handled, please refer to the [**Privacy Policy**](/privacy-policy) page.\n\n## Is Clip Hold heavy?\n**No, Clip Hold is very lightweight.**\n\nThe app size is less than 10 MB and is designed to run comfortably even on older systems.\n\n## Does Clip Hold support images or files?\n**Yes, the latest version supports the following file types.**\n- Text\n- File\n- Image\n\n## What should I do if I find a bug?\nPlease report bugs according to the instructions on the [**Support and Feedback**](/support) page.\n\n## I want to request a feature.\nSimilar to bug reports, please send feedback according to the instructions on the [**Support and Feedback**](/support) page.\n\n## How do I update Clip Hold?\n### For those who purchased from the Mac App Store\nYou can update using the App Store.\n\n### For those who downloaded from GitHub\nPlease update using the following steps:\n\n1. Download the latest version from the [**Release page**](https://github.com/taikun114/Clip-Hold/releases/latest).\n2. Open the downloaded disk image.\n3. Drag and drop the Clip Hold icon from the disk image to your Applications folder and overwrite the existing file.\n4. The update is complete.\n\n> **Note**\\\n> When overwriting, if Clip Hold is running, you need to quit it first.\n> Don't worry, updating the app will not delete your data. If you are concerned, you can export your standard phrases and history before updating."}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf ch6h5mx`}>
 </MarkdownEmbed>
 <h2
 id={"how-can-i-support-the-developer"}
@@ -562,7 +562,7 @@ className={`w-element c11yke06`}>
 </h2>
 <MarkdownEmbed
 code={"### Give It a Star to the Repository\nI would be so glad if you could open [**this page**](https://github.com/taikun114/Clip-Hold) and give it a star by clicking the “Star” button in the upper right corner!\\\nThis button is like a upvote button, and it motivates me to continue development! This feature is free, so if you like Clip Hold, please give it a star!\n\n### Donation\nIf you like Clip Hold, I would appreciate a donation. It will motivate me to continue development!\n\nYou can donate using the following services.\n\n#### Buy Me a Coffee\nYou can support me at [**Buy Me a Coffee**](https://www.buymeacoffee.com/i_am_taikun) from the price of a cup of green tea.\n\n#### PayPal\\.Me\nIf you have a PayPal account, you can also donate directly at [PayPal](https://paypal.me/taikun114).\n\n## Do you have any other questions?\nA [**Discussions**](https://github.com/taikun114/Clip-Hold/discussions) page is available, so please check it out to post questions and exchange opinions!"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i ckedyeo c11k13wx c1kaohmx c3pvp22 c10uadrl chqip0y c2xlg9q c1jhqcl3 c13xtvcd ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>
@@ -599,10 +599,11 @@ aria-label={"Download on the Mac App Store  button"}
 className={`w-element cs02lc`}>
 <Image
 src={"/assets/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917_wsuiz2VllMYTAd-yb-_mG.svg"}
-width={200}
+width={205}
 loading={"eager"}
 alt={"Download on the Mac App Store"}
-height={40}
+height={52}
+fetchPriority={"high"}
 className={`w-image`} />
 </Link>
 <Link
@@ -610,13 +611,14 @@ href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 aria-label={"Free Download on GitHub button"}
 className={`w-element cs02lc cdjvmmy`}>
-<div
-className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c1x1dfts crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cbgovzd c10ahqwr ccy4onp c12v245d c1qopeiv c1ays5ld c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
-<p
-className={`w-element c1f3f3n8 c23z8nw cqo7lub`}>
-{"Free Download on GitHub"}
-</p>
-</div>
+<Image
+src={"/assets/GitHub_Badge_2x_TI3XZydyWMTVRNJI2jGQT.png"}
+loading={"eager"}
+alt={"Free Download on the GitHub"}
+height={52}
+fetchPriority={"high"}
+width={170}
+className={`w-image`} />
 </Link>
 </div>
 </Fragment_1>

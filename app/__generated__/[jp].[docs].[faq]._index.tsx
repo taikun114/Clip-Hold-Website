@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-12T16:59:36.310Z";
+      export const lastPublished = "2025-07-22T12:48:29.360Z";
 
       export const siteName = "Clip Hold";
 
@@ -550,8 +550,8 @@ className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"よくある質問と回答"}
 </h1>
 <MarkdownEmbed
-code={"## 有料版と無料版の違いはありますか？\n**いいえ、アプリに搭載されている機能に違いはありません。**\n\nClip Holdには無料版（GitHub版）と有料版（Mac App Store版）がありますが、どちらもほとんど機能の違いはありません。**唯一の違いは自動アップデート機能の有無**です。\\\n有料版ではApp Storeの機能でアップデートとインストールを自動で行うことができますが、無料版では今のところアップデート確認機能とインストール機能は搭載されていません（つまり、アプリの機能としては何一つ変わりません！）。\n\n私としてはApp Storeから購入してくださるとありがたいですが、まずは無料でダウンロードしてみて、とても便利だと思ったら購入したり[**寄付**](#どうすれば開発者の方をサポートできますか)したりしてくださると大変嬉しいです！\n\n## Clip Holdのシステム要件を教えてください。\nClip Holdは、**macOS Sonoma（14.0）またはそれ以降**がインストールされた、**Appleシリコン搭載のMac**と**Intelプロセッサ搭載のMac**に対応しています。\n\n## Clip Holdは個人情報を収集しますか？\n**いいえ、個人情報は収集しません。**\n\nシステム設定の「プライバシーとセキュリティ」設定内にある「解析と改善」で「アプリデベロッパと共有」をオンにしているユーザーの使用状況データとクラッシュレポートが共有される場合がありますが、アプリ自体には情報を収集して送信する機能は全く搭載されていません。プライバシーが心配な方でも安心してお使いいただけます。\n\nアプリが取得する情報とその取り扱いについては、[**プライバシーポリシー**](/jp/privacy-policy)ページをご覧ください。\n\n## Clip Holdは重たいですか？\n**いいえ、Clip Holdは非常に軽量です。**\n\nアプリの大きさは10 MBを切っており、古いシステムでも快適に動作するように設計されています。\n\n## Clip Holdは画像やファイルなどに対応していますか？\n**いいえ、テキストにのみ対応しています。**\n\n将来的にはテキスト以外にも対応させたいとは思っていますが、少なくとも現時点ではテキスト形式にしか対応していません。\n\n## バグを見つけた場合はどうしたらいいですか？\n[**サポートとフィードバック**](/jp/support)ページの内容に従ってバグを報告してください。\n\n## こんな機能を追加してほしいです。\nバグ報告と同様、[**サポートとフィードバック**](/jp/support)ページの内容に従ってフィードバックを送信してください。\n\n## Clip Holdをアップデートするにはどうしたらいいですか？\n### Mac App Storeから購入された方\nApp Storeを使ってアップデートすることができます。\n\n### GitHubからダウンロードされた方\n次の手順でアップデートしてください。\n\n1. [**リリースページ**](https://github.com/taikun114/Clip-Hold/releases/latest)から最新バージョンをダウンロードします。\n2. ダウンロードしたディスクイメージを開きます。\n3. ディスクイメージ内のClip Holdのアイコンをアプリケーションフォルダへドラッグアンドドロップし、上書き保存します。\n4. アップデート完了です。\n\n> **注意**\\\n> 上書き保存する際、Clip Holdが起動している場合は一旦終了させる必要があります。\\\n> アプリをアップデートしてもデータは消えませんのでご安心ください。心配な場合、アップデート前に定型文と履歴をエクスポートしておけば問題ありません。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i ckedyeo c11k13wx c1kaohmx c3pvp22 c10uadrl chqip0y c2xlg9q c1jhqcl3 c13xtvcd ch6h5mx`}>
+code={"## 有料版と無料版の違いはありますか？\n**いいえ、アプリに搭載されている機能に違いはありません。**\n\nClip Holdには無料版（GitHub版）と有料版（Mac App Store版）がありますが、どちらもほとんど機能の違いはありません。**唯一の違いは自動アップデート機能の有無**です。\\\n有料版ではApp Storeの機能でアップデートとインストールを自動で行うことができますが、無料版では今のところアップデート確認機能とインストール機能は搭載されていません（つまり、アプリの機能としては何一つ変わりません！）。\n\n私としてはApp Storeから購入してくださるとありがたいですが、まずは無料でダウンロードしてみて、とても便利だと思ったら購入したり[**寄付**](#どうすれば開発者の方をサポートできますか)したりしてくださると大変嬉しいです！\n\n## Clip Holdのシステム要件を教えてください。\nClip Holdは、**macOS Sonoma（14.0）またはそれ以降**がインストールされた、**Appleシリコン搭載のMac**と**Intelプロセッサ搭載のMac**に対応しています。\n\n## Clip Holdは個人情報を収集しますか？\n**いいえ、個人情報は収集しません。**\n\nシステム設定の「プライバシーとセキュリティ」設定内にある「解析と改善」で「アプリデベロッパと共有」をオンにしているユーザーの使用状況データとクラッシュレポートが共有される場合がありますが、アプリ自体には情報を収集して送信する機能は全く搭載されていません。プライバシーが心配な方でも安心してお使いいただけます。\n\nアプリが取得する情報とその取り扱いについては、[**プライバシーポリシー**](/jp/privacy-policy)ページをご覧ください。\n\n## Clip Holdは重たいですか？\n**いいえ、Clip Holdは非常に軽量です。**\n\nアプリの大きさは10 MBを切っており、古いシステムでも快適に動作するように設計されています。\n\n## Clip Holdは画像やファイルなどに対応していますか？\n**はい、最新バージョンでは次のファイル種類に対応しています。**\n- テキスト\n- ファイル\n- 画像\n\n## バグを見つけた場合はどうしたらいいですか？\n[**サポートとフィードバック**](/jp/support)ページの内容に従ってバグを報告してください。\n\n## こんな機能を追加してほしいです。\nバグ報告と同様、[**サポートとフィードバック**](/jp/support)ページの内容に従ってフィードバックを送信してください。\n\n## Clip Holdをアップデートするにはどうしたらいいですか？\n### Mac App Storeから購入された方\nApp Storeを使ってアップデートすることができます。\n\n### GitHubからダウンロードされた方\n次の手順でアップデートしてください。\n\n1. [**リリースページ**](https://github.com/taikun114/Clip-Hold/releases/latest)から最新バージョンをダウンロードします。\n2. ダウンロードしたディスクイメージを開きます。\n3. ディスクイメージ内のClip Holdのアイコンをアプリケーションフォルダへドラッグアンドドロップし、上書き保存します。\n4. アップデート完了です。\n\n> **注意**\\\n> 上書き保存する際、Clip Holdが起動している場合は一旦終了させる必要があります。\\\n> アプリをアップデートしてもデータは消えませんのでご安心ください。心配な場合、アップデート前に定型文と履歴をエクスポートしておけば問題ありません。"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf ch6h5mx`}>
 </MarkdownEmbed>
 <h2
 id={"どうすれば開発者の方をサポートできますか"}
@@ -560,7 +560,7 @@ className={`w-element c11yke06`}>
 </h2>
 <MarkdownEmbed
 code={"### リポジトリにスターをつける\n[**こちらのページ**](https://github.com/taikun114/Clip-Hold)を開き、右上の「Star」ボタンをクリックしてスターをつけてくださるととてもうれしいです！\\\nこのボタンは言わば高評価ボタンのようなもので、開発を続けるモチベーションになります！この機能は無料なので、Clip Holdを気に入ったらぜひスターをつけてください！\n\n### 寄付\nClip Holdが気に入ったら寄付してくださると嬉しいです。開発を続けるモチベーションになります！\n\n以下のサービスを使って寄付していただくことができます。\n\n#### Buy Me a Coffee\n[**Buy Me a Coffee**](https://www.buymeacoffee.com/i_am_taikun)で緑茶一杯分の金額からサポートしていただけます。\n\n#### PayPal\\.Me\nPayPalアカウントをお持ちの方は、[**PayPal**](https://paypal.me/taikun114)で直接寄付していただくこともできます。\n\n## 他にも質問がありますか？\n[**ディスカッション**](https://github.com/taikun114/Clip-Hold/discussions)ページが用意されているので、質問を投稿したり、意見交換などを行ったりすることができますのでぜひ確認してみてください！"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i ckedyeo c11k13wx c1kaohmx c3pvp22 c10uadrl chqip0y c2xlg9q c1jhqcl3 c13xtvcd ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>
@@ -597,10 +597,11 @@ aria-label={"Mac App Storeからダウンロードボタン"}
 className={`w-element cs02lc`}>
 <Image
 src={"/assets/Download_on_the_Mac_App_Store_Badge_JP_RGB_blk_100317_PBTOdZUu8ZYNgCcHrs3tY.svg"}
-width={200}
+width={180}
 loading={"eager"}
 alt={"Mac App Storeからダウンロード"}
-height={40}
+height={52}
+fetchPriority={"high"}
 className={`w-image`} />
 </Link>
 <Link
@@ -608,13 +609,14 @@ href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 aria-label={"GitHubから無料でダウンロードボタン"}
 className={`w-element cs02lc cdjvmmy`}>
-<div
-className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c1x1dfts crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cbgovzd c1qopeiv c10ahqwr ccy4onp c12v245d c1ays5ld c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
-<p
-className={`w-element c1f3f3n8 c23z8nw cqo7lub`}>
-{"GitHubから無料でダウンロード"}
-</p>
-</div>
+<Image
+src={"/assets/GitHub_Badge-ja_2x_KZ0_CT1LL7XPznxhyQAlV.png"}
+width={170}
+loading={"eager"}
+alt={"GitHubから無料でダウンロード"}
+height={52}
+fetchPriority={"high"}
+className={`w-image`} />
 </Link>
 </div>
 </Fragment_1>

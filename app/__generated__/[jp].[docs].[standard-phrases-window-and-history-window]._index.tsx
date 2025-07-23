@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-12T16:59:36.310Z";
+      export const lastPublished = "2025-07-22T12:48:29.360Z";
 
       export const siteName = "Clip Hold";
 
@@ -554,16 +554,38 @@ className={`w-element cua250e`}>
 {"定型文ウィンドウと履歴ウィンドウ"}
 </h2>
 <Image
-src={"/assets/Standard-Phrase-and-History-Window-ja_cQ0AxOwLppKoTxpMMEby6.webp"}
-width={1605}
-height={966}
+src={"/assets/Standard-Phrase-and-History-Window-ja_9Ui-6kE0ZMQKTQjvEl4_U.webp"}
+width={1637}
+height={931}
 loading={"eager"}
 alt={"定型文ウィンドウと履歴ウィンドウ"}
 fetchPriority={"high"}
 className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
-code={"すべての定型文やコピー履歴は、定型文ウィンドウと履歴ウィンドウからアクセスすることができます。\\\n定型文ウィンドウは、Clip Holdのメニューバーアイコンの「すべての定型文を表示...」、履歴ウィンドウは「すべてのコピー履歴を表示...」をクリックすることで開くことができます。\\\nこれらのウィンドウはショートカットキーを使って開くこともできます。定型文ウィンドウはデフォルトでControl + Command + Vキー、履歴ウィンドウはデフォルトでOption + Command + Vキーで開くことができます。\n\n### 各項目について\nウィンドウ内に表示される各項目をダブルクリックすることでコピーすることができます。\\\nデフォルトではコピー後にウインドウが自動的に閉じますが、設定で閉じないようにすることもできます。\n\n> **豆知識**\\\n> 各項目にカーソルを乗せると、ツールチップにコンテンツ全体が表示されます。コピーする前に長いコンテンツを確認したいときに便利です。\n\n他にも、各項目を右クリックしてコピーやQRコードの作成、そして削除することもできます（削除した場合、ストレージからも削除されます）。\\\nこれらに加えて、定型文ウィンドウでは定型文の編集を、履歴ウィンドウではその項目から定型文を作成するオプションが表示されます。\n\n> **注意**\\\n> QRコードの作成、定型文の編集、項目から定型文を作成するオプションは、Clip Hold 1.1.0またはそれ以降が必要です。\n\n### 検索\n上部にある検索欄にキーワードを入力することで定型文やコピー履歴を検索することができます。検索機能はバックグラウンドで行われるため、定型文やコピー履歴の数が多くてもUIがフリーズすることなく高速に検索することができます。\n\n## QRコード画像のスキャン\n> **注意**\\\n> Clip Hold 1.1.0またはそれ以降が必要です。\n\nQRコードが含まれた画像を履歴ウィンドウにドラッグアンドドロップすると、QRコードのコンテンツがコピーされ、履歴に追加されます。\n\n> **豆知識**\\\n> 最低限読み取り可能な解像度のQRコードが含まれていれば、画像全体にQRコードが表示されている必要はありません。\n\n### 設定項目\n定型文ウィンドウに関する設定は[**こちらのページ**](/jp/docs/settings#%E5%AE%9A%E5%9E%8B%E6%96%87%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6)、履歴ウィンドウに関する設定は[**こちらのページ**](/jp/docs/settings#%E5%B1%A5%E6%AD%B4%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6)をご覧ください。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i ckedyeo c11k13wx c1kaohmx c3pvp22 c10uadrl chqip0y c2xlg9q c1jhqcl3 c13xtvcd ch6h5mx`}>
+code={"すべての定型文やコピー履歴は、定型文ウィンドウと履歴ウィンドウからアクセスすることができます。\\\n定型文ウィンドウは、Clip Holdのメニューバーアイコンの「すべての定型文を表示...」、履歴ウィンドウは「すべてのコピー履歴を表示...」をクリックすることで開くことができます。\\\nこれらのウィンドウはショートカットキーを使って開くこともできます。定型文ウィンドウはデフォルトでControl + Command + Vキー、履歴ウィンドウはデフォルトでOption + Command + Vキーで開くことができます。\n\n### 各項目について\nウィンドウ内に表示される各項目をダブルクリックすることでコピーすることができます。\\\nデフォルトではコピー後にウインドウが自動的に閉じますが、設定で閉じないようにすることもできます。\n\n> **豆知識**\\\n> 各項目にカーソルを乗せると、ツールチップにコンテンツ全体が表示されます。コピーする前に長いコンテンツを確認したいときに便利です。"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf ch6h5mx`}>
+</MarkdownEmbed>
+<Image
+src={"/assets/QR-Code-ja_sUrbImc07dvFs3SCHUwo0.webp"}
+width={1692}
+height={1222}
+loading={"lazy"}
+alt={"QRコードの作成"}
+className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
+<MarkdownEmbed
+code={"他にも、各項目を右クリックしてコピーやQRコードの作成、そして削除することもできます（削除した場合、ストレージからも削除されます）。\\\nこれらに加えて、定型文ウィンドウでは定型文の編集を、履歴ウィンドウではその項目から定型文を作成するオプションが表示されます。\n\n> **注意**\\\n> QRコードの作成、定型文の編集、項目から定型文を作成するオプションは、Clip Hold 1.1.0またはそれ以降が必要です。\n\n### 検索\n上部にある検索欄にキーワードを入力することで定型文やコピー履歴を検索することができます。検索機能はバックグラウンドで行われるため、定型文やコピー履歴の数が多くてもUIがフリーズすることなく高速に検索することができます。\n\n#### フィルタリングと並べ替え"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf ch6h5mx`}>
+</MarkdownEmbed>
+<Image
+src={"/assets/Filter-and-Sort-ja_FE9DbAMD2iYuTOy901AcI.webp"}
+width={1256}
+height={891}
+loading={"lazy"}
+alt={"フィルタリングと並べ替え"}
+className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg c2oe4sx`} />
+<MarkdownEmbed
+code={"> **注意**\\\n> Clip Hold 1.2.0またはそれ以降が必要です。\n\n検索ボックスの右側にある2つのボタンからそれぞれフィルタリングと並べ替えを行うことができます。\n\nフィルタリングオプションは以下の通りです。\n- すべての項目\n- テキストのみ\n- ファイルのみ\n  - 画像を含みます。\n- 画像のみ\n\n並べ替えオプションは以下の通りです。\n- 新しい順\n- 古い順\n- ファイルサイズが大きい順\n- ファイルサイズが小さい順\n\n> **豆知識**\\\n> 並べ替えオプションの「ファイルサイズが小さい順」を選択する際、フィルタリングオプションで「ファイルのみ」または「画像のみ」を指定しておくとテキスト項目が表示されなくなるため便利です。\n\n## QRコード画像のスキャン\n> **注意**\\\n> Clip Hold 1.1.0またはそれ以降が必要です。\n\nQRコードが含まれた画像を履歴ウィンドウにドラッグアンドドロップすると、QRコードのコンテンツがコピーされ、履歴に追加されます。\n\n> **豆知識**\\\n> 最低限読み取り可能な解像度のQRコードが含まれていれば、画像全体にQRコードが表示されている必要はありません。\n\n### 設定項目\n定型文ウィンドウに関する設定は[**こちらのページ**](/jp/docs/settings#%E5%AE%9A%E5%9E%8B%E6%96%87%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6)、履歴ウィンドウに関する設定は[**こちらのページ**](/jp/docs/settings#%E5%B1%A5%E6%AD%B4%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6)をご覧ください。"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>
@@ -600,10 +622,11 @@ aria-label={"Mac App Storeからダウンロードボタン"}
 className={`w-element cs02lc`}>
 <Image
 src={"/assets/Download_on_the_Mac_App_Store_Badge_JP_RGB_blk_100317_PBTOdZUu8ZYNgCcHrs3tY.svg"}
-width={200}
+width={180}
 loading={"eager"}
 alt={"Mac App Storeからダウンロード"}
-height={40}
+height={52}
+fetchPriority={"high"}
 className={`w-image`} />
 </Link>
 <Link
@@ -611,13 +634,14 @@ href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 aria-label={"GitHubから無料でダウンロードボタン"}
 className={`w-element cs02lc cdjvmmy`}>
-<div
-className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c1x1dfts crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cbgovzd c1qopeiv c10ahqwr ccy4onp c12v245d c1ays5ld c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
-<p
-className={`w-element c1f3f3n8 c23z8nw cqo7lub`}>
-{"GitHubから無料でダウンロード"}
-</p>
-</div>
+<Image
+src={"/assets/GitHub_Badge-ja_2x_KZ0_CT1LL7XPznxhyQAlV.png"}
+width={170}
+loading={"eager"}
+alt={"GitHubから無料でダウンロード"}
+height={52}
+fetchPriority={"high"}
+className={`w-image`} />
 </Link>
 </div>
 </Fragment_1>

@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-12T16:59:36.310Z";
+      export const lastPublished = "2025-07-22T12:48:29.360Z";
 
       export const siteName = "Clip Hold";
 
@@ -573,10 +573,11 @@ aria-label={"Mac App Storeからダウンロードボタン"}
 className={`w-element cs02lc`}>
 <Image
 src={"/assets/Download_on_the_Mac_App_Store_Badge_JP_RGB_blk_100317_PBTOdZUu8ZYNgCcHrs3tY.svg"}
-width={200}
+width={180}
 loading={"eager"}
 alt={"Mac App Storeからダウンロード"}
-height={40}
+height={52}
+fetchPriority={"high"}
 className={`w-image`} />
 </Link>
 <Link
@@ -584,13 +585,14 @@ href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 aria-label={"GitHubから無料でダウンロードボタン"}
 className={`w-element cs02lc cdjvmmy`}>
-<div
-className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c1x1dfts crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cbgovzd c1qopeiv c10ahqwr ccy4onp c12v245d c1ays5ld c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
-<p
-className={`w-element c1f3f3n8 c23z8nw cqo7lub`}>
-{"GitHubから無料でダウンロード"}
-</p>
-</div>
+<Image
+src={"/assets/GitHub_Badge-ja_2x_KZ0_CT1LL7XPznxhyQAlV.png"}
+width={170}
+loading={"eager"}
+alt={"GitHubから無料でダウンロード"}
+height={52}
+fetchPriority={"high"}
+className={`w-image`} />
 </Link>
 </div>
 </Fragment_1>
@@ -657,12 +659,12 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"よく使う定型文とコピー履歴には、メニューからすぐにアクセスできます。項目をクリックするだけで簡単にコピーすることができます。"}
 </p>
 <Image
-src={"/assets/Standard-Phrase-and-History-ja_r5HyqLG0j-2isVoG_qISz.webp"}
-width={1384}
-height={906}
+src={"/assets/Standard-Phrase-and-History-ja_lTvNQ-dYY6gdsttjf-E05.webp"}
+width={1318}
+height={912}
 alt={"定型文とコピー履歴"}
 loading={"lazy"}
-className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
 </div>
 <hr
 className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz cbodz54`} />
@@ -677,12 +679,12 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"設定したすべての定型文と、保存されたすべての履歴を一覧表示することができます。項目をダブルクリックするだけで簡単にコピーすることができます。"}
 </p>
 <Image
-src={"/assets/Standard-Phrase-and-History-Window-ja_cQ0AxOwLppKoTxpMMEby6.webp"}
-width={1605}
-height={966}
+src={"/assets/Standard-Phrase-and-History-Window-ja_9Ui-6kE0ZMQKTQjvEl4_U.webp"}
+width={1637}
+height={931}
 alt={"定型文ウィンドウとは履歴ウィンドウ"}
 loading={"lazy"}
-className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
 </div>
 <hr
 className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz cbodz54`} />
@@ -697,12 +699,12 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"各10個までの定型文とコピー履歴をすぐさまコピーできるショートカットキーが用意されており、素早くコピーすることができます。定型文や履歴ウィンドウを開くのも一瞬。"}
 </p>
 <Image
-src={"/assets/Shortcuts-ja_aBpgdQzo-eSkI_8N0oYNo.webp"}
-width={1622}
-height={1087}
+src={"/assets/Shortcuts-ja_hLERqhX8bVpGOI5YmHWQx.webp"}
+width={1865}
+height={1117}
 alt={"ショートカットキー"}
 loading={"lazy"}
-className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
 </div>
 <hr
 className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz cbodz54`} />
@@ -717,13 +719,13 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"「クイックペースト」機能を使えば、メニューで項目をコピーした時やショートカットキーを使ってコピーしたとき、コピーした内容が即座にペーストされます。わざわざ自分でペーストする必要はありません。"}
 </p>
 <Image
-src={"/assets/Quick-Paste-ja_ts9aKg4BVThggJ7A7qcA7.gif"}
-width={1080}
-height={608}
+src={"/assets/Quick-Paste-ja_cZiMPEHIZdF4qk6cYXPTh.gif"}
+width={720}
+height={405}
 alt={"クイックペースト"}
 loading={"lazy"}
 optimize={false}
-className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
 </div>
 <hr
 className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz cbodz54`} />
@@ -738,12 +740,12 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"定型文とクリップボード履歴は、インポートしたりエクスポートしたりすることができます。自分がよく使う定型文を誰かと共有したり、他のMacからのクリップボード履歴を読み込んだりすることができます。"}
 </p>
 <Image
-src={"/assets/Import-Export-ja_fm62CD3pUTmRVAJqoNEeY.webp"}
-width={1280}
-height={720}
+src={"/assets/Import-Export-ja_GBKM-DxNOAbOQDzrrjiOx.webp"}
+width={1920}
+height={1080}
 alt={"インポートとエクスポート機能"}
 loading={"lazy"}
-className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
 </div>
 <hr
 className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz cbodz54`} />
@@ -791,7 +793,7 @@ width={871}
 height={420}
 alt={"クリップボード監視の一時停止"}
 loading={"lazy"}
-className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
 </div>
 <hr
 className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz cbodz54`} />
@@ -811,7 +813,7 @@ width={1212}
 height={591}
 alt={"除外するアプリ"}
 loading={"lazy"}
-className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
 </div>
 <div
 className={`w-element c7z4ryg c1r1zv9s c5lrunv cfoar8i c13ilcm6 c1w497fm c8dkrv8 c10ahqwr c1atdl27 c453hbm c1or5y3g cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
@@ -917,10 +919,11 @@ aria-label={"Mac App Storeからダウンロードボタン"}
 className={`w-element cs02lc`}>
 <Image
 src={"/assets/Download_on_the_Mac_App_Store_Badge_JP_RGB_blk_100317_PBTOdZUu8ZYNgCcHrs3tY.svg"}
-width={200}
+width={180}
 loading={"eager"}
 alt={"Mac App Storeからダウンロード"}
-height={40}
+height={52}
+fetchPriority={"high"}
 className={`w-image`} />
 </Link>
 <Link
@@ -928,13 +931,14 @@ href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 aria-label={"GitHubから無料でダウンロードボタン"}
 className={`w-element cs02lc cdjvmmy`}>
-<div
-className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c1x1dfts crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cbgovzd c1qopeiv c10ahqwr ccy4onp c12v245d c1ays5ld c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
-<p
-className={`w-element c1f3f3n8 c23z8nw cqo7lub`}>
-{"GitHubから無料でダウンロード"}
-</p>
-</div>
+<Image
+src={"/assets/GitHub_Badge-ja_2x_KZ0_CT1LL7XPznxhyQAlV.png"}
+width={170}
+loading={"eager"}
+alt={"GitHubから無料でダウンロード"}
+height={52}
+fetchPriority={"high"}
+className={`w-image`} />
 </Link>
 </div>
 </Fragment_1>

@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-12T16:59:36.310Z";
+      export const lastPublished = "2025-07-22T12:48:29.360Z";
 
       export const siteName = "Clip Hold";
 
@@ -556,16 +556,38 @@ className={`w-element c23z8nw c1dgg9g4 cua250e`}>
 {"Standard Phrases Window and History Window"}
 </h2>
 <Image
-src={"/assets/Standard-Phrase-and-History-Window_Fh9NSTn8wzn93rXNIJ7__.webp"}
-width={1627}
-height={987}
+src={"/assets/Standard-Phrase-and-History-Window_rtIni80AFzc08GGzgByBZ.webp"}
+width={1588}
+height={928}
 loading={"eager"}
 alt={"Standard Phrases Window and History Window"}
 fetchPriority={"high"}
 className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
-code={"All standard phrases and copy history can be accessed from the Standard Phrases Window and the History Window.\\\nThe Standard Phrases Window can be opened by clicking \"Show All Standard Phrases...\" in the Clip Hold menu bar icon, and the History Window by clicking \"Show All Copy History...\".\\\nThese windows can also be opened using shortcut keys. The Standard Phrases Window opens by default with Control + Command + V, and the History Window with Option + Command + V.\n\n#### About Each Item\nYou can copy items displayed in the window by double-clicking them.\\\nBy default, the window closes automatically after copying, but you can change this in the settings to keep it open.\n\n> **Tip**\\\n> Hovering over each item displays the entire content in a tooltip. This is useful when you want to check long content before copying it.\n\nAdditionally, you can right-click each item to copy or create a QR Code, and even delete it (if deleted, it is also removed from storage).\\\nIn addition to these, the Standard Phrases Window shows the option to edit a standard phrase, and the History Window shows the option to create a standard phrase from the item.\n\n> **Note**\\\n> The options to create a QR Code, edit a standard phrase, and create a standard phrase from the item requires Clip Hold 1.1.0 or later.\n\n#### Search\nYou can also search for standard phrases and copy history by typing keywords into the search bar at the top. The search function operates in the background, allowing for fast searches without freezing the UI, even with a large number of standard phrases or copy histories.\n\n### Scanning QR Code Images \n> **Note**\\\n> Requires Clip Hold 1.1.0 or later.\n\nDrag and drop an image containing a QR Code into the History Window, the contents of the QR Code will be copied and added to the History.\n\n> **Tip**\\\n> It is not necessary for the entire image to contain a QR Code as long as it contains a minimum readable resolution of QR Code.\n\n### Settings\nFor settings related to the Standard Phrases Window, please refer to [**this page**](/docs/settings#standard-phrases-window), and for settings related to the History Window, please refer to [**this page**](/docs/settings#history-window)."}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i ckedyeo c11k13wx c1kaohmx c3pvp22 c10uadrl chqip0y c2xlg9q c1jhqcl3 c13xtvcd ch6h5mx`}>
+code={"All standard phrases and copy history can be accessed from the Standard Phrases Window and the History Window.\\\nThe Standard Phrases Window can be opened by clicking \"Show All Standard Phrases...\" in the Clip Hold menu bar icon, and the History Window by clicking \"Show All Copy History...\".\\\nThese windows can also be opened using shortcut keys. The Standard Phrases Window opens by default with Control + Command + V, and the History Window with Option + Command + V.\n\n#### About Each Item\nYou can copy items displayed in the window by double-clicking them.\\\nBy default, the window closes automatically after copying, but you can change this in the settings to keep it open.\n\n> **Tip**\\\n> Hovering over each item displays the entire content in a tooltip. This is useful when you want to check long content before copying it."}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf ch6h5mx`}>
+</MarkdownEmbed>
+<Image
+src={"/assets/QR-Code_vP_6-bCB6Xrk3FhPIkEuN.webp"}
+width={1571}
+height={1173}
+loading={"lazy"}
+alt={"Creating QR Code"}
+className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
+<MarkdownEmbed
+code={"Additionally, you can right-click each item to copy or create a QR Code, and even delete it (if deleted, it is also removed from storage).\\\nIn addition to these, the Standard Phrases Window shows the option to edit a standard phrase, and the History Window shows the option to create a standard phrase from the item.\n\n> **Note**\\\n> The options to create a QR Code, edit a standard phrase, and create a standard phrase from the item requires Clip Hold 1.1.0 or later.\n\n#### Search\nYou can also search for standard phrases and copy history by typing keywords into the search bar at the top. The search function operates in the background, allowing for fast searches without freezing the UI, even with a large number of standard phrases or copy history items.\n\n#### Filtering and Sorting"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf ch6h5mx`}>
+</MarkdownEmbed>
+<Image
+src={"/assets/Filter-and-Sort_AjRb3W3AkDigpgqSBbpSR.webp"}
+width={1216}
+height={851}
+loading={"lazy"}
+alt={"Filtering and Sorting"}
+className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg c2oe4sx`} />
+<MarkdownEmbed
+code={"> **Note**\\\n> Requires Clip Hold 1.2.0 or later.\n\nYou can filter and sort individually from the two buttons to the right of the search box.\n\nFiltering options are as follows.\n- All Items\n- Only Text\n- Only Files\n  - Includes images.\n- Only Images\n\nSorting options are as follows.\n- Newest to Oldest\n- Oldest to Newest\n- Largest to Smallest File Sizes\n- Smallest to Largest File Sizes\n\n> **Tip**\\\n> When selecting the “Smallest to Largest File Sizes” sorting option, it is useful to specify “Only Files” or “Only Images” in the filtering options to prevent text items from being displayed.\n\n### Scanning QR Code Images \n> **Note**\\\n> Requires Clip Hold 1.1.0 or later.\n\nDrag and drop an image containing a QR Code into the History Window, the contents of the QR Code will be copied and added to the History.\n\n> **Tip**\\\n> It is not necessary for the entire image to contain a QR Code as long as it contains a minimum readable resolution of QR Code.\n\n### Settings\nFor settings related to the Standard Phrases Window, please refer to [**this page**](/docs/settings#standard-phrases-window), and for settings related to the History Window, please refer to [**this page**](/docs/settings#history-window)."}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>
@@ -602,10 +624,11 @@ aria-label={"Download on the Mac App Store  button"}
 className={`w-element cs02lc`}>
 <Image
 src={"/assets/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917_wsuiz2VllMYTAd-yb-_mG.svg"}
-width={200}
+width={205}
 loading={"eager"}
 alt={"Download on the Mac App Store"}
-height={40}
+height={52}
+fetchPriority={"high"}
 className={`w-image`} />
 </Link>
 <Link
@@ -613,13 +636,14 @@ href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 aria-label={"Free Download on GitHub button"}
 className={`w-element cs02lc cdjvmmy`}>
-<div
-className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c1x1dfts crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cbgovzd c10ahqwr ccy4onp c12v245d c1qopeiv c1ays5ld c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
-<p
-className={`w-element c1f3f3n8 c23z8nw cqo7lub`}>
-{"Free Download on GitHub"}
-</p>
-</div>
+<Image
+src={"/assets/GitHub_Badge_2x_TI3XZydyWMTVRNJI2jGQT.png"}
+loading={"eager"}
+alt={"Free Download on the GitHub"}
+height={52}
+fetchPriority={"high"}
+width={170}
+className={`w-image`} />
 </Link>
 </div>
 </Fragment_1>

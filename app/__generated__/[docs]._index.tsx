@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-12T16:59:36.310Z";
+      export const lastPublished = "2025-07-22T12:48:29.360Z";
 
       export const siteName = "Clip Hold";
 
@@ -561,7 +561,7 @@ fetchPriority={"high"}
 className={`w-image c7z4ryg`} />
 <MarkdownEmbed
 code={"Welcome to the Clip Hold Documents!\\\nThis page provides information about Clip Hold, from how to use it to detailed settings (it is also described in [**GitHub Wiki**](https://github.com/taikun114/Clip-Hold/wiki)).\n\nDocumentation is still in preparation. There may be missing information.\n\n- [**FAQ**](/docs/faq)\n  - Frequently asked questions and answers are listed here, so if you have any questions, please see here.\n- [**Standard Phrases and Copy History**](/docs/standard-phrases-and-copy-history)\n  - For information on accessing Standard Phrases and Copy History and related features, please see here.\n- [**Standard Phrases Window and History Window**](/docs/standard-phrases-window-and-history-window)\n  - For information on how to open and use the Standard Phrases Window and History Window, please see here.\n- [**Notifications**](/docs/notifications)\n  - For information on notifications from Clip Hold, please see here.\n- [**Settings**](/docs/settings)\n  - For information on all settings in Clip Hold, please see here."}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i ckedyeo c11k13wx c1kaohmx c3pvp22 c10uadrl chqip0y c2xlg9q c1jhqcl3 c13xtvcd ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>
@@ -598,10 +598,11 @@ aria-label={"Download on the Mac App Store  button"}
 className={`w-element cs02lc`}>
 <Image
 src={"/assets/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917_wsuiz2VllMYTAd-yb-_mG.svg"}
-width={200}
+width={205}
 loading={"eager"}
 alt={"Download on the Mac App Store"}
-height={40}
+height={52}
+fetchPriority={"high"}
 className={`w-image`} />
 </Link>
 <Link
@@ -609,13 +610,14 @@ href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 aria-label={"Free Download on GitHub button"}
 className={`w-element cs02lc cdjvmmy`}>
-<div
-className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c1x1dfts crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cbgovzd c10ahqwr ccy4onp c12v245d c1qopeiv c1ays5ld c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
-<p
-className={`w-element c1f3f3n8 c23z8nw cqo7lub`}>
-{"Free Download on GitHub"}
-</p>
-</div>
+<Image
+src={"/assets/GitHub_Badge_2x_TI3XZydyWMTVRNJI2jGQT.png"}
+loading={"eager"}
+alt={"Free Download on the GitHub"}
+height={52}
+fetchPriority={"high"}
+width={170}
+className={`w-image`} />
 </Link>
 </div>
 </Fragment_1>

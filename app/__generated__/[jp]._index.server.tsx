@@ -21,7 +21,7 @@ export const getResources = (_props: { system: System }) => {
   resources: Record<string, any>;
 }): PageMeta => {
   return {
-    title: "Clip Hold - macOS用のクリップボードと定型文マネージャー",
+    title: "Clip Hold - クリップボードの達人になろう",
     description: "Clip Holdはただのクリップボードマネージャーではありません。\n10年以上Macを使い続けているパワーユーザーの私が考えた、大変便利な機能がたくさん詰まったクリップボードマネージャーアプリです。",
     excludePageFromSearch: false,
     language: "ja-jp",

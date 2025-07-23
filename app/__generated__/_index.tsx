@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-12T16:59:36.310Z";
+      export const lastPublished = "2025-07-22T12:48:29.360Z";
 
       export const siteName = "Clip Hold";
 
@@ -596,10 +596,11 @@ aria-label={"Download on the Mac App Store  button"}
 className={`w-element cs02lc`}>
 <Image
 src={"/assets/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917_wsuiz2VllMYTAd-yb-_mG.svg"}
-width={200}
+width={205}
 loading={"eager"}
 alt={"Download on the Mac App Store"}
-height={40}
+height={52}
+fetchPriority={"high"}
 className={`w-image`} />
 </Link>
 <Link
@@ -607,13 +608,14 @@ href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 aria-label={"Free Download on GitHub button"}
 className={`w-element cs02lc cdjvmmy`}>
-<div
-className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c1x1dfts crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cbgovzd c10ahqwr ccy4onp c12v245d c1qopeiv c1ays5ld c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
-<p
-className={`w-element c1f3f3n8 c23z8nw cqo7lub`}>
-{"Free Download on GitHub"}
-</p>
-</div>
+<Image
+src={"/assets/GitHub_Badge_2x_TI3XZydyWMTVRNJI2jGQT.png"}
+loading={"eager"}
+alt={"Free Download on the GitHub"}
+height={52}
+fetchPriority={"high"}
+width={170}
+className={`w-image`} />
 </Link>
 </div>
 </Fragment_1>
@@ -680,12 +682,12 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"Frequently used standard phrases and copy history items can be accessed quickly from the menu. You can easily copy an item by simply clicking on it."}
 </p>
 <Image
-src={"/assets/Standard-Phrase-and-History_jbS92_carHGf2r1yDu_M7.webp"}
-width={1384}
-height={906}
+src={"/assets/Standard-Phrase-and-History_PJpefZbYSvmzRVzBFyr80.webp"}
+width={1386}
+height={937}
 alt={"Standard Phrases and Copy History"}
 loading={"lazy"}
-className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
 </div>
 <hr
 className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz cbodz54`} />
@@ -700,12 +702,12 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"You can list all standard phrases you have set and all saved history items. You can easily copy an item by simply double-clicking on it."}
 </p>
 <Image
-src={"/assets/Standard-Phrase-and-History-Window_Fh9NSTn8wzn93rXNIJ7__.webp"}
-width={1627}
-height={987}
+src={"/assets/Standard-Phrase-and-History-Window_rtIni80AFzc08GGzgByBZ.webp"}
+width={1588}
+height={928}
 alt={"Standard Phrases Window and History Window"}
 loading={"lazy"}
-className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
 </div>
 <hr
 className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz cbodz54`} />
@@ -720,12 +722,12 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"Dedicated shortcut keys allow you to quickly copy up to 10 standard phrases and 10 copy history items. You can also open the standard phrases and history windows instantly."}
 </p>
 <Image
-src={"/assets/Shortcuts_7LRdRm5P5RsuqnSPbYPS-.webp"}
-width={1556}
-height={986}
+src={"/assets/Shortcuts_FXDD1rpnnU8AAVHZrEjfP.webp"}
+width={1858}
+height={1112}
 alt={"Shortcut Keys"}
 loading={"lazy"}
-className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
 </div>
 <hr
 className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz cbodz54`} />
@@ -740,13 +742,13 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"With the “Quick Paste” feature, when you copy an item from the menu or use a shortcut key, the copied content is immediately pasted. You don't need to paste it yourself."}
 </p>
 <Image
-src={"/assets/Quick-Paste_WOEL-Mx06jT8x4r9aHEpE.gif"}
-width={1080}
-height={608}
+src={"/assets/Quick-Paste_78TwKMmgPe6i4inFi-9OC.gif"}
+width={720}
+height={405}
 alt={"Quick Paste"}
 loading={"lazy"}
 optimize={false}
-className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
 </div>
 <hr
 className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz cbodz54`} />
@@ -761,12 +763,12 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"Standard phrases and clipboard history can be imported and exported. You can share your favorite standard phrases with someone else, or import clipboard history from another Mac."}
 </p>
 <Image
-src={"/assets/Import-Export_Ss3OoE-3liYtKWO8O-Reg.webp"}
-width={1280}
-height={720}
+src={"/assets/Import-Export_rm5ur06ygb-tVGOT9xWIx.webp"}
+width={1920}
+height={1080}
 alt={"Import and Export Features"}
 loading={"lazy"}
-className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
 </div>
 <hr
 className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz cbodz54`} />
@@ -819,7 +821,7 @@ width={897}
 height={419}
 alt={"Pause Clipboard Monitoring"}
 loading={"lazy"}
-className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
 </div>
 <hr
 className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz cbodz54`} />
@@ -839,7 +841,7 @@ width={1232}
 height={586}
 alt={"Apps to Exclude"}
 loading={"lazy"}
-className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 cg5ykre c1merv6x cdot8hu cssz5kv`} />
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
 </div>
 <div
 className={`w-element c7z4ryg c1r1zv9s c5lrunv cfoar8i c13ilcm6 c1w497fm c8dkrv8 c10ahqwr c1atdl27 c453hbm c1or5y3g cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
@@ -945,10 +947,11 @@ aria-label={"Download on the Mac App Store  button"}
 className={`w-element cs02lc`}>
 <Image
 src={"/assets/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917_wsuiz2VllMYTAd-yb-_mG.svg"}
-width={200}
+width={205}
 loading={"eager"}
 alt={"Download on the Mac App Store"}
-height={40}
+height={52}
+fetchPriority={"high"}
 className={`w-image`} />
 </Link>
 <Link
@@ -956,13 +959,14 @@ href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 aria-label={"Free Download on GitHub button"}
 className={`w-element cs02lc cdjvmmy`}>
-<div
-className={`w-element ci4a518 c170tjmx c1vn5tfs c1kp31s8 czucxib cm4p8zp c12jayl4 cc6izqw c3cll7v c1se82ym cz061he c1usnmgu crlfsv5 c1x1dfts crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cbgovzd c10ahqwr ccy4onp c12v245d c1qopeiv c1ays5ld c10mtjet c1n8pxkt c8d5t5x c3lhgj1 c65inai crxsz50`}>
-<p
-className={`w-element c1f3f3n8 c23z8nw cqo7lub`}>
-{"Free Download on GitHub"}
-</p>
-</div>
+<Image
+src={"/assets/GitHub_Badge_2x_TI3XZydyWMTVRNJI2jGQT.png"}
+loading={"eager"}
+alt={"Free Download on the GitHub"}
+height={52}
+fetchPriority={"high"}
+width={170}
+className={`w-image`} />
 </Link>
 </div>
 </Fragment_1>

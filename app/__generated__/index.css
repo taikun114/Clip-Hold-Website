@@ -728,69 +728,6 @@
   .cs02lc {
     display: inline-block
   }
-  .ci4a518 {
-    background-color: rgba(19, 24, 56, 1)
-  }
-  .cm4p8zp {
-    border-top-style: solid
-  }
-  .c12jayl4 {
-    border-right-style: solid
-  }
-  .cc6izqw {
-    border-left-style: solid
-  }
-  .c3cll7v {
-    border-bottom-style: solid
-  }
-  .c1se82ym {
-    border-top-color: rgba(255, 255, 255, 1)
-  }
-  .cz061he {
-    border-right-color: rgba(255, 255, 255, 1)
-  }
-  .c1usnmgu {
-    border-bottom-color: rgba(255, 255, 255, 1)
-  }
-  .crlfsv5 {
-    border-left-color: rgba(255, 255, 255, 1)
-  }
-  .crsmt4v {
-    transition-property: background-color, color, border-bottom-color, border-left-color, border-right-color, border-top-color
-  }
-  .c1ozn5tv {
-    transition-duration: 200ms, 200ms, 200ms, 200ms, 200ms, 200ms
-  }
-  .cmnhnbl {
-    transition-timing-function: ease, ease, ease, ease, ease, ease
-  }
-  .c16ykjvg {
-    transition-delay: 0ms, 0ms, 0ms, 0ms, 0ms, 0ms
-  }
-  .c1um1orl {
-    transition-behavior: normal, normal, normal, normal, normal, normal
-  }
-  .c10mtjet:hover {
-    background-color: rgba(242, 244, 255, 1)
-  }
-  .c1n8pxkt:hover {
-    border-top-color: rgba(19, 24, 56, 1)
-  }
-  .c8d5t5x:hover {
-    border-right-color: rgba(19, 24, 56, 1)
-  }
-  .c3lhgj1:hover {
-    border-bottom-color: rgba(19, 24, 56, 1)
-  }
-  .c65inai:hover {
-    border-left-color: rgba(19, 24, 56, 1)
-  }
-  .crxsz50:hover {
-    color: rgba(19, 24, 56, 1)
-  }
-  .cqo7lub {
-    margin-bottom: 0
-  }
   .c1vr770l {
     height: 300px
   }
@@ -815,8 +752,8 @@
   .cl9ob9i h4 {
     margin-bottom: -12px
   }
-  .ckedyeo a {
-    color: rgba(0, 81, 255, 1)
+  .c1sr8v96 a {
+    color: light-dark(#0051ff, #73acff)
   }
   .c11k13wx a {
     text-decoration-line: none
@@ -830,17 +767,44 @@
   .c10uadrl blockquote {
     margin-right: 0
   }
-  .chqip0y blockquote {
-    border-top: 0px solid rgba(0, 81, 255, 1)
+  .c10wrxyb blockquote {
+    border-top: 0px solid light-dark(#0051ff, #73acff)
   }
-  .c2xlg9q blockquote {
-    border-right: 0px solid rgba(0, 81, 255, 1)
+  .co7anm5 blockquote {
+    border-right: 0px solid light-dark(#0051ff, #73acff)
   }
-  .c1jhqcl3 blockquote {
-    border-bottom: 0px solid rgba(0, 81, 255, 1)
+  .c1gm4vhf blockquote {
+    border-bottom: 0px solid light-dark(#0051ff, #73acff)
   }
-  .c13xtvcd blockquote {
-    border-left: 4px solid rgba(0, 81, 255, 1)
+  .c1a3306b blockquote {
+    border-left: 4px solid light-dark(#0051ff, #73acff)
+  }
+  .c1pngh2o code {
+    padding-left: 8px
+  }
+  .c1i1ssua code {
+    padding-right: 8px
+  }
+  .c6vyc6y code {
+    padding-bottom: 4px
+  }
+  .ct8dvwa code {
+    padding-top: 4px
+  }
+  .c1dbc9mv code {
+    border-top-left-radius: 8px
+  }
+  .ckfhbto code {
+    border-top-right-radius: 8px
+  }
+  .c11cn4z9 code {
+    border-bottom-left-radius: 8px
+  }
+  .c1i4opmp code {
+    border-bottom-right-radius: 8px
+  }
+  .cj1uatf code {
+    background-color: light-dark(#F2F4FF, #131838)
   }
   .ch6h5mx li {
     margin-left: -24px
@@ -863,6 +827,9 @@
   .c1r1zv9s {
     max-width: 900px
   }
+  .cqo7lub {
+    margin-bottom: 0
+  }
   .c1karaxo {
     font-size: 28px
   }
@@ -881,6 +848,21 @@
   .cy4h7ms {
     color: rgba(255, 255, 255, 1)
   }
+  .crsmt4v {
+    transition-property: background-color, color, border-bottom-color, border-left-color, border-right-color, border-top-color
+  }
+  .c1ozn5tv {
+    transition-duration: 200ms, 200ms, 200ms, 200ms, 200ms, 200ms
+  }
+  .cmnhnbl {
+    transition-timing-function: ease, ease, ease, ease, ease, ease
+  }
+  .c16ykjvg {
+    transition-delay: 0ms, 0ms, 0ms, 0ms, 0ms, 0ms
+  }
+  .c1um1orl {
+    transition-behavior: normal, normal, normal, normal, normal, normal
+  }
   .cxr8h7e {
     border: 2px solid transparent
   }
@@ -895,6 +877,9 @@
   }
   .cinh8md:hover {
     border-left-color: rgba(72, 121, 226, 1)
+  }
+  .c10mtjet:hover {
+    background-color: rgba(242, 244, 255, 1)
   }
   .c10h7c1p:hover {
     color: rgba(72, 121, 226, 1)
