@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-23T08:15:33.095Z";
+      export const lastPublished = "2025-07-25T11:00:42.465Z";
 
       export const siteName = "Clip Hold";
 
@@ -586,7 +586,7 @@ loading={"lazy"}
 alt={"Filtering and Sorting"}
 className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg c2oe4sx`} />
 <MarkdownEmbed
-code={"> **Note**\\\n> Requires Clip Hold 1.2.0 or later.\n\nYou can filter and sort individually from the two buttons to the right of the search box.\n\nFiltering options are as follows.\n- All Items\n- Only Text\n- Only Files\n  - Includes images.\n- Only Images\n\nSorting options are as follows.\n- Newest to Oldest\n- Oldest to Newest\n- Largest to Smallest File Sizes\n- Smallest to Largest File Sizes\n\n> **Tip**\\\n> When selecting the “Smallest to Largest File Sizes” sorting option, it is useful to specify “Only Files” or “Only Images” in the filtering options to prevent text items from being displayed.\n\n### Scanning QR Code Images \n> **Note**\\\n> Requires Clip Hold 1.1.0 or later.\n\nDrag and drop an image containing a QR Code into the History Window, the contents of the QR Code will be copied and added to the History.\n\n> **Tip**\\\n> It is not necessary for the entire image to contain a QR Code as long as it contains a minimum readable resolution of QR Code.\n\n### Settings\nFor settings related to the Standard Phrases Window, please refer to [**this page**](/docs/settings#standard-phrases-window), and for settings related to the History Window, please refer to [**this page**](/docs/settings#history-window)."}
+code={"> **Note**\\\n> Requires Clip Hold 1.2.0 or later.\n\nYou can filter and sort individually from the two buttons to the right of the search box.\n\nFiltering options are as follows.\n- All Items\n- Text Only\n- Files Only\n  - Includes images.\n- Images Only\n\nSorting options are as follows.\n- Newest to Oldest\n- Oldest to Newest\n- Largest to Smallest File Sizes\n- Smallest to Largest File Sizes\n\n> **Tip**\\\n> When selecting the “Smallest to Largest File Sizes” sorting option, it is useful to specify “Only Files” or “Only Images” in the filtering options to prevent text items from being displayed.\n\n### Scanning QR Code Images \n> **Note**\\\n> Requires Clip Hold 1.1.0 or later.\n\nDrag and drop an image containing a QR Code into the History Window, the contents of the QR Code will be copied and added to the History.\n\n> **Tip**\\\n> It is not necessary for the entire image to contain a QR Code as long as it contains a minimum readable resolution of QR Code.\n\n### Settings\nFor settings related to the Standard Phrases Window, please refer to [**this page**](/docs/settings#standard-phrases-window), and for settings related to the History Window, please refer to [**this page**](/docs/settings#history-window)."}
 className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
 </MarkdownEmbed>
 </div>

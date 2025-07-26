@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-23T08:15:33.095Z";
+      export const lastPublished = "2025-07-25T11:00:42.465Z";
 
       export const siteName = "Clip Hold";
 
@@ -552,7 +552,7 @@ className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"Settings"}
 </h1>
 <MarkdownEmbed
-code={"## General\n### Clip Hold Settings\n\n- **Launch at Login**\n  - Toggles whether Clip Hold launches when your Mac logs in.\n  - Default: `Off`\n- **Quick Paste**\n  - Toggle the Quick Paste feature on or off. For more information about the Quick Paste feature, please see [**this page**](https://clip-hold.taikun.design/docs/standard-phrases-and-copy-history#quick-paste).\n  - Default: `Off`\n- **Only Text**\n  - Toggle to apply only text when performing Quick Paste.\n\n### Menu\n\n- **Maximum number of standard phrases to show in the menu:**\n  - Set the maximum number of standard phrases to show in the menu.\n  - Default: `5`\n- **Maximum number of history items to show in the menu:**\n  - Set the maximum number of history items to show in the menu.\n  - Default: `10`\n- **Temporarily Hide Menu Bar Icon**\n  - Toggle to hide the menu bar icon. The icon will reappear when you reopen the app.\n  - Default: `Off`"}
+code={"## General\n### Clip Hold Settings\n\n- **Launch at Login**\n  - Toggles whether Clip Hold launches when your Mac logs in.\n  - Default: `Off`\n- **Quick Paste**\n  - Toggle the Quick Paste feature on or off. For more information about the Quick Paste feature, please see [**this page**](https://clip-hold.taikun.design/docs/standard-phrases-and-copy-history#quick-paste).\n  - Default: `Off`\n- **Text Only**\n  - Toggle to apply only text when performing Quick Paste.\n\n### Menu\n\n- **Maximum number of standard phrases to show in the menu:**\n  - Set the maximum number of standard phrases to show in the menu.\n  - Default: `5`\n- **Maximum number of history items to show in the menu:**\n  - Set the maximum number of history items to show in the menu.\n  - Default: `10`\n- **Temporarily Hide Menu Bar Icon**\n  - Toggle to hide the menu bar icon. The icon will reappear when you reopen the app.\n  - Default: `Off`"}
 className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
 </MarkdownEmbed>
 <h3
