@@ -190,6 +190,49 @@
     white-space: normal;
     white-space-collapse: collapse
   }
+  div.w-you-tube {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
+  img.w-preview-image {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px;
+    max-width: 100%;
+    display: block;
+    height: auto
+  }
+  div.w-spinner {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px
+  }
+  button.w-play-button {
+    font-family: inherit;
+    font-size: 100%;
+    line-height: 1.15;
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    text-transform: none;
+    margin: 0
+  }
 }
 @media all {
   .cdm1ag0 {
@@ -815,12 +858,6 @@
   .ch6h5mx li {
     margin-left: -24px
   }
-  .ck3238v {
-    top: 8px
-  }
-  .c1imcjwr {
-    font-size: 42px
-  }
   .clfs8zh {
     top: 72px
   }
@@ -833,11 +870,17 @@
   .c1r1zv9s {
     max-width: 900px
   }
+  .ck3238v {
+    top: 8px
+  }
   .cqo7lub {
     margin-bottom: 0
   }
   .c1karaxo {
     font-size: 28px
+  }
+  .c1imcjwr {
+    font-size: 42px
   }
   .c5lrunv {
     background-color: light-dark(#fff,#000)
@@ -940,6 +983,69 @@
   }
   .c11yke06 {
     margin-bottom: -12px
+  }
+  .ckybhxy {
+    aspect-ratio: 640/360
+  }
+  .c1uuzdsh {
+    object-fit: cover
+  }
+  .c1r25v61 {
+    object-position: center
+  }
+  .c1hfc843 {
+    top: 50%
+  }
+  .c12rrra5 {
+    left: 50%
+  }
+  .c18wk1c8 {
+    width: 70px
+  }
+  .c1r26b8v {
+    height: 70px
+  }
+  .cszc27n {
+    margin-top: -35px
+  }
+  .c1rypgid {
+    margin-left: -35px
+  }
+  .c1hzn7de {
+    border-top-left-radius: 40px
+  }
+  .c1ux189r {
+    border-top-right-radius: 40px
+  }
+  .cfdjmjq {
+    border-bottom-left-radius: 40px
+  }
+  .cjfpz06 {
+    border-bottom-right-radius: 40px
+  }
+  .c4pbj97 {
+    width: 80px
+  }
+  .c1kjjn33 {
+    height: 80px
+  }
+  .cymmwca {
+    margin-top: -40px
+  }
+  .c1c1nm68 {
+    margin-left: -40px
+  }
+  .c1bxdvsy {
+    cursor: pointer
+  }
+  .c1pbh4tf {
+    width: 60px
+  }
+  .c4qv5oy {
+    height: 60px
+  }
+  .cia45dz {
+    margin-bottom: 4rem
   }
 }
 @media all and (max-width: 991px) {
@@ -1075,5 +1181,8 @@
   }
   .cp5616u {
     width: 128px
+  }
+  .cjaup7g {
+    margin-bottom: 2rem
   }
 }

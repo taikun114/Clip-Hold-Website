@@ -5,13 +5,13 @@
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body, Link as Link, Link as Link_1 } from "@webstudio-is/sdk-components-react-router";
-import { Image as Image, Slot as Slot, Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, MarkdownEmbed as MarkdownEmbed } from "@webstudio-is/sdk-components-react";
+import { Image as Image, Slot as Slot, Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, MarkdownEmbed as MarkdownEmbed, YouTube as YouTube, VimeoPreviewImage as VimeoPreviewImage, VimeoSpinner as VimeoSpinner, VimeoPlayButton as VimeoPlayButton } from "@webstudio-is/sdk-components-react";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuLink as NavigationMenuLink, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-28T06:54:41.926Z";
+      export const lastPublished = "2025-07-28T10:44:22.169Z";
 
       export const siteName = "Clip Hold";
 
@@ -651,6 +651,49 @@ className={`w-element c1r1zv9s`}>
 className={`w-element c1yn6h70 ck3238v c1mbyuac c23z8nw c1ruoz7k c1c43ngc c1imcjwr c1r10jp3`}>
 {"機能紹介"}
 </h2>
+<div
+className={`w-element cia45dz cjaup7g`}>
+<h3
+className={`w-element c1yn6h70 ck3238v c1mbyuac c23z8nw cqo7lub c1c43ngc c1karaxo cqx7kte`}>
+{"紹介動画"}
+</h3>
+<p
+className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2yq0 c12817z7`}>
+{"まずは30秒の紹介動画をご覧ください。"}
+</p>
+<YouTube
+url={"https://youtu.be/xtf6vE72Xug"}
+privacyEnhancedMode={false}
+color={"red"}
+className={`w-you-tube c18r7lsh ckybhxy c7z4ryg cfoar8i c13ilcm6 c1w497fm c8dkrv8 c2oe4sx cg5ykre c1merv6x cdot8hu cssz5kv`}>
+<VimeoPreviewImage
+alt={"YouTube video preview image"}
+sizes={"100vw"}
+optimize={true}
+src={"/assets/Clip_Hold_YT-ja_MvVXL18DfzSiLKcLntVzD.webp"}
+loading={"lazy"}
+className={`w-preview-image c12fyb4s c1uuzdsh c1r25v61 c7z4ryg c1qopeiv cfoar8i c13ilcm6 c8dkrv8 c1w497fm cg5ykre c1merv6x cdot8hu cssz5kv`} />
+<VimeoSpinner
+className={`w-spinner c12fyb4s c1hfc843 c12rrra5 c18wk1c8 c1r26b8v cszc27n c1rypgid`}>
+<HtmlEmbed
+code={"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"e2CRglijn891\" shape-rendering=\"geometricPrecision\" text-rendering=\"geometricPrecision\" viewBox=\"0 0 128 128\" fill=\"currentColor\" width=\"100%\" height=\"100%\" style=\"display: block;\"><style>@keyframes e2CRglijn892_tr__tr{0%{transform:translate(64px,64px) rotate(90deg);animation-timing-function:cubic-bezier(.42,0,.58,1)}50%{transform:translate(64px,64px) rotate(810deg);animation-timing-function:cubic-bezier(.42,0,.58,1)}to{transform:translate(64px,64px) rotate(1530deg)}}@keyframes e2CRglijn892_s_p{0%,to{stroke:#39fbbb}25%{stroke:#4a4efa}50%{stroke:#e63cfe}75%{stroke:#ffae3c}}@keyframes e2CRglijn892_s_do{0%{stroke-dashoffset:251.89}2.5%,52.5%{stroke-dashoffset:263.88;animation-timing-function:cubic-bezier(.42,0,.58,1)}25%,75%{stroke-dashoffset:131.945}to{stroke-dashoffset:251.885909}}#e2CRglijn892_tr{animation:e2CRglijn892_tr__tr 3000ms linear infinite normal forwards}#e2CRglijn892{animation-name:e2CRglijn892_s_p,e2CRglijn892_s_do;animation-duration:3000ms;animation-fill-mode:forwards;animation-timing-function:linear;animation-direction:normal;animation-iteration-count:infinite}</style><g id=\"e2CRglijn892_tr\" transform=\"translate(64,64) rotate(90)\"><circle id=\"e2CRglijn892\" r=\"42\" fill=\"none\" stroke=\"#39fbbb\" stroke-dasharray=\"263.89\" stroke-dashoffset=\"251.89\" stroke-linecap=\"round\" stroke-width=\"16\" transform=\"scale(-1,1) translate(0,0)\"/></g></svg>"}
+className={`w-html-embed`} />
+</VimeoSpinner>
+<VimeoPlayButton
+aria-label={"Play button"}
+className={`w-play-button c5shpkj c1hzn7de c1ux189r cfdjmjq cjfpz06 cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl c12fyb4s c4pbj97 c1kjjn33 c1hfc843 c12rrra5 cymmwca c1c1nm68 c10ahqwr ccy4onp c12v245d c1bxdvsy cxr8h7e c1ays5ld c1yk3zoa c1ga2ams cgbsic3 cinh8md c10mtjet c10h7c1p`}>
+<div
+aria-hidden={true}
+className={`w-element c1pbh4tf c4qv5oy`}>
+<HtmlEmbed
+code={"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" width=\"100%\" height=\"100%\" style=\"display: block;\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m4 2 9.333 6L4 14V2Z\"/></svg>"}
+className={`w-html-embed`} />
+</div>
+</VimeoPlayButton>
+</YouTube>
+</div>
+<hr
+className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw c1ruoz7k czl0ltz cbodz54`} />
 <h3
 className={`w-element c1yn6h70 ck3238v c1mbyuac c23z8nw cqo7lub c1c43ngc c1karaxo cqx7kte`}>
 {"メニューから定型文と履歴に素早くアクセス"}
