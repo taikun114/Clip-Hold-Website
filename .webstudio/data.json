@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "8a00e6dc-5cbb-4ece-99ab-cdbcef43f68c",
+    "id": "d46fd8d5-7e03-46b5-a599-a1c843547b7b",
     "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
-    "version": 4234,
-    "createdAt": "2025-07-28T10:44:22.169+00:00",
-    "updatedAt": "2025-07-28T10:44:22.169+00:00",
+    "version": 4265,
+    "createdAt": "2025-07-28T12:47:10.277+00:00",
+    "updatedAt": "2025-07-28T12:47:10.277+00:00",
     "pages": {
       "meta": {
         "siteName": "Clip Hold",
@@ -781,6 +781,24 @@
             "include": false
           },
           "path": "/paypal-me"
+        },
+        {
+          "id": "V37u-dRSXsc2NXL4XjUFQ",
+          "name": "404",
+          "title": "\"ページが見つかりませんでした - Clip Hold\"",
+          "history": [
+            "/jp/docs/Standard-Phrases-and-Copy-History-Window",
+            "/:slug"
+          ],
+          "rootInstanceId": "wPJsUq12ZbG_DLhtSxwLV",
+          "meta": {
+            "description": "\"お探しの情報は見つかりませんでした。正しいページにアクセスしていることをご確認ください。\"",
+            "excludePageFromSearch": "true",
+            "language": "\"ja-jp\"",
+            "socialImageAssetId": "f838941b99a12ef8e4f8a10a4ee493de03455541e51693bcf8bbcf680ab7bf84",
+            "status": "404"
+          },
+          "path": "/*"
         }
       ],
       "folders": [
@@ -815,6 +833,7 @@
             "d3nMmFyL1GKljfiAZ-w6T",
             "PWYPUKVclzt8Sf0AyJW7k",
             "KOUb87lTNdCt1Mcxy0tlx",
+            "V37u-dRSXsc2NXL4XjUFQ",
             "F3DHHMo1zjF9CrEDOGg6k",
             "S7e4ZxaLihv4_C3GCqEqm",
             "j5hlAe7kU8tnrFTphqQqx",
@@ -71020,6 +71039,494 @@
             "value": 0.5
           }
         }
+      ],
+      [
+        "3xWu1RLw4mFZblRuB61Qf:oQXIk9J0diVFLo9CICSX4:justifyContent:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "3xWu1RLw4mFZblRuB61Qf",
+          "property": "justifyContent",
+          "value": {
+            "type": "keyword",
+            "value": "space-between"
+          }
+        }
+      ],
+      [
+        "3xWu1RLw4mFZblRuB61Qf:oQXIk9J0diVFLo9CICSX4:backgroundColor:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "3xWu1RLw4mFZblRuB61Qf",
+          "property": "backgroundColor",
+          "value": {
+            "type": "unparsed",
+            "value": "light-dark(#F2F4FF, #131838)"
+          },
+          "listed": true
+        }
+      ],
+      [
+        "HDPwYwmEU-psUo5Le3FfQ:oQXIk9J0diVFLo9CICSX4:width:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "HDPwYwmEU-psUo5Le3FfQ",
+          "property": "width",
+          "value": {
+            "type": "unit",
+            "unit": "%",
+            "value": 100
+          }
+        }
+      ],
+      [
+        "HDPwYwmEU-psUo5Le3FfQ:oQXIk9J0diVFLo9CICSX4:maxWidth:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "HDPwYwmEU-psUo5Le3FfQ",
+          "property": "maxWidth",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 1200
+          }
+        }
+      ],
+      [
+        "ldCpETuqkjxEKRcAf5X--:oQXIk9J0diVFLo9CICSX4:fontSize:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "ldCpETuqkjxEKRcAf5X--",
+          "property": "fontSize",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 32
+          }
+        }
+      ],
+      [
+        "HDPwYwmEU-psUo5Le3FfQ:oQXIk9J0diVFLo9CICSX4:backgroundColor:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "HDPwYwmEU-psUo5Le3FfQ",
+          "property": "backgroundColor",
+          "value": {
+            "type": "unparsed",
+            "value": "light-dark(#fff, #000)"
+          },
+          "listed": true
+        }
+      ],
+      [
+        "HDPwYwmEU-psUo5Le3FfQ:oQXIk9J0diVFLo9CICSX4:paddingTop:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "HDPwYwmEU-psUo5Le3FfQ",
+          "property": "paddingTop",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 2
+          }
+        }
+      ],
+      [
+        "HDPwYwmEU-psUo5Le3FfQ:oQXIk9J0diVFLo9CICSX4:paddingBottom:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "HDPwYwmEU-psUo5Le3FfQ",
+          "property": "paddingBottom",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 2
+          }
+        }
+      ],
+      [
+        "HDPwYwmEU-psUo5Le3FfQ:oQXIk9J0diVFLo9CICSX4:paddingRight:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "HDPwYwmEU-psUo5Le3FfQ",
+          "property": "paddingRight",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 2
+          }
+        }
+      ],
+      [
+        "HDPwYwmEU-psUo5Le3FfQ:oQXIk9J0diVFLo9CICSX4:paddingLeft:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "HDPwYwmEU-psUo5Le3FfQ",
+          "property": "paddingLeft",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 2
+          }
+        }
+      ],
+      [
+        "HDPwYwmEU-psUo5Le3FfQ:oQXIk9J0diVFLo9CICSX4:borderTopLeftRadius:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "HDPwYwmEU-psUo5Le3FfQ",
+          "property": "borderTopLeftRadius",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 32
+          }
+        }
+      ],
+      [
+        "HDPwYwmEU-psUo5Le3FfQ:oQXIk9J0diVFLo9CICSX4:borderTopRightRadius:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "HDPwYwmEU-psUo5Le3FfQ",
+          "property": "borderTopRightRadius",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 32
+          }
+        }
+      ],
+      [
+        "HDPwYwmEU-psUo5Le3FfQ:oQXIk9J0diVFLo9CICSX4:borderBottomLeftRadius:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "HDPwYwmEU-psUo5Le3FfQ",
+          "property": "borderBottomLeftRadius",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 32
+          }
+        }
+      ],
+      [
+        "HDPwYwmEU-psUo5Le3FfQ:oQXIk9J0diVFLo9CICSX4:borderBottomRightRadius:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "HDPwYwmEU-psUo5Le3FfQ",
+          "property": "borderBottomRightRadius",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 32
+          }
+        }
+      ],
+      [
+        "ldCpETuqkjxEKRcAf5X--:oQXIk9J0diVFLo9CICSX4:marginTop:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "ldCpETuqkjxEKRcAf5X--",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "ldCpETuqkjxEKRcAf5X--:oQXIk9J0diVFLo9CICSX4:marginBottom:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "ldCpETuqkjxEKRcAf5X--",
+          "property": "marginBottom",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "1phpbcpaF22W9N4xhY-UO:oQXIk9J0diVFLo9CICSX4:marginBottom:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "1phpbcpaF22W9N4xhY-UO",
+          "property": "marginBottom",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "1phpbcpaF22W9N4xhY-UO:oQXIk9J0diVFLo9CICSX4:marginTop:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "1phpbcpaF22W9N4xhY-UO",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "ldCpETuqkjxEKRcAf5X--:oQXIk9J0diVFLo9CICSX4:color:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "ldCpETuqkjxEKRcAf5X--",
+          "property": "color",
+          "value": {
+            "type": "unparsed",
+            "value": "light-dark(#131838, #F2F4FF)"
+          },
+          "listed": true
+        }
+      ],
+      [
+        "1phpbcpaF22W9N4xhY-UO:oQXIk9J0diVFLo9CICSX4:color:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "1phpbcpaF22W9N4xhY-UO",
+          "property": "color",
+          "value": {
+            "type": "unparsed",
+            "value": "light-dark(#131838,#F2F4FF)"
+          },
+          "listed": true
+        }
+      ],
+      [
+        "RxDnih18oSk98C6XX1TBr:oQXIk9J0diVFLo9CICSX4:width:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "RxDnih18oSk98C6XX1TBr",
+          "property": "width",
+          "value": {
+            "type": "unit",
+            "unit": "%",
+            "value": 100
+          }
+        }
+      ],
+      [
+        "RxDnih18oSk98C6XX1TBr:oQXIk9J0diVFLo9CICSX4:display:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "RxDnih18oSk98C6XX1TBr",
+          "property": "display",
+          "value": {
+            "type": "keyword",
+            "value": "flex"
+          }
+        }
+      ],
+      [
+        "RxDnih18oSk98C6XX1TBr:oQXIk9J0diVFLo9CICSX4:alignItems:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "RxDnih18oSk98C6XX1TBr",
+          "property": "alignItems",
+          "value": {
+            "type": "keyword",
+            "value": "center"
+          }
+        }
+      ],
+      [
+        "RxDnih18oSk98C6XX1TBr:oQXIk9J0diVFLo9CICSX4:justifyContent:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "RxDnih18oSk98C6XX1TBr",
+          "property": "justifyContent",
+          "value": {
+            "type": "keyword",
+            "value": "center"
+          }
+        }
+      ],
+      [
+        "HDPwYwmEU-psUo5Le3FfQ:b9eF-sVvYuDQH1Ii8lJ6h:borderTopLeftRadius:",
+        {
+          "breakpointId": "b9eF-sVvYuDQH1Ii8lJ6h",
+          "styleSourceId": "HDPwYwmEU-psUo5Le3FfQ",
+          "property": "borderTopLeftRadius",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "HDPwYwmEU-psUo5Le3FfQ:b9eF-sVvYuDQH1Ii8lJ6h:borderTopRightRadius:",
+        {
+          "breakpointId": "b9eF-sVvYuDQH1Ii8lJ6h",
+          "styleSourceId": "HDPwYwmEU-psUo5Le3FfQ",
+          "property": "borderTopRightRadius",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "HDPwYwmEU-psUo5Le3FfQ:b9eF-sVvYuDQH1Ii8lJ6h:borderBottomLeftRadius:",
+        {
+          "breakpointId": "b9eF-sVvYuDQH1Ii8lJ6h",
+          "styleSourceId": "HDPwYwmEU-psUo5Le3FfQ",
+          "property": "borderBottomLeftRadius",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "HDPwYwmEU-psUo5Le3FfQ:b9eF-sVvYuDQH1Ii8lJ6h:borderBottomRightRadius:",
+        {
+          "breakpointId": "b9eF-sVvYuDQH1Ii8lJ6h",
+          "styleSourceId": "HDPwYwmEU-psUo5Le3FfQ",
+          "property": "borderBottomRightRadius",
+          "value": {
+            "type": "unit",
+            "unit": "px",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "3xWu1RLw4mFZblRuB61Qf:oQXIk9J0diVFLo9CICSX4:display:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "3xWu1RLw4mFZblRuB61Qf",
+          "property": "display",
+          "value": {
+            "type": "keyword",
+            "value": "flex"
+          }
+        }
+      ],
+      [
+        "3xWu1RLw4mFZblRuB61Qf:oQXIk9J0diVFLo9CICSX4:flexDirection:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "3xWu1RLw4mFZblRuB61Qf",
+          "property": "flexDirection",
+          "value": {
+            "type": "keyword",
+            "value": "column"
+          }
+        }
+      ],
+      [
+        "RxDnih18oSk98C6XX1TBr:oQXIk9J0diVFLo9CICSX4:paddingRight:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "RxDnih18oSk98C6XX1TBr",
+          "property": "paddingRight",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 2
+          }
+        }
+      ],
+      [
+        "RxDnih18oSk98C6XX1TBr:oQXIk9J0diVFLo9CICSX4:paddingBottom:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "RxDnih18oSk98C6XX1TBr",
+          "property": "paddingBottom",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 2
+          }
+        }
+      ],
+      [
+        "RxDnih18oSk98C6XX1TBr:oQXIk9J0diVFLo9CICSX4:paddingLeft:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "RxDnih18oSk98C6XX1TBr",
+          "property": "paddingLeft",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 2
+          }
+        }
+      ],
+      [
+        "RxDnih18oSk98C6XX1TBr:oQXIk9J0diVFLo9CICSX4:paddingTop:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "RxDnih18oSk98C6XX1TBr",
+          "property": "paddingTop",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 7
+          }
+        }
+      ],
+      [
+        "RxDnih18oSk98C6XX1TBr:afOKZgZfwBblQI0wlO-1n:paddingRight:",
+        {
+          "breakpointId": "afOKZgZfwBblQI0wlO-1n",
+          "styleSourceId": "RxDnih18oSk98C6XX1TBr",
+          "property": "paddingRight",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "RxDnih18oSk98C6XX1TBr:afOKZgZfwBblQI0wlO-1n:paddingLeft:",
+        {
+          "breakpointId": "afOKZgZfwBblQI0wlO-1n",
+          "styleSourceId": "RxDnih18oSk98C6XX1TBr",
+          "property": "paddingLeft",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "RxDnih18oSk98C6XX1TBr:b9eF-sVvYuDQH1Ii8lJ6h:paddingLeft:",
+        {
+          "breakpointId": "b9eF-sVvYuDQH1Ii8lJ6h",
+          "styleSourceId": "RxDnih18oSk98C6XX1TBr",
+          "property": "paddingLeft",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "RxDnih18oSk98C6XX1TBr:b9eF-sVvYuDQH1Ii8lJ6h:paddingRight:",
+        {
+          "breakpointId": "b9eF-sVvYuDQH1Ii8lJ6h",
+          "styleSourceId": "RxDnih18oSk98C6XX1TBr",
+          "property": "paddingRight",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 0
+          }
+        }
       ]
     ],
     "styleSources": [
@@ -75966,6 +76473,41 @@
         {
           "type": "local",
           "id": "DP88MsYkzJZNV_cvhNx9_"
+        }
+      ],
+      [
+        "3xWu1RLw4mFZblRuB61Qf",
+        {
+          "type": "local",
+          "id": "3xWu1RLw4mFZblRuB61Qf"
+        }
+      ],
+      [
+        "RxDnih18oSk98C6XX1TBr",
+        {
+          "type": "local",
+          "id": "RxDnih18oSk98C6XX1TBr"
+        }
+      ],
+      [
+        "HDPwYwmEU-psUo5Le3FfQ",
+        {
+          "type": "local",
+          "id": "HDPwYwmEU-psUo5Le3FfQ"
+        }
+      ],
+      [
+        "ldCpETuqkjxEKRcAf5X--",
+        {
+          "type": "local",
+          "id": "ldCpETuqkjxEKRcAf5X--"
+        }
+      ],
+      [
+        "1phpbcpaF22W9N4xhY-UO",
+        {
+          "type": "local",
+          "id": "1phpbcpaF22W9N4xhY-UO"
         }
       ]
     ],
@@ -89020,6 +89562,51 @@
           "values": [
             "w4DNMMGlh_Cz_XacKBqgx",
             "DP88MsYkzJZNV_cvhNx9_"
+          ]
+        }
+      ],
+      [
+        "wPJsUq12ZbG_DLhtSxwLV",
+        {
+          "instanceId": "wPJsUq12ZbG_DLhtSxwLV",
+          "values": [
+            "3xWu1RLw4mFZblRuB61Qf"
+          ]
+        }
+      ],
+      [
+        "WQ9nI5xkYamdnrJv6IyX8",
+        {
+          "instanceId": "WQ9nI5xkYamdnrJv6IyX8",
+          "values": [
+            "RxDnih18oSk98C6XX1TBr"
+          ]
+        }
+      ],
+      [
+        "pCoHdIUhr0NIlnUqIDUpL",
+        {
+          "instanceId": "pCoHdIUhr0NIlnUqIDUpL",
+          "values": [
+            "HDPwYwmEU-psUo5Le3FfQ"
+          ]
+        }
+      ],
+      [
+        "FHfYnxeVOFOZHET6PzVZk",
+        {
+          "instanceId": "FHfYnxeVOFOZHET6PzVZk",
+          "values": [
+            "ldCpETuqkjxEKRcAf5X--"
+          ]
+        }
+      ],
+      [
+        "kgFqwKRCooJGCCob45z8-",
+        {
+          "instanceId": "kgFqwKRCooJGCCob45z8-",
+          "values": [
+            "1phpbcpaF22W9N4xhY-UO"
           ]
         }
       ]
@@ -103353,7 +103940,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Clipboard and Standard Phrase Manager for macOS"
+              "value": "Become a Clipboard Expert"
             }
           ]
         }
@@ -103509,7 +104096,7 @@
           "children": [
             {
               "type": "text",
-              "value": "macOS用のクリップボードと定型文マネージャー"
+              "value": "クリップボードの達人になろう"
             }
           ]
         }
@@ -107286,7 +107873,7 @@
           "children": [
             {
               "type": "text",
-              "value": "macOS用のクリップボードと定型文マネージャー"
+              "value": "クリップボードの達人になろう"
             }
           ]
         }
@@ -107531,7 +108118,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Clipboard and Standard Phrase Manager for macOS"
+              "value": "Become a Clipboard Expert"
             }
           ]
         }
@@ -128351,6 +128938,123 @@
           "tag": "hr",
           "children": []
         }
+      ],
+      [
+        "wPJsUq12ZbG_DLhtSxwLV",
+        {
+          "type": "instance",
+          "id": "wPJsUq12ZbG_DLhtSxwLV",
+          "component": "ws:element",
+          "tag": "body",
+          "children": [
+            {
+              "type": "id",
+              "value": "vDvNu74o4xXZki2rTdbB2"
+            },
+            {
+              "type": "id",
+              "value": "WQ9nI5xkYamdnrJv6IyX8"
+            },
+            {
+              "type": "id",
+              "value": "fGG3AjW1Obe7S2Du8qZg2"
+            }
+          ]
+        }
+      ],
+      [
+        "WQ9nI5xkYamdnrJv6IyX8",
+        {
+          "type": "instance",
+          "id": "WQ9nI5xkYamdnrJv6IyX8",
+          "component": "ws:element",
+          "tag": "div",
+          "children": [
+            {
+              "type": "id",
+              "value": "pCoHdIUhr0NIlnUqIDUpL"
+            }
+          ]
+        }
+      ],
+      [
+        "pCoHdIUhr0NIlnUqIDUpL",
+        {
+          "type": "instance",
+          "id": "pCoHdIUhr0NIlnUqIDUpL",
+          "component": "ws:element",
+          "tag": "div",
+          "children": [
+            {
+              "type": "id",
+              "value": "FHfYnxeVOFOZHET6PzVZk"
+            },
+            {
+              "type": "id",
+              "value": "kgFqwKRCooJGCCob45z8-"
+            }
+          ]
+        }
+      ],
+      [
+        "FHfYnxeVOFOZHET6PzVZk",
+        {
+          "type": "instance",
+          "id": "FHfYnxeVOFOZHET6PzVZk",
+          "component": "ws:element",
+          "tag": "h1",
+          "children": [
+            {
+              "type": "text",
+              "value": "404 Not Found"
+            }
+          ]
+        }
+      ],
+      [
+        "kgFqwKRCooJGCCob45z8-",
+        {
+          "type": "instance",
+          "id": "kgFqwKRCooJGCCob45z8-",
+          "component": "ws:element",
+          "tag": "p",
+          "children": [
+            {
+              "type": "text",
+              "value": "お探しの情報は見つかりませんでした。正しいページにアクセスしていることをご確認ください。"
+            }
+          ]
+        }
+      ],
+      [
+        "fGG3AjW1Obe7S2Du8qZg2",
+        {
+          "type": "instance",
+          "id": "fGG3AjW1Obe7S2Du8qZg2",
+          "component": "Slot",
+          "label": "日本語宣伝セクション",
+          "children": [
+            {
+              "type": "id",
+              "value": "s8fAWPNA3sfbUxy4-lsxT"
+            }
+          ]
+        }
+      ],
+      [
+        "vDvNu74o4xXZki2rTdbB2",
+        {
+          "type": "instance",
+          "id": "vDvNu74o4xXZki2rTdbB2",
+          "component": "Slot",
+          "label": "日本語版ヘッダー",
+          "children": [
+            {
+              "type": "id",
+              "value": "tejaZ3Jg_DCCGpTkwRpcf"
+            }
+          ]
+        }
       ]
     ],
     "deployment": {
@@ -129146,6 +129850,24 @@
         "include": false
       },
       "path": "/paypal-me"
+    },
+    {
+      "id": "V37u-dRSXsc2NXL4XjUFQ",
+      "name": "404",
+      "title": "\"ページが見つかりませんでした - Clip Hold\"",
+      "history": [
+        "/jp/docs/Standard-Phrases-and-Copy-History-Window",
+        "/:slug"
+      ],
+      "rootInstanceId": "wPJsUq12ZbG_DLhtSxwLV",
+      "meta": {
+        "description": "\"お探しの情報は見つかりませんでした。正しいページにアクセスしていることをご確認ください。\"",
+        "excludePageFromSearch": "true",
+        "language": "\"ja-jp\"",
+        "socialImageAssetId": "f838941b99a12ef8e4f8a10a4ee493de03455541e51693bcf8bbcf680ab7bf84",
+        "status": "404"
+      },
+      "path": "/*"
     }
   ],
   "assets": [

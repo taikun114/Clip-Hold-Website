@@ -31,18 +31,18 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       const Page = (_props: { system: any; }) => {
 return <Body
-className={`w-element c1uoa21q c10ahqwr c1atdl27 cdm1ag0`}>
+className={`w-element cdm1ag0 c1uoa21q c10ahqwr c1atdl27`}>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d c1ilsqas cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq`}>
+className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d c1ilsqas cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq c1m7ydhu`}>
 <div
 className={`w-element c1qopeiv c7z4ryg c1jt805z c1mbyuac c1c43ngc c10ahqwr ccy4onp cdm1ag0`}>
 <Link
-href={"/"}
+href={"/jp"}
 className={`w-element c10ahqwr ccy4onp ciqrpa6 cdjvmmy`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Dark.png\"\n  />\n  <img\n    src=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Light.png\"\n    alt=\"Clip Hold Logo\"\n    height=\"48\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Dark.png\"\n  />\n  <img\n    src=\"https://raw.githubusercontent.com/taikun114/Clip-Hold-Website/refs/heads/main/docs/images/Clip%20Hold%20Logo%20Light.png\"\n    alt=\"Clip Holdのロゴ\"\n    height=\"48\"\n  />\n</picture>\n"}
 className={`w-html-embed`} />
 <p
 className={`w-element clk5tgp c16eseyo c1mbyuac cvddzxn cbgovzd cua250e c117tk5u c1615a3h cjr3ihk`}>
@@ -61,7 +61,7 @@ className={`w-menu-item`}>
 className={`w-button c6t8baf ccy4onp c12v245d c22bltr c1qhcdyy c1fi5cuq cht0eit ci7vqja c1yco124 c19kzc1u c1cijgzd ced3s0y cw8qqgw c170tjmx c1vn5tfs c1kp31s8 czucxib cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ey153p c1wffj6h cg3odet cwblwtu c14z3omo ca508ev c1r1ndh8 cl0rcjj ckffmm9 crs1rsf c1q1affg cjb1u0k c1uzl7ts cao2a7h c1jvzd51 c19z7nzm`}>
 <Text
 className={`w-text c10svky5`}>
-{"Documents"}
+{"ドキュメント"}
 </Text>
 <Box
 className={`w-box cgegxet c1dw4829 c1uc2j84 c1kss2rn c1mrqewb c1x8i01y c5gq79w c4xa34q cw3x7ao cpv83kh`}>
@@ -79,57 +79,57 @@ className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
-href={"/docs"}
+href={"/jp/docs"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
-{"Documents"}
+{"ドキュメント"}
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"How to use the app and other documentation"}
+{"アプリの使い方などのドキュメント"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/release-notes"}
+href={"/jp/release-notes"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
-{"Release Notes"}
+{"リリースノート"}
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"Update history and changelog"}
+{"アップデート履歴と変更ログ"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/support"}
+href={"/jp/support"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
-{"Support and Feedback"}
+{"サポートとフィードバック"}
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"Bug reports, contacts, etc."}
+{"バグ報告やお問い合わせなど"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/privacy-policy"}
+href={"/jp/privacy-policy"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
-{"Privacy Policy"}
+{"プライバシーポリシー"}
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"About handling of personal information in the app"}
+{"アプリ内での個人情報の取り扱いについて"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
@@ -145,7 +145,7 @@ className={`w-menu-item`}>
 className={`w-button c6t8baf ccy4onp c12v245d c22bltr c1qhcdyy c1fi5cuq cht0eit ci7vqja c1yco124 c19kzc1u c1cijgzd ced3s0y cw8qqgw c170tjmx c1vn5tfs c1kp31s8 czucxib cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ey153p c1wffj6h cg3odet cwblwtu c14z3omo ca508ev c1r1ndh8 cl0rcjj ckffmm9 crs1rsf c1q1affg cjb1u0k c1uzl7ts cao2a7h c1jvzd51 c19z7nzm`}>
 <Text
 className={`w-text c10svky5`}>
-{"Support Developer"}
+{"開発者をサポート"}
 </Text>
 <Box
 className={`w-box cgegxet c1dw4829 c1uc2j84 c1kss2rn c1mrqewb c1x8i01y c5gq79w c4xa34q cw3x7ao cpv83kh`}>
@@ -163,22 +163,22 @@ className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
-href={"/github-repo"}
+href={"/jp/github-repo"}
 target={"_blank"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
-{"Give It a Star to the Repository"}
+{"リポジトリにスターをつける"}
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"I would be so glad if you could open repository page and give it a star by clicking the “Star” button in the upper right corner!"}
+{"リポジトリのページを開き、右上の「Star」ボタンをクリックしてスターをつけてくださるととてもうれしいです！"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/buy-me-a-coffee"}
+href={"/jp/buy-me-a-coffee"}
 target={"_blank"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
@@ -187,13 +187,13 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"You can support me at Buy Me a Coffee from the price of a cup of green tea"}
+{"Buy Me a Coffeeで緑茶一杯分の金額からサポートしていただけます。"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/paypal-me"}
+href={"/jp/paypal-me"}
 target={"_blank"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
@@ -202,7 +202,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"If you have a PayPal account, you can also donate directly at PayPal."}
+{"PayPalアカウントをお持ちの方は、PayPalで直接寄付していただくこともできます。"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
@@ -218,7 +218,7 @@ className={`w-menu-item`}>
 className={`w-button c6t8baf ccy4onp c12v245d c170tjmx c1vn5tfs czucxib c1kp31s8 c1qhcdyy c1fi5cuq cht0eit ci7vqja c1yco124 c19kzc1u c1cijgzd ced3s0y cw8qqgw c22bltr cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ey153p c1wffj6h cg3odet cl0rcjj ckffmm9 crs1rsf c19z7nzm c1q1affg`}>
 <Text
 className={`w-text c10svky5`}>
-{"Download"}
+{"ダウンロード"}
 </Text>
 <Box
 className={`w-box cgegxet c1dw4829 c1uc2j84 c1kss2rn c1mrqewb c1x8i01y c5gq79w c4xa34q cw3x7ao cpv83kh`}>
@@ -236,31 +236,31 @@ className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
-href={"/mac-app-store"}
+href={"/jp/mac-app-store"}
 target={"_blank"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
-{"from Mac App Store"}
+{"Mac App Storeから"}
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"Support a developer by purchasing an app"}
+{"アプリを購入して開発者をサポート"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/github-release"}
+href={"/jp/github-release"}
 target={"_blank"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
-{"from GitHub"}
+{"GitHubから"}
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"Download the app for free"}
+{"アプリを無料でダウンロード"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
@@ -276,7 +276,7 @@ className={`w-menu-item`}>
 className={`w-button c6t8baf ccy4onp c12v245d c170tjmx c1vn5tfs czucxib c1kp31s8 c1qhcdyy c1fi5cuq cht0eit ci7vqja c1yco124 c19kzc1u c1cijgzd ced3s0y cw8qqgw c22bltr cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ey153p c1wffj6h cg3odet cl0rcjj ckffmm9 crs1rsf c19z7nzm c1q1affg`}>
 <Text
 className={`w-text c10svky5`}>
-{"English"}
+{"Japanese"}
 </Text>
 <Box
 className={`w-box cgegxet c1dw4829 c1uc2j84 c1kss2rn c1mrqewb c1x8i01y c5gq79w c4xa34q cw3x7ao cpv83kh`}>
@@ -335,7 +335,7 @@ className={`w-menu-item`}>
 className={`w-button c6t8baf ccy4onp c12v245d c170tjmx c1vn5tfs czucxib c1kp31s8 c1qhcdyy c1fi5cuq cht0eit ci7vqja c1yco124 c19kzc1u c1cijgzd ced3s0y cw8qqgw c22bltr cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ey153p c1wffj6h cg3odet cl0rcjj ckffmm9 crs1rsf c19z7nzm c1q1affg`}>
 <Text
 className={`w-text c10svky5`}>
-{"English"}
+{"Japanese"}
 </Text>
 <Box
 className={`w-box cgegxet c1dw4829 c1uc2j84 c1kss2rn c1mrqewb c1x8i01y c5gq79w c4xa34q cw3x7ao cpv83kh`}>
@@ -398,110 +398,108 @@ className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27 ctsrmp7 c142ylfi ctv2jj6`}>
 <NavigationMenuLink>
 <Link_1
-href={"/docs"}
+href={"/jp/docs"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
-{"Documents"}
+{"ドキュメント"}
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"How to use the app and other documentation"}
+{"アプリの使い方などのドキュメント"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/release-notes"}
+href={"/jp/release-notes"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
-{"Release Notes"}
+{"リリースノート"}
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"Update history and changelog"}
+{"アップデート履歴と変更ログ"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/support"}
+href={"/jp/support"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
-{"Support and Feedback"}
+{"サポートとフィードバック"}
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"Bug reports, contacts, etc."}
+{"バグ報告やお問い合わせなど"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/privacy-policy"}
+href={"/jp/privacy-policy"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
-{"Privacy Policy"}
+{"プライバシーポリシー"}
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"About handling of personal information in the app"}
+{"アプリ内での個人情報の取り扱いについて"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/mac-app-store"}
+href={"/jp/mac-app-store"}
 target={"_blank"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
-{"Download from Mac App Store"}
+{"Mac App Storeから"}
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"Support a developer by purchasing an app"}
+{"アプリを購入して開発者をサポート"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/github-release"}
+href={"/jp/github-release"}
 target={"_blank"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
-{"Download from GitHub"}
+{"GitHubから"}
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"Download the app for free"}
+{"アプリを無料でダウンロード"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/github-repo"}
+href={"/jp/github-repo"}
 target={"_blank"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
-{"Give It a Star to the Repository"}
+{"リポジトリにスターをつける"}
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"I would be so glad if you could open repository page and give it a star by clicking the “Star” button in the upper right corner!"}
-<br />
-{""}
+{"リポジトリのページを開き、右上の「Star」ボタンをクリックしてスターをつけてくださるととてもうれしいです！"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/buy-me-a-coffee"}
+href={"/jp/buy-me-a-coffee"}
 target={"_blank"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
@@ -510,13 +508,13 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"You can support me at Buy Me a Coffee from the price of a cup of green tea"}
+{"Buy Me a Coffeeで緑茶一杯分の金額からサポートしていただけます。"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/paypal-me"}
+href={"/jp/paypal-me"}
 target={"_blank"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
@@ -525,7 +523,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </Text>
 <Paragraph
 className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
-{"If you have a PayPal account, you can also donate directly at PayPal."}
+{"PayPalアカウントをお持ちの方は、PayPalで直接寄付していただくこともできます。"}
 </Paragraph>
 </Link_1>
 </NavigationMenuLink>
@@ -545,35 +543,17 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 </Fragment_1>
 </Slot>
 <div
-className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c1k001t5 c1s01ekh c11iyp3e cks2l98 c1sacup0 cnbgtry ch91fr5`}>
+className={`w-element c7z4ryg c10ahqwr ccy4onp c12v245d c11iyp3e c1k001t5 c1s01ekh caanqdp c1sacup0 cks2l98 cnbgtry ch91fr5`}>
 <div
-className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1jt805z cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
+className={`w-element c7z4ryg c1jt805z c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 cv0104a cg5ykre c1merv6x cdot8hu cssz5kv`}>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
-{"Settings"}
+{"404 Not Found"}
 </h1>
-<MarkdownEmbed
-code={"## General\n### Clip Hold Settings\n\n- **Launch at Login**\n  - Toggles whether Clip Hold launches when your Mac logs in.\n  - Default: `Off`\n- **Quick Paste**\n  - Toggle the Quick Paste feature on or off. For more information about the Quick Paste feature, please see [**this page**](https://clip-hold.taikun.design/docs/standard-phrases-and-copy-history#quick-paste).\n  - Default: `Off`\n- **Text Only**\n  - Toggle to apply only text when performing Quick Paste.\n\n### Menu\n\n- **Maximum number of standard phrases to show in the menu:**\n  - Set the maximum number of standard phrases to show in the menu.\n  - Default: `5`\n- **Maximum number of history items to show in the menu:**\n  - Set the maximum number of history items to show in the menu.\n  - Default: `10`\n- **Temporarily Hide Menu Bar Icon**\n  - Toggle to hide the menu bar icon. The icon will reappear when you reopen the app.\n  - Default: `Off`"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
-</MarkdownEmbed>
-<h3
-id={"standard-phrases-window"}
-className={`w-element c23z8nw c11yke06`}>
-{"Standard Phrases Window"}
-</h3>
-<MarkdownEmbed
-code={"- **Show Numbers**\n  - Toggle to show or not show numbers for each item in the standard phrases window.\n  - Default: `Off`\n- **Do not close window on double click**\n  - Toggle to keep the window from closing when copying by double-clicking each item shown in the standard phrases window.\n  - Default: `Off`\n- **Always on Top**\n  - Toggle to show the standard phrases window always on top.\n  - Default: `Off`"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
-</MarkdownEmbed>
-<h3
-id={"history-window"}
-className={`w-element c23z8nw c11yke06`}>
-{"History Window"}
-</h3>
-<MarkdownEmbed
-code={"- **Show Numbers**\n  - Toggle to show or not show numbers for each item in the history window.\n  - Default: `Off`\n- **Do not close window on double click**\n  - Toggle to keep the window from closing when copying by double-clicking each item shown in the history window.\n  - Default: `Off`\n- **Always on Top**\n  - Toggle to show the history window always on top.\n  - Default: `Off`\n- **Scroll to the Top When the List is Updated**\n  - Toggle to automatically scroll to the top when the history list is updated.\n  - Default: `Off`\n\n## Standard Phrases\n### Manage Standard Phrases\n\n- **Standard Phrases**\n  - **Import**\n    - Import a JSON file of exported standard phrases.\n  - **Export**\n    - Export all standard phrases as a JSON file.\n- **Delete All Standard Phrases**\n  - Delete all configured standard phrases.\n\n### Standard Phrases Settings\nYou can add, delete, edit, and reorder standard phrases.\n\n## Copy History\n### History Settings\n\n- **Maximum number of history items to save:**\n  - Set the maximum number of history items to save. If you set a value less than the number of saved history items, the amount exceeding the set value will be deleted the next time the clipboard history is updated.\n  - Default: `Unlimited`\n- **Maximum Size per File:**\n  - Only when a file smaller than the size set here is copied will it be saved in the history. Previous history items are not affected.\n  - Default: `1 GB`\n- **Show alert when copying a file larger than:**\n  - When you copy a file that is larger than the size set here, you will get an alert asking if you want to save the copied file in the history or not.\n  - Default: `1 GB`\n\n### Manage History\n\n- **Clipboard History**\n  - **Import**\n    - Import a JSON file of the exported clipboard history.\n  - **Export**\n    - Export all clipboard history as a JSON file.\n- **Delete All History**\n  - Delete all saved copy history.\n\n### Manage Saved Folder\n\n- **Number of Items in Saved Folder:**\n  - The number of items in the folder where copied files are saved is displayed.\n- **Total Size of the Saved Folder:**\n  - The total size of the folder where copied files are saved is displayed.\n- **Open Saved Folder**\n  - Open the folder where copied files are saved in Finder.\n- **Empty the Saved Folder**\n  - Delete all items in the folder where copied files are saved. Related history will also be deleted.\n\n## Shortcuts\n### Window Operations\n\n- **Open Standard Phrases Window**\n  - Set the shortcut key to open the standard phrases window.\n  - Default: `^ (Control)` + `⌘ (Command)` + `V`\n- **Open History Window**\n  - Set the shortcut key to open the history window.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `V`\n\n#### Privacy\n\n- **Toggle Clipboard Monitoring**\n  - Set the shortcut key to toggle clipboard monitoring.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `M`\n\n#### Standard Phrases\n\n- **Copy the 1st Standard Phrase**\n  - Set the shortcut key to copy the 1st standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `1`\n- **Copy the 2nd Standard Phrase**\n  - Set the shortcut key to copy the 2nd standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `2`\n- **Copy the 3rd Standard Phrase**\n  - Set the shortcut key to copy the 3rd standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `3`\n- **Copy the 4th Standard Phrase**\n  - Set the shortcut key to copy the 4th standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `4`\n- **Copy the 5th Standard Phrase**\n  - Set the shortcut key to copy the 5th standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `5`\n- **Copy the 6th Standard Phrase**\n  - Set the shortcut key to copy the 6th standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `6`\n- **Copy the 7th Standard Phrase**\n  - Set the shortcut key to copy the 7th standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `7`\n- **Copy the 8th Standard Phrase**\n  - Set the shortcut key to copy the 8th standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `8`\n- **Copy the 9th Standard Phrase**\n  - Set the shortcut key to copy the 9th standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `9`\n- **Copy the 10th Standard Phrase**\n  - Set the shortcut key to copy the 10th standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `0`\n- **Add a New Standard Phrase**\n  - Set the shortcut key to add a new standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `A`\n- **Add a Standard Phrase from Clipboard Contents**\n  - Set the shortcut key to add a new standard phrase using the current clipboard contents.\n  - Default: `^ (Control)` + `⌘ (Command)` + `C`\n\n#### Copy History\n\n- **Copy the 1st History Item**\n  - Set the shortcut key to copy the 1st history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `1`\n- **Copy the 2nd History Item**\n  - Set the shortcut key to copy the 2nd history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `2`\n- **Copy the 3rd History Item**\n  - Set the shortcut key to copy the 3rd history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `3`\n- **Copy the 4th History Item**\n  - Set the shortcut key to copy the 4th history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `4`\n- **Copy the 5th History Item**\n  - Set the shortcut key to copy the 5th history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `5`\n- **Copy the 6th History Item**\n  - Set the shortcut key to copy the 6th history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `6`\n- **Copy the 7th History Item**\n  - Set the shortcut key to copy the 7th history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `7`\n- **Copy the 8th History Item**\n  - Set the shortcut key to copy the 8th history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `8`\n- **Copy the 9th History Item**\n  - Set the shortcut key to copy the 9th history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `9`\n- **Copy the 10th History Item**\n  - Set the shortcut key to copy the 10th history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `0`\n\n## Privacy\n### Clipboard\n\n- **Clipboard Monitoring**\n  - **Pause**\n    - Pause Clipboard Monitoring.\n  - **Resume**\n    - Resume Clipboard Monitoring.\n\n### Permission\n\n- **Notification**\n  - **Open Settings**\n    - Open the Notification Settings in the System Settings.\n  - **Test Notification**\n    - Send a test notification.\n- **Accessibility**\n  - **Open Settings**\n    - Open the Accessibility Permissions setting in the System Settings.\n\n### Apps to Exclude\nYou can add, remove, or delete all apps to exclude from clipboard monitoring.\n\n## Information\n### About Clip Hold\nDisplays the app version, build number, and copyright information. You can check the app license information and contributors involved in the development.\n\n### Support and Feedback\nYou can report bugs, send feedback, and access the [**community (discussion) page**](https://github.com/taikun114/Clip-Hold/discussions).\n\n### Support Developer\nYou can open the repository page to give it a star, or open the [**Buy Me a Coffee**](https://www.buymeacoffee.com/i_am_taikun) or [**PayPal.Me**](https://paypal.me/taikun114) pages."}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
-</MarkdownEmbed>
+<p
+className={`w-element cqo7lub c23z8nw c1yn6h70`}>
+{"お探しの情報は見つかりませんでした。正しいページにアクセスしていることをご確認ください。"}
+</p>
 </div>
 </div>
 <Slot>
@@ -587,47 +567,47 @@ src={"/assets/App_Icon512_yfUerJqzgO_Ly6tZ_QXZ9.webp"}
 width={200}
 height={200}
 loading={"lazy"}
-className={`w-image cp5616u c10k2c2o ctbwnqh`} />
+className={`w-image cp5616u ctbwnqh c10k2c2o`} />
 <div
 className={`w-element c1mbyuac c17yqxus c1ghn8z4`}>
-<h1
+<h2
 className={`w-element cvddzxn cbgovzd c117tk5u clk5tgp c7ep1pc c1x1dfts c1f3f3n8 cks20wo`}>
 {"Clip Hold"}
-</h1>
+</h2>
 <p
 className={`w-element c1x1dfts c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 cqx7kte`}>
-{"Become a Clipboard Expert"}
+{"クリップボードの達人になろう"}
 </p>
 <Slot>
 <Fragment_1>
 <div
 className={`w-element c10ahqwr cc7vtwb c17rvfg7 cz4mm69 c1co68v6`}>
 <Link
-href={"/mac-app-store"}
+href={"/jp/mac-app-store"}
 target={"_blank"}
-aria-label={"Download on the Mac App Store  button"}
+aria-label={"Mac App Storeからダウンロードボタン"}
 className={`w-element cs02lc`}>
 <Image
-src={"/assets/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917_wsuiz2VllMYTAd-yb-_mG.svg"}
-width={205}
+src={"/assets/Download_on_the_Mac_App_Store_Badge_JP_RGB_blk_100317_PBTOdZUu8ZYNgCcHrs3tY.svg"}
+width={180}
 loading={"eager"}
-alt={"Download on the Mac App Store"}
+alt={"Mac App Storeからダウンロード"}
 height={52}
 fetchPriority={"high"}
 className={`w-image`} />
 </Link>
 <Link
-href={"/github-release"}
+href={"/jp/github-release"}
 target={"_blank"}
-aria-label={"Free Download on GitHub button"}
+aria-label={"GitHubから無料でダウンロードボタン"}
 className={`w-element cs02lc cdjvmmy`}>
 <Image
-src={"/assets/GitHub_Badge_2x_TI3XZydyWMTVRNJI2jGQT.png"}
+src={"/assets/GitHub_Badge-ja_2x_KZ0_CT1LL7XPznxhyQAlV.png"}
+width={170}
 loading={"eager"}
-alt={"Free Download on the GitHub"}
+alt={"GitHubから無料でダウンロード"}
 height={52}
 fetchPriority={"high"}
-width={170}
 className={`w-image`} />
 </Link>
 </div>
@@ -638,29 +618,29 @@ className={`w-image`} />
 <div
 className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub c12grc7c c1co68v6`}>
 <Link
-href={"/github-repo"}
+href={"/jp/github-repo"}
 target={"_blank"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
-code={"![GitHub Repo stars](https://img.shields.io/github/stars/taikun114/Clip-Hold?style=for-the-badge&labelColor=131838&color=f2f4ff)"}
+code={"![GitHubリポジトリ スター数](https://img.shields.io/github/stars/taikun114/Clip-Hold?style=for-the-badge&label=%E3%82%B9%E3%82%BF%E3%83%BC&labelColor=131838&color=f2f4ff)\n"}
 className={`w-markdown-embed c13jyokv cvwxmdx c17xwl4u c1445yj8 c1tqhnvc c1xhku0o c1liz230 cxebacj`}>
 </MarkdownEmbed>
 </Link>
 <Link
-href={"/github-release"}
+href={"/jp/github-release"}
 target={"_blank"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
-code={"![GitHub Latest Release](https://img.shields.io/github/v/release/taikun114/Clip-Hold?sort=semver&display_name=tag&style=for-the-badge&label=Latest%20Release&labelColor=131838&color=f2f4ff)"}
+code={"![GitHub 最新のリリース](https://img.shields.io/github/v/release/taikun114/Clip-Hold?sort=semver&display_name=tag&style=for-the-badge&label=%E6%9C%80%E6%96%B0%E3%81%AE%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9&labelColor=131838&color=f2f4ff)"}
 className={`w-markdown-embed c13jyokv cvwxmdx c17xwl4u c1445yj8 c1tqhnvc c1xhku0o c1liz230 cxebacj`}>
 </MarkdownEmbed>
 </Link>
 <Link
-href={"/github-release"}
+href={"/jp/github-release"}
 target={"_blank"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
-code={"![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/taikun114/Clip-Hold/total?style=for-the-badge&label=Free%20Downloads&labelColor=131838&color=f2f4ff)"}
+code={"![GitHub ダウンロード数（すべてのアセット、すべてのリリース）](https://img.shields.io/github/downloads/taikun114/Clip-Hold/total?style=for-the-badge&label=%E7%84%A1%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E6%95%B0&labelColor=131838&color=f2f4ff)"}
 className={`w-markdown-embed cvwxmdx c13jyokv c17xwl4u c1445yj8 c1tqhnvc c1xhku0o c1liz230 cxebacj`}>
 </MarkdownEmbed>
 </Link>
@@ -669,7 +649,7 @@ className={`w-markdown-embed cvwxmdx c13jyokv c17xwl4u c1445yj8 c1tqhnvc c1xhku0
 </Slot>
 <p
 className={`w-element cmfetcc cqo7lub c15rzea7 cbgovzd c1f3f3n8`}>
-{"Compatible with macOS Sonoma (14.0) or later"}
+{"macOS Sonoma（14.0）またはそれ以降に対応"}
 </p>
 </div>
 </div>

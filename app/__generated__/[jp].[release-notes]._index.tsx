@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-28T10:44:22.169Z";
+      export const lastPublished = "2025-07-28T12:47:10.277Z";
 
       export const siteName = "Clip Hold";
 
@@ -576,7 +576,7 @@ className={`w-element cvddzxn cbgovzd c117tk5u clk5tgp c7ep1pc c1x1dfts c1f3f3n8
 </h2>
 <p
 className={`w-element c1x1dfts c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 cqx7kte`}>
-{"macOS用のクリップボードと定型文マネージャー"}
+{"クリップボードの達人になろう"}
 </p>
 <Slot>
 <Fragment_1>

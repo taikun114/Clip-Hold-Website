@@ -111,6 +111,11 @@ type Pages = {
       "*": string;
     };
   };
+  "/jp/*": {
+    params: {
+      "*": string;
+    };
+  };
   "/*": {
     params: {
       "*": string;
@@ -121,7 +126,7 @@ type Pages = {
 type RouteFiles = {
   "root.tsx": {
     id: "root";
-    page: "/" | "/jp/docs/standard-phrases-window-and-history-window" | "/docs/standard-phrases-window-and-history-window" | "/jp/docs/standard-phrases-and-copy-history" | "/docs/standard-phrases-and-copy-history" | "/jp/docs/notifications" | "/docs/notifications" | "/jp/buy-me-a-coffee" | "/jp/docs/settings" | "/jp/github-release" | "/jp/privacy-policy" | "/jp/mac-app-store" | "/jp/release-notes" | "/jp/github-repo" | "/buy-me-a-coffee" | "/docs/settings" | "/jp/docs/faq" | "/github-release" | "/jp/paypal-me" | "/privacy-policy" | "/mac-app-store" | "/release-notes" | "/jp/support" | "/github-repo" | "/sitemap.xml" | "/docs/faq" | "/jp/docs" | "/paypal-me" | "/support" | "/docs" | "/robots.txt" | "/jp" | "/_image/*" | "/*";
+    page: "/" | "/jp/docs/standard-phrases-window-and-history-window" | "/docs/standard-phrases-window-and-history-window" | "/jp/docs/standard-phrases-and-copy-history" | "/docs/standard-phrases-and-copy-history" | "/jp/docs/notifications" | "/docs/notifications" | "/jp/buy-me-a-coffee" | "/jp/docs/settings" | "/jp/github-release" | "/jp/privacy-policy" | "/jp/mac-app-store" | "/jp/release-notes" | "/jp/github-repo" | "/buy-me-a-coffee" | "/docs/settings" | "/jp/docs/faq" | "/github-release" | "/jp/paypal-me" | "/privacy-policy" | "/mac-app-store" | "/release-notes" | "/jp/support" | "/github-repo" | "/sitemap.xml" | "/docs/faq" | "/jp/docs" | "/paypal-me" | "/support" | "/docs" | "/robots.txt" | "/jp" | "/_image/*" | "/jp/*" | "/*";
   };
   "routes/[jp].[docs].[standard-phrases-window-and-history-window]._index.tsx": {
     id: "routes/[jp].[docs].[standard-phrases-window-and-history-window]._index";
@@ -250,6 +255,10 @@ type RouteFiles = {
   "routes/[_image].$.ts": {
     id: "routes/[_image].$";
     page: "/_image/*";
+  };
+  "routes/[jp].$.tsx": {
+    id: "routes/[jp].$";
+    page: "/jp/*";
   };
   "routes/_index.tsx": {
     id: "routes/_index";
