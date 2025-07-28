@@ -31,13 +31,28 @@ type Pages = {
   "/docs/notifications": {
     params: {};
   };
+  "/jp/buy-me-a-coffee": {
+    params: {};
+  };
   "/jp/docs/settings": {
+    params: {};
+  };
+  "/jp/github-release": {
     params: {};
   };
   "/jp/privacy-policy": {
     params: {};
   };
+  "/jp/mac-app-store": {
+    params: {};
+  };
   "/jp/release-notes": {
+    params: {};
+  };
+  "/jp/github-repo": {
+    params: {};
+  };
+  "/buy-me-a-coffee": {
     params: {};
   };
   "/docs/settings": {
@@ -46,13 +61,25 @@ type Pages = {
   "/jp/docs/faq": {
     params: {};
   };
+  "/github-release": {
+    params: {};
+  };
+  "/jp/paypal-me": {
+    params: {};
+  };
   "/privacy-policy": {
+    params: {};
+  };
+  "/mac-app-store": {
     params: {};
   };
   "/release-notes": {
     params: {};
   };
   "/jp/support": {
+    params: {};
+  };
+  "/github-repo": {
     params: {};
   };
   "/sitemap.xml": {
@@ -62,6 +89,9 @@ type Pages = {
     params: {};
   };
   "/jp/docs": {
+    params: {};
+  };
+  "/paypal-me": {
     params: {};
   };
   "/support": {
@@ -91,7 +121,7 @@ type Pages = {
 type RouteFiles = {
   "root.tsx": {
     id: "root";
-    page: "/" | "/jp/docs/standard-phrases-window-and-history-window" | "/docs/standard-phrases-window-and-history-window" | "/jp/docs/standard-phrases-and-copy-history" | "/docs/standard-phrases-and-copy-history" | "/jp/docs/notifications" | "/docs/notifications" | "/jp/docs/settings" | "/jp/privacy-policy" | "/jp/release-notes" | "/docs/settings" | "/jp/docs/faq" | "/privacy-policy" | "/release-notes" | "/jp/support" | "/sitemap.xml" | "/docs/faq" | "/jp/docs" | "/support" | "/docs" | "/robots.txt" | "/jp" | "/_image/*" | "/*";
+    page: "/" | "/jp/docs/standard-phrases-window-and-history-window" | "/docs/standard-phrases-window-and-history-window" | "/jp/docs/standard-phrases-and-copy-history" | "/docs/standard-phrases-and-copy-history" | "/jp/docs/notifications" | "/docs/notifications" | "/jp/buy-me-a-coffee" | "/jp/docs/settings" | "/jp/github-release" | "/jp/privacy-policy" | "/jp/mac-app-store" | "/jp/release-notes" | "/jp/github-repo" | "/buy-me-a-coffee" | "/docs/settings" | "/jp/docs/faq" | "/github-release" | "/jp/paypal-me" | "/privacy-policy" | "/mac-app-store" | "/release-notes" | "/jp/support" | "/github-repo" | "/sitemap.xml" | "/docs/faq" | "/jp/docs" | "/paypal-me" | "/support" | "/docs" | "/robots.txt" | "/jp" | "/_image/*" | "/*";
   };
   "routes/[jp].[docs].[standard-phrases-window-and-history-window]._index.tsx": {
     id: "routes/[jp].[docs].[standard-phrases-window-and-history-window]._index";
@@ -117,17 +147,37 @@ type RouteFiles = {
     id: "routes/[docs].[notifications]._index";
     page: "/docs/notifications";
   };
+  "routes/[jp].[buy-me-a-coffee]._index.tsx": {
+    id: "routes/[jp].[buy-me-a-coffee]._index";
+    page: "/jp/buy-me-a-coffee";
+  };
   "routes/[jp].[docs].[settings]._index.tsx": {
     id: "routes/[jp].[docs].[settings]._index";
     page: "/jp/docs/settings";
+  };
+  "routes/[jp].[github-release]._index.tsx": {
+    id: "routes/[jp].[github-release]._index";
+    page: "/jp/github-release";
   };
   "routes/[jp].[privacy-policy]._index.tsx": {
     id: "routes/[jp].[privacy-policy]._index";
     page: "/jp/privacy-policy";
   };
+  "routes/[jp].[mac-app-store]._index.tsx": {
+    id: "routes/[jp].[mac-app-store]._index";
+    page: "/jp/mac-app-store";
+  };
   "routes/[jp].[release-notes]._index.tsx": {
     id: "routes/[jp].[release-notes]._index";
     page: "/jp/release-notes";
+  };
+  "routes/[jp].[github-repo]._index.tsx": {
+    id: "routes/[jp].[github-repo]._index";
+    page: "/jp/github-repo";
+  };
+  "routes/[buy-me-a-coffee]._index.tsx": {
+    id: "routes/[buy-me-a-coffee]._index";
+    page: "/buy-me-a-coffee";
   };
   "routes/[docs].[settings]._index.tsx": {
     id: "routes/[docs].[settings]._index";
@@ -137,9 +187,21 @@ type RouteFiles = {
     id: "routes/[jp].[docs].[faq]._index";
     page: "/jp/docs/faq";
   };
+  "routes/[github-release]._index.tsx": {
+    id: "routes/[github-release]._index";
+    page: "/github-release";
+  };
+  "routes/[jp].[paypal-me]._index.tsx": {
+    id: "routes/[jp].[paypal-me]._index";
+    page: "/jp/paypal-me";
+  };
   "routes/[privacy-policy]._index.tsx": {
     id: "routes/[privacy-policy]._index";
     page: "/privacy-policy";
+  };
+  "routes/[mac-app-store]._index.tsx": {
+    id: "routes/[mac-app-store]._index";
+    page: "/mac-app-store";
   };
   "routes/[release-notes]._index.tsx": {
     id: "routes/[release-notes]._index";
@@ -148,6 +210,10 @@ type RouteFiles = {
   "routes/[jp].[support]._index.tsx": {
     id: "routes/[jp].[support]._index";
     page: "/jp/support";
+  };
+  "routes/[github-repo]._index.tsx": {
+    id: "routes/[github-repo]._index";
+    page: "/github-repo";
   };
   "routes/[sitemap.xml]._index.tsx": {
     id: "routes/[sitemap.xml]._index";
@@ -160,6 +226,10 @@ type RouteFiles = {
   "routes/[jp].[docs]._index.tsx": {
     id: "routes/[jp].[docs]._index";
     page: "/jp/docs";
+  };
+  "routes/[paypal-me]._index.tsx": {
+    id: "routes/[paypal-me]._index";
+    page: "/paypal-me";
   };
   "routes/[support]._index.tsx": {
     id: "routes/[support]._index";
