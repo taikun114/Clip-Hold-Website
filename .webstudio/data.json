@@ -1,16 +1,16 @@
 {
   "build": {
-    "id": "d46fd8d5-7e03-46b5-a599-a1c843547b7b",
+    "id": "d6ab78f7-48c8-4bb5-8533-38a5369e1343",
     "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
-    "version": 4265,
-    "createdAt": "2025-07-28T12:47:10.277+00:00",
-    "updatedAt": "2025-07-28T12:47:10.277+00:00",
+    "version": 4277,
+    "createdAt": "2025-08-25T13:33:17.248+00:00",
+    "updatedAt": "2025-08-25T13:33:17.248+00:00",
     "pages": {
       "meta": {
         "siteName": "Clip Hold",
         "contactEmail": "contact.taikun@gmail.com",
         "faviconAssetId": "ba18a1c2db7c39011d60a5bdd5d736ad805e79163044d4c28f2754291becdb1d",
-        "code": "<!-- Style Settings -->\n<style>\n  html {\n    scroll-padding-top: 6rem;\n    scroll-behavior: smooth;\n  }\n</style>\n\n<!-- Web Fonts -->\n<style>\n@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&family=Montserrat+Alternates:wght@600&family=Noto+Sans+JP:wght@100..900&display=swap');\n</style>\n\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PDPFPP4EHC\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PDPFPP4EHC');\n</script>"
+        "code": "<!-- Style Settings -->\n<style>\n  html {\n    scroll-padding-top: 6rem;\n    scroll-behavior: smooth;\n  }\n</style>\n\n<!-- Web Fonts -->\n<style>\n@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&family=Montserrat+Alternates:wght@600&family=Noto+Sans+JP:wght@100..900&display=swap');\n</style>\n\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PDPFPP4EHC\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PDPFPP4EHC');\n</script>\n\n<!-- Umami -->\n<script defer src=\"https://umami.taikun.blog/script.js\" data-website-id=\"7d24e326-1c2e-413f-92d3-68cecbb8e7e9\"></script>"
       },
       "homePage": {
         "id": "g5DKr_QSUu9D04gZRpY1F",
@@ -129874,7 +129874,6 @@
     {
       "id": "08df20a343172e716ab057a1f863d21d557bd1753ffd6276974c921863d00cc0",
       "name": "App_Icon512_yfUerJqzgO_Ly6tZ_QXZ9.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 10048,
       "type": "image",
@@ -129888,7 +129887,6 @@
     {
       "id": "1460a834da54aad8e2c4ca9ea9b716612528f13424142be3651707527cf80d30",
       "name": "Clip_Hold_Social-ja_FwhRk0b8xy2H06AW7fnhQ.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 12070,
       "type": "image",
@@ -129902,7 +129900,6 @@
     {
       "id": "15111cd04380b58d95307dcb07f0b6b06304dbc7504c57fd9cdbf0a2f78e3a92",
       "name": "Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917_wsuiz2VllMYTAd-yb-_mG.svg",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 12064,
       "type": "image",
@@ -129916,7 +129913,6 @@
     {
       "id": "18c1e657f5a1fe768d80886e5b768020110019533e74e9646288aa7a607b3a9d",
       "name": "Import-Export-ja_GBKM-DxNOAbOQDzrrjiOx.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 35270,
       "type": "image",
@@ -129930,7 +129926,6 @@
     {
       "id": "1bc5a23d3f0d78c6277dc9f34c17a4243b6523051673f665100c2977206fa954",
       "name": "Quick-Paste-ja_cZiMPEHIZdF4qk6cYXPTh.gif",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 260561,
       "type": "image",
@@ -129944,7 +129939,6 @@
     {
       "id": "265373c5b72e7818aeb6a86abac8eb9fee69f99b5635e009292969a44f56e705",
       "name": "Pause-Clipboard-Monitoring-ja_jyM1EpahTgeXFiKIkozje.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 18364,
       "type": "image",
@@ -129958,7 +129952,6 @@
     {
       "id": "2b23ab555a42a0110139443a0f3012b5a89e71d00bb612349eaa368dc2e04ff1",
       "name": "Standard-Phrase-and-History-ja_lTvNQ-dYY6gdsttjf-E05.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 39504,
       "type": "image",
@@ -129972,7 +129965,6 @@
     {
       "id": "3b00d64681db231222915b7a1f429039154a5e75ab591cd10405915f68cb2e0f",
       "name": "Filter-and-Sort_AjRb3W3AkDigpgqSBbpSR.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 25222,
       "type": "image",
@@ -129986,7 +129978,6 @@
     {
       "id": "3cd1ed5fd12ef184b403b660134dc0a9daf9c80506a74c4f7670ff6ce7703a56",
       "name": "Copy-Alert-ja_1ucxxMqoOFMWNf6-1csz7.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 15440,
       "type": "image",
@@ -130000,7 +129991,6 @@
     {
       "id": "412aa3ca66218569e3f385b7e422dc3601bb5793dbb256ad7277f7d6e4f0f2e6",
       "name": "Clip_Hold_YT-ja_MvVXL18DfzSiLKcLntVzD.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 58778,
       "type": "image",
@@ -130014,7 +130004,6 @@
     {
       "id": "41c6c09b848e27c79a5c92c99ea564386316c449a0f67f44b8bf8b75e0b6bdbd",
       "name": "Clip-Hold_Banner-ja_0ebgCkeuxE2BI_LumeA9D.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 42152,
       "type": "image",
@@ -130028,7 +130017,6 @@
     {
       "id": "445f06e93bc7e4e3fbaf95d3667f17cd63304e7f404bc7911957ea3d96b3c42b",
       "name": "Download_on_the_Mac_App_Store_Badge_JP_RGB_blk_100317_PBTOdZUu8ZYNgCcHrs3tY.svg",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 11034,
       "type": "image",
@@ -130042,7 +130030,6 @@
     {
       "id": "51c038223e00c2b07e0b1e183e773fd660df905424777ad92ca95e70c3b61625",
       "name": "QR-Code-ja_sUrbImc07dvFs3SCHUwo0.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 20790,
       "type": "image",
@@ -130056,7 +130043,6 @@
     {
       "id": "594a146bb170fa0c62bd15b9b06de0357c59b62f11ecfc4b1eb5f0ab4347c5bc",
       "name": "Import-Export_rm5ur06ygb-tVGOT9xWIx.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 38714,
       "type": "image",
@@ -130070,7 +130056,6 @@
     {
       "id": "5a8ffdd808e7f5e8ea5026471e92527336d2f61e9bb912609649acff157c1e7f",
       "name": "Filter-and-Sort-ja_FE9DbAMD2iYuTOy901AcI.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 28162,
       "type": "image",
@@ -130084,7 +130069,6 @@
     {
       "id": "60924e16d7f36c29acecf6f1c00d6fe360a61e1aa181a124316d2b5efae513ec",
       "name": "GitHub_Badge_2x_TI3XZydyWMTVRNJI2jGQT.png",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 35525,
       "type": "image",
@@ -130098,7 +130082,6 @@
     {
       "id": "646a56b158a67f3501fe8bd68eff0376d63a58161144581c8f9f046c36cce8b1",
       "name": "GitHub_Badge-ja_2x_KZ0_CT1LL7XPznxhyQAlV.png",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 40226,
       "type": "image",
@@ -130112,7 +130095,6 @@
     {
       "id": "68ffe92aed095883d9a8127d4947e7911c9f40194144354b7f02334bcf2b2ae1",
       "name": "Standard-Phrase-and-History_PJpefZbYSvmzRVzBFyr80.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 39644,
       "type": "image",
@@ -130126,7 +130108,6 @@
     {
       "id": "6e7c4832789f194741acddc7fbd7292042e10d1b75e1c5bc706216e6148cc257",
       "name": "Clip-Hold_Banner_-JXKFz96Vg6hFcGxDvPTn.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 46596,
       "type": "image",
@@ -130140,7 +130121,6 @@
     {
       "id": "782e3fe6c6124cb7a9bddd1af5ff1b60f0dad296e63ee2b5e713f13ecbe54874",
       "name": "Standard-Phrase-and-History-Window-ja_9Ui-6kE0ZMQKTQjvEl4_U.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 31950,
       "type": "image",
@@ -130154,7 +130134,6 @@
     {
       "id": "7b3e4940f28cd361aabf755ec338b3ed70cf9e7824bc834a19cd95bddb70bab9",
       "name": "Standard-Phrase-and-History-Window_rtIni80AFzc08GGzgByBZ.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 30676,
       "type": "image",
@@ -130168,7 +130147,6 @@
     {
       "id": "9a3f6d8ff1c585b0b6799ce1597ab212868582480a3380e2c7b6aff10f9489dd",
       "name": "Shortcuts-ja_hLERqhX8bVpGOI5YmHWQx.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 38928,
       "type": "image",
@@ -130182,7 +130160,6 @@
     {
       "id": "9b3e60738a8b043c9d18a0fede547dacec00c18beb8d3362d075d2a4fef35479",
       "name": "QR-Code_vP_6-bCB6Xrk3FhPIkEuN.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 18888,
       "type": "image",
@@ -130196,7 +130173,6 @@
     {
       "id": "b8e49ccb30b0018eb70f9c1f239753fe5e9d27eb076ecf024caef5285fb5a860",
       "name": "Apps-to-Exclude_DZ3bXynDVBcr9X1VlYlAV.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 10562,
       "type": "image",
@@ -130210,7 +130186,6 @@
     {
       "id": "ba18a1c2db7c39011d60a5bdd5d736ad805e79163044d4c28f2754291becdb1d",
       "name": "favicon_s3qidvMMGRxZju269ILbB.png",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 25214,
       "type": "image",
@@ -130224,7 +130199,6 @@
     {
       "id": "cbf46b8dca8bf976b84ace5fdc200bb607463cf3071536483619735e6029853d",
       "name": "Apps-to-Exclude-ja_foGE3joBB5kcnKfyP4MBz.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 10428,
       "type": "image",
@@ -130238,7 +130212,6 @@
     {
       "id": "d29711e9d967a5c77bf068fcc7256823075e1a087c81b1225d64d69a6f1cc86e",
       "name": "Shortcuts_FXDD1rpnnU8AAVHZrEjfP.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 42766,
       "type": "image",
@@ -130252,7 +130225,6 @@
     {
       "id": "dbd0461ce4f8c899fe321a2943d40708923931db6ae7f414964e759791602ff9",
       "name": "Clip_Hold_YT_-7VoJq9CLwj7UDwx5_dd9.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 57204,
       "type": "image",
@@ -130266,7 +130238,6 @@
     {
       "id": "ec7b4dd9797f0d9d817f4d7e6b23d1f80668fe0ddc2bde6b781e7b2a9183522d",
       "name": "Pause-Clipboard-Monitoring_zxcXZdErYvRo1_GUAIPZd.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 18170,
       "type": "image",
@@ -130280,7 +130251,6 @@
     {
       "id": "f838941b99a12ef8e4f8a10a4ee493de03455541e51693bcf8bbcf680ab7bf84",
       "name": "Clip_Hold_Social_TE0NTEigfDQqYTpCbg0vj.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 14356,
       "type": "image",
@@ -130294,7 +130264,6 @@
     {
       "id": "feb9bebd9527a037bb0f0483305c507c920a7398a8c83a388df337fc68051cc1",
       "name": "Quick-Paste_78TwKMmgPe6i4inFi-9OC.gif",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 259504,
       "type": "image",
@@ -130308,7 +130277,6 @@
     {
       "id": "ff745ce0e7c97b84494692595e873a0b6888d5b1d15e4fb421c92e67786e4a80",
       "name": "Copy-Alert_R73bm00YXHwL7y47_v04x.webp",
-      "description": null,
       "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
       "size": 17062,
       "type": "image",

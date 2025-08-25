@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-07-28T12:47:10.277Z";
+      export const lastPublished = "2025-08-25T13:33:17.248Z";
 
       export const siteName = "Clip Hold";
 
@@ -46,7 +46,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
             
 
             export const CustomCode = () => {
-              return (<><Style>{"\n  html {\n    scroll-padding-top: 6rem;\n    scroll-behavior: smooth;\n  }\n"}</Style>{"\n\n"}<Style>{"\n@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&family=Montserrat+Alternates:wght@600&family=Noto+Sans+JP:wght@100..900&display=swap');\n"}</Style>{"\n\n"}<Script async src={"https://www.googletagmanager.com/gtag/js?id=G-PDPFPP4EHC"}></Script><Script>{"\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PDPFPP4EHC');\n"}</Script></>);
+              return (<><Style>{"\n  html {\n    scroll-padding-top: 6rem;\n    scroll-behavior: smooth;\n  }\n"}</Style>{"\n\n"}<Style>{"\n@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&family=Montserrat+Alternates:wght@600&family=Noto+Sans+JP:wght@100..900&display=swap');\n"}</Style>{"\n\n"}<Script async src={"https://www.googletagmanager.com/gtag/js?id=G-PDPFPP4EHC"}></Script><Script>{"\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PDPFPP4EHC');\n"}</Script>{"\n\n"}<Script defer src={"https://umami.taikun.blog/script.js"} data-website-id={"7d24e326-1c2e-413f-92d3-68cecbb8e7e9"}></Script></>);
             }
           
 
