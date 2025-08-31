@@ -21,7 +21,7 @@ export const getResources = (_props: { system: System }) => {
   resources: Record<string, any>;
 }): PageMeta => {
   return {
-    title: "通知 - Clip Hold",
+    title: "設定 - Clip Hold",
     description: "Clip Holdの設定項目について詳しくまとめています。",
     excludePageFromSearch: false,
     language: "ja-jp",
