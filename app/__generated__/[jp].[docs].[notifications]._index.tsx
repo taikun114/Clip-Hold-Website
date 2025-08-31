@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-08-31T12:17:19.550Z";
+      export const lastPublished = "2025-08-31T12:24:05.860Z";
 
       export const siteName = "Clip Hold";
 
@@ -575,7 +575,7 @@ className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"通知"}
 </h1>
 <MarkdownEmbed
-code={"![クリップボード監視の一時停止](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Pause-Clipboard-Monitoring-ja.png?raw=true)\n\nClip Holdには、**クリップボード監視の状態に応じて通知が送信される**機能が搭載されています。\n\n以下の時に通知が届きます。\n\n- クリップボード監視を一時停止した時\n- クリップボード監視を再開した時\n- クリップボード監視が一時停止の状態でアプリを起動した時\n- 設定からテスト通知を送信した時\n- 履歴ファイルのアップグレードに成功した時と失敗した時\n- キーボードショートカットでプリセットを切り替えた時\n\nこのうち、「クリップボード監視が一時停止の状態でアプリを起動した時」と「履歴ファイルのアップグレードに成功した時と失敗した時」に届く通知のみサウンドが再生されます。\\\nまた、前差の通知パネルには「再開」ボタンがあり、そこをクリックすることでクリップボード監視を素早く再開することができます。後者の場合、アップグレードに失敗したときの通知パネルにのみ「ドキュメントを表示...」ボタンがあり、そこをクリックすることで[**履歴ファイルの手動アップグレード方法に関するドキュメントページ**](/jp/upgrade-history-data)を開くことができます。"}
+code={"![クリップボード監視の一時停止](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Pause-Clipboard-Monitoring-ja.png?raw=true)\n\nClip Holdには、**クリップボード監視の状態に応じて通知が送信される**機能が搭載されています。\n\n以下の時に通知が届きます。\n\n- クリップボード監視を一時停止した時\n- クリップボード監視を再開した時\n- クリップボード監視が一時停止の状態でアプリを起動した時\n- 設定からテスト通知を送信した時\n- 履歴ファイルのアップグレードに成功した時と失敗した時\n- キーボードショートカットでプリセットを切り替えた時\n\nこのうち、「クリップボード監視が一時停止の状態でアプリを起動した時」と「履歴ファイルのアップグレードに成功した時と失敗した時」に届く通知のみサウンドが再生されます。\\\nまた、前差の通知パネルには「再開」ボタンがあり、そこをクリックすることでクリップボード監視を素早く再開することができます。後者の場合、アップグレードに失敗したときの通知パネルにのみ「ドキュメントを表示...」ボタンがあり、そこをクリックすることで[**履歴ファイルの手動アップグレード方法に関するドキュメントページ**](/jp/docs/upgrade-history-data)を開くことができます。"}
 className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
 </MarkdownEmbed>
 </div>
