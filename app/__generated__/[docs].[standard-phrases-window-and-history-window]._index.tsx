@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-08-31T06:51:49.449Z";
+      export const lastPublished = "2025-08-31T10:44:57.674Z";
 
       export const siteName = "Clip Hold";
 
@@ -632,7 +632,7 @@ className={`w-image`} />
 href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 aria-label={"Free Download on GitHub button"}
-data-umami-event={"gh-releases"}
+data-umami-event={"gh-release"}
 data-umami-event-region={"us"}
 className={`w-element cs02lc cdjvmmy`}>
 <Image
