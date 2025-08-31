@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-08-25T13:33:17.248Z";
+      export const lastPublished = "2025-08-31T06:30:45.917Z";
 
       export const siteName = "Clip Hold";
 
@@ -163,8 +163,10 @@ className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/github-repo"}
+href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
+data-umami-event={"gh-repo"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -178,8 +180,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/buy-me-a-coffee"}
+href={"https://www.buymeacoffee.com/i_am_taikun"}
 target={"_blank"}
+data-umami-event={"buymeacoffee"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -193,8 +197,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/paypal-me"}
+href={"https://paypal.me/taikun114"}
 target={"_blank"}
+data-umami-event={"paypal"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -236,8 +242,10 @@ className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/mac-app-store"}
+href={"https://apps.apple.com/jp/app/clip-hold/id6748125479"}
 target={"_blank"}
+data-umami-event={"mac-app-store"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -251,8 +259,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -454,8 +464,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/mac-app-store"}
+href={"https://apps.apple.com/jp/app/clip-hold/id6748125479"}
 target={"_blank"}
+data-umami-event={"mac-app-store"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -469,8 +481,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -484,8 +498,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/github-repo"}
+href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
+data-umami-event={"gh-repo"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -499,8 +515,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/buy-me-a-coffee"}
+href={"https://www.buymeacoffee.com/i_am_taikun"}
 target={"_blank"}
+data-umami-event={"buymeacoffee"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -514,8 +532,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/paypal-me"}
+href={"https://paypal.me/taikun114"}
 target={"_blank"}
+data-umami-event={"paypal"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -546,6 +566,10 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c1s01ekh c11iyp3e c1k001t5 cks2l98 c1sacup0 cnbgtry ch91fr5`}>
 <div
 className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1jt805z cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
+<MarkdownEmbed
+code={"**ドキュメントホーム**"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+</MarkdownEmbed>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"ドキュメント"}
@@ -559,8 +583,53 @@ alt={"Clip Hold クリップボードと定型文マネージャー"}
 fetchPriority={"high"}
 className={`w-image c7z4ryg`} />
 <MarkdownEmbed
-code={"Clip Holdのドキュメントへようこそ！\\\nClip Holdの使い方から細かい設定まで、Clip Holdに関する情報がまとめられています（[**GitHub Wiki**](https://github.com/taikun114/Clip-Hold/wiki)にも同様の内容がまとめられています）。\n\nドキュメントはまだ準備中です。不足している情報がある場合があります。\n\n- [**よくある質問と回答**](/jp/docs/faq)\n  - よくある質問と回答がまとめられていますので、気になることがあればこちらをご覧ください。\n- [**定型文とコピー履歴**](/jp/docs/standard-phrases-and-copy-history)\n  - 定型文とコピー履歴へのアクセス、およびその関連機能についてはこちらをご覧ください。\n- [**定型文ウィンドウと履歴ウィンドウ**](/jp/docs/standard-phrases-window-and-history-window)\n  - 定型文ウィンドウと履歴ウィンドウの開き方と使い方についてはこちらをご覧ください。\n- [**通知**](/jp/docs/notifications)\n  - Clip Holdからの通知についてはこちらをご覧ください。\n- [**設定**](/jp/docs/settings)\n  - Clip Holdのすべての設定項目についてはこちらをご覧ください。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+code={"Clip Holdのドキュメントへようこそ！\\\nClip Holdの使い方から細かい設定まで、Clip Holdに関する情報がまとめられています。"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+</MarkdownEmbed>
+<h2
+id={"general"}
+className={`w-element c11yke06`}>
+{"一般"}
+</h2>
+<MarkdownEmbed
+code={"- [**よくある質問と回答**](/jp/docs/faq)\n  - 気になることがあれば、まずはこちらをご覧ください。\n- [**Clip Holdの便利な使い方**](/jp/docs/useful-usages)\n  - Clip Holdを使いこなすためのテクニック・便利な使い方"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+</MarkdownEmbed>
+<h2
+id={"standard-phrases-and-copy-history"}
+className={`w-element c11yke06`}>
+{"定型文とコピー履歴"}
+</h2>
+<MarkdownEmbed
+code={"- [**定型文とコピー履歴**](/jp/docs/standard-phrases-and-copy-history)\n  - 定型文とコピー履歴へのアクセス、およびその関連機能について\n- [**定型文ウィンドウと履歴ウィンドウ**](/jp/docs/standard-phrases-window-and-history-window)\n  - 定型文ウィンドウと履歴ウィンドウの開き方と使い方"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+</MarkdownEmbed>
+<h3
+id={"standard-phrases"}
+className={`w-element c11yke06`}>
+{"定型文"}
+</h3>
+<MarkdownEmbed
+code={"- [**定型文のエクスポートとインポート**](/jp/docs/export-and-import-of-standard-phrases)\n  - 定型文をエクスポートしたりインポートしたりする方法"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+</MarkdownEmbed>
+<h3
+id={"copy-history"}
+className={`w-element c11yke06`}>
+{"コピー履歴"}
+</h3>
+<MarkdownEmbed
+code={"- [**履歴データを手動でアップグレードする**](/jp/docs/upgrade-history-data)\n  - Clip Hold 1.3.0で導入された、新しい履歴形式への自動アップグレードに失敗した場合の手動アップグレード方法"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+</MarkdownEmbed>
+<h2
+id={"other"}
+className={`w-element c11yke06`}>
+{"その他"}
+</h2>
+<MarkdownEmbed
+code={"- [**通知**](/jp/docs/notifications)\n  - Clip Holdからの通知について\n- [**設定**](/jp/docs/settings)\n  - Clip Holdのすべての設定項目について"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>
@@ -591,9 +660,11 @@ className={`w-element c1x1dfts c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 cqx7kte`}>
 <div
 className={`w-element c10ahqwr cc7vtwb c17rvfg7 cz4mm69 c1co68v6`}>
 <Link
-href={"/jp/mac-app-store"}
+href={"https://apps.apple.com/jp/app/clip-hold/id6748125479"}
 target={"_blank"}
 aria-label={"Mac App Storeからダウンロードボタン"}
+data-umami-event={"mac-app-store"}
+data-umami-event-region={"jp"}
 className={`w-element cs02lc`}>
 <Image
 src={"/assets/Download_on_the_Mac_App_Store_Badge_JP_RGB_blk_100317_PBTOdZUu8ZYNgCcHrs3tY.svg"}
@@ -605,9 +676,11 @@ fetchPriority={"high"}
 className={`w-image`} />
 </Link>
 <Link
-href={"/jp/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 aria-label={"GitHubから無料でダウンロードボタン"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"jp"}
 className={`w-element cs02lc cdjvmmy`}>
 <Image
 src={"/assets/GitHub_Badge-ja_2x_KZ0_CT1LL7XPznxhyQAlV.png"}
@@ -626,8 +699,10 @@ className={`w-image`} />
 <div
 className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub c12grc7c c1co68v6`}>
 <Link
-href={"/jp/github-repo"}
+href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
+data-umami-event={"gh-repo"}
+data-umami-event-region={"jp"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
 code={"![GitHubリポジトリ スター数](https://img.shields.io/github/stars/taikun114/Clip-Hold?style=for-the-badge&label=%E3%82%B9%E3%82%BF%E3%83%BC&labelColor=131838&color=f2f4ff)\n"}
@@ -635,8 +710,10 @@ className={`w-markdown-embed c13jyokv cvwxmdx c17xwl4u c1445yj8 c1tqhnvc c1xhku0
 </MarkdownEmbed>
 </Link>
 <Link
-href={"/jp/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"jp"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
 code={"![GitHub 最新のリリース](https://img.shields.io/github/v/release/taikun114/Clip-Hold?sort=semver&display_name=tag&style=for-the-badge&label=%E6%9C%80%E6%96%B0%E3%81%AE%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9&labelColor=131838&color=f2f4ff)"}
@@ -644,8 +721,10 @@ className={`w-markdown-embed c13jyokv cvwxmdx c17xwl4u c1445yj8 c1tqhnvc c1xhku0
 </MarkdownEmbed>
 </Link>
 <Link
-href={"/jp/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"jp"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
 code={"![GitHub ダウンロード数（すべてのアセット、すべてのリリース）](https://img.shields.io/github/downloads/taikun114/Clip-Hold/total?style=for-the-badge&label=%E7%84%A1%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E6%95%B0&labelColor=131838&color=f2f4ff)"}

@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-08-25T13:33:17.248Z";
+      export const lastPublished = "2025-08-31T06:30:45.917Z";
 
       export const siteName = "Clip Hold";
 
@@ -163,8 +163,10 @@ className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/github-repo"}
+href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
+data-umami-event={"gh-repo"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -178,8 +180,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/buy-me-a-coffee"}
+href={"https://www.buymeacoffee.com/i_am_taikun"}
 target={"_blank"}
+data-umami-event={"buymeacoffee"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -193,8 +197,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/paypal-me"}
+href={"https://paypal.me/taikun114"}
 target={"_blank"}
+data-umami-event={"paypal"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -236,8 +242,10 @@ className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/mac-app-store"}
+href={"https://apps.apple.com/jp/app/clip-hold/id6748125479"}
 target={"_blank"}
+data-umami-event={"mac-app-store"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -251,8 +259,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -454,8 +464,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/mac-app-store"}
+href={"https://apps.apple.com/jp/app/clip-hold/id6748125479"}
 target={"_blank"}
+data-umami-event={"mac-app-store"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -469,8 +481,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -484,8 +498,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/github-repo"}
+href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
+data-umami-event={"gh-repo"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -499,8 +515,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/buy-me-a-coffee"}
+href={"https://www.buymeacoffee.com/i_am_taikun"}
 target={"_blank"}
+data-umami-event={"buymeacoffee"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -514,8 +532,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/paypal-me"}
+href={"https://paypal.me/taikun114"}
 target={"_blank"}
+data-umami-event={"paypal"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -546,23 +566,27 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c1s01ekh c11iyp3e c1k001t5 cks2l98 c1sacup0 cnbgtry ch91fr5`}>
 <div
 className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1jt805z cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
+<MarkdownEmbed
+code={"[ドキュメントホーム](/jp/docs) / [一般](/jp/docs#general) / **よくある質問と回答**"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+</MarkdownEmbed>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"よくある質問と回答"}
 </h1>
 <MarkdownEmbed
 code={"## 有料版と無料版の違いはありますか？\n**いいえ、アプリに搭載されている機能に違いはありません。**\n\nClip Holdには無料版（GitHub版）と有料版（Mac App Store版）がありますが、どちらもほとんど機能の違いはありません。**唯一の違いは自動アップデート機能の有無**です。\\\n有料版ではApp Storeの機能でアップデートとインストールを自動で行うことができますが、無料版では今のところアップデート確認機能とインストール機能は搭載されていません（つまり、アプリの機能としては何一つ変わりません！）。\n\n私としてはApp Storeから購入してくださるとありがたいですが、まずは無料でダウンロードしてみて、とても便利だと思ったら購入したり[**寄付**](#どうすれば開発者の方をサポートできますか)したりしてくださると大変嬉しいです！\n\n## Clip Holdのシステム要件を教えてください。\nClip Holdは、**macOS Sonoma（14.0）またはそれ以降**がインストールされた、**Appleシリコン搭載のMac**と**Intelプロセッサ搭載のMac**に対応しています。\n\n## Clip Holdは個人情報を収集しますか？\n**いいえ、個人情報は収集しません。**\n\nシステム設定の「プライバシーとセキュリティ」設定内にある「解析と改善」で「アプリデベロッパと共有」をオンにしているユーザーの使用状況データとクラッシュレポートが共有される場合がありますが、アプリ自体には情報を収集して送信する機能は全く搭載されていません。プライバシーが心配な方でも安心してお使いいただけます。\n\nアプリが取得する情報とその取り扱いについては、[**プライバシーポリシー**](/jp/privacy-policy)ページをご覧ください。\n\n## Clip Holdは重たいですか？\n**いいえ、Clip Holdは非常に軽量です。**\n\nアプリの大きさは10 MBを切っており、古いシステムでも快適に動作するように設計されています。\n\n## Clip Holdは画像やファイルなどに対応していますか？\n**はい、最新バージョンでは次のファイル種類に対応しています。**\n- テキスト\n- ファイル\n- 画像\n\n## バグを見つけた場合はどうしたらいいですか？\n[**サポートとフィードバック**](/jp/support)ページの内容に従ってバグを報告してください。\n\n## こんな機能を追加してほしいです。\nバグ報告と同様、[**サポートとフィードバック**](/jp/support)ページの内容に従ってフィードバックを送信してください。\n\n## Clip Holdをアップデートするにはどうしたらいいですか？\n### Mac App Storeから購入された方\nApp Storeを使ってアップデートすることができます。\n\n### GitHubからダウンロードされた方\n次の手順でアップデートしてください。\n\n1. [**リリースページ**](/jp/github-release)から最新バージョンをダウンロードします。\n2. ダウンロードしたディスクイメージを開きます。\n3. ディスクイメージ内のClip Holdのアイコンをアプリケーションフォルダへドラッグアンドドロップし、上書き保存します。\n4. アップデート完了です。\n\n> **注意**\\\n> 上書き保存する際、Clip Holdが起動している場合は一旦終了させる必要があります。\\\n> アプリをアップデートしてもデータは消えませんのでご安心ください。心配な場合、アップデート前に定型文と履歴をエクスポートしておけば問題ありません。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
 </MarkdownEmbed>
 <h2
 id={"どうすれば開発者の方をサポートできますか"}
 className={`w-element c11yke06`}>
 {"どうすれば開発者の方をサポートできますか？"}
 </h2>
-<MarkdownEmbed
-code={"### リポジトリにスターをつける\n[**こちらのページ**](/jp/github-repo)を開き、右上の「Star」ボタンをクリックしてスターをつけてくださるととてもうれしいです！\\\nこのボタンは言わば高評価ボタンのようなもので、開発を続けるモチベーションになります！この機能は無料なので、Clip Holdを気に入ったらぜひスターをつけてください！\n\n### 寄付\nClip Holdが気に入ったら寄付してくださると嬉しいです。開発を続けるモチベーションになります！\n\n以下のサービスを使って寄付していただくことができます。\n\n#### Buy Me a Coffee\n[**Buy Me a Coffee**](/jp/buy-me-a-coffee)で緑茶一杯分の金額からサポートしていただけます。\n\n#### PayPal\\.Me\nPayPalアカウントをお持ちの方は、[**PayPal**](/jp/paypal-me)で直接寄付していただくこともできます。\n\n## 他にも質問がありますか？\n[**ディスカッション**](https://github.com/taikun114/Clip-Hold/discussions)ページが用意されているので、質問を投稿したり、意見交換などを行ったりすることができますのでぜひ確認してみてください！"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
-</MarkdownEmbed>
+<HtmlEmbed
+code={"<h3>リポジトリにスターをつける</h3>\n<p><a href=\"https://github.com/taikun114/Clip-Hold\" target=\"_blank\" data-umami-event=\"gh-repo\" data-umami-event-region=\"jp\"><b>こちらのページ</b></a>を開き、右上の「Star」ボタンをクリックしてスターをつけてくださるととてもうれしいです！<br>\nこのボタンは言わば高評価ボタンのようなもので、開発を続けるモチベーションになります！この機能は無料なので、Clip Holdを気に入ったらぜひスターをつけてください！</p>\n\n<h3>寄付</h3>\n<p>Clip Holdが気に入ったら寄付してくださると嬉しいです。開発を続けるモチベーションになります！</p>\n<p>以下のサービスを使って寄付していただくことができます。</p>\n\n<h4>Buy Me a Coffee</h4>\n<p><a href=\"https://www.buymeacoffee.com/i_am_taikun\" target=\"_blank\" data-umami-event=\"buymeacoffee\" data-umami-event-region=\"jp\"><b>Buy Me a Coffee</b></a>で緑茶一杯分の金額からサポートしていただけます。.</p>\n\n<h4>PayPal.Me</h4>\n<p>PayPalアカウントをお持ちの方は、<a href=\"https://paypal.me/taikun114\" target=\"_blank\" data-umami-event=\"paypal\" data-umami-event-region=\"jp\"><b>PayPal</b></a>で直接寄付していただくこともできます。</p>\n\n<h2>他にも質問がありますか？</h2>\n<p><a href=\"https://github.com/taikun114/Clip-Hold/discussions\" target=\"_blank\" data-umami-event=\"gh-discussion\" data-umami-event-region=\"jp\"><b>ディスカッション</b></a>ページが用意されているので、質問を投稿したり、意見交換などを行ったりすることができますのでぜひ確認してみてください！</p>"}
+className={`w-html-embed c93cdo9 cvh06f7 cz7p94 c1s236z9 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+</HtmlEmbed>
 </div>
 </div>
 <Slot>
@@ -592,9 +616,11 @@ className={`w-element c1x1dfts c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 cqx7kte`}>
 <div
 className={`w-element c10ahqwr cc7vtwb c17rvfg7 cz4mm69 c1co68v6`}>
 <Link
-href={"/jp/mac-app-store"}
+href={"https://apps.apple.com/jp/app/clip-hold/id6748125479"}
 target={"_blank"}
 aria-label={"Mac App Storeからダウンロードボタン"}
+data-umami-event={"mac-app-store"}
+data-umami-event-region={"jp"}
 className={`w-element cs02lc`}>
 <Image
 src={"/assets/Download_on_the_Mac_App_Store_Badge_JP_RGB_blk_100317_PBTOdZUu8ZYNgCcHrs3tY.svg"}
@@ -606,9 +632,11 @@ fetchPriority={"high"}
 className={`w-image`} />
 </Link>
 <Link
-href={"/jp/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 aria-label={"GitHubから無料でダウンロードボタン"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"jp"}
 className={`w-element cs02lc cdjvmmy`}>
 <Image
 src={"/assets/GitHub_Badge-ja_2x_KZ0_CT1LL7XPznxhyQAlV.png"}
@@ -627,8 +655,10 @@ className={`w-image`} />
 <div
 className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub c12grc7c c1co68v6`}>
 <Link
-href={"/jp/github-repo"}
+href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
+data-umami-event={"gh-repo"}
+data-umami-event-region={"jp"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
 code={"![GitHubリポジトリ スター数](https://img.shields.io/github/stars/taikun114/Clip-Hold?style=for-the-badge&label=%E3%82%B9%E3%82%BF%E3%83%BC&labelColor=131838&color=f2f4ff)\n"}
@@ -636,8 +666,10 @@ className={`w-markdown-embed c13jyokv cvwxmdx c17xwl4u c1445yj8 c1tqhnvc c1xhku0
 </MarkdownEmbed>
 </Link>
 <Link
-href={"/jp/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"jp"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
 code={"![GitHub 最新のリリース](https://img.shields.io/github/v/release/taikun114/Clip-Hold?sort=semver&display_name=tag&style=for-the-badge&label=%E6%9C%80%E6%96%B0%E3%81%AE%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9&labelColor=131838&color=f2f4ff)"}
@@ -645,8 +677,10 @@ className={`w-markdown-embed c13jyokv cvwxmdx c17xwl4u c1445yj8 c1tqhnvc c1xhku0
 </MarkdownEmbed>
 </Link>
 <Link
-href={"/jp/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"jp"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
 code={"![GitHub ダウンロード数（すべてのアセット、すべてのリリース）](https://img.shields.io/github/downloads/taikun114/Clip-Hold/total?style=for-the-badge&label=%E7%84%A1%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E6%95%B0&labelColor=131838&color=f2f4ff)"}

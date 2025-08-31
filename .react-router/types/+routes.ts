@@ -19,16 +19,34 @@ type Pages = {
   "/docs/standard-phrases-window-and-history-window": {
     params: {};
   };
+  "/jp/docs/export-and-import-of-standard-phrases": {
+    params: {};
+  };
   "/jp/docs/standard-phrases-and-copy-history": {
+    params: {};
+  };
+  "/docs/export-and-import-of-standard-phrases": {
     params: {};
   };
   "/docs/standard-phrases-and-copy-history": {
     params: {};
   };
+  "/jp/docs/upgrade-history-data": {
+    params: {};
+  };
+  "/docs/upgrade-history-data": {
+    params: {};
+  };
   "/jp/docs/notifications": {
     params: {};
   };
+  "/jp/docs/useful-usages": {
+    params: {};
+  };
   "/docs/notifications": {
+    params: {};
+  };
+  "/docs/useful-usages": {
     params: {};
   };
   "/jp/buy-me-a-coffee": {
@@ -126,7 +144,7 @@ type Pages = {
 type RouteFiles = {
   "root.tsx": {
     id: "root";
-    page: "/" | "/jp/docs/standard-phrases-window-and-history-window" | "/docs/standard-phrases-window-and-history-window" | "/jp/docs/standard-phrases-and-copy-history" | "/docs/standard-phrases-and-copy-history" | "/jp/docs/notifications" | "/docs/notifications" | "/jp/buy-me-a-coffee" | "/jp/docs/settings" | "/jp/github-release" | "/jp/privacy-policy" | "/jp/mac-app-store" | "/jp/release-notes" | "/jp/github-repo" | "/buy-me-a-coffee" | "/docs/settings" | "/jp/docs/faq" | "/github-release" | "/jp/paypal-me" | "/privacy-policy" | "/mac-app-store" | "/release-notes" | "/jp/support" | "/github-repo" | "/sitemap.xml" | "/docs/faq" | "/jp/docs" | "/paypal-me" | "/support" | "/docs" | "/robots.txt" | "/jp" | "/_image/*" | "/jp/*" | "/*";
+    page: "/" | "/jp/docs/standard-phrases-window-and-history-window" | "/docs/standard-phrases-window-and-history-window" | "/jp/docs/export-and-import-of-standard-phrases" | "/jp/docs/standard-phrases-and-copy-history" | "/docs/export-and-import-of-standard-phrases" | "/docs/standard-phrases-and-copy-history" | "/jp/docs/upgrade-history-data" | "/docs/upgrade-history-data" | "/jp/docs/notifications" | "/jp/docs/useful-usages" | "/docs/notifications" | "/docs/useful-usages" | "/jp/buy-me-a-coffee" | "/jp/docs/settings" | "/jp/github-release" | "/jp/privacy-policy" | "/jp/mac-app-store" | "/jp/release-notes" | "/jp/github-repo" | "/buy-me-a-coffee" | "/docs/settings" | "/jp/docs/faq" | "/github-release" | "/jp/paypal-me" | "/privacy-policy" | "/mac-app-store" | "/release-notes" | "/jp/support" | "/github-repo" | "/sitemap.xml" | "/docs/faq" | "/jp/docs" | "/paypal-me" | "/support" | "/docs" | "/robots.txt" | "/jp" | "/_image/*" | "/jp/*" | "/*";
   };
   "routes/[jp].[docs].[standard-phrases-window-and-history-window]._index.tsx": {
     id: "routes/[jp].[docs].[standard-phrases-window-and-history-window]._index";
@@ -136,21 +154,45 @@ type RouteFiles = {
     id: "routes/[docs].[standard-phrases-window-and-history-window]._index";
     page: "/docs/standard-phrases-window-and-history-window";
   };
+  "routes/[jp].[docs].[export-and-import-of-standard-phrases]._index.tsx": {
+    id: "routes/[jp].[docs].[export-and-import-of-standard-phrases]._index";
+    page: "/jp/docs/export-and-import-of-standard-phrases";
+  };
   "routes/[jp].[docs].[standard-phrases-and-copy-history]._index.tsx": {
     id: "routes/[jp].[docs].[standard-phrases-and-copy-history]._index";
     page: "/jp/docs/standard-phrases-and-copy-history";
+  };
+  "routes/[docs].[export-and-import-of-standard-phrases]._index.tsx": {
+    id: "routes/[docs].[export-and-import-of-standard-phrases]._index";
+    page: "/docs/export-and-import-of-standard-phrases";
   };
   "routes/[docs].[standard-phrases-and-copy-history]._index.tsx": {
     id: "routes/[docs].[standard-phrases-and-copy-history]._index";
     page: "/docs/standard-phrases-and-copy-history";
   };
+  "routes/[jp].[docs].[upgrade-history-data]._index.tsx": {
+    id: "routes/[jp].[docs].[upgrade-history-data]._index";
+    page: "/jp/docs/upgrade-history-data";
+  };
+  "routes/[docs].[upgrade-history-data]._index.tsx": {
+    id: "routes/[docs].[upgrade-history-data]._index";
+    page: "/docs/upgrade-history-data";
+  };
   "routes/[jp].[docs].[notifications]._index.tsx": {
     id: "routes/[jp].[docs].[notifications]._index";
     page: "/jp/docs/notifications";
   };
+  "routes/[jp].[docs].[useful-usages]._index.tsx": {
+    id: "routes/[jp].[docs].[useful-usages]._index";
+    page: "/jp/docs/useful-usages";
+  };
   "routes/[docs].[notifications]._index.tsx": {
     id: "routes/[docs].[notifications]._index";
     page: "/docs/notifications";
+  };
+  "routes/[docs].[useful-usages]._index.tsx": {
+    id: "routes/[docs].[useful-usages]._index";
+    page: "/docs/useful-usages";
   };
   "routes/[jp].[buy-me-a-coffee]._index.tsx": {
     id: "routes/[jp].[buy-me-a-coffee]._index";

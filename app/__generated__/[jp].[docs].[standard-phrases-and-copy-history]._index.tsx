@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-08-25T13:33:17.248Z";
+      export const lastPublished = "2025-08-31T06:30:45.917Z";
 
       export const siteName = "Clip Hold";
 
@@ -163,8 +163,10 @@ className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/github-repo"}
+href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
+data-umami-event={"gh-repo"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -178,8 +180,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/buy-me-a-coffee"}
+href={"https://www.buymeacoffee.com/i_am_taikun"}
 target={"_blank"}
+data-umami-event={"buymeacoffee"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -193,8 +197,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/paypal-me"}
+href={"https://paypal.me/taikun114"}
 target={"_blank"}
+data-umami-event={"paypal"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -236,8 +242,10 @@ className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/mac-app-store"}
+href={"https://apps.apple.com/jp/app/clip-hold/id6748125479"}
 target={"_blank"}
+data-umami-event={"mac-app-store"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -251,8 +259,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -454,8 +464,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/mac-app-store"}
+href={"https://apps.apple.com/jp/app/clip-hold/id6748125479"}
 target={"_blank"}
+data-umami-event={"mac-app-store"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -469,8 +481,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -484,8 +498,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/github-repo"}
+href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
+data-umami-event={"gh-repo"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -499,8 +515,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/buy-me-a-coffee"}
+href={"https://www.buymeacoffee.com/i_am_taikun"}
 target={"_blank"}
+data-umami-event={"buymeacoffee"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -514,8 +532,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/paypal-me"}
+href={"https://paypal.me/taikun114"}
 target={"_blank"}
+data-umami-event={"paypal"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -546,6 +566,10 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c1s01ekh c11iyp3e c1k001t5 cks2l98 c1sacup0 cnbgtry ch91fr5`}>
 <div
 className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1jt805z cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
+<MarkdownEmbed
+code={"[ドキュメントホーム](/jp/docs) / [定型文とコピー履歴](/jp/docs#standard-phrases-and-copy-history) / **定型文とコピー履歴**"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+</MarkdownEmbed>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"定型文とコピー履歴"}
@@ -554,51 +578,27 @@ className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 className={`w-element c23z8nw c1dgg9g4 cua250e`}>
 {"項目をコピーする"}
 </h2>
-<Image
-src={"/assets/Standard-Phrase-and-History-ja_lTvNQ-dYY6gdsttjf-E05.webp"}
-width={1318}
-height={912}
-loading={"eager"}
-alt={"定型文とコピー履歴"}
-fetchPriority={"high"}
-className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
-code={"定型文とコピー履歴には、メニューバーに表示されているClip Holdのアイコンからアクセスすることができます。\\\nそれぞれの項目をクリックするとクリップボードに内容がコピーされます。\n\n定型文とコピー履歴は、ショートカットキーを使うことでもコピーすることができます。\\\n定型文の場合はデフォルトで`^ (Control)` + `⌘ (Command)` + `1`〜`0`の数字キー、コピー履歴の場合はデフォルトで`⌥ (Option)` + `⌘ (Command)` + `1`〜`0`の数字キーでコピーすることができます。\\\nショートカットキーはClip Hold設定の「ショートカット」タブから変更することができます。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+code={"![定型文とコピー履歴](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Standard-Phrase-and-History-ja.png?raw=true)\n\n定型文とコピー履歴には、メニューバーに表示されているClip Holdのアイコンからアクセスすることができます。\\\nそれぞれの項目をクリックするとクリップボードに内容がコピーされます。\n\n定型文とコピー履歴は、ショートカットキーを使うことでもコピーすることができます。\\\n定型文の場合はデフォルトで`^ (Control)` + `⌘ (Command)` + `1`〜`0`の数字キー、コピー履歴の場合はデフォルトで`⌥ (Option)` + `⌘ (Command)` + `1`〜`0`の数字キーでコピーすることができます。\\\nショートカットキーはClip Hold設定の「ショートカット」タブから変更することができます。"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
 </MarkdownEmbed>
 <h2
 id={"大容量ファイルコピー時のアラート"}
 className={`w-element cua250e`}>
 {"大容量ファイルコピー時のアラート"}
 </h2>
-<Image
-src={"/assets/Copy-Alert-ja_1ucxxMqoOFMWNf6-1csz7.webp"}
-width={1047}
-height={654}
-loading={"lazy"}
-optimize={false}
-alt={"アラート"}
-className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
-code={"> **注意**\\\n> Clip Hold 1.2.0またはそれ以降が必要です。\n\n大きなファイルをコピーした際、このようなアラートが表示されることがあります。\\\nClip Holdの設定でアラートを表示する容量を設定しておくことで、設定容量よりも大きなファイルをコピーした際にこのようなアラートを表示させることができます。\n\nClip Holdではファイルや画像の履歴も保存しますが、大きなファイルをいくつもコピーしているとストレージを圧迫してしまう場合があります。\\\nそのため、大きなファイルを履歴に保存したくない場合に役立つ機能です。\n\n> **豆知識**\\\n> デフォルトでは`1 GB`を超えるファイルコピー時にアラートが表示されるようになっていますが、Clip Holdの設定からお好みの容量に変更したり、そもそもアラートを表示させないようにしたりすることができます。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+code={"![アラート](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Copy-Alert-ja.png?raw=true)\n\n大きなファイルをコピーした際、このようなアラートが表示されることがあります。\\\nClip Holdの設定でアラートを表示する容量を設定しておくことで、設定容量よりも大きなファイルをコピーした際にこのようなアラートを表示させることができます。\n\nClip Holdではファイルや画像の履歴も保存しますが、大きなファイルをいくつもコピーしているとストレージを圧迫してしまう場合があります。\\\nそのため、大きなファイルを履歴に保存したくない場合に役立つ機能です。\n\n> **豆知識**\\\n> デフォルトでは`1 GB`を超えるファイルコピー時にアラートが表示されるようになっていますが、Clip Holdの設定からお好みの容量に変更したり、そもそもアラートを表示させないようにしたりすることができます。"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
 </MarkdownEmbed>
 <h2
 id={"クイックペースト"}
 className={`w-element cua250e`}>
 {"クイックペースト"}
 </h2>
-<Image
-src={"/assets/Quick-Paste-ja_cZiMPEHIZdF4qk6cYXPTh.gif"}
-width={720}
-height={405}
-loading={"lazy"}
-optimize={false}
-alt={"クイックペースト"}
-className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg`} />
 <MarkdownEmbed
-code={"設定で「クイックペースト」機能がオンになっている場合、選択した内容がコピーされると同時に`⌘ (Command)` + `V`キー操作が送信され、**最前面のアプリにペースト**されます。\\\nこの機能を使うにはアクセシビリティの許可が必要です。この機能を初めて使おうとしたときにアクセシビリティの許可を求める画面が表示されるので、許可することでクイックペーストが使用できるようになります（表示されなかった場合や拒否した場合はシステム設定で追加する必要があります）。\n\n### アクセシビリティの許可について\n現在Clip Holdにアクセシビリティの許可が与えられているかどうかは、Clip Hold設定の「プライバシー」タブにある「権限」セクションから確認できます。\\\n「許可済み」となっている場合は適切な許可が与えられているため、クイックペーストをオンにすれば使用することができます。\\\n「設定を開く」となっている場合はまだ許可が与えられていないため、システム設定を開いて許可する必要があります。「設定を開く」をクリックするとシステム設定のアクセシビリティ許可設定を開くことができるので、Clip Holdを追加してオンにしてください。\n\n> **注意**\\\n> すでにアクセシビリティ許可設定にClip Holdが入っていて、オンになっているにもかかわらずClip Holdの設定で「許可済み」になっていない場合、一度システム設定のアクセシビリティ許可リストからClip Holdを削除し、追加し直してオンにする必要があります。\n>\n> アプリをアップデートした場合や、アプリを別のフォルダへ移動した場合などにこのような表示になることがあります。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+code={"![クイックペースト](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Quick-Paste-ja.gif?raw=true)\n\n設定で「クイックペースト」機能がオンになっている場合、選択した内容がコピーされると同時に`⌘ (Command)` + `V`キー操作が送信され、**最前面のアプリにペースト**されます。\\\nこの機能を使うにはアクセシビリティの許可が必要です。この機能を初めて使おうとしたときにアクセシビリティの許可を求める画面が表示されるので、許可することでクイックペーストが使用できるようになります（表示されなかった場合や拒否した場合はシステム設定で追加する必要があります）。\n\n### アクセシビリティの許可について\n現在Clip Holdにアクセシビリティの許可が与えられているかどうかは、Clip Hold設定の「プライバシー」タブにある「権限」セクションから確認できます。\\\n「許可済み」となっている場合は適切な許可が与えられているため、クイックペーストをオンにすれば使用することができます。\\\n「設定を開く」となっている場合はまだ許可が与えられていないため、システム設定を開いて許可する必要があります。「設定を開く」をクリックするとシステム設定のアクセシビリティ許可設定を開くことができるので、Clip Holdを追加してオンにしてください。\n\n> **注意**\\\n> すでにアクセシビリティ許可設定にClip Holdが入っていて、オンになっているにもかかわらずClip Holdの設定で「許可済み」になっていない場合、一度システム設定のアクセシビリティ許可リストからClip Holdを削除し、追加し直してオンにする必要があります。\n>\n> アプリをアップデートした場合や、アプリを別のフォルダへ移動した場合などにこのような表示になることがあります。"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>
@@ -629,9 +629,11 @@ className={`w-element c1x1dfts c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 cqx7kte`}>
 <div
 className={`w-element c10ahqwr cc7vtwb c17rvfg7 cz4mm69 c1co68v6`}>
 <Link
-href={"/jp/mac-app-store"}
+href={"https://apps.apple.com/jp/app/clip-hold/id6748125479"}
 target={"_blank"}
 aria-label={"Mac App Storeからダウンロードボタン"}
+data-umami-event={"mac-app-store"}
+data-umami-event-region={"jp"}
 className={`w-element cs02lc`}>
 <Image
 src={"/assets/Download_on_the_Mac_App_Store_Badge_JP_RGB_blk_100317_PBTOdZUu8ZYNgCcHrs3tY.svg"}
@@ -643,9 +645,11 @@ fetchPriority={"high"}
 className={`w-image`} />
 </Link>
 <Link
-href={"/jp/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 aria-label={"GitHubから無料でダウンロードボタン"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"jp"}
 className={`w-element cs02lc cdjvmmy`}>
 <Image
 src={"/assets/GitHub_Badge-ja_2x_KZ0_CT1LL7XPznxhyQAlV.png"}
@@ -664,8 +668,10 @@ className={`w-image`} />
 <div
 className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub c12grc7c c1co68v6`}>
 <Link
-href={"/jp/github-repo"}
+href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
+data-umami-event={"gh-repo"}
+data-umami-event-region={"jp"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
 code={"![GitHubリポジトリ スター数](https://img.shields.io/github/stars/taikun114/Clip-Hold?style=for-the-badge&label=%E3%82%B9%E3%82%BF%E3%83%BC&labelColor=131838&color=f2f4ff)\n"}
@@ -673,8 +679,10 @@ className={`w-markdown-embed c13jyokv cvwxmdx c17xwl4u c1445yj8 c1tqhnvc c1xhku0
 </MarkdownEmbed>
 </Link>
 <Link
-href={"/jp/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"jp"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
 code={"![GitHub 最新のリリース](https://img.shields.io/github/v/release/taikun114/Clip-Hold?sort=semver&display_name=tag&style=for-the-badge&label=%E6%9C%80%E6%96%B0%E3%81%AE%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9&labelColor=131838&color=f2f4ff)"}
@@ -682,8 +690,10 @@ className={`w-markdown-embed c13jyokv cvwxmdx c17xwl4u c1445yj8 c1tqhnvc c1xhku0
 </MarkdownEmbed>
 </Link>
 <Link
-href={"/jp/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"jp"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
 code={"![GitHub ダウンロード数（すべてのアセット、すべてのリリース）](https://img.shields.io/github/downloads/taikun114/Clip-Hold/total?style=for-the-badge&label=%E7%84%A1%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E6%95%B0&labelColor=131838&color=f2f4ff)"}

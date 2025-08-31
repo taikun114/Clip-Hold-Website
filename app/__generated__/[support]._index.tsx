@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-08-25T13:33:17.248Z";
+      export const lastPublished = "2025-08-31T06:30:45.917Z";
 
       export const siteName = "Clip Hold";
 
@@ -163,8 +163,10 @@ className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
-href={"/github-repo"}
+href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
+data-umami-event={"gh-repo"}
+data-umami-event-region={"us"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -178,8 +180,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/buy-me-a-coffee"}
+href={"https://www.buymeacoffee.com/i_am_taikun"}
 target={"_blank"}
+data-umami-event={"buymeacoffee"}
+data-umami-event-region={"us"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -193,8 +197,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/paypal-me"}
+href={"https://paypal.me/taikun114"}
 target={"_blank"}
+data-umami-event={"paypal"}
+data-umami-event-region={"us"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -236,8 +242,10 @@ className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
-href={"/mac-app-store"}
+href={"https://apps.apple.com/app/clip-hold/id6748125479"}
 target={"_blank"}
+data-umami-event={"mac-app-store"}
+data-umami-event-region={"us"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -251,8 +259,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"us"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -454,8 +464,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/mac-app-store"}
+href={"https://apps.apple.com/app/clip-hold/id6748125479"}
 target={"_blank"}
+data-umami-event={"mac-app-store"}
+data-umami-event-region={"us"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -469,8 +481,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"us"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -484,8 +498,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/github-repo"}
+href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
+data-umami-event={"gh-repo"}
+data-umami-event-region={"us"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -501,8 +517,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/buy-me-a-coffee"}
+href={"https://www.buymeacoffee.com/i_am_taikun"}
 target={"_blank"}
+data-umami-event={"buymeacoffee"}
+data-umami-event-region={"us"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -516,8 +534,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/paypal-me"}
+href={"https://paypal.me/taikun114"}
 target={"_blank"}
+data-umami-event={"paypal"}
+data-umami-event-region={"us"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -556,10 +576,10 @@ className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 className={`w-element c1yn6h70`}>
 {"Last Update: July 4, 2025"}
 </p>
-<MarkdownEmbed
-code={"## If you find a bug\nClip Hold is an application developed using generative AI. I have tested it many times while developing it, but there may still be some bugs or some functions may not operate as intended.\n\nIf you find a bug or a behavior problem, please check the [**Issues**](https://github.com/taikun114/Clip-Hold/issues) (known bugs or problems) already opened and look for the same problem reported by others. If you cannot find the same issue, please open a new Issue and report the problem.\\\nTo make bug tracking easier, if you want to report more than one issue, please open a separate Issue for each problem. In other words, if you want to report two bugs, you must open two Issues.\n\n## Feedback\nIf you do not have a GitHub account and would like to report a bug, share an idea, or send a message to the developer (me), you can click [**this link**](mailto:contact.taikun@gmail.com?subject=Clip%20Hold%20Feedback:%20&body=Please%20describe%20your%20feedback%20in%20detail:%0D%0A%0D%0A%0D%0ASystem%20Information:%0D%0A%0D%0A-%20System%20%0D%0APlease%20enter%20your%20Mac%20model.%0D%0A%0D%0A%0D%0A-%20macOS%20Version%20%0D%0AIf%20you%20are%20experiencing%20problems,%20please%20enter%20the%20macOS%20version.%0D%0A%0D%0A%0D%0A-%20App%20Version%0D%0AIf%20you%20are%20experiencing%20problems,%20please%20enter%20the%20app%20version.%0D%0A%0D%0A) or click the “Send Feedback” button in the “Information” tab in the app settings to send an email (please note that I may not be able to reply to all messages).\\\nWhen you open the Send Email window from the button in the app, necessary information, such as Mac system information (Model ID, CPU architecture type, macOS version information) and app version information, will be pre-filled, so sending feedback from there is recommended.\n\n## Community\nYou can share new features you would like to see added to the app, ask questions about questions about potential issues that may or may not be bugs, exchange opinions with others, and more on the [**discussion page**](https://github.com/taikun114/Clip-Hold/discussions).\\\nPlease use the page as a place to exchange information. I often look in on the page, so messages to the developer are also highly welcome!"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
-</MarkdownEmbed>
+<HtmlEmbed
+code={"<h2>If you find a bug</h2>\n<p>Clip Hold is an application developed using generative AI. I have tested it many times while developing it, but there may still be some bugs or some functions may not operate as intended.</p>\n<p>If you find a bug or a behavior problem, please check the <a href=\"https://github.com/taikun114/Clip-Hold/issues\" target=\"_blank\" data-umami-event=\"gh-issue\" data-umami-event-region=\"us\"><b>Issues</b></a> (known bugs or problems) already opened and look for the same problem reported by others. If you cannot find the same issue, please open a new Issue and report the problem.<br>\nTo make bug tracking easier, if you want to report more than one issue, please open a separate Issue for each problem. In other words, if you want to report two bugs, you must open two Issues.</p>\n\n<h2>Feedback</h2>\n<p>If you do not have a GitHub account and would like to report a bug, share an idea, or send a message to the developer (me), you can click <a href=\"mailto:contact.taikun@gmail.com?subject=Clip%20Hold%20Feedback:%20&amp;body=Please%20describe%20your%20feedback%20in%20detail:%0D%0A%0D%0A%0D%0ASystem%20Information:%0D%0A%0D%0A-%20System%20%0D%0APlease%20enter%20your%20Mac%20model.%0D%0A%0D%0A%0D%0A-%20macOS%20Version%20%0D%0AIf%20you%20are%20experiencing%20problems,%20please%20enter%20the%20macOS%20version.%0D%0A%0D%0A%0D%0A-%20App%20Version%0D%0AIf%20you%20are%20experiencing%20problems,%20please%20enter%20the%20app%20version.%0D%0A%0D%0A\" data-umami-event=\"feedback-mail\" data-umami-event-region=\"us\"><b>this link</b></a> or click the “Send Feedback” button in the “Information” tab in the app settings to send an email (please note that I may not be able to reply to all messages).<br>\nWhen you open the Send Email window from the button in the app, necessary information, such as Mac system information (Model ID, CPU architecture type, macOS version information) and app version information, will be pre-filled, so sending feedback from there is recommended.</p>\n\n<h2>Community</h2>\n<p>You can share new features you would like to see added to the app, ask questions about questions about potential issues that may or may not be bugs, exchange opinions with others, and more on the <a href=\"https://github.com/taikun114/Clip-Hold/discussions\" target=\"_blank\" data-umami-event=\"gh-discussion\" data-umami-event-region=\"us\"><b>discussion page</b></a>.<br>\nPlease use the page as a place to exchange information. I often look in on the page, so messages to the developer are also highly welcome!</p>"}
+className={`w-html-embed c93cdo9 cvh06f7 cz7p94 c1s236z9 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+</HtmlEmbed>
 </div>
 </div>
 <Slot>
@@ -589,9 +609,11 @@ className={`w-element c1x1dfts c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 cqx7kte`}>
 <div
 className={`w-element c10ahqwr cc7vtwb c17rvfg7 cz4mm69 c1co68v6`}>
 <Link
-href={"/mac-app-store"}
+href={"https://apps.apple.com/app/clip-hold/id6748125479"}
 target={"_blank"}
 aria-label={"Download on the Mac App Store  button"}
+data-umami-event={"mac-app-store"}
+data-umami-event-region={"us"}
 className={`w-element cs02lc`}>
 <Image
 src={"/assets/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917_wsuiz2VllMYTAd-yb-_mG.svg"}
@@ -603,9 +625,11 @@ fetchPriority={"high"}
 className={`w-image`} />
 </Link>
 <Link
-href={"/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 aria-label={"Free Download on GitHub button"}
+data-umami-event={"gh-releases"}
+data-umami-event-region={"us"}
 className={`w-element cs02lc cdjvmmy`}>
 <Image
 src={"/assets/GitHub_Badge_2x_TI3XZydyWMTVRNJI2jGQT.png"}
@@ -624,8 +648,10 @@ className={`w-image`} />
 <div
 className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub c12grc7c c1co68v6`}>
 <Link
-href={"/github-repo"}
+href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
+data-umami-event={"gh-repo"}
+data-umami-event-region={"us"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
 code={"![GitHub Repo stars](https://img.shields.io/github/stars/taikun114/Clip-Hold?style=for-the-badge&labelColor=131838&color=f2f4ff)"}
@@ -633,8 +659,10 @@ className={`w-markdown-embed c13jyokv cvwxmdx c17xwl4u c1445yj8 c1tqhnvc c1xhku0
 </MarkdownEmbed>
 </Link>
 <Link
-href={"/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"us"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
 code={"![GitHub Latest Release](https://img.shields.io/github/v/release/taikun114/Clip-Hold?sort=semver&display_name=tag&style=for-the-badge&label=Latest%20Release&labelColor=131838&color=f2f4ff)"}
@@ -642,8 +670,10 @@ className={`w-markdown-embed c13jyokv cvwxmdx c17xwl4u c1445yj8 c1tqhnvc c1xhku0
 </MarkdownEmbed>
 </Link>
 <Link
-href={"/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"us"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
 code={"![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/taikun114/Clip-Hold/total?style=for-the-badge&label=Free%20Downloads&labelColor=131838&color=f2f4ff)"}

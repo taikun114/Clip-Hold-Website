@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-08-25T13:33:17.248Z";
+      export const lastPublished = "2025-08-31T06:30:45.917Z";
 
       export const siteName = "Clip Hold";
 
@@ -163,8 +163,10 @@ className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/github-repo"}
+href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
+data-umami-event={"gh-repo"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -178,8 +180,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/buy-me-a-coffee"}
+href={"https://www.buymeacoffee.com/i_am_taikun"}
 target={"_blank"}
+data-umami-event={"buymeacoffee"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -193,8 +197,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/paypal-me"}
+href={"https://paypal.me/taikun114"}
 target={"_blank"}
+data-umami-event={"paypal"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -236,8 +242,10 @@ className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/mac-app-store"}
+href={"https://apps.apple.com/jp/app/clip-hold/id6748125479"}
 target={"_blank"}
+data-umami-event={"mac-app-store"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -251,8 +259,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -454,8 +464,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/mac-app-store"}
+href={"https://apps.apple.com/jp/app/clip-hold/id6748125479"}
 target={"_blank"}
+data-umami-event={"mac-app-store"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -469,8 +481,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -484,8 +498,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/github-repo"}
+href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
+data-umami-event={"gh-repo"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -499,8 +515,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/buy-me-a-coffee"}
+href={"https://www.buymeacoffee.com/i_am_taikun"}
 target={"_blank"}
+data-umami-event={"buymeacoffee"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -514,8 +532,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp/paypal-me"}
+href={"https://paypal.me/taikun114"}
 target={"_blank"}
+data-umami-event={"paypal"}
+data-umami-event-region={"jp"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -551,8 +571,8 @@ className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"Clip Hold リリースノート"}
 </h1>
 <MarkdownEmbed
-code={"## バージョン 1.2.1\nリリース: 2025年7月26日\n\n### アップデート内容\n#### バグ修正と改善\n- フィルタリングオプションに表示される「〇〇のみ」の英語表記を「Only 〇〇」から「〇〇 Only」に修正\n  - 例: `Only Text` → `Text Only`\n- 履歴項目がウェブサイトへのリンクだった場合、クリップのアイコンを表示するように改善\n- 履歴ウィンドウのフィルタリングオプションに「リンクのみ」を追加\n\n## バージョン 1.2.0\nリリース: 2025年7月23日\n\n### アップデート内容\n#### 新機能\n- **ファイルと画像のコピー履歴保存に対応**\n- **履歴ウィンドウでファイルのクイックルックに対応**\n  - 項目が選択された状態でスペースキーを押すか、メニューから「クイックルック」をクリックするとクイックルックできます。\n- **履歴ウィンドウにフィルタリングオプションと並び替えオプションを追加**\n  - ファイルの種類で絞り込んだり、日付順やファイルサイズ順で並べ替えたりすることができます。\n- **クイックペーストに関する設定で「テキストのみ」オプションを追加**\n  - このオプションをオンにすると、クイックペーストを行う際、誤ってファイルや画像をペーストしてしまうことを防ぐことができます。\n- **「ファイル1つあたりの最大容量」オプションを追加**\n  - 容量を設定すると、設定した容量よりも大きいファイルはコピー履歴に保存されなくなります。\n- **「次の容量より大きいファイルコピー時にアラートを表示」オプションを追加**\n  - 容量を設定すると、設定した容量よりも大きいファイルをコピーした際に履歴に保存するかどうかを尋ねるアラートが表示されます。\n- **履歴ウィンドウでウェブサイトのURLが含まれるテキスト項目のメニューに「リンクを開く...」オプションを追加**\n- **履歴ウィンドウでQRコードが含まれる画像項目のメニューに「QRコードの内容をコピー」オプションを追加**\n  - これに伴い、画像をコピーした場合に自動でQRコードがスキャンされるようになったため、「QRコード画像をスキャンする」設定が削除されました。\n\n#### バグ修正と改善\n- **小さいアプリアイコン画像を追加**\n  - これにより、システム設定など、小さなアプリアイコン画像が表示される場合でもわかりやすくなりました。\n- **メニューの各項目と履歴ウィンドウの履歴項目にアイコンを追加**\n  - メニュー項目の一部のアイコンは、macOS Tahoeまたはそれ以降で表示されます。\n- **新しい「コピー履歴」タブを追加**\n  - コピー履歴に関する設定は新しいタブに移動しました。\n- **履歴ウィンドウの項目がファイルの場合、日付の横にファイルサイズを追加**\n- **「除外するアプリ」設定の説明を変更**\n- **履歴ウィンドウで履歴リストのパフォーマンスを改善**\n  - 数千を超える項目が含まれていてもパフォーマンスが低下しづらくなりました。\n\n## バージョン 1.1.1\nリリース: 2025年7月13日\n\n### アップデート内容\n#### バグ修正と改善\n- **定型文にも表示される文字数制限を追加**\n  - メニューに表示される定型文、定型文設定のリスト項目、ショートカット設定に表示される定型文が長くなりすぎないようになります。\n\n## バージョン 1.1.0\nリリース: 2025年7月11日\n\n### アップデート内容\n#### 新機能\n- **コピーしたテキストからQRコードを作成する機能を追加**\n  - 履歴ウィンドウと定型文ウィンドウの項目オプションにある「QRコードを表示」をクリックするとQRコードが生成されます。\n- **QRコードを含む画像をコピーしたときに履歴に追加する機能を追加**\n  - 設定で「QRコード画像をスキャンする」をオンにすると利用可能になります。\n- **QRコードを含む画像を履歴ウィンドウにドラッグアンドドロップしたときにコンテンツをコピーする機能を追加**\n- **クリップボードの内容から定型文を作成する機能の追加**\n  - 現在のクリップボード内容から定型文を追加するショートカットキーを追加しました。\n  - 履歴ウィンドウの項目から定型文を追加する機能を追加しました。\n- **履歴リストが更新されたときに自動的に一番上にスクロールする機能を追加**\n  - 設定で「リストが更新されたら最も上にスクロールする」をオンにすると利用できます。\n\n#### バグ修正と改善\n- **定型文ウィンドウと履歴ウィンドウでのコンテキストメニューを改善**\n  - 追加の画面が表示される項目には末尾に「...」を追加し、「削除…」の上に区切り線を追加しました。\n- **一般設定の配置を改善**\n- **定型文ウィンドウで項目を並び替えられるように改善**\n  - 検索中でない場合のみ並び替えることができます。\n- **定型文ウィンドウと履歴ウィンドウの位置を正しく記憶するように修正**\n\n## バージョン 1.0.1\nリリース: 2025年7月7日\n\n### アップデート内容\n#### バグ修正と改善\n- **アクセシビリティラベルの追加**\n  - VoiceOverユーザーが項目を理解できるように説明が追加されました。\n- **メニューバーアイコンを一時的に非表示にするオプションの追加**\n  - アプリを開き直すと再びアイコンが表示されるようになります。\n\n## バージョン 1.0.0\nリリース: 2025年7月6日\n\n### アップデート内容\n- 初期リリース"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+code={"## バージョン 1.3.0\nリリース: 2025年8月31日\n\n### アップデート内容\n\n> **重要**\\\n> このバージョンでは、履歴ファイルの保存方法が大きく変更されました。\\\n> 以前のバージョンからアップデートすると履歴ファイルも新しい形式へアップグレードされます。**新しい履歴ファイル形式は古いバージョンのClip Holdとは互換性がありません。**\n> \n> なお、以前のバージョンで使用されていた履歴ファイル`clipboardHistory.json`はアップグレード後、`oldClipboardHistory.json`へ名前が変更された状態で残されます。\\\n> そのため、履歴ファイルのアップグレード後に何らかの理由で古いバージョンのClip Holdを使用する際は、`oldClipboardHistory.json`を`clipboardHistory.json`へ名前を変更することで古いClip Holdで古い履歴ファイルを読み込むことができます。\n\n> **重要**\\\n> このバージョンでは、定型文のプリセット機能の登場により、保存方法が変更されました。\\\n> ファイルの構造自体に変更は無いため、古いバージョンのClip Holdと互換性があります。\n>\n> なお、以前のバージョンで使用されていた定型文ファイル`standardPhrases.json`は`standardPhrasesPreset`フォルダ内に`default.json`へ名前が変更されます。\\\n> そのため、何らかの理由で古いバージョンのClip Holdを使用する場合は、`standardPhrasesPreset/default.json`を`standardPhrases.json`へ名前を変更することで古いClip Holdで定型文ファイルを読み込むことができます。\n\n#### 新機能\n- **設定画面を大幅刷新**\n  - 既存のタブ形式から、サイドバー形式の設定画面へ大幅刷新しました。\n- **定型文のプリセット機能を追加**\n  - よく使う定型文をプリセットごとにまとめられるようになりました。メニューや定型文ウィンドウからプリセットを切り替えることができます。ショートカットキーを使ってプリセットを作成したり、切り替えたりすることもできます。\n- **「定型文」設定に「プリセットの割り当て」設定を追加**\n  - プリセットをアプリに割り当てると、そのアプリが最前面の時は、自動で選択されたプリセットに切り替わるようになります。\n- **「開発者向け機能」タブの追加**\n  - **「文字数カウントを表示」オプションを追加**\n    - 履歴ウィンドウとメニューの日付の後に、文字数カウントを表示します。\n  - **「カラーコードに基づくカラーアイコンを表示する」オプションを追加**\n    - HEX、HSL / HSLA、RGB / RGBA形式のカラーコードをコピーすると、履歴・定型文ウィンドウとメニューにその色のアイコンが表示されるようになります。\n  - **「カラーコードでフィルタリングできるようにする」オプションを追加**\n    - 履歴をウィンドウのエリタリングオプションに「カラーコードのみ」を追加します。\n  - **「すべての設定をリセット」オプションを追加**\n    - アプリのすべての設定を初期状態に戻します。履歴や定型文は影響を受けません。\n- **「アプリアイコンを表示」オプションを追加**\n  - 履歴ウィンドウの各項目にアプリアイコンを表示するかどうかを切り替えます。\n- **定型文でリンクに対応**\n  - 定型文ウィンドウでも履歴ウィンドウと同様、項目がリンクの場合にコンテキストメニューから「リンクを開く」が表示されるようになりました。\n- **複数ファイルの同時コピーに対応**\n- **履歴ウィンドウで、アプリによるフィルタリングに対応**\n\n#### バグ修正と改善\n- **ライセンス画面で「QRコードについて」が2つ表示されていた問題を修正**\n- **Safariから画像や画像アドレスがコピーできなかった問題を修正**\n- **時々履歴に追加されなかったことがあった問題を修正**\n- **定型文ウィンドウの背景色がテーマと一致しないことがあった問題を修正**\n- **メニューの履歴サムネイルが正方形に収まるように改善**\n- **Optionキーを押したままメニューバーから項目をクリックした際、一時的にクイックペーストを無効化するように改善**\n  - ショートカットキーからコピーした場合はこの影響を受けません。\n- **大量の履歴項目がある状態でコピーを行うと大きなディスク書き込みが発生する問題を改善**\n- **「除外するアプリ」リストのアプリ追加画面で表示されるアプリリストを改善**\n- **定型文の追加編集画面のデザインを改善**\n- **カスタム番号入力シートのデザインを改善**\n- **履歴ウィンドウのリスト項目にアプリアイコンを追加**\n  - コピーしたときに最前面にあったアプリのアイコンが表示されます。この機能が追加される前のコピー履歴にはアイコンが表示されません。\n  - アプリアイコンにマウスカーソルを乗せると、ツールチップにアプリ名が表示されます。\n- **定型文ウィンドウにアイコンを追加**\n- **項目がファイルの場合、履歴ウィンドウのメニューに「開く」を追加**\n- **履歴ウィンドウのメニューに「除外するアプリに追加...」を追加**\n- **履歴からファイルを削除しようとしている際の専用のアラートメッセージを追加**\n- **定型文の追加画面に保存先プリセットを選択できるピッカーを追加**\n- **ファイルの重複検知方法をファイルハッシュベースに変更**\n  - これにより、ファイルの重複検知をより正確に行うことができるようになりました。ファイルハッシュを計算することができないフォルダなどは既存のサイズベースで重複検知されます。\n- **「ファイル1つあたりの最大容量:」のデフォルトを1 GBから無制限に変更**\n\n\n## バージョン 1.2.1\nリリース: 2025年7月26日\n\n### アップデート内容\n#### バグ修正と改善\n- **フィルタリングオプションに表示される「〇〇のみ」の英語表記を「Only 〇〇」から「〇〇 Only」に修正**\n  - 例: `Only Text` → `Text Only`\n- **履歴項目がウェブサイトへのリンクだった場合、クリップのアイコンを表示するように改善**\n- **履歴ウィンドウのフィルタリングオプションに「リンクのみ」を追加**\n\n## バージョン 1.2.0\nリリース: 2025年7月23日\n\n### アップデート内容\n#### 新機能\n- **ファイルと画像のコピー履歴保存に対応**\n- **履歴ウィンドウでファイルのクイックルックに対応**\n  - 項目が選択された状態でスペースキーを押すか、メニューから「クイックルック」をクリックするとクイックルックできます。\n- **履歴ウィンドウにフィルタリングオプションと並び替えオプションを追加**\n  - ファイルの種類で絞り込んだり、日付順やファイルサイズ順で並べ替えたりすることができます。\n- **クイックペーストに関する設定で「テキストのみ」オプションを追加**\n  - このオプションをオンにすると、クイックペーストを行う際、誤ってファイルや画像をペーストしてしまうことを防ぐことができます。\n- **「ファイル1つあたりの最大容量」オプションを追加**\n  - 容量を設定すると、設定した容量よりも大きいファイルはコピー履歴に保存されなくなります。\n- **「次の容量より大きいファイルコピー時にアラートを表示」オプションを追加**\n  - 容量を設定すると、設定した容量よりも大きいファイルをコピーした際に履歴に保存するかどうかを尋ねるアラートが表示されます。\n- **履歴ウィンドウでウェブサイトのURLが含まれるテキスト項目のメニューに「リンクを開く...」オプションを追加**\n- **履歴ウィンドウでQRコードが含まれる画像項目のメニューに「QRコードの内容をコピー」オプションを追加**\n  - これに伴い、画像をコピーした場合に自動でQRコードがスキャンされるようになったため、「QRコード画像をスキャンする」設定が削除されました。\n\n#### バグ修正と改善\n- **小さいアプリアイコン画像を追加**\n  - これにより、システム設定など、小さなアプリアイコン画像が表示される場合でもわかりやすくなりました。\n- **メニューの各項目と履歴ウィンドウの履歴項目にアイコンを追加**\n  - メニュー項目の一部のアイコンは、macOS Tahoeまたはそれ以降で表示されます。\n- **新しい「コピー履歴」タブを追加**\n  - コピー履歴に関する設定は新しいタブに移動しました。\n- **履歴ウィンドウの項目がファイルの場合、日付の横にファイルサイズを追加**\n- **「除外するアプリ」設定の説明を変更**\n- **履歴ウィンドウで履歴リストのパフォーマンスを改善**\n  - 数千を超える項目が含まれていてもパフォーマンスが低下しづらくなりました。\n\n## バージョン 1.1.1\nリリース: 2025年7月13日\n\n### アップデート内容\n#### バグ修正と改善\n- **定型文にも表示される文字数制限を追加**\n  - メニューに表示される定型文、定型文設定のリスト項目、ショートカット設定に表示される定型文が長くなりすぎないようになります。\n\n## バージョン 1.1.0\nリリース: 2025年7月11日\n\n### アップデート内容\n#### 新機能\n- **コピーしたテキストからQRコードを作成する機能を追加**\n  - 履歴ウィンドウと定型文ウィンドウの項目オプションにある「QRコードを表示」をクリックするとQRコードが生成されます。\n- **QRコードを含む画像をコピーしたときに履歴に追加する機能を追加**\n  - 設定で「QRコード画像をスキャンする」をオンにすると利用可能になります。\n- **QRコードを含む画像を履歴ウィンドウにドラッグアンドドロップしたときにコンテンツをコピーする機能を追加**\n- **クリップボードの内容から定型文を作成する機能の追加**\n  - 現在のクリップボード内容から定型文を追加するショートカットキーを追加しました。\n  - 履歴ウィンドウの項目から定型文を追加する機能を追加しました。\n- **履歴リストが更新されたときに自動的に一番上にスクロールする機能を追加**\n  - 設定で「リストが更新されたら最も上にスクロールする」をオンにすると利用できます。\n\n#### バグ修正と改善\n- **定型文ウィンドウと履歴ウィンドウでのコンテキストメニューを改善**\n  - 追加の画面が表示される項目には末尾に「...」を追加し、「削除…」の上に区切り線を追加しました。\n- **一般設定の配置を改善**\n- **定型文ウィンドウで項目を並び替えられるように改善**\n  - 検索中でない場合のみ並び替えることができます。\n- **定型文ウィンドウと履歴ウィンドウの位置を正しく記憶するように修正**\n\n## バージョン 1.0.1\nリリース: 2025年7月7日\n\n### アップデート内容\n#### バグ修正と改善\n- **アクセシビリティラベルの追加**\n  - VoiceOverユーザーが項目を理解できるように説明が追加されました。\n- **メニューバーアイコンを一時的に非表示にするオプションの追加**\n  - アプリを開き直すと再びアイコンが表示されるようになります。\n\n## バージョン 1.0.0\nリリース: 2025年7月6日\n\n### アップデート内容\n- 初期リリース"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
 </MarkdownEmbed>
 </div>
 </div>
@@ -583,9 +603,11 @@ className={`w-element c1x1dfts c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 cqx7kte`}>
 <div
 className={`w-element c10ahqwr cc7vtwb c17rvfg7 cz4mm69 c1co68v6`}>
 <Link
-href={"/jp/mac-app-store"}
+href={"https://apps.apple.com/jp/app/clip-hold/id6748125479"}
 target={"_blank"}
 aria-label={"Mac App Storeからダウンロードボタン"}
+data-umami-event={"mac-app-store"}
+data-umami-event-region={"jp"}
 className={`w-element cs02lc`}>
 <Image
 src={"/assets/Download_on_the_Mac_App_Store_Badge_JP_RGB_blk_100317_PBTOdZUu8ZYNgCcHrs3tY.svg"}
@@ -597,9 +619,11 @@ fetchPriority={"high"}
 className={`w-image`} />
 </Link>
 <Link
-href={"/jp/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 aria-label={"GitHubから無料でダウンロードボタン"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"jp"}
 className={`w-element cs02lc cdjvmmy`}>
 <Image
 src={"/assets/GitHub_Badge-ja_2x_KZ0_CT1LL7XPznxhyQAlV.png"}
@@ -618,8 +642,10 @@ className={`w-image`} />
 <div
 className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub c12grc7c c1co68v6`}>
 <Link
-href={"/jp/github-repo"}
+href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
+data-umami-event={"gh-repo"}
+data-umami-event-region={"jp"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
 code={"![GitHubリポジトリ スター数](https://img.shields.io/github/stars/taikun114/Clip-Hold?style=for-the-badge&label=%E3%82%B9%E3%82%BF%E3%83%BC&labelColor=131838&color=f2f4ff)\n"}
@@ -627,8 +653,10 @@ className={`w-markdown-embed c13jyokv cvwxmdx c17xwl4u c1445yj8 c1tqhnvc c1xhku0
 </MarkdownEmbed>
 </Link>
 <Link
-href={"/jp/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"jp"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
 code={"![GitHub 最新のリリース](https://img.shields.io/github/v/release/taikun114/Clip-Hold?sort=semver&display_name=tag&style=for-the-badge&label=%E6%9C%80%E6%96%B0%E3%81%AE%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9&labelColor=131838&color=f2f4ff)"}
@@ -636,8 +664,10 @@ className={`w-markdown-embed c13jyokv cvwxmdx c17xwl4u c1445yj8 c1tqhnvc c1xhku0
 </MarkdownEmbed>
 </Link>
 <Link
-href={"/jp/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"jp"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
 code={"![GitHub ダウンロード数（すべてのアセット、すべてのリリース）](https://img.shields.io/github/downloads/taikun114/Clip-Hold/total?style=for-the-badge&label=%E7%84%A1%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E6%95%B0&labelColor=131838&color=f2f4ff)"}

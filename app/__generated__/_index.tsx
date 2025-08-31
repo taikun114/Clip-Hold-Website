@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-08-25T13:33:17.248Z";
+      export const lastPublished = "2025-08-31T06:30:45.917Z";
 
       export const siteName = "Clip Hold";
 
@@ -184,8 +184,10 @@ className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
-href={"/github-repo"}
+href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
+data-umami-event={"gh-repo"}
+data-umami-event-region={"us"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -199,8 +201,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/buy-me-a-coffee"}
+href={"https://www.buymeacoffee.com/i_am_taikun"}
 target={"_blank"}
+data-umami-event={"buymeacoffee"}
+data-umami-event-region={"us"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -214,8 +218,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/paypal-me"}
+href={"https://paypal.me/taikun114"}
 target={"_blank"}
+data-umami-event={"paypal"}
+data-umami-event-region={"us"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -257,8 +263,10 @@ className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
-href={"/mac-app-store"}
+href={"https://apps.apple.com/app/clip-hold/id6748125479"}
 target={"_blank"}
+data-umami-event={"mac-app-store"}
+data-umami-event-region={"us"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -272,8 +280,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"us"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -475,8 +485,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/mac-app-store"}
+href={"https://apps.apple.com/app/clip-hold/id6748125479"}
 target={"_blank"}
+data-umami-event={"mac-app-store"}
+data-umami-event-region={"us"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -490,8 +502,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"us"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -505,8 +519,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/github-repo"}
+href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
+data-umami-event={"gh-repo"}
+data-umami-event-region={"us"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -522,8 +538,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/buy-me-a-coffee"}
+href={"https://www.buymeacoffee.com/i_am_taikun"}
 target={"_blank"}
+data-umami-event={"buymeacoffee"}
+data-umami-event-region={"us"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -537,8 +555,10 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/paypal-me"}
+href={"https://paypal.me/taikun114"}
 target={"_blank"}
+data-umami-event={"paypal"}
+data-umami-event-region={"us"}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -591,9 +611,11 @@ className={`w-element c1x1dfts c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 c16tvqy9 c1juw3
 <div
 className={`w-element c10ahqwr cc7vtwb c17rvfg7 cz4mm69 c1co68v6`}>
 <Link
-href={"/mac-app-store"}
+href={"https://apps.apple.com/app/clip-hold/id6748125479"}
 target={"_blank"}
 aria-label={"Download on the Mac App Store  button"}
+data-umami-event={"mac-app-store"}
+data-umami-event-region={"us"}
 className={`w-element cs02lc`}>
 <Image
 src={"/assets/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917_wsuiz2VllMYTAd-yb-_mG.svg"}
@@ -605,9 +627,11 @@ fetchPriority={"high"}
 className={`w-image`} />
 </Link>
 <Link
-href={"/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 aria-label={"Free Download on GitHub button"}
+data-umami-event={"gh-releases"}
+data-umami-event-region={"us"}
 className={`w-element cs02lc cdjvmmy`}>
 <Image
 src={"/assets/GitHub_Badge_2x_TI3XZydyWMTVRNJI2jGQT.png"}
@@ -626,8 +650,10 @@ className={`w-image`} />
 <div
 className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub c12grc7c c1co68v6`}>
 <Link
-href={"/github-repo"}
+href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
+data-umami-event={"gh-repo"}
+data-umami-event-region={"us"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
 code={"![GitHub Repo stars](https://img.shields.io/github/stars/taikun114/Clip-Hold?style=for-the-badge&labelColor=131838&color=f2f4ff)"}
@@ -635,8 +661,10 @@ className={`w-markdown-embed c13jyokv cvwxmdx c17xwl4u c1445yj8 c1tqhnvc c1xhku0
 </MarkdownEmbed>
 </Link>
 <Link
-href={"/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"us"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
 code={"![GitHub Latest Release](https://img.shields.io/github/v/release/taikun114/Clip-Hold?sort=semver&display_name=tag&style=for-the-badge&label=Latest%20Release&labelColor=131838&color=f2f4ff)"}
@@ -644,8 +672,10 @@ className={`w-markdown-embed c13jyokv cvwxmdx c17xwl4u c1445yj8 c1tqhnvc c1xhku0
 </MarkdownEmbed>
 </Link>
 <Link
-href={"/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"us"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
 code={"![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/taikun114/Clip-Hold/total?style=for-the-badge&label=Free%20Downloads&labelColor=131838&color=f2f4ff)"}
@@ -759,6 +789,26 @@ className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz c
 className={`w-element c1r1zv9s`}>
 <h3
 className={`w-element c1yn6h70 ck3238v c1mbyuac c23z8nw cqo7lub c1c43ngc c1karaxo cqx7kte`}>
+{"Standard Phrases Presets and Assign to Apps Feature"}
+</h3>
+<p
+className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2yq0 c12817z7`}>
+{"Standard Phrases can be grouped into different presets, and the presets can be automatically switched depending on the app that is opened. Presets can also be switched using shortcut keys."}
+</p>
+<Image
+src={"/assets/Presets_86agyPhuuKFI_ToU-KzHm.webp"}
+width={2326}
+height={1378}
+alt={"Presets"}
+loading={"lazy"}
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
+</div>
+<hr
+className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz cbodz54`} />
+<div
+className={`w-element c1r1zv9s`}>
+<h3
+className={`w-element c1yn6h70 ck3238v c1mbyuac c23z8nw cqo7lub c1c43ngc c1karaxo cqx7kte`}>
 {"Rich Shortcut Keys"}
 </h3>
 <p
@@ -766,9 +816,9 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"Dedicated shortcut keys allow you to quickly copy up to 10 standard phrases and 10 copy history items. You can also open the standard phrases and history windows instantly."}
 </p>
 <Image
-src={"/assets/Shortcuts_FXDD1rpnnU8AAVHZrEjfP.webp"}
-width={1858}
-height={1112}
+src={"/assets/Shortcuts_Gu_JMpzVUWgD0Xuz1mcnO.webp"}
+width={2326}
+height={1378}
 alt={"Shortcut Keys"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -811,6 +861,26 @@ src={"/assets/Import-Export_rm5ur06ygb-tVGOT9xWIx.webp"}
 width={1920}
 height={1080}
 alt={"Import and Export Features"}
+loading={"lazy"}
+className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
+</div>
+<hr
+className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz cbodz54`} />
+<div
+className={`w-element c1r1zv9s`}>
+<h3
+className={`w-element c1yn6h70 ck3238v c1mbyuac c23z8nw cqo7lub c1c43ngc c1karaxo cqx7kte`}>
+{"Copied Color Codes Can Be Shown"}
+</h3>
+<p
+className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2yq0 c12817z7`}>
+{"By enabling it from the “Developer Features” settings, you can show the color icons based on the copied color codes in the history window and the menu."}
+</p>
+<Image
+src={"/assets/Color-Codes_HOCS0PlEgsS35LJ8mFTp_.webp"}
+width={2351}
+height={1361}
+alt={"Color Codes"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
 </div>
@@ -929,9 +999,11 @@ className={`w-element c1yn6h70 clfs8zh c2oe4sx c1dgg9g4 c1uj2yq0 c12817z7`}>
 <div
 className={`w-element c10ahqwr c17rvfg7 cc7vtwb cz4mm69`}>
 <Link
-href={"/buy-me-a-coffee"}
+href={"https://www.buymeacoffee.com/i_am_taikun"}
 target={"_blank"}
 aria-label={"Buy Me a Coffee button"}
+data-umami-event={"buymeacoffee"}
+data-umami-event-region={"us"}
 className={`w-element cs02lc cdjvmmy`}>
 <div
 className={`w-element c5shpkj c170tjmx c1vn5tfs c1kp31s8 czucxib cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld c1yk3zoa c1ga2ams cgbsic3 cinh8md c10mtjet c10h7c1p`}>
@@ -942,9 +1014,11 @@ className={`w-element c23z8nw cqo7lub`}>
 </div>
 </Link>
 <Link
-href={"/paypal-me"}
+href={"https://paypal.me/taikun114"}
 target={"_blank"}
 aria-label={"PayPal.Me button"}
+data-umami-event={"paypal"}
+data-umami-event-region={"us"}
 className={`w-element cs02lc cdjvmmy`}>
 <div
 className={`w-element c5shpkj c170tjmx c1vn5tfs c1kp31s8 czucxib cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld c1yk3zoa c1ga2ams cgbsic3 cinh8md c10mtjet c10h7c1p`}>
@@ -985,9 +1059,11 @@ className={`w-element c1x1dfts c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 cqx7kte`}>
 <div
 className={`w-element c10ahqwr cc7vtwb c17rvfg7 cz4mm69 c1co68v6`}>
 <Link
-href={"/mac-app-store"}
+href={"https://apps.apple.com/app/clip-hold/id6748125479"}
 target={"_blank"}
 aria-label={"Download on the Mac App Store  button"}
+data-umami-event={"mac-app-store"}
+data-umami-event-region={"us"}
 className={`w-element cs02lc`}>
 <Image
 src={"/assets/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917_wsuiz2VllMYTAd-yb-_mG.svg"}
@@ -999,9 +1075,11 @@ fetchPriority={"high"}
 className={`w-image`} />
 </Link>
 <Link
-href={"/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 aria-label={"Free Download on GitHub button"}
+data-umami-event={"gh-releases"}
+data-umami-event-region={"us"}
 className={`w-element cs02lc cdjvmmy`}>
 <Image
 src={"/assets/GitHub_Badge_2x_TI3XZydyWMTVRNJI2jGQT.png"}
@@ -1020,8 +1098,10 @@ className={`w-image`} />
 <div
 className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub c12grc7c c1co68v6`}>
 <Link
-href={"/github-repo"}
+href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
+data-umami-event={"gh-repo"}
+data-umami-event-region={"us"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
 code={"![GitHub Repo stars](https://img.shields.io/github/stars/taikun114/Clip-Hold?style=for-the-badge&labelColor=131838&color=f2f4ff)"}
@@ -1029,8 +1109,10 @@ className={`w-markdown-embed c13jyokv cvwxmdx c17xwl4u c1445yj8 c1tqhnvc c1xhku0
 </MarkdownEmbed>
 </Link>
 <Link
-href={"/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"us"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
 code={"![GitHub Latest Release](https://img.shields.io/github/v/release/taikun114/Clip-Hold?sort=semver&display_name=tag&style=for-the-badge&label=Latest%20Release&labelColor=131838&color=f2f4ff)"}
@@ -1038,8 +1120,10 @@ className={`w-markdown-embed c13jyokv cvwxmdx c17xwl4u c1445yj8 c1tqhnvc c1xhku0
 </MarkdownEmbed>
 </Link>
 <Link
-href={"/github-release"}
+href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
+data-umami-event={"gh-release"}
+data-umami-event-region={"us"}
 className={`w-element cs02lc`}>
 <MarkdownEmbed
 code={"![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/taikun114/Clip-Hold/total?style=for-the-badge&label=Free%20Downloads&labelColor=131838&color=f2f4ff)"}
