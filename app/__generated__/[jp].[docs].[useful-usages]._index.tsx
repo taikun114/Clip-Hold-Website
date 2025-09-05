@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-09-01T09:37:09.267Z";
+      export const lastPublished = "2025-09-05T06:32:28.193Z";
 
       export const siteName = "Clip Hold";
 
@@ -608,6 +608,14 @@ className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
 </h2>
 <MarkdownEmbed
 code={"![画像に含まれたQRコードをスキャンしてコピーする](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Copy-QR-Code-Contents-ja.png?raw=true)\n\nQRコードが含まれた画像をスキャンして、QRコードのコンテンツをコピーすることができます。Clip Holdが簡易的なQRコードスキャナーになります。\\\n画面内に表示されたQRコードをスキャンしたい時などに便利です。\n\n### 手順\n\n1. **QRコードが含まれた画像をコピー**します。\n2. **履歴ウィンドウ**を開きます。\n3. QRコードが含まれた画像項目を右クリックするか、右側のメニューから「**QRコードの内容をコピー**」をクリックします。\n\n> **注意**\\\n> 「QRコードの内容をコピー」は**QRコードのスキャンに成功した項目のみ**表示されます。\\\n> 画像内に含まれたQRコードは最低限読み取り可能な解像度である必要があります。ぼやけてはっきりとしていない画像はスキャンできない場合があります。「QRコードの内容をコピー」が表示されない場合は、より高解像度の画像をコピーする必要があります。\n\n> **注意**\\\n> 1つの画像に複数のQRコードが含まれていると正しくスキャンできない場合があります。目的のQRコードがスキャンされない場合は、1つの画像に1つのQRコードのみを含めるようにしてください。\n\n> **豆知識**\\\n> 画像全体にQRコードが表示されている必要はなく、最低限読み取り可能な大きさのQRコードが存在していれば読み取ることができます。"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+</MarkdownEmbed>
+<h2
+className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
+{"QRコード画像をドラッグアンドドロップして内容をコピーする"}
+</h2>
+<MarkdownEmbed
+code={"![QRコード画像のスキャン](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Drag-and-Drop-to-Copy-QR-Code-ja.gif?raw=true)\n\nQRコードが含まれた画像を履歴ウィンドウにドラッグアンドドロップして、QRコードのコンテンツをコピーすることができます。\n\n### 手順\n\n1. **QRコードが含まれた画像を履歴ウィンドウにドラッグアンドドロップ**します。\n\n> **注意**\\\n> QRコード画像のドラッグアンドドロップによるコピーは**QRコードのスキャンに成功した項目のみ**表示されます。\\\n> 画像内に含まれたQRコードは最低限読み取り可能な解像度である必要があります。ぼやけてはっきりとしていない画像はスキャンできない場合があります。画像をドラッグアンドドロップしても何も表示されない場合は、より高解像度の画像をドラッグアンドドロップする必要があります。\n\n> **注意**\\\n> 1つの画像に複数のQRコードが含まれていると正しくスキャンできない場合があります。目的のQRコードがスキャンされない場合は、1つの画像に1つのQRコードのみを含めるようにしてください。\n\n> **豆知識**\\\n> 画像全体にQRコードが表示されている必要はなく、最低限読み取り可能な大きさのQRコードが存在していれば読み取ることができます。"}
 className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
 </MarkdownEmbed>
 <h2

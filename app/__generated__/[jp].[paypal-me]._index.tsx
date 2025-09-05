@@ -10,7 +10,7 @@ import { HeadSlot as HeadSlot, HeadMeta as HeadMeta, MarkdownEmbed as MarkdownEm
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-09-01T09:37:09.267Z";
+      export const lastPublished = "2025-09-05T06:32:28.193Z";
 
       export const siteName = "Clip Hold";
 
