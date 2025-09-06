@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-09-05T11:22:29.451Z";
+      export const lastPublished = "2025-09-06T13:40:18.260Z";
 
       export const siteName = "Clip Hold";
 
@@ -576,7 +576,7 @@ className={`w-element c1yn6h70`}>
 </p>
 <MarkdownEmbed
 code={"## ウェブサイトが収集する情報について\n当ウェブサイトでは、アクセス解析ツールとして「Googleアナリティクス」および「Umami」を使用しています。これらの収集するトラフィックデータは匿名であり、個人を特定するものではありません。\n\n### Googleアナリティクス\nGoogleアナリティクスではCookieを使用してトラフィックデータを収集しています。Cookie無効化することで収集を拒否することができますので、お使いのブラウザの設定をご確認ください。\\\nGoogleアナリティクスの規約に関しては、[**こちら**](http://www.google.com/analytics/terms/jp.html)、または[**こちら**](https://www.google.com/intl/ja/policies/privacy/partners/)のページをご確認ください。\n\n### Umami\nUmamiでは、トラフィックデータの収集にCookieを使用していません。そのため、トラフィックデータの収集を拒否したい場合は[**こちらのドキュメント**](https://umami.is/docs/exclude-my-own-visits)をご覧ください。\\\nUmamiの規約に関しては、[**こちら**](https://umami.is/privacy)のページをご確認ください。\n\n## アプリによる情報の収集について\nClip Holdは、ユーザーのいかなる情報も収集・送信しません。\\\nシステム設定の「プライバシーとセキュリティ」設定内にある「解析と改善」で「**アプリデベロッパと共有**」をオンにしているユーザーの使用状況データとクラッシュレポートが共有される場合がありますが、アプリ自体には情報を収集して送信する機能は全く搭載されていません。プライバシーが心配な方でも安心してお使いいただけます。\n\n### Clip Holdが取得する情報\nClip Holdの機能が正しく動作するために取得する情報があります。次の情報が取得されます。\n\n- クリップボードのコンテンツ\n  - クリップボードの履歴を保存するために使用されています。\n- コピーした時刻\n  - コピーされた時刻を記録・表示するために使用されています。\n- キーボード入力\n  - グローバルショートカットを認識するために使用されています。\n- 実行中のアプリ名・情報\n  - 「**除外するアプリ**」に追加する際、実行中のアプリから追加できるようにするために使用されています。\n- 最前面のアプリ名・情報\n  - プリセットの自動切り替えを行うために使用されています。\n- コピー元（コピーしたときに最前面にあったアプリ）のアプリ名・情報\n  - アプリが「**除外するアプリ**」に登録されているかどうかを検出したり、履歴ウィンドウにコピーしたアプリアイコンを表示したりするために使用されています。\n- ファイルピッカーを通してユーザーが提供したファイル\n  - 履歴や定型文のインポートを行うために使用されています。\n- システム情報・アプリのバージョン情報\n  - アプリ内の「フィードバックを送信」ボタンをクリックした際に、フィードバックテンプレート言語の自動検出及びこちらで必要な情報が事前入力される機能のために使用されています。この機能には、以下の情報が取得されます。\n    - アプリの言語（日本語かそれ以外か）\n    - 機種ID（例: `Mac16,11`）\n    - CPUアーキテクチャ（例: `Apple Silicon (arm64)`）\n    - macOSバージョン情報（例: `バージョン15.6.1（ビルド24G90）`）\n    - アプリバージョン情報（例: `バージョン1.3.0（ビルド202508301714）`）\n \nこれらの取得された情報はアプリ内にのみとどまり、外部へ送信される事は一切ありません。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 </div>
 </div>

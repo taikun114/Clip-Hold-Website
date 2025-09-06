@@ -892,6 +892,129 @@
   .ch6h5mx li {
     margin-left: -24px
   }
+  .c13vvc9x table {
+    width: 100%
+  }
+  .c13yiq2p table {
+    border-top-style: none
+  }
+  .cdxnsle table {
+    border-right-style: none
+  }
+  .cvqcr91 table {
+    border-left-style: none
+  }
+  .c8aeqr1 table {
+    border-bottom-style: none
+  }
+  .cnyqbuq table {
+    border-top-width: 0px
+  }
+  .cvpueh2 table {
+    border-right-width: 0px
+  }
+  .c18cffgd table {
+    border-left-width: 0px
+  }
+  .c1vm6q1b table {
+    border-bottom-width: 0px
+  }
+  .c110tfwo table {
+    line-height: 1.7
+  }
+  .c28letw tr {
+    border-top-width: 0px
+  }
+  .cmmd6l4 tr {
+    border-right-width: 0px
+  }
+  .c1uavql0 tr {
+    border-left-width: 0px
+  }
+  .c1numm6r tr {
+    border-bottom-width: 0px
+  }
+  .cxb3o4o tr {
+    border-top-style: none
+  }
+  .cxwi62w tr {
+    border-right-style: none
+  }
+  .cen4rqz tr {
+    border-left-style: none
+  }
+  .cfgexva tr {
+    border-bottom-style: none
+  }
+  .clihmdn th {
+    background-color: rgba(72, 121, 226, 1)
+  }
+  .cvkpfwr th {
+    color: rgba(255, 255, 255, 1)
+  }
+  .cnr5mh4 th {
+    padding-top: 12px
+  }
+  .c1dffutb th {
+    padding-bottom: 12px
+  }
+  .cn1jhwk th {
+    padding-left: 16px
+  }
+  .c1gr8i1y th {
+    padding-right: 16px
+  }
+  .c14m0z9d th {
+    text-align: start
+  }
+  .c1r74vbe th {
+    outline: 1px solid rgba(72, 121, 226, 1)
+  }
+  .c1xtg8wy th {
+    border: 0px none light-dark(#F2F4FF, #131838)
+  }
+  .cprh4dv td {
+    background-color: light-dark(#13183811, #F2F4FF11)
+  }
+  .c1f53ie1 td {
+    padding-top: 12px
+  }
+  .c1sx0g94 td {
+    padding-bottom: 12px
+  }
+  .c1kr23xr td {
+    padding-right: 16px
+  }
+  .c1v6qm63 td {
+    padding-left: 16px
+  }
+  .ci9rfmi td {
+    border-top-width: 0px
+  }
+  .c3fvy2x td {
+    border-right-width: 0px
+  }
+  .cnbw67s td {
+    border-left-width: 0px
+  }
+  .c4xja9h td {
+    border-bottom-width: 0px
+  }
+  .c1v7wo8r td {
+    border-top-style: none
+  }
+  .c1vai48 td {
+    border-right-style: none
+  }
+  .cf4v29l td {
+    border-left-style: none
+  }
+  .cjt05yl td {
+    border-bottom-style: none
+  }
+  .cc6t6k2 td {
+    outline: 1px solid light-dark(#F2F4FF,#131838)
+  }
   .clfs8zh {
     top: 72px
   }
@@ -915,6 +1038,12 @@
   }
   .c1imcjwr {
     font-size: 42px
+  }
+  .cuh5m4h {
+    color: gray
+  }
+  .czl0ltz {
+    border: 0.5px solid light-dark(#13183833, #F2F4FF33)
   }
   .c5lrunv {
     background-color: light-dark(#fff,#000)
@@ -966,12 +1095,6 @@
   }
   .c10h7c1p:hover {
     color: rgba(72, 121, 226, 1)
-  }
-  .cuh5m4h {
-    color: gray
-  }
-  .czl0ltz {
-    border: 0.5px solid light-dark(#13183833, #F2F4FF33)
   }
   .cmfetcc {
     margin-top: 0.5rem
@@ -1096,6 +1219,27 @@
   .coold5d {
     margin-bottom: -8px
   }
+  .cndeprc {
+    width: calc(100vw - 4rem)
+  }
+  .c1c5nuzn table {
+    min-width: 600px
+  }
+  .c11drp1d table {
+    table-layout: fixed
+  }
+  .cxsst0j {
+    border-top-width: 0px
+  }
+  .c1dm57t7 {
+    border-right-width: 0px
+  }
+  .c14et3xy {
+    border-left-width: 0px
+  }
+  .c1p94064 {
+    border-bottom-width: 0px
+  }
 }
 @media all and (max-width: 991px) {
   .c1keexhk {
@@ -1156,6 +1300,9 @@
   }
   .c12grc7c {
     align-items: start
+  }
+  .c1jmc64i {
+    width: calc(100vw - 2rem)
   }
 }
 @media all and (max-width: 479px) {
@@ -1233,5 +1380,8 @@
   }
   .cjaup7g {
     margin-bottom: 2rem
+  }
+  .c1kc7yp1 {
+    width: 100vw
   }
 }

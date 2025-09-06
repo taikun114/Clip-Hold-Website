@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-09-05T11:22:29.451Z";
+      export const lastPublished = "2025-09-06T13:40:18.260Z";
 
       export const siteName = "Clip Hold";
 
@@ -956,6 +956,43 @@ height={586}
 alt={"Apps to Exclude"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
+</div>
+<div
+className={`w-element c1r1zv9s`}>
+<h2
+className={`w-element c1yn6h70 ck3238v c1mbyuac c23z8nw c1dgg9g4 c1c43ngc c1imcjwr c1r10jp3`}>
+{"Compare"}
+</h2>
+<h3
+className={`w-element c1yn6h70 ck3238v c1mbyuac c23z8nw cqo7lub c1c43ngc c1karaxo cqx7kte`}>
+{"Difference Between Paid and Free Versions"}
+</h3>
+<p
+className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2yq0 c12817z7`}>
+{"Clip Hold has a paid version available for purchase from the Mac App Store and a free version available for download from GitHub. The differences between them are as follows."}
+</p>
+<div
+className={`w-element cfoar8i c13ilcm6 c1w497fm c8dkrv8 c142ylfi ctv2jj6 cndeprc c1r1zv9s cg5ykre c1merv6x cdot8hu cssz5kv c1kc7yp1 c1jmc64i`}>
+<HtmlEmbed
+code={"<table>\n  <thead>\n    <tr>\n      <th style\">Features</th>\n      <th>Mac App Store Version</th>\n      <th>GitHub Version</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Price</td>\n      <td><span style=\"font-size: 24px;\"><strong>$2.99*</strong></span> / One-time purchase</td>\n      <td><strong><span style=\"font-size: 24px;\">Free</span></strong></td>\n    </tr>\n    <tr>\n      <td>Access from Menu</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Standard Phrases and History Window</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Standard Phrase Presets</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>App Assignment of Presets</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Shortcut Keys</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Quick Paste</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Import and Export</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Show Color Codes</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Create and Scan QR Codes</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Pause Clipboard Monitoring</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Exclude Apps</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Privacy Protection</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Automatic App Updates</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#a5000025, #ff000025); color: light-dark(#a50000, #ff0000);\">×</td>\n    </tr>\n  </tbody>\n</table>\n"}
+className={`w-html-embed cxsst0j c1dm57t7 c14et3xy c1p94064 cf7vwbz c1pt54az c1v1aqip c1fybrir c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c1c5nuzn c11drp1d c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+</HtmlEmbed>
+</div>
+<p
+className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx cqo7lub c1uj2yq0 c12817z7`}>
+{"As you can see, the only difference is the availability of the automatic update feature. Since automatic updates are provided by a feature of the App Store, there is no difference in the features of the app itself."}
+{""}
+<br />
+{""}
+{"Therefore, if you would like to support a developer, I would be happy if you would purchase the paid version!"}
+{""}
+<br />
+{""}
+{""}
+<br />
+{""}
+{"* Price is based on 500 JPY and may change automatically."}
+</p>
 </div>
 <div
 className={`w-element c7z4ryg c1r1zv9s c5lrunv cfoar8i c13ilcm6 c1w497fm c8dkrv8 c10ahqwr c1atdl27 c453hbm c1or5y3g cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>

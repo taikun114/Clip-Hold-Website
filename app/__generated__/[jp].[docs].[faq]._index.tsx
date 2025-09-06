@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-09-05T11:22:29.451Z";
+      export const lastPublished = "2025-09-06T13:40:18.260Z";
 
       export const siteName = "Clip Hold";
 
@@ -568,7 +568,7 @@ className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c1s01ekh
 className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1jt805z cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
 <MarkdownEmbed
 code={"[ドキュメントホーム](/jp/docs) / [一般](/jp/docs#general) / **よくある質問と回答**"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
@@ -576,7 +576,7 @@ className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 </h1>
 <MarkdownEmbed
 code={"## 有料版と無料版の違いはありますか？\n**いいえ、アプリに搭載されている機能に違いはありません。**\n\nClip Holdには無料版（GitHub版）と有料版（Mac App Store版）がありますが、どちらもほとんど機能の違いはありません。**唯一の違いは自動アップデート機能の有無**です。\\\n有料版ではApp Storeの機能でアップデートとインストールを自動で行うことができますが、無料版では今のところアップデート確認機能とインストール機能は搭載されていません（つまり、アプリの機能としては何一つ変わりません！）。\n\n私としてはApp Storeから購入してくださるとありがたいですが、まずは無料でダウンロードしてみて、とても便利だと思ったら購入したり[**寄付**](#どうすれば開発者の方をサポートできますか)したりしてくださると大変嬉しいです！\n\n## Clip Holdのシステム要件を教えてください。\nClip Holdは、**macOS Sonoma（14.0）またはそれ以降**がインストールされた、**Appleシリコン搭載のMac**と**Intelプロセッサ搭載のMac**に対応しています。\n\n## Clip Holdは個人情報を収集しますか？\n**いいえ、個人情報は収集しません。**\n\nシステム設定の「プライバシーとセキュリティ」設定内にある「解析と改善」で「アプリデベロッパと共有」をオンにしているユーザーの使用状況データとクラッシュレポートが共有される場合がありますが、アプリ自体には情報を収集して送信する機能は全く搭載されていません。プライバシーが心配な方でも安心してお使いいただけます。\n\nアプリが取得する情報とその取り扱いについては、[**プライバシーポリシー**](/jp/privacy-policy)ページをご覧ください。\n\n## Clip Holdは重たいですか？\n**いいえ、Clip Holdは非常に軽量です。**\n\nアプリの大きさは10 MBを切っており、古いシステムでも快適に動作するように設計されています。\n\n## Clip Holdは画像やファイルなどに対応していますか？\n**はい、最新バージョンでは次のファイル種類に対応しています。**\n- テキスト\n- ファイル\n- 画像\n\n## バグを見つけた場合はどうしたらいいですか？\n[**サポートとフィードバック**](/jp/support)ページの内容に従ってバグを報告してください。\n\n## こんな機能を追加してほしいです。\nバグ報告と同様、[**サポートとフィードバック**](/jp/support)ページの内容に従ってフィードバックを送信してください。\n\n## Clip Holdをアップデートするにはどうしたらいいですか？\n### Mac App Storeから購入された方\nApp Storeを使ってアップデートすることができます。\n\n### GitHubからダウンロードされた方\n次の手順でアップデートしてください。\n\n1. [**リリースページ**](/jp/github-release)から最新バージョンをダウンロードします。\n2. ダウンロードしたディスクイメージを開きます。\n3. ディスクイメージ内のClip Holdのアイコンをアプリケーションフォルダへドラッグアンドドロップし、上書き保存します。\n4. アップデート完了です。\n\n> **注意**\\\n> 上書き保存する際、Clip Holdが起動している場合は一旦終了させる必要があります。\\\n> アプリをアップデートしてもデータは消えませんのでご安心ください。心配な場合、アップデート前に定型文と履歴をエクスポートしておけば問題ありません。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h2
 id={"どうすれば開発者の方をサポートできますか"}
@@ -585,7 +585,7 @@ className={`w-element c11yke06`}>
 </h2>
 <HtmlEmbed
 code={"<h3>リポジトリにスターをつける</h3>\n<p><a href=\"https://github.com/taikun114/Clip-Hold\" target=\"_blank\" data-umami-event=\"gh-repo\" data-umami-event-region=\"jp\"><b>こちらのページ</b></a>を開き、右上の「Star」ボタンをクリックしてスターをつけてくださるととてもうれしいです！<br>\nこのボタンは言わば高評価ボタンのようなもので、開発を続けるモチベーションになります！この機能は無料なので、Clip Holdを気に入ったらぜひスターをつけてください！</p>\n\n<h3>寄付</h3>\n<p>Clip Holdが気に入ったら寄付してくださると嬉しいです。開発を続けるモチベーションになります！</p>\n<p>以下のサービスを使って寄付していただくことができます。</p>\n\n<h4>Buy Me a Coffee</h4>\n<p><a href=\"https://www.buymeacoffee.com/i_am_taikun\" target=\"_blank\" data-umami-event=\"buymeacoffee\" data-umami-event-region=\"jp\"><b>Buy Me a Coffee</b></a>で緑茶一杯分の金額からサポートしていただけます。.</p>\n\n<h4>PayPal.Me</h4>\n<p>PayPalアカウントをお持ちの方は、<a href=\"https://paypal.me/taikun114\" target=\"_blank\" data-umami-event=\"paypal\" data-umami-event-region=\"jp\"><b>PayPal</b></a>で直接寄付していただくこともできます。</p>\n\n<h2>他にも質問がありますか？</h2>\n<p><a href=\"https://github.com/taikun114/Clip-Hold/discussions\" target=\"_blank\" data-umami-event=\"gh-discussion\" data-umami-event-region=\"jp\"><b>ディスカッション</b></a>ページが用意されているので、質問を投稿したり、意見交換などを行ったりすることができますのでぜひ確認してみてください！</p>"}
-className={`w-html-embed c93cdo9 cvh06f7 cz7p94 c1s236z9 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-html-embed c93cdo9 cvh06f7 cz7p94 c1s236z9 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </HtmlEmbed>
 </div>
 </div>

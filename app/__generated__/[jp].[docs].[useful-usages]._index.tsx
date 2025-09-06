@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-09-05T11:22:29.451Z";
+      export const lastPublished = "2025-09-06T13:40:18.260Z";
 
       export const siteName = "Clip Hold";
 
@@ -568,7 +568,7 @@ className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c1s01ekh
 className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1jt805z cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
 <MarkdownEmbed
 code={"[ドキュメントホーム](/jp/docs) / [一般](/jp/docs#general) / **Clip Holdの便利な使い方**"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
@@ -576,7 +576,7 @@ className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 </h1>
 <MarkdownEmbed
 code={"Clip Holdには様々な便利な機能があり、それらを使いこなすことで作業効率を大幅に上げることができます。\\\nこのドキュメントでは、覚えておくととても便利に使うことができる使い方をいくつかご紹介します。便利機能を使いこなして作業効率を上昇させましょう！"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h2
 className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
@@ -584,7 +584,7 @@ className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
 </h2>
 <MarkdownEmbed
 code={"![ショートカットキーを使って順番にペーストする](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Sequential-Paste-ja.gif?raw=true)\n\n「クイックペースト」機能とショートカットキーを組み合わせることで、コピーしたテキストを**コピーした順番でペースト**することができます。\n\n### 手順\n\n1. Clip Holdの設定で「**クイックペースト**」がオンになっていて、アクセシビリティの許可が与えられていることを確認します。\\\n   クイックペーストについて詳しく知りたい場合は、[**クイックペーストのドキュメント**](/jp/docs/standard-phrases-and-copy-history#%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%88)をご覧ください。\n2. **ペーストしたい順番でテキストまたはファイルをコピー**します。\n3. コピーした回数と同じ番号の履歴をコピーするショートカットキーを、**コピーした回数だ**け押します。\\\n   例: テキストを5回コピーした場合、5番目の履歴をコピーするショートカットキー（デフォルトでは`⌥ (Option)` + `⌘ (Command)` + `5`キー）を5回押します。\n\n> **注意**\\\n> ショートカットキーは最大で10番目のコピー履歴までのため、順番にペーストできる回数も最大10個までとなります。\n\n> **注意**\\\n> ショートカットキーを押す速度が速すぎるとうまくいかないことがあります。うまくいかない場合は、ショートカットキーを押す間隔を0.5秒以上開けてみてください。\n\n> **豆知識**\\\n> Clip Holdの「**ショートカット**」設定から過去の履歴をコピーするショートカットキーをカスタマイズすることができます。\n\n> **豆知識**\\\n> Clip Holdの設定にある「**一般**」設定内の「**履歴ウィンドウ**」セクションから「**番号を表示**」をオンに変更し、履歴ウィンドウを開いた状態にしておくと**コピーした回数を素早く確認できる**ため便利です。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h2
 className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
@@ -592,7 +592,7 @@ className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
 </h2>
 <MarkdownEmbed
 code={"![アプリごとに定型文のプリセットを切り替える](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Assign-Presets-ja.gif?raw=true)\n\n作成したプリセットをアプリに割り当てることで、割り当てたアプリが最前面にあるときに自動的にプリセットを切り替えることができます。\n\n### 手順\n\n![プリセットの割り当て](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Assign-Presets-ja.png?raw=true)\n\n1. アプリに割り当てたいプリセットを作成します。すでにプリセットが存在する場合はそちらを使用できます。\n2. Clip Holdの設定にある「**定型文**」設定を開きます。\n3. 「**プリセットの割り当て**」セクションにある「**割り当てるプリセット**」から、アプリを割り当てたいプリセットに切り替えます。\n4. リストの下にある「**+**」ボタンをクリックして割り当てたいアプリを追加します。\\\n   現在実行中のアプリが一覧で表示されますが、Finderからお好みのアプリを追加することも可能です。\n5. 追加したアプリを開いて、プリセットが切り替わっていることを確認します。\n\n> **豆知識**\\\n> 1つのプリセットに複数のアプリを割り当てることもできます。複数のアプリで特定のプリセットを使用したい場合に便利です。ただし、逆に、複数のプリセットに同じアプリを割り当てることはできませんのでご注意ください。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h2
 className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
@@ -600,7 +600,7 @@ className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
 </h2>
 <MarkdownEmbed
 code={"![QRコードでテキストやリンクを共有する](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/QR-Code-ja.png?raw=true)\n\nClip HoldにはQRコードを作成して表示できる機能が搭載されています。手軽にスマートフォンなどとテキストやリンクを共有するときに便利です。\n\n### 手順\n\n1. **QRコードを作成したいテキストやリンクをコピーするか、定型文を作成**します。\n2. **履歴ウィンドウまたは定型文ウィンドウ**を開きます。\n3. QRコードを作成したい項目を右クリックするか、右側のメニューから「**QRコードを表示...**」をクリックします。\n\n> **注意**\\\n> 長すぎるテキストや無効な文字列などが含まれている場合、QRコードを作成することができない場合があります。\n\n> **豆知識**\\\n> 作成したQRコードを右クリックすることで、QRコード画像をコピーしたり保存したりすることができます。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h2
 className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
@@ -608,7 +608,7 @@ className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
 </h2>
 <MarkdownEmbed
 code={"![画像に含まれたQRコードをスキャンしてコピーする](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Copy-QR-Code-Contents-ja.png?raw=true)\n\nQRコードが含まれた画像をスキャンして、QRコードのコンテンツをコピーすることができます。Clip Holdが簡易的なQRコードスキャナーになります。\\\n画面内に表示されたQRコードをスキャンしたい時などに便利です。\n\n### 手順\n\n1. **QRコードが含まれた画像をコピー**します。\n2. **履歴ウィンドウ**を開きます。\n3. QRコードが含まれた画像項目を右クリックするか、右側のメニューから「**QRコードの内容をコピー**」をクリックします。\n\n> **注意**\\\n> 「QRコードの内容をコピー」は**QRコードのスキャンに成功した項目のみ**表示されます。\\\n> 画像内に含まれたQRコードは最低限読み取り可能な解像度である必要があります。ぼやけてはっきりとしていない画像はスキャンできない場合があります。「QRコードの内容をコピー」が表示されない場合は、より高解像度の画像をコピーする必要があります。\n\n> **注意**\\\n> 1つの画像に複数のQRコードが含まれていると正しくスキャンできない場合があります。目的のQRコードがスキャンされない場合は、1つの画像に1つのQRコードのみを含めるようにしてください。\n\n> **豆知識**\\\n> 画像全体にQRコードが表示されている必要はなく、最低限読み取り可能な大きさのQRコードが存在していれば読み取ることができます。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h2
 className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
@@ -616,7 +616,7 @@ className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
 </h2>
 <MarkdownEmbed
 code={"![QRコード画像のスキャン](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Drag-and-Drop-to-Copy-QR-Code-ja.gif?raw=true)\n\nQRコードが含まれた画像を履歴ウィンドウにドラッグアンドドロップして、QRコードのコンテンツをコピーすることができます。\n\n### 手順\n\n1. **QRコードが含まれた画像を履歴ウィンドウにドラッグアンドドロップ**します。\n\n> **注意**\\\n> QRコード画像のドラッグアンドドロップによるコピーは**QRコードのスキャンに成功した項目のみ**表示されます。\\\n> 画像内に含まれたQRコードは最低限読み取り可能な解像度である必要があります。ぼやけてはっきりとしていない画像はスキャンできない場合があります。画像をドラッグアンドドロップしても何も表示されない場合は、より高解像度の画像をドラッグアンドドロップする必要があります。\n\n> **注意**\\\n> 1つの画像に複数のQRコードが含まれていると正しくスキャンできない場合があります。目的のQRコードがスキャンされない場合は、1つの画像に1つのQRコードのみを含めるようにしてください。\n\n> **豆知識**\\\n> 画像全体にQRコードが表示されている必要はなく、最低限読み取り可能な大きさのQRコードが存在していれば読み取ることができます。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h2
 className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
@@ -624,11 +624,11 @@ className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
 </h2>
 <MarkdownEmbed
 code={"![カラーコードに基づくカラーアイコンを表示する](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Copy-Color-Codes-ja.png?raw=true)\n\n「開発者向け機能」から設定を有効化することで、コピーしたカラーコードに基づくカラーアイコンを履歴・定型文ウィンドウとメニューに表示させることができます。普段からカラーコードを扱う作業を頻繁に行われる場合は、この機能を使用することで一目で色を確認することができるため、大変便利です。\n\n### 手順\n\n1. Clip Holdの設定にある「**開発者向け機能**」を開きます。\n2. 「**カラーコード**」セクションにある「**カラーコードに基づくカラーアイコンを表示**」のスイッチをオンにします。\n3. カラーコードをコピーし、カラーアイコンが表示されていることを確認します。\n\n> **注意**\\\n> 現時点では、以下の種類のカラーコードに対応しています。\n> - **HEX**\\\n>   例: `#4879E2`、`4879e2ff`など\n> - **HSL / HSLA**\\\n>   例: `hsl(221deg 73% 58%)`、`hsla(221deg, 73%, 58%, 1)`など\n> - **RGB / RGBA**\\\n>   例: `rgb(72 121 226)`、`rgba(72, 121, 226, 1)`など\n\n> **豆知識**\\\n> カラーコードは、多少の表記揺れがあっても正しく認識されるように設計されています。例えば、`hsl(221deg 73% 58%)`や`hsl(221, 73, 58)`、`hsl(221deg,73,58/1)`のようなテキストでも問題なく認識されます。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <MarkdownEmbed
 code={"このドキュメントは随時更新されていきます。\\\n追加してほしい情報などがありましたら[**フィードバック**](/jp/support)をお送りください。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t c1d83kno c1ivf25o c6nfgdb cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t c1d83kno c1ivf25o c6nfgdb cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 </div>
 </div>

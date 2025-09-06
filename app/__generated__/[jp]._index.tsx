@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-09-05T11:22:29.451Z";
+      export const lastPublished = "2025-09-06T13:40:18.260Z";
 
       export const siteName = "Clip Hold";
 
@@ -928,6 +928,38 @@ height={591}
 alt={"除外するアプリ"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
+</div>
+<hr
+className={`w-element c2cg3w5 cuh5m4h c7z4ryg c1r1zv9s c23z8nw cqo7lub czl0ltz cbodz54`} />
+<div
+className={`w-element c1r1zv9s`}>
+<h2
+className={`w-element c1yn6h70 ck3238v c1mbyuac c23z8nw c1dgg9g4 c1c43ngc c1imcjwr c1r10jp3`}>
+{"比較"}
+</h2>
+<h3
+className={`w-element c1yn6h70 ck3238v c1mbyuac c23z8nw cqo7lub c1c43ngc c1karaxo cqx7kte`}>
+{"有料版と無料版の違い"}
+</h3>
+<p
+className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2yq0 c12817z7`}>
+{"Clip HoldにはMac App Storeから購入できる有料版と、GitHubからダウンロードできる無料版があります。これらの違いは以下の通りです。"}
+</p>
+<div
+className={`w-element cfoar8i c13ilcm6 c1w497fm c8dkrv8 c142ylfi ctv2jj6 cndeprc c1r1zv9s cg5ykre c1merv6x cdot8hu cssz5kv c1kc7yp1 c1jmc64i`}>
+<HtmlEmbed
+code={"<table>\n  <thead>\n    <tr>\n      <th>機能</th>\n      <th>Mac App Store版</th>\n      <th>GitHub版</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>価格</td>\n      <td><span style=\"font-size: 24px;\"><strong>500円</strong></span> / 一回限り</td>\n      <td><strong><span style=\"font-size: 24px;\">無料</span></strong></td>\n    </tr>\n    <tr>\n      <td>メニューからアクセス</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>定型文と履歴ウィンドウ</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>定型文プリセット</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>プリセットのアプリ割り当て</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>ショートカットキー</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>クイックペースト</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>インポートとエクスポート</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>カラーコードの表示</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>QRコードの作成と読み取り</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>クリップボード監視の一時停止</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>アプリの除外</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>プライバシーの保護</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>アプリの自動アップデート</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#a5000025, #ff000025); color: light-dark(#a50000, #ff0000);\">×</td>\n    </tr>\n  </tbody>\n</table>\n"}
+className={`w-html-embed c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c1c5nuzn c11drp1d c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2 cxsst0j c1dm57t7 c14et3xy c1p94064 cf7vwbz c1pt54az c1v1aqip c1fybrir`}>
+</HtmlEmbed>
+</div>
+<p
+className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx cqo7lub c1uj2yq0 c12817z7`}>
+{"ご覧の通り、唯一の違いは自動アップデート機能の有無のみです。自動アップデートは、App Storeの機能により提供されるため、アプリ自体の機能に違いはありません。"}
+{""}
+<br />
+{""}
+{"そのため、開発者を応援したい場合は有料版をご購入いただけるとうれしいです！"}
+</p>
 </div>
 <div
 className={`w-element c7z4ryg c1r1zv9s c5lrunv cfoar8i c13ilcm6 c1w497fm c8dkrv8 c10ahqwr c1atdl27 c453hbm c1or5y3g cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>

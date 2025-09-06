@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-09-05T11:22:29.451Z";
+      export const lastPublished = "2025-09-06T13:40:18.260Z";
 
       export const siteName = "Clip Hold";
 
@@ -568,7 +568,7 @@ className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c1s01ekh
 className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1jt805z cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
 <MarkdownEmbed
 code={"[ドキュメントホーム](/jp/docs) / [定型文とコピー履歴](/jp/docs#standard-phrases-and-copy-history) / [定型文](/jp/docs#standard-phrases) / **定型文のエクスポートとインポート**"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
@@ -576,7 +576,7 @@ className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 </h1>
 <MarkdownEmbed
 code={"Clip Holdでは、作成した定型文をエクスポートして別のMacや他の人と共有したり、別のMacや他の人から共有された定型文をインポートしたりすることができます。\\\n定型文のエクスポートとインポートは、Clip Holdの設定を開き、「**定型文**」設定内の「**定型文の管理**」セクションから行うことができます。\n\n![定型文の管理](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Standard-Phrases-Import-and-Export-ja.png?raw=true)"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h3
 id={"export"}
@@ -585,7 +585,7 @@ className={`w-element c11yke06 c1cgzzq8`}>
 </h3>
 <MarkdownEmbed
 code={"定型文をエクスポートするには、「**エクスポート**」ボタンをクリックします。\n\n![定型文のエクスポート](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Standard-Phrases-Export-ja.png?raw=true)\n\n「**定型文のエクスポート**」と表示されたら、エクスポートしたいブリセットを選択して「**エクスポート**」ボタンをクリックします。\\\nエクスポートする際に、エクスポートしたファイルを以前のバージョンのClip Hold（バージョン1.2.1またはそれ以前）でも使用できるようにするには、「**旧バージョンで使用できるようにする**」にチェックを入れます。\n\n> **注意**\\\n> 「旧バージョンで使用できるようにする」にチェックを入れてエクスポートすると、以前のバージョンのClip Holdでも読み込めるように**プリセット情報（プリセットIDとプリセット名）が含まれない状態**でエクスポートされます。以前のバージョンのClip Holdで使用する予定がなければ、**チェックを入れないことをおすすめ**します。\n\n![エクスポート](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Standard-Phrases-Export-File-ja.png?raw=true)\n\nエクスポートするファイルの保存先を選択して「**書き出す**」をクリックすると定型文のエクスポートは完了です。保存先にファイルが存在することを確認してください。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h3
 id={"import"}
@@ -594,7 +594,7 @@ className={`w-element c11yke06 c1cgzzq8`}>
 </h3>
 <MarkdownEmbed
 code={"定型文をインポートするには、「**インポート**」ボタンをクリックしてインポートしたいファイルを選択します。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h4
 id={"import-with-preset"}
@@ -603,7 +603,7 @@ className={`w-element c11yke06 c1cgzzq8`}>
 </h4>
 <MarkdownEmbed
 code={"「旧バージョンで使用できるようにする」のチェックを外した状態でエクスポートした定型文をインポートしたとき、**特に何も表示されずに処理が終わった場合はすべてのプリセットが問題なくインポート完了**していますので、プリセットと定型文が追加されていることを確認してください。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h5
 id={"duplicate-preset"}
@@ -612,7 +612,7 @@ className={`w-element c6gvt71 coold5d`}>
 </h5>
 <MarkdownEmbed
 code={"![重複したプリセット](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Standard-Phrases-Import-Duplicate-Presets-ja.png?raw=true)\n\nインポートしようとしているファイルと設定されている定型文に同じプリセットが存在する場合は、インポート時にこのような画面が表示されます。これらのデータをどのようにインポートしたいかを選択する必要があります。\\\nこれらのプリセットに対して、次の操作が可能です。\n\n- **統合する**\n  - これらのプリセットに含まれる全く同じ定型文はスキップされ、見つかった新たな定型文のみを既存のプリセットに追加します。\n- **このまま追加する**\n  - これらのプリセットを、既存のプリセットと重複して登録します。\n- **スキップする**\n  - これらのプリセットのインポートをスキップします。\n- **一つ一つ解決する**\n  - これらのプリセット一つ一つに対して操作を行います。\n\nこのうち、「**一つ一つ解決する**」を選択した場合は次のような画面が表示されます。\n\n![プリセットの操作を選択](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Standard-Phrases-Import-Duplicate-Preset-ja.png?raw=true)\n\nプリセット一つ一つに対して操作を行います。各プリセットに対して、次の操作が可能です。\n\n- **統合する**\n  - このプリセットに含まれる全く同じ定型文はスキップされ、見つかった新たな定型文のみを既存の同じプリセットに追加します。\n- **このまま追加する**\n  - このプリセットを、既存の同じプリセットと重複して登録します。\n- **スキップする**\n  - このプリセットのインポートをスキップします。\n- **一つ一つ解決する**\n  - このプリセットに含まれる重複した定型文一つ一つに対して操作を行います。\n\nこのうち、「**一つ一つ解決する**」を選択した場合は次のような画面が表示されます。\n\n![プリセットインポートの競合](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Standard-Phrases-Import-Duplicate-Phrases-ja.png?raw=true)\n\n重複している定型文一つ一つに対して操作を行います。各定型文に対して、次の操作が可能です。\n\n- **タイトルやコンテンツを変更してインポートする**\n  - この定型文のタイトルやコンテンツを変更して、別の定型文として登録します。\n- **このまま追加**\n  - この定型文を、既存の同じ定型文と重複して登録します。\n- **スキップ**\n  - この定型文のインポートをスキップします。\n- **すべてスキップ**\n  - このプリセットに含まれるすべての重複した定型文のインポートをスキップします。\n\nすべての定型文に対して処理が終わったら、定型文が追加され、インポートは完了です。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h4
 id={"import-without-preset"}
@@ -621,7 +621,7 @@ className={`w-element c11yke06 c1cgzzq8`}>
 </h4>
 <MarkdownEmbed
 code={"「旧バージョンで使用できるようにする」のチェックを入れた状態でエクスポートした定型文や、以前のバージョンのClip Holdでエクスポートした定型文をインポートしたとき、次のような画面が表示されます。\n\n![インポート先プリセットの選択](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Standard-Phrases-Import-Old-File-ja.png?raw=true)\n\n**インポートしようとしているファイルにはプリセット情報が含まれていない**ため、これらの定型文を追加したいプリセットを選択し、「**インポート**」をクリックすることで指定したプリセットに定型文を追加することができます。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h5
 id={"duplicate-phrase"}
@@ -630,7 +630,7 @@ className={`w-element c6gvt71 coold5d`}>
 </h5>
 <MarkdownEmbed
 code={"![インポートの競合](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Standard-Phrases-Import-Duplicate-Phrases-ja.png?raw=true)\n\n選択したプリセット内に重複している定型文が存在する場合は、重複した定型文一つ一つに対して操作を行います。各定型文に対して、次の操作が可能です。\n\n- **タイトルやコンテンツを変更してインポートする**\n  - この定型文のタイトルやコンテンツを変更して、別の定型文として登録します。\n- **このまま追加**\n  - この定型文を、既存の同じ定型文と重複して登録します。\n- **スキップ**\n  - この定型文のインポートをスキップします。\n- **すべてスキップ**\n  - このプリセットに含まれるすべての重複した定型文のインポートをスキップします。\n\nすべての定型文に対して処理が終わったら、定型文が追加され、インポートは完了です。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 </div>
 </div>
