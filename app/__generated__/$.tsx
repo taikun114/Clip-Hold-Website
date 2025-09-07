@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-09-06T13:40:18.260Z";
+      export const lastPublished = "2025-09-07T12:20:55.829Z";
 
       export const siteName = "Clip Hold";
 
