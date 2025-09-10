@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-09-07T12:20:55.829Z";
+      export const lastPublished = "2025-09-10T13:36:02.468Z";
 
       export const siteName = "Clip Hold";
 
@@ -590,7 +590,7 @@ className={`w-element c7z4ryg c14pipg4 c10idg3e c1tbobo9 c6e8y9s c1iw2zw1 c1ekan
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <Image
-src={"/assets/App_Icon512_yfUerJqzgO_Ly6tZ_QXZ9.webp"}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIcon512.png?raw=true"}
 width={256}
 height={256}
 loading={"eager"}
@@ -756,9 +756,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"Frequently used standard phrases and copy history items can be accessed quickly from the menu. You can easily copy an item by simply clicking on it."}
 </p>
 <Image
-src={"/assets/Standard-Phrase-and-History_PJpefZbYSvmzRVzBFyr80.webp"}
-width={1386}
-height={937}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Standard-Phrase-and-History.webp?raw=true"}
 alt={"Standard Phrases and Copy History"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -776,9 +774,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"You can list all standard phrases you have set and all saved history items. You can easily copy an item by simply double-clicking on it."}
 </p>
 <Image
-src={"/assets/Standard-Phrase-and-History-Window_rtIni80AFzc08GGzgByBZ.webp"}
-width={1588}
-height={928}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Standard-Phrase-and-History-Window.webp?raw=true"}
 alt={"Standard Phrases Window and History Window"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -796,9 +792,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"Standard Phrases can be grouped into different presets, and the presets can be automatically switched depending on the app that is opened. Presets can also be switched using shortcut keys."}
 </p>
 <Image
-src={"/assets/Presets_86agyPhuuKFI_ToU-KzHm.webp"}
-width={2326}
-height={1378}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Presets.webp?raw=true"}
 alt={"Presets"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -816,9 +810,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"Dedicated shortcut keys allow you to quickly copy up to 10 standard phrases and 10 copy history items. You can also open the standard phrases and history windows instantly."}
 </p>
 <Image
-src={"/assets/Shortcuts_Gu_JMpzVUWgD0Xuz1mcnO.webp"}
-width={2326}
-height={1378}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Shortcuts.webp?raw=true"}
 alt={"Shortcut Keys"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -836,9 +828,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"With the “Quick Paste” feature, when you copy an item from the menu or use a shortcut key, the copied content is immediately pasted. You don't need to paste it yourself."}
 </p>
 <Image
-src={"/assets/Quick-Paste_78TwKMmgPe6i4inFi-9OC.gif"}
-width={720}
-height={405}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Quick-Paste.webp?raw=true"}
 alt={"Quick Paste"}
 loading={"lazy"}
 optimize={false}
@@ -857,9 +847,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"Standard phrases and clipboard history can be imported and exported. You can share your favorite standard phrases with someone else, or import clipboard history from another Mac."}
 </p>
 <Image
-src={"/assets/Import-Export_rm5ur06ygb-tVGOT9xWIx.webp"}
-width={1920}
-height={1080}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Import-Export.webp?raw=true"}
 alt={"Import and Export Features"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -877,9 +865,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"By enabling it from the “Developer Features” settings, you can show the color icons based on the copied color codes in the history window and the menu."}
 </p>
 <Image
-src={"/assets/Color-Codes_HOCS0PlEgsS35LJ8mFTp_.webp"}
-width={2351}
-height={1361}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Color-Codes.webp?raw=true"}
 alt={"Color Codes"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -930,9 +916,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"While paused, the menu bar icon becomes translucent so you can see the current status at a glance. You will receive a notification when you start the app while it is paused, so you will never forget to resume clipboard monitoring."}
 </p>
 <Image
-src={"/assets/Pause-Clipboard-Monitoring_zxcXZdErYvRo1_GUAIPZd.webp"}
-width={897}
-height={419}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Pause-Clipboard-Monitoring.webp?raw=true"}
 alt={"Pause Clipboard Monitoring"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -950,9 +934,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"If you do not want the history to be saved only in specific apps, no problem, you can add apps to exclude from clipboard monitoring. There is no need to pause clipboard monitoring."}
 </p>
 <Image
-src={"/assets/Apps-to-Exclude_DZ3bXynDVBcr9X1VlYlAV.webp"}
-width={1232}
-height={586}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Apps-to-Exclude.webp?raw=true"}
 alt={"Apps to Exclude"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -1076,7 +1058,7 @@ className={`w-element c7z4ryg c1vr770l c10idg3e c1tbobo9 c6e8y9s c1iw2zw1 c1ekan
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <Image
-src={"/assets/App_Icon512_yfUerJqzgO_Ly6tZ_QXZ9.webp"}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIcon512.png?raw=true"}
 width={200}
 height={200}
 loading={"lazy"}

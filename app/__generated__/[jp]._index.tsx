@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-09-07T12:20:55.829Z";
+      export const lastPublished = "2025-09-10T13:36:02.468Z";
 
       export const siteName = "Clip Hold";
 
@@ -567,7 +567,7 @@ className={`w-element c7z4ryg c14pipg4 c10idg3e c1tbobo9 c6e8y9s c1iw2zw1 c1ekan
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <Image
-src={"/assets/App_Icon512_yfUerJqzgO_Ly6tZ_QXZ9.webp"}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIcon512.png?raw=true"}
 width={256}
 height={256}
 loading={"eager"}
@@ -733,9 +733,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"よく使う定型文とコピー履歴には、メニューからすぐにアクセスできます。項目をクリックするだけで簡単にコピーすることができます。"}
 </p>
 <Image
-src={"/assets/Standard-Phrase-and-History-ja_lTvNQ-dYY6gdsttjf-E05.webp"}
-width={1318}
-height={912}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Standard-Phrase-and-History-ja.webp?raw=true"}
 alt={"定型文とコピー履歴"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -753,9 +751,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"設定したすべての定型文と、保存されたすべての履歴を一覧表示することができます。項目をダブルクリックするだけで簡単にコピーすることができます。"}
 </p>
 <Image
-src={"/assets/Standard-Phrase-and-History-Window-ja_9Ui-6kE0ZMQKTQjvEl4_U.webp"}
-width={1637}
-height={931}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Standard-Phrase-and-History-Window-ja.webp?raw=true"}
 alt={"定型文ウィンドウとは履歴ウィンドウ"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -773,9 +769,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"定型文をプリセットごとに分けて、開いたアプリによって自動でプリセットを切り替えることができます。プリセットはショートカットキーで切り替えることもできます。"}
 </p>
 <Image
-src={"/assets/Presets-ja_Tx2cwqW6lgvG5Xx5vWPrR.webp"}
-width={2326}
-height={1378}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Presets-ja.webp?raw=true"}
 alt={"プリセット"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -793,9 +787,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"各10個までの定型文とコピー履歴をすぐさまコピーできるショートカットキーが用意されており、素早くコピーすることができます。定型文や履歴ウィンドウを開くのも一瞬。"}
 </p>
 <Image
-src={"/assets/Shortcuts-ja_K_e3gVmsLwijSHEHtKmrg.webp"}
-width={2326}
-height={1378}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Shortcuts-ja.webp?raw=true"}
 alt={"ショートカットキー"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -813,9 +805,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"「クイックペースト」機能を使えば、メニューで項目をコピーした時やショートカットキーを使ってコピーしたとき、コピーした内容が即座にペーストされます。わざわざ自分でペーストする必要はありません。"}
 </p>
 <Image
-src={"/assets/Quick-Paste-ja_cZiMPEHIZdF4qk6cYXPTh.gif"}
-width={720}
-height={405}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Quick-Paste-ja.webp?raw=true"}
 alt={"クイックペースト"}
 loading={"lazy"}
 optimize={false}
@@ -834,9 +824,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"定型文とクリップボード履歴は、インポートしたりエクスポートしたりすることができます。自分がよく使う定型文を誰かと共有したり、他のMacからのクリップボード履歴を読み込んだりすることができます。"}
 </p>
 <Image
-src={"/assets/Import-Export-ja_GBKM-DxNOAbOQDzrrjiOx.webp"}
-width={1920}
-height={1080}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Import-Export-ja.webp?raw=true"}
 alt={"インポートとエクスポート機能"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -854,9 +842,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"「開発者向け機能」設定から有効化すると、コピーしたカラーコードに基づくカラーアイコンを、履歴ウィンドウとメニューに表示させることができます。"}
 </p>
 <Image
-src={"/assets/Color-Codes-ja_rl0CZIfKLMbU_sG0fu-05.webp"}
-width={2327}
-height={1343}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Color-Codes-ja.webp?raw=true"}
 alt={"カラーコード"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -902,9 +888,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"一時停止中はメニューバーアイコンが半透明になり、現在の状態が一目でわかります。一時停止の状態でアプリを起動すると通知が届くので、クリップボード監視の再開を忘れることもありません。"}
 </p>
 <Image
-src={"/assets/Pause-Clipboard-Monitoring-ja_jyM1EpahTgeXFiKIkozje.webp"}
-width={871}
-height={420}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Pause-Clipboard-Monitoring-ja.webp?raw=true"}
 alt={"クリップボード監視の一時停止"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -922,9 +906,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"特定のアプリでのみ履歴が保存されて欲しくない時でも大丈夫、クリップボード監視から除外できるアプリを追加できます。わざわざクリップボード監視を一時停止する必要はありません。"}
 </p>
 <Image
-src={"/assets/Apps-to-Exclude-ja_foGE3joBB5kcnKfyP4MBz.webp"}
-width={1212}
-height={591}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Apps-to-Exclude-ja.webp?raw=true"}
 alt={"除外するアプリ"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -1043,7 +1025,7 @@ className={`w-element c7z4ryg c1vr770l c10idg3e c1tbobo9 c6e8y9s c1iw2zw1 c1ekan
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <Image
-src={"/assets/App_Icon512_yfUerJqzgO_Ly6tZ_QXZ9.webp"}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIcon512.png?raw=true"}
 width={200}
 height={200}
 loading={"lazy"}

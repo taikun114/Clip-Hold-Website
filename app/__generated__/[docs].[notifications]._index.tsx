@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-09-07T12:20:55.829Z";
+      export const lastPublished = "2025-09-10T13:36:02.468Z";
 
       export const siteName = "Clip Hold";
 
@@ -577,7 +577,7 @@ className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"Notifications"}
 </h1>
 <MarkdownEmbed
-code={"![Pause Clipboard Monitoring](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Pause-Clipboard-Monitoring.png?raw=true)\n\nClip Hold has the feature to **send notifications based on the status of the clipboard monitoring**.\n\nNotifications are sent at the following events.\n\n- When clipboard monitoring is paused\n- When clipboard monitoring is resumed\n- When an app is launched while clipboard monitoring is paused\n- When a test notification is sent from the settings\n- When history file upgrade succeeds or fails\n- When switching presets with keyboard shortcuts\n\nOf these, only the notifications that is sent “When an app is launched while clipboard monitoring is paused” and “When history file upgrade is suceeds or fails” will play sound.\\\nAlso, in the former case, there is a “Resume” button in the notification panel, where you can quickly resume the clipboard monitoring by clicking on it. In the latter case, only in the notification panel for failed upgrades, there is a “Show Document...” button and you can click it to open the [**Documentation page on how to manually upgrade history file**](/docs/upgrade-history-data)."}
+code={"![Pause Clipboard Monitoring](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Pause-Clipboard-Monitoring.webp?raw=true)\n\nClip Hold has the feature to **send notifications based on the status of the clipboard monitoring**.\n\nNotifications are sent at the following events.\n\n- When clipboard monitoring is paused\n- When clipboard monitoring is resumed\n- When an app is launched while clipboard monitoring is paused\n- When a test notification is sent from the settings\n- When history file upgrade succeeds or fails\n- When switching presets with keyboard shortcuts\n\nOf these, only the notifications that is sent “When an app is launched while clipboard monitoring is paused” and “When history file upgrade is suceeds or fails” will play sound.\\\nAlso, in the former case, there is a “Resume” button in the notification panel, where you can quickly resume the clipboard monitoring by clicking on it. In the latter case, only in the notification panel for failed upgrades, there is a “Show Document...” button and you can click it to open the [**Documentation page on how to manually upgrade history file**](/docs/upgrade-history-data)."}
 className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 </div>
@@ -589,7 +589,7 @@ className={`w-element c7z4ryg c1vr770l c10idg3e c1tbobo9 c6e8y9s c1iw2zw1 c1ekan
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <Image
-src={"/assets/App_Icon512_yfUerJqzgO_Ly6tZ_QXZ9.webp"}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIcon512.png?raw=true"}
 width={200}
 height={200}
 loading={"lazy"}
