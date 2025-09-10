@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-09-10T13:36:02.468Z";
+      export const lastPublished = "2025-09-10T13:50:51.003Z";
 
       export const siteName = "Clip Hold";
 
@@ -590,7 +590,7 @@ className={`w-element c7z4ryg c14pipg4 c10idg3e c1tbobo9 c6e8y9s c1iw2zw1 c1ekan
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <Image
-src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIcon512.png?raw=true"}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIcon512.webp?raw=true"}
 width={256}
 height={256}
 loading={"eager"}
@@ -1058,7 +1058,7 @@ className={`w-element c7z4ryg c1vr770l c10idg3e c1tbobo9 c6e8y9s c1iw2zw1 c1ekan
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <Image
-src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIcon512.png?raw=true"}
+src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIcon512.webp?raw=true"}
 width={200}
 height={200}
 loading={"lazy"}
