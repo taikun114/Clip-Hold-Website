@@ -95,17 +95,6 @@
     border-left-width: 1px;
     outline-width: 1px
   }
-  img.w-image {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px;
-    max-width: 100%;
-    display: block;
-    height: auto
-  }
   div.w-html-embed {
     display: contents;
     white-space: normal;
@@ -200,6 +189,17 @@
     border-bottom-width: 1px;
     border-left-width: 1px;
     outline-width: 1px
+  }
+  img.w-image {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px;
+    max-width: 100%;
+    display: block;
+    height: auto
   }
   div.w-markdown-embed {
     display: contents;
@@ -1240,6 +1240,12 @@
   .c1p94064 {
     border-bottom-width: 0px
   }
+  .c13o8mej img {
+    object-fit: contain
+  }
+  .cit9x1f img {
+    margin: 1rem
+  }
 }
 @media all and (max-width: 991px) {
   .c1keexhk {
@@ -1289,20 +1295,26 @@
   .c1qe7rj6 {
     height: 600px
   }
-  .cuia65m {
-    width: 200px
-  }
-  .ctbwnqh {
-    margin-bottom: -16px
-  }
-  .c10k2c2o {
-    width: 150px
-  }
   .c12grc7c {
     align-items: start
   }
   .c1jmc64i {
     width: calc(100vw - 2rem)
+  }
+  .c1lyu98q img {
+    width: 170px
+  }
+  .co98q9h img {
+    height: 170px
+  }
+  .c1nnnk8m img {
+    width: 128px
+  }
+  .c4f6612 img {
+    height: 128px
+  }
+  .c9gwnxb img {
+    margin: 0
   }
 }
 @media all and (max-width: 479px) {
@@ -1375,13 +1387,16 @@
   .cbodz54 {
     display: block
   }
-  .cp5616u {
-    width: 128px
-  }
   .cjaup7g {
     margin-bottom: 2rem
   }
   .c1kc7yp1 {
     width: 100vw
+  }
+  .c1bge907 img {
+    width: 110px
+  }
+  .c1xoovru img {
+    height: 110px
   }
 }

@@ -4,14 +4,14 @@
 
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
-      import { Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, Image as Image, Slot as Slot, MarkdownEmbed as MarkdownEmbed } from "@webstudio-is/sdk-components-react";
+      import { Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, Slot as Slot, Image as Image, MarkdownEmbed as MarkdownEmbed } from "@webstudio-is/sdk-components-react";
 import { Link as Link, Link as Link_1, Body as Body } from "@webstudio-is/sdk-components-react-router";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuLink as NavigationMenuLink, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-09-10T13:50:51.003Z";
+      export const lastPublished = "2025-09-11T06:46:56.937Z";
 
       export const siteName = "Clip Hold";
 
@@ -639,12 +639,10 @@ className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz
 className={`w-element c7z4ryg c1vr770l c10idg3e c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c10ahqwr ccy4onp c12v245d c1atdl27 cv0104a cepgicz cyxspfs c1qe7rj6 c1xndikr`}>
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
-<Image
-src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIcon512.webp?raw=true"}
-width={200}
-height={200}
-loading={"lazy"}
-className={`w-image cp5616u c10k2c2o ctbwnqh`} />
+<HtmlEmbed
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"160\"\n    width=\"160\"\n  />\n</picture>\n"}
+className={`w-html-embed c13o8mej cit9x1f c1nnnk8m c4f6612 c9gwnxb c1bge907 c1xoovru`}>
+</HtmlEmbed>
 <div
 className={`w-element c1mbyuac c17yqxus c1ghn8z4`}>
 <h1
