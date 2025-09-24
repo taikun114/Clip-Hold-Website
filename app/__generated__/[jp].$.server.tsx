@@ -25,7 +25,7 @@ export const getResources = (_props: { system: System }) => {
     description: "お探しの情報は見つかりませんでした。正しいページにアクセスしていることをご確認ください。",
     excludePageFromSearch: true,
     language: "ja-jp",
-    socialImageAssetName: "Clip_Hold_Social_TE0NTEigfDQqYTpCbg0vj.webp",
+    socialImageAssetName: "Clip_Hold_Social-ja_3731BMDfmvMqR8o3iej-U.webp",
     socialImageUrl: undefined,
     status: 404,
     redirect: undefined,

@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-09-11T06:46:56.937Z";
+      export const lastPublished = "2025-09-24T11:22:44.661Z";
 
       export const siteName = "Clip Hold";
 
@@ -586,7 +586,7 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 </Fragment_1>
 </Slot>
 <div
-className={`w-element c7z4ryg c14pipg4 c10idg3e c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv caanqdp c10ahqwr ccy4onp c12v245d c1k001t5 c11iyp3e c1s01ekh c1atdl27 cepgicz c1f7ljgu c1ikxxo6 c1otyg8m ccwkvc`}>
+className={`w-element c7z4ryg c14pipg4 c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv caanqdp c10ahqwr ccy4onp c12v245d c1k001t5 c11iyp3e c1s01ekh c1atdl27 cepgicz c1f7ljgu c1ikxxo6 c1otyg8m ccwkvc`}>
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed
@@ -1051,7 +1051,7 @@ className={`w-element c23z8nw cqo7lub`}>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1vr770l c10idg3e c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c10ahqwr ccy4onp c12v245d c1atdl27 cv0104a cepgicz cyxspfs c1qe7rj6 c1xndikr`}>
+className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c10ahqwr ccy4onp c12v245d c1atdl27 cv0104a cepgicz cyxspfs c1qe7rj6 c1xndikr`}>
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed

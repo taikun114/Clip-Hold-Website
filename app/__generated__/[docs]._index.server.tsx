@@ -25,7 +25,7 @@ export const getResources = (_props: { system: System }) => {
     description: "Welcome to the Clip Hold Documents!\nThis page provides information about Clip Hold, from how to use it to detailed settings.",
     excludePageFromSearch: false,
     language: "",
-    socialImageAssetName: "Clip_Hold_Social_TE0NTEigfDQqYTpCbg0vj.webp",
+    socialImageAssetName: "Clip_Hold_Social_xtI2IUhHGLa0MqrvDzbHv.webp",
     socialImageUrl: undefined,
     status: undefined,
     redirect: "",

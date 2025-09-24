@@ -25,7 +25,7 @@ export const getResources = (_props: { system: System }) => {
     description: "How to report bugs you find, how to send feedback such as idea sharing and messages to a developer, etc.",
     excludePageFromSearch: false,
     language: "",
-    socialImageAssetName: "Clip_Hold_Social_TE0NTEigfDQqYTpCbg0vj.webp",
+    socialImageAssetName: "Clip_Hold_Social_xtI2IUhHGLa0MqrvDzbHv.webp",
     socialImageUrl: undefined,
     status: undefined,
     redirect: "",

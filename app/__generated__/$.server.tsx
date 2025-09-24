@@ -25,7 +25,7 @@ export const getResources = (_props: { system: System }) => {
     description: "Sorry, the information you were looking for could not be found. Please make sure you are accessing the correct page.",
     excludePageFromSearch: true,
     language: undefined,
-    socialImageAssetName: "Clip_Hold_Social_TE0NTEigfDQqYTpCbg0vj.webp",
+    socialImageAssetName: "Clip_Hold_Social_xtI2IUhHGLa0MqrvDzbHv.webp",
     socialImageUrl: undefined,
     status: 404,
     redirect: undefined,

@@ -25,7 +25,7 @@ export const getResources = (_props: { system: System }) => {
     description: "このドキュメントでは、バージョン1.3.0以降で、履歴データを手動でアップグレードする方法を紹介しています。",
     excludePageFromSearch: false,
     language: "ja-jp",
-    socialImageAssetName: "Clip_Hold_Social-ja_FwhRk0b8xy2H06AW7fnhQ.webp",
+    socialImageAssetName: "Clip_Hold_Social-ja_3731BMDfmvMqR8o3iej-U.webp",
     socialImageUrl: undefined,
     status: undefined,
     redirect: "",

@@ -25,7 +25,7 @@ export const getResources = (_props: { system: System }) => {
     description: "Clip Hold has the feature to send notifications based on the status of the clipboard monitoring.",
     excludePageFromSearch: false,
     language: "",
-    socialImageAssetName: "Clip_Hold_Social_TE0NTEigfDQqYTpCbg0vj.webp",
+    socialImageAssetName: "Clip_Hold_Social_xtI2IUhHGLa0MqrvDzbHv.webp",
     socialImageUrl: undefined,
     status: undefined,
     redirect: "",

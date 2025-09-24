@@ -25,7 +25,7 @@ export const getResources = (_props: { system: System }) => {
     description: "All standard phrases and copy history can be accessed from the Standard Phrases Window and the History Window.\nThe Standard Phrases Window can be opened by clicking \"Show All Standard Phrases...\" in the Clip Hold menu bar icon, and the History Window by clicking \"Show All Copy History...\".\nThese windows can also be opened using shortcut keys. The Standard Phrases Window opens by default with Control + Command + V, and the History Window with Option + Command + V.",
     excludePageFromSearch: false,
     language: "",
-    socialImageAssetName: "Clip_Hold_Social_TE0NTEigfDQqYTpCbg0vj.webp",
+    socialImageAssetName: "Clip_Hold_Social_xtI2IUhHGLa0MqrvDzbHv.webp",
     socialImageUrl: undefined,
     status: undefined,
     redirect: "",

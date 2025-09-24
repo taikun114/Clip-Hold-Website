@@ -25,7 +25,7 @@ export const getResources = (_props: { system: System }) => {
     description: "Standard phrases and copy history can be accessed from the Clip Hold icon on the menu bar.\nClicking on each item will copy its contents to the clipboard.",
     excludePageFromSearch: false,
     language: "",
-    socialImageAssetName: "Clip_Hold_Social_TE0NTEigfDQqYTpCbg0vj.webp",
+    socialImageAssetName: "Clip_Hold_Social_xtI2IUhHGLa0MqrvDzbHv.webp",
     socialImageUrl: undefined,
     status: undefined,
     redirect: "",

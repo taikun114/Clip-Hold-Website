@@ -25,7 +25,7 @@ export const getResources = (_props: { system: System }) => {
     description: "すべての定型文やコピー履歴は、定型文ウィンドウと履歴ウィンドウからアクセスすることができます。\n定型文ウィンドウは、Clip Holdのメニューバーアイコンの「すべての定型文を表示...」、履歴ウィンドウは「すべてのコピー履歴を表示...」をクリックすることで開くことができます。\nこれらのウィンドウはショートカットキーを使って開くこともできます。定型文ウィンドウはデフォルトでControl + Command + Vキー、履歴ウィンドウはデフォルトでOption + Command + Vキーで開くことができます。",
     excludePageFromSearch: false,
     language: "ja-jp",
-    socialImageAssetName: "Clip_Hold_Social-ja_FwhRk0b8xy2H06AW7fnhQ.webp",
+    socialImageAssetName: "Clip_Hold_Social-ja_3731BMDfmvMqR8o3iej-U.webp",
     socialImageUrl: undefined,
     status: undefined,
     redirect: "",

@@ -25,7 +25,7 @@ export const getResources = (_props: { system: System }) => {
     description: "Clip Hold is not just a clipboard manager.\nIt is a clipboard manager app with a lot of very useful features that were designed by me, a power user who has been using Mac for more than 10 years.",
     excludePageFromSearch: false,
     language: undefined,
-    socialImageAssetName: "Clip_Hold_Social_TE0NTEigfDQqYTpCbg0vj.webp",
+    socialImageAssetName: "Clip_Hold_Social_xtI2IUhHGLa0MqrvDzbHv.webp",
     socialImageUrl: undefined,
     status: undefined,
     redirect: undefined,

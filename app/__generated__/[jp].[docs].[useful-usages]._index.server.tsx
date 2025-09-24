@@ -25,7 +25,7 @@ export const getResources = (_props: { system: System }) => {
     description: "このドキュメントでは、Clip Holdを使いこなして生産性を高めるために、様々な便利な使い方をご紹介しています。",
     excludePageFromSearch: false,
     language: "ja-jp",
-    socialImageAssetName: "Clip_Hold_Social-ja_FwhRk0b8xy2H06AW7fnhQ.webp",
+    socialImageAssetName: "Clip_Hold_Social-ja_3731BMDfmvMqR8o3iej-U.webp",
     socialImageUrl: undefined,
     status: undefined,
     redirect: "",
