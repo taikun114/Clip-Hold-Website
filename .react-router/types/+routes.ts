@@ -6,6 +6,7 @@ declare module "react-router" {
   interface Register {
     pages: Pages
     routeFiles: RouteFiles
+    routeModules: RouteModules
   }
 }
 
@@ -310,4 +311,49 @@ type RouteFiles = {
     id: "routes/$";
     page: "/*";
   };
+};
+
+type RouteModules = {
+  "root": typeof import("./app/root.tsx");
+  "routes/[jp].[docs].[standard-phrases-window-and-history-window]._index": typeof import("./app/routes/[jp].[docs].[standard-phrases-window-and-history-window]._index.tsx");
+  "routes/[docs].[standard-phrases-window-and-history-window]._index": typeof import("./app/routes/[docs].[standard-phrases-window-and-history-window]._index.tsx");
+  "routes/[jp].[docs].[export-and-import-of-standard-phrases]._index": typeof import("./app/routes/[jp].[docs].[export-and-import-of-standard-phrases]._index.tsx");
+  "routes/[jp].[docs].[standard-phrases-and-copy-history]._index": typeof import("./app/routes/[jp].[docs].[standard-phrases-and-copy-history]._index.tsx");
+  "routes/[docs].[export-and-import-of-standard-phrases]._index": typeof import("./app/routes/[docs].[export-and-import-of-standard-phrases]._index.tsx");
+  "routes/[docs].[standard-phrases-and-copy-history]._index": typeof import("./app/routes/[docs].[standard-phrases-and-copy-history]._index.tsx");
+  "routes/[jp].[docs].[upgrade-history-data]._index": typeof import("./app/routes/[jp].[docs].[upgrade-history-data]._index.tsx");
+  "routes/[docs].[upgrade-history-data]._index": typeof import("./app/routes/[docs].[upgrade-history-data]._index.tsx");
+  "routes/[jp].[docs].[notifications]._index": typeof import("./app/routes/[jp].[docs].[notifications]._index.tsx");
+  "routes/[jp].[docs].[useful-usages]._index": typeof import("./app/routes/[jp].[docs].[useful-usages]._index.tsx");
+  "routes/[docs].[notifications]._index": typeof import("./app/routes/[docs].[notifications]._index.tsx");
+  "routes/[docs].[useful-usages]._index": typeof import("./app/routes/[docs].[useful-usages]._index.tsx");
+  "routes/[jp].[buy-me-a-coffee]._index": typeof import("./app/routes/[jp].[buy-me-a-coffee]._index.tsx");
+  "routes/[jp].[docs].[settings]._index": typeof import("./app/routes/[jp].[docs].[settings]._index.tsx");
+  "routes/[jp].[github-release]._index": typeof import("./app/routes/[jp].[github-release]._index.tsx");
+  "routes/[jp].[privacy-policy]._index": typeof import("./app/routes/[jp].[privacy-policy]._index.tsx");
+  "routes/[jp].[mac-app-store]._index": typeof import("./app/routes/[jp].[mac-app-store]._index.tsx");
+  "routes/[jp].[release-notes]._index": typeof import("./app/routes/[jp].[release-notes]._index.tsx");
+  "routes/[jp].[github-repo]._index": typeof import("./app/routes/[jp].[github-repo]._index.tsx");
+  "routes/[buy-me-a-coffee]._index": typeof import("./app/routes/[buy-me-a-coffee]._index.tsx");
+  "routes/[docs].[settings]._index": typeof import("./app/routes/[docs].[settings]._index.tsx");
+  "routes/[jp].[docs].[faq]._index": typeof import("./app/routes/[jp].[docs].[faq]._index.tsx");
+  "routes/[github-release]._index": typeof import("./app/routes/[github-release]._index.tsx");
+  "routes/[jp].[paypal-me]._index": typeof import("./app/routes/[jp].[paypal-me]._index.tsx");
+  "routes/[privacy-policy]._index": typeof import("./app/routes/[privacy-policy]._index.tsx");
+  "routes/[mac-app-store]._index": typeof import("./app/routes/[mac-app-store]._index.tsx");
+  "routes/[release-notes]._index": typeof import("./app/routes/[release-notes]._index.tsx");
+  "routes/[jp].[support]._index": typeof import("./app/routes/[jp].[support]._index.tsx");
+  "routes/[github-repo]._index": typeof import("./app/routes/[github-repo]._index.tsx");
+  "routes/[sitemap.xml]._index": typeof import("./app/routes/[sitemap.xml]._index.tsx");
+  "routes/[docs].[faq]._index": typeof import("./app/routes/[docs].[faq]._index.tsx");
+  "routes/[jp].[docs]._index": typeof import("./app/routes/[jp].[docs]._index.tsx");
+  "routes/[paypal-me]._index": typeof import("./app/routes/[paypal-me]._index.tsx");
+  "routes/[support]._index": typeof import("./app/routes/[support]._index.tsx");
+  "routes/[docs]._index": typeof import("./app/routes/[docs]._index.tsx");
+  "routes/[robots.txt]": typeof import("./app/routes/[robots.txt].tsx");
+  "routes/[jp]._index": typeof import("./app/routes/[jp]._index.tsx");
+  "routes/[_image].$": typeof import("./app/routes/[_image].$.ts");
+  "routes/[jp].$": typeof import("./app/routes/[jp].$.tsx");
+  "routes/_index": typeof import("./app/routes/_index.tsx");
+  "routes/$": typeof import("./app/routes/$.tsx");
 };

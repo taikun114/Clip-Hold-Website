@@ -299,8 +299,8 @@
   .cegjyhq {
     z-index: 5
   }
-  .c109howh {
-    background-color: light-dark(#fff, #000)
+  .cbbr0dc {
+    background-color: light-dark(#F2F4FF,#131838)
   }
   .c14pipg4 {
     height: 100vh
@@ -383,9 +383,6 @@
   }
   .c1ruoz7k {
     margin-bottom: 2rem
-  }
-  .cbbr0dc {
-    background-color: light-dark(#F2F4FF,#131838)
   }
   .c1stm7fv {
     padding-top: 4rem
@@ -714,6 +711,9 @@
   }
   .c1hmrw97 {
     box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 16px 0px
+  }
+  .c109howh {
+    background-color: light-dark(#fff, #000)
   }
   .cafscv2 {
     z-index: 10
