@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-10-21T07:13:09.536Z";
+      export const lastPublished = "2025-11-02T06:16:26.978Z";
 
       export const siteName = "Clip Hold";
 
@@ -567,7 +567,7 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 <div
 className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c1k001t5 c1s01ekh c11iyp3e cks2l98 c1sacup0 cnbgtry ch91fr5`}>
 <div
-className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1jt805z cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
+className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1r1zv9s cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"Privacy Policy"}
@@ -585,7 +585,7 @@ className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c10ahqwr ccy4onp c12v245d c1atdl27 cv0104a cepgicz cyxspfs c1qe7rj6 c1xndikr`}>
+className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c10ahqwr ccy4onp c12v245d c1atdl27 c18r7lsh cik47ol cv0104a cepgicz cyxspfs c1qe7rj6 c1xndikr`}>
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed

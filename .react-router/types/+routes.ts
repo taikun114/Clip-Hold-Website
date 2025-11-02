@@ -195,7 +195,7 @@ type RouteFiles = {
     id: "routes/[docs].[useful-usages]._index";
     page: "/docs/useful-usages";
   };
-  "routes/[jp].[buy-me-a-coffee]._index.tsx": {
+  "routes/[jp].[buy-me-a-coffee]._index.ts": {
     id: "routes/[jp].[buy-me-a-coffee]._index";
     page: "/jp/buy-me-a-coffee";
   };
@@ -203,7 +203,7 @@ type RouteFiles = {
     id: "routes/[jp].[docs].[settings]._index";
     page: "/jp/docs/settings";
   };
-  "routes/[jp].[github-release]._index.tsx": {
+  "routes/[jp].[github-release]._index.ts": {
     id: "routes/[jp].[github-release]._index";
     page: "/jp/github-release";
   };
@@ -211,7 +211,7 @@ type RouteFiles = {
     id: "routes/[jp].[privacy-policy]._index";
     page: "/jp/privacy-policy";
   };
-  "routes/[jp].[mac-app-store]._index.tsx": {
+  "routes/[jp].[mac-app-store]._index.ts": {
     id: "routes/[jp].[mac-app-store]._index";
     page: "/jp/mac-app-store";
   };
@@ -219,11 +219,11 @@ type RouteFiles = {
     id: "routes/[jp].[release-notes]._index";
     page: "/jp/release-notes";
   };
-  "routes/[jp].[github-repo]._index.tsx": {
+  "routes/[jp].[github-repo]._index.ts": {
     id: "routes/[jp].[github-repo]._index";
     page: "/jp/github-repo";
   };
-  "routes/[buy-me-a-coffee]._index.tsx": {
+  "routes/[buy-me-a-coffee]._index.ts": {
     id: "routes/[buy-me-a-coffee]._index";
     page: "/buy-me-a-coffee";
   };
@@ -235,11 +235,11 @@ type RouteFiles = {
     id: "routes/[jp].[docs].[faq]._index";
     page: "/jp/docs/faq";
   };
-  "routes/[github-release]._index.tsx": {
+  "routes/[github-release]._index.ts": {
     id: "routes/[github-release]._index";
     page: "/github-release";
   };
-  "routes/[jp].[paypal-me]._index.tsx": {
+  "routes/[jp].[paypal-me]._index.ts": {
     id: "routes/[jp].[paypal-me]._index";
     page: "/jp/paypal-me";
   };
@@ -247,7 +247,7 @@ type RouteFiles = {
     id: "routes/[privacy-policy]._index";
     page: "/privacy-policy";
   };
-  "routes/[mac-app-store]._index.tsx": {
+  "routes/[mac-app-store]._index.ts": {
     id: "routes/[mac-app-store]._index";
     page: "/mac-app-store";
   };
@@ -259,7 +259,7 @@ type RouteFiles = {
     id: "routes/[jp].[support]._index";
     page: "/jp/support";
   };
-  "routes/[github-repo]._index.tsx": {
+  "routes/[github-repo]._index.ts": {
     id: "routes/[github-repo]._index";
     page: "/github-repo";
   };
@@ -275,7 +275,7 @@ type RouteFiles = {
     id: "routes/[jp].[docs]._index";
     page: "/jp/docs";
   };
-  "routes/[paypal-me]._index.tsx": {
+  "routes/[paypal-me]._index.ts": {
     id: "routes/[paypal-me]._index";
     page: "/paypal-me";
   };
@@ -327,27 +327,27 @@ type RouteModules = {
   "routes/[jp].[docs].[useful-usages]._index": typeof import("./app/routes/[jp].[docs].[useful-usages]._index.tsx");
   "routes/[docs].[notifications]._index": typeof import("./app/routes/[docs].[notifications]._index.tsx");
   "routes/[docs].[useful-usages]._index": typeof import("./app/routes/[docs].[useful-usages]._index.tsx");
-  "routes/[jp].[buy-me-a-coffee]._index": typeof import("./app/routes/[jp].[buy-me-a-coffee]._index.tsx");
+  "routes/[jp].[buy-me-a-coffee]._index": typeof import("./app/routes/[jp].[buy-me-a-coffee]._index.ts");
   "routes/[jp].[docs].[settings]._index": typeof import("./app/routes/[jp].[docs].[settings]._index.tsx");
-  "routes/[jp].[github-release]._index": typeof import("./app/routes/[jp].[github-release]._index.tsx");
+  "routes/[jp].[github-release]._index": typeof import("./app/routes/[jp].[github-release]._index.ts");
   "routes/[jp].[privacy-policy]._index": typeof import("./app/routes/[jp].[privacy-policy]._index.tsx");
-  "routes/[jp].[mac-app-store]._index": typeof import("./app/routes/[jp].[mac-app-store]._index.tsx");
+  "routes/[jp].[mac-app-store]._index": typeof import("./app/routes/[jp].[mac-app-store]._index.ts");
   "routes/[jp].[release-notes]._index": typeof import("./app/routes/[jp].[release-notes]._index.tsx");
-  "routes/[jp].[github-repo]._index": typeof import("./app/routes/[jp].[github-repo]._index.tsx");
-  "routes/[buy-me-a-coffee]._index": typeof import("./app/routes/[buy-me-a-coffee]._index.tsx");
+  "routes/[jp].[github-repo]._index": typeof import("./app/routes/[jp].[github-repo]._index.ts");
+  "routes/[buy-me-a-coffee]._index": typeof import("./app/routes/[buy-me-a-coffee]._index.ts");
   "routes/[docs].[settings]._index": typeof import("./app/routes/[docs].[settings]._index.tsx");
   "routes/[jp].[docs].[faq]._index": typeof import("./app/routes/[jp].[docs].[faq]._index.tsx");
-  "routes/[github-release]._index": typeof import("./app/routes/[github-release]._index.tsx");
-  "routes/[jp].[paypal-me]._index": typeof import("./app/routes/[jp].[paypal-me]._index.tsx");
+  "routes/[github-release]._index": typeof import("./app/routes/[github-release]._index.ts");
+  "routes/[jp].[paypal-me]._index": typeof import("./app/routes/[jp].[paypal-me]._index.ts");
   "routes/[privacy-policy]._index": typeof import("./app/routes/[privacy-policy]._index.tsx");
-  "routes/[mac-app-store]._index": typeof import("./app/routes/[mac-app-store]._index.tsx");
+  "routes/[mac-app-store]._index": typeof import("./app/routes/[mac-app-store]._index.ts");
   "routes/[release-notes]._index": typeof import("./app/routes/[release-notes]._index.tsx");
   "routes/[jp].[support]._index": typeof import("./app/routes/[jp].[support]._index.tsx");
-  "routes/[github-repo]._index": typeof import("./app/routes/[github-repo]._index.tsx");
+  "routes/[github-repo]._index": typeof import("./app/routes/[github-repo]._index.ts");
   "routes/[sitemap.xml]._index": typeof import("./app/routes/[sitemap.xml]._index.tsx");
   "routes/[docs].[faq]._index": typeof import("./app/routes/[docs].[faq]._index.tsx");
   "routes/[jp].[docs]._index": typeof import("./app/routes/[jp].[docs]._index.tsx");
-  "routes/[paypal-me]._index": typeof import("./app/routes/[paypal-me]._index.tsx");
+  "routes/[paypal-me]._index": typeof import("./app/routes/[paypal-me]._index.ts");
   "routes/[support]._index": typeof import("./app/routes/[support]._index.tsx");
   "routes/[docs]._index": typeof import("./app/routes/[docs]._index.tsx");
   "routes/[robots.txt]": typeof import("./app/routes/[robots.txt].tsx");

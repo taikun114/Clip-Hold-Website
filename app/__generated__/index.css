@@ -265,7 +265,7 @@
   }
   :root {
     color-scheme: light dark;
-    font-family: "DM Sans", "Noto Sans JP";
+    font-family: "DM Sans", "Noto Sans JP", sans-serif;
     font-weight: 500
   }
   .c7z4ryg {
@@ -769,6 +769,9 @@
   .c8dkrv8 {
     border-bottom-right-radius: 32px
   }
+  .c1r1zv9s {
+    max-width: 900px
+  }
   .cv0104a {
     padding: 2rem
   }
@@ -1023,9 +1026,6 @@
   }
   .c12817z7 {
     line-height: 1.5
-  }
-  .c1r1zv9s {
-    max-width: 900px
   }
   .ck3238v {
     top: 8px

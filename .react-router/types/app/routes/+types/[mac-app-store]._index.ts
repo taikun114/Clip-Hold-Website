@@ -5,7 +5,7 @@ import type { GetInfo, GetAnnotations } from "react-router/internal";
 type Module = typeof import("../[mac-app-store]._index.js")
 
 type Info = GetInfo<{
-  file: "routes/[mac-app-store]._index.tsx",
+  file: "routes/[mac-app-store]._index.ts",
   module: Module
 }>
 

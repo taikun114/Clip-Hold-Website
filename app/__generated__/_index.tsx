@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-10-21T07:13:09.536Z";
+      export const lastPublished = "2025-11-02T06:16:26.978Z";
 
       export const siteName = "Clip Hold";
 
@@ -1051,7 +1051,7 @@ className={`w-element c23z8nw cqo7lub`}>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c10ahqwr ccy4onp c12v245d c1atdl27 cv0104a cepgicz cyxspfs c1qe7rj6 c1xndikr`}>
+className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c10ahqwr ccy4onp c12v245d c1atdl27 c18r7lsh cik47ol cv0104a cepgicz cyxspfs c1qe7rj6 c1xndikr`}>
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed

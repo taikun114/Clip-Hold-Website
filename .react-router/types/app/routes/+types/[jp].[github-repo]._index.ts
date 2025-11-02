@@ -5,7 +5,7 @@ import type { GetInfo, GetAnnotations } from "react-router/internal";
 type Module = typeof import("../[jp].[github-repo]._index.js")
 
 type Info = GetInfo<{
-  file: "routes/[jp].[github-repo]._index.tsx",
+  file: "routes/[jp].[github-repo]._index.ts",
   module: Module
 }>
 
