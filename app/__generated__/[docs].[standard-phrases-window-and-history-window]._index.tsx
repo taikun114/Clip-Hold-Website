@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-11-02T06:16:26.978Z";
+      export const lastPublished = "2025-11-11T11:31:01.154Z";
 
       export const siteName = "Clip Hold";
 
@@ -30,14 +30,15 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
       
 
       const Page = (_props: { system: any; }) => {
+const system = _props.system;
 return <Body
 className={`w-element c1uoa21q c10ahqwr c1atdl27 cdm1ag0`}>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d c1ilsqas cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq`}>
+className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d c1ilsqas cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq cnq5uvv cn7vhbn`}>
 <div
-className={`w-element c1qopeiv c7z4ryg c1jt805z c1mbyuac c1c43ngc c10ahqwr ccy4onp cdm1ag0`}>
+className={`w-element c1qopeiv c7z4ryg c1jt805z c10ahqwr ccy4onp cdm1ag0`}>
 <Link
 href={"/"}
 className={`w-element c10ahqwr ccy4onp ciqrpa6 cdjvmmy`}>
@@ -302,9 +303,11 @@ className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
+<Slot>
+<Fragment_1>
 <NavigationMenuLink>
 <Link_1
-href={"/"}
+href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname)}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -314,7 +317,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp"}
+href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname)}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -322,6 +325,8 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </Text>
 </Link_1>
 </NavigationMenuLink>
+</Fragment_1>
+</Slot>
 </Box>
 </Box>
 </NavigationMenuContent>
@@ -361,9 +366,11 @@ className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
+<Slot>
+<Fragment_1>
 <NavigationMenuLink>
 <Link_1
-href={"/"}
+href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname)}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -373,7 +380,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp"}
+href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname)}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -381,6 +388,8 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </Text>
 </Link_1>
 </NavigationMenuLink>
+</Fragment_1>
+</Slot>
 </Box>
 </Box>
 </NavigationMenuContent>
@@ -565,12 +574,12 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 </Fragment_1>
 </Slot>
 <div
-className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c1k001t5 c1s01ekh c11iyp3e cks2l98 c1sacup0 cnbgtry ch91fr5`}>
+className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c1k001t5 c3qq3un c1y0vhl0 ckrv518 c6u7hdu cmvstsy c1h8opas`}>
 <div
 className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1r1zv9s cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
 <MarkdownEmbed
 code={"[Documents Home](/docs) / [Standard Phrases and Copy History](/docs#standard-phrases-and-copy-history) / **Standard Phrases Window and History Window**"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
@@ -582,14 +591,14 @@ className={`w-element c23z8nw c1dgg9g4 cua250e`}>
 </h2>
 <MarkdownEmbed
 code={"![Standard Phrases Window and History Window](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Standard-Phrase-and-History-Window.webp?raw=true)\n\nAll standard phrases and copy history can be accessed from the Standard Phrases window and the History window.\\\nThe Standard Phrases window can be opened by clicking \"Show All Standard Phrases...\" in the Clip Hold menu bar icon, and the History window by clicking \"Show All Copy History...\".\\\nThese windows can also be opened using shortcut keys. The Standard Phrases window opens by default with `^ (Control)` + `⌘ (Command)` + `V`, and the History window with `⌥ (Option)` + `⌘ (Command)` + `V`.\n\n#### About Each Item\nYou can copy items displayed in the window by double-clicking them.\\\nBy default, the window closes automatically after copying, but you can change this in the settings to keep it open.\n\n> **Tip**\\\n> Hovering over each item displays the entire content in a tooltip. This is useful when you want to check long content before copying it.\n\n![Creating QR Code](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/QR-Code.webp?raw=true)\n\nAdditionally, you can right-click each item to copy or create a QR Code, and even delete it (if deleted, it is also removed from storage).\\\nIn addition to these, the Standard Phrases window shows the option to edit a standard phrase, and the History window shows the option to create a standard phrase from the item.\n\n> **Tip**\\\n> You can copy rich text as plain text by clicking “Copy as Plain Text” from each item's menu.\\\n> You can also edit and copy a new item by clicking “Change and Copy...” from each item's menu. This is useful when you want to modify part of the copied text and copy it again.\n\n![Drag and Drop to Copy](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Drag-and-Drop-to-Copy.webp?raw=true)\n\nYou can also drag and drop each item to copy it to the dropped location.\\\nYou can drag the icon shown for each list items in the case of the Standard Phrases window, and for each list items in the case of the History window.\n\n#### Search\nYou can also search for standard phrases and copy history by typing keywords into the search bar at the top. The search function operates in the background, allowing for fast searches without freezing the UI, even with a large number of standard phrases or copy history items.\n\n#### Filtering and Sorting\n![Filtering and Sorting](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Filter-and-Sort.webp?raw=true)\n\nYou can filter and sort individually from the two buttons to the right of the search box.\n\nFiltering options are as follows.\n- All Items\n- Text Only\n  - All Text\n  - Plain Text Only\n  - Rich Text Only\n  - Links Only\n- Files Only\n  - All Files\n  - Images Only\n    - Files with the following extensions will be displayed: `jpg`, `jpeg`, `png`, `gif`, `bmp`, `heic`, `webp`, `tiff`, `tif`, `ico`, `icns`, `svg`, `eps`, `ai`, `psd`\n  - Videos Only\n    - Files with the following extensions will be displayed: `mov`, `mp4`, `avi`, `mkv`, `wmv`, `flv`, `webm`, `m4v`, `qt`\n  - PDF Only\n  - Folders Only\n  - Other Files\n- Color Code Only\n  - To show this option, you need to enable it from the “Developer Settings”.\n\nIn addition, you can also filter to specific apps only at the same time.\n\n> **Tip**\\\n> Selecting “Automatic” in the app will automatically switch the filter based on the app in the foreground.\\\n> For example, focusing on Safari will only show items copied from Safari, and focusing on Mail will only show items copied from Mail.\n\nSorting options are as follows.\n- Newest to Oldest\n- Oldest to Newest\n- Largest to Smallest File Sizes\n- Smallest to Largest File Sizes\n\n> **Tip**\\\n> When selecting the “Smallest to Largest File Sizes” sorting option, it is useful to specify “Only Files” or “Only Images” in the filtering options to prevent text items from being displayed.\n\n### Scanning QR Code Images\n![Scanning QR Code Images](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Drag-and-Drop-to-Copy-QR-Code.webp?raw=true)\n\nDrag and drop an image containing a QR Code into the History window, the contents of the QR Code will be copied and added to the History.\n\n> **Tip**\\\n> It is not necessary for the entire image to contain a QR Code as long as it contains a minimum readable resolution of QR Code.\n\n### Settings\nFor settings related to the Standard Phrases window, please refer to [**this page**](/docs/settings#standard-phrases-window), and for settings related to the History window, please refer to [**this page**](/docs/settings#history-window)."}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 </div>
 </div>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c10ahqwr ccy4onp c12v245d c1atdl27 c18r7lsh cik47ol cv0104a cepgicz cyxspfs c1qe7rj6 c1xndikr`}>
+className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c16qnb3j c10ahqwr ccy4onp c12v245d c1k001t5 c1y0vhl0 c3qq3un c1atdl27 c18r7lsh cik47ol cepgicz c1aeyyf c1f7ljgu ciyi9fo cacj515 c1qe7rj6 c1xndikr`}>
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed
@@ -648,7 +657,7 @@ className={`w-image`} />
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub c12grc7c c1co68v6`}>
+className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub cey7iys c175p17 c1rl5guf c12grc7c c1co68v6 c89z8hu`}>
 <Link
 href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}

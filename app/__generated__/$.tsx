@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-11-02T06:16:26.978Z";
+      export const lastPublished = "2025-11-11T11:31:01.154Z";
 
       export const siteName = "Clip Hold";
 
@@ -30,14 +30,15 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
       
 
       const Page = (_props: { system: any; }) => {
+const system = _props.system;
 return <Body
 className={`w-element cdm1ag0 c1uoa21q c10ahqwr c1atdl27`}>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d c1ilsqas cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq`}>
+className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d c1ilsqas cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq cnq5uvv cn7vhbn`}>
 <div
-className={`w-element c1qopeiv c7z4ryg c1jt805z c1mbyuac c1c43ngc c10ahqwr ccy4onp cdm1ag0`}>
+className={`w-element c1qopeiv c7z4ryg c1jt805z c10ahqwr ccy4onp cdm1ag0`}>
 <Link
 href={"/"}
 className={`w-element c10ahqwr ccy4onp ciqrpa6 cdjvmmy`}>
@@ -302,9 +303,11 @@ className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
+<Slot>
+<Fragment_1>
 <NavigationMenuLink>
 <Link_1
-href={"/"}
+href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname)}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -314,7 +317,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp"}
+href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname)}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -322,6 +325,8 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </Text>
 </Link_1>
 </NavigationMenuLink>
+</Fragment_1>
+</Slot>
 </Box>
 </Box>
 </NavigationMenuContent>
@@ -361,9 +366,11 @@ className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
+<Slot>
+<Fragment_1>
 <NavigationMenuLink>
 <Link_1
-href={"/"}
+href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname)}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -373,7 +380,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp"}
+href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname)}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -381,6 +388,8 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </Text>
 </Link_1>
 </NavigationMenuLink>
+</Fragment_1>
+</Slot>
 </Box>
 </Box>
 </NavigationMenuContent>
@@ -565,7 +574,7 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 </Fragment_1>
 </Slot>
 <div
-className={`w-element c7z4ryg c10ahqwr ccy4onp c12v245d c11iyp3e c1k001t5 c1s01ekh caanqdp c1sacup0 cks2l98 cnbgtry ch91fr5`}>
+className={`w-element c7z4ryg c10ahqwr ccy4onp c12v245d c1y0vhl0 c1k001t5 c3qq3un caanqdp c6u7hdu ckrv518 cmvstsy c1h8opas`}>
 <div
 className={`w-element c7z4ryg c1r1zv9s c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 cv0104a cg5ykre c1merv6x cdot8hu cssz5kv`}>
 <h1
@@ -583,7 +592,7 @@ className={`w-element cqo7lub c23z8nw c1yn6h70`}>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c10ahqwr ccy4onp c12v245d c1atdl27 c18r7lsh cik47ol cv0104a cepgicz cyxspfs c1qe7rj6 c1xndikr`}>
+className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c16qnb3j c10ahqwr ccy4onp c12v245d c1k001t5 c1y0vhl0 c3qq3un c1atdl27 c18r7lsh cik47ol cepgicz c1aeyyf c1f7ljgu ciyi9fo cacj515 c1qe7rj6 c1xndikr`}>
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed
@@ -642,7 +651,7 @@ className={`w-image`} />
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub c12grc7c c1co68v6`}>
+className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub cey7iys c175p17 c1rl5guf c12grc7c c1co68v6 c89z8hu`}>
 <Link
 href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}

@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-11-02T06:16:26.978Z";
+      export const lastPublished = "2025-11-11T11:31:01.154Z";
 
       export const siteName = "Clip Hold";
 
@@ -46,19 +46,20 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
             
 
             export const CustomCode = () => {
-              return (<><Style>{"\n  html {\n    scroll-padding-top: 6rem;\n    scroll-behavior: smooth;\n  }\n"}</Style>{"\n\n"}<Style>{"\n@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&family=Montserrat+Alternates:wght@600&family=Noto+Sans+JP:wght@100..900&display=swap');\n"}</Style>{"\n\n"}<Script async src={"https://www.googletagmanager.com/gtag/js?id=G-PDPFPP4EHC"}></Script><Script>{"\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PDPFPP4EHC');\n"}</Script>{"\n\n"}<Script defer src={"https://umami.taikun.blog/script.js"} data-website-id={"7d24e326-1c2e-413f-92d3-68cecbb8e7e9"}></Script></>);
+              return (<><meta name={"viewport"} content={"initial-scale=1, viewport-fit=cover"}></meta>{"\n\n"}<Style>{"\n  html {\n    scroll-padding-top: 6rem;\n    scroll-behavior: smooth;\n  }\n"}</Style>{"\n\n"}<Style>{"\n@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&family=Montserrat+Alternates:wght@600&family=Noto+Sans+JP:wght@100..900&display=swap');\n"}</Style>{"\n\n"}<Script async src={"https://www.googletagmanager.com/gtag/js?id=G-PDPFPP4EHC"}></Script><Script>{"\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PDPFPP4EHC');\n"}</Script>{"\n\n"}<Script defer src={"https://umami.taikun.blog/script.js"} data-website-id={"7d24e326-1c2e-413f-92d3-68cecbb8e7e9"}></Script>{"\n\n"}<link rel={"stylesheet"} href={"https://unpkg.com/nprogress@0.2.0/nprogress.css"}></link><Script src={"https://unpkg.com/nprogress@0.2.0/nprogress.js"}></Script>{"\n\n"}<Style>{"\n  #nprogress .bar {\n    background-color: rgba(72, 121, 226, 1) !important;\n  }\n"}</Style>{"\n\n"}<Script>{"\n  (function () {\n    // NProgress 設定\n    NProgress.configure({ showSpinner: false, trickleSpeed: 100 });\n\n    let startTime = 0;\n    const MIN_DURATION = 300; // 最低表示時間 0.3秒\n\n    // --- 🧱 NProgressのコンテナを <html> に移動してDOMリセット対策 ---\n    function ensureNProgressContainer() {\n      if (!document.getElementById(\"nprogress\")) return;\n      const np = document.getElementById(\"nprogress\");\n      if (np.parentNode !== document.documentElement) {\n        document.documentElement.appendChild(np);\n      }\n    }\n\n    // --- 進行開始 ---\n    function startProgress() {\n      ensureNProgressContainer();\n      if (NProgress.isStarted()) return;\n      startTime = Date.now();\n      NProgress.start();\n    }\n\n    // --- 完了 ---\n    function endProgress() {\n      const elapsed = Date.now() - startTime;\n      const remaining = Math.max(MIN_DURATION - elapsed, 0);\n      setTimeout(() => {\n        ensureNProgressContainer();\n        NProgress.done();\n      }, remaining);\n    }\n\n    // --- history APIフック ---\n    const originalPush = history.pushState;\n    const originalReplace = history.replaceState;\n\n    history.pushState = function (...args) {\n      startProgress();\n      const result = originalPush.apply(this, args);\n      endProgress();\n      return result;\n    };\n\n    history.replaceState = function (...args) {\n      startProgress();\n      const result = originalReplace.apply(this, args);\n      endProgress();\n      return result;\n    };\n\n    // --- 戻る／進む操作 ---\n    window.addEventListener(\"popstate\", () => {\n      startProgress();\n      setTimeout(endProgress, MIN_DURATION);\n    });\n\n    // --- 内部リンククリックで即スタート ---\n    document.addEventListener(\"click\", (e) => {\n      const link = e.target.closest(\"a\");\n      if (!link) return;\n      const isInternal =\n        link.host === window.location.host &&\n        !link.target &&\n        !link.hasAttribute(\"download\") &&\n        !link.href.startsWith(\"mailto:\");\n      if (isInternal) startProgress();\n    });\n\n    // --- 初回ロード時 ---\n    window.addEventListener(\"load\", () => {\n      ensureNProgressContainer();\n      NProgress.done();\n    });\n\n    // --- SPAの再描画タイミング対策 ---\n    const observer = new MutationObserver(() => ensureNProgressContainer());\n    observer.observe(document.documentElement, { childList: true, subtree: true });\n  })();\n"}</Script>{" \n"}</>);
             }
           
 
       const Page = (_props: { system: any; }) => {
+const system = _props.system;
 return <Body
 className={`w-element cbbr0dc`}>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d c1ilsqas cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq`}>
+className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d c1ilsqas cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq cnq5uvv cn7vhbn`}>
 <div
-className={`w-element c1qopeiv c7z4ryg c1jt805z c1mbyuac c1c43ngc c10ahqwr ccy4onp cdm1ag0`}>
+className={`w-element c1qopeiv c7z4ryg c1jt805z c10ahqwr ccy4onp cdm1ag0`}>
 <Link
 href={"/"}
 className={`w-element c10ahqwr ccy4onp ciqrpa6 cdjvmmy`}>
@@ -323,9 +324,11 @@ className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
+<Slot>
+<Fragment_1>
 <NavigationMenuLink>
 <Link_1
-href={"/"}
+href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname)}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -335,7 +338,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp"}
+href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname)}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -343,6 +346,8 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </Text>
 </Link_1>
 </NavigationMenuLink>
+</Fragment_1>
+</Slot>
 </Box>
 </Box>
 </NavigationMenuContent>
@@ -382,9 +387,11 @@ className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
+<Slot>
+<Fragment_1>
 <NavigationMenuLink>
 <Link_1
-href={"/"}
+href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname)}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -394,7 +401,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp"}
+href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname)}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -402,6 +409,8 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </Text>
 </Link_1>
 </NavigationMenuLink>
+</Fragment_1>
+</Slot>
 </Box>
 </Box>
 </NavigationMenuContent>
@@ -586,7 +595,7 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 </Fragment_1>
 </Slot>
 <div
-className={`w-element c7z4ryg c14pipg4 c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv caanqdp c10ahqwr ccy4onp c12v245d c1k001t5 c11iyp3e c1s01ekh c1atdl27 cepgicz c1f7ljgu c1ikxxo6 c1otyg8m ccwkvc`}>
+className={`w-element c7z4ryg c1ozennv c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv caanqdp c10ahqwr ccy4onp c12v245d c1k001t5 c1y0vhl0 c3qq3un c1atdl27 cepgicz c1f7ljgu ciyi9fo cacj515 ccwkvc`}>
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed
@@ -645,7 +654,7 @@ className={`w-image`} />
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub c12grc7c c1co68v6`}>
+className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub cey7iys c175p17 c1rl5guf c12grc7c c1co68v6 c89z8hu`}>
 <Link
 href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
@@ -694,7 +703,7 @@ className={`w-element c1x1dfts c12fyb4s cik47ol c1mbyuac c1c43ngc c19cs4i7 c2oe4
 </p>
 </div>
 <div
-className={`w-element c7z4ryg c10ahqwr ccy4onp c12v245d cbbr0dc c1atdl27 c1stm7fv c1o69y7d c1s01ekh c11iyp3e c159jr2l c1pnm7s cks2l98 c1sacup0 c1ndny3z c1kwqs5p cnbgtry ch91fr5 cdw0jo8 cbcybab`}>
+className={`w-element c7z4ryg c10ahqwr ccy4onp c12v245d cbbr0dc c1atdl27 c1stm7fv c1o69y7d c3qq3un c1y0vhl0 c159jr2l c1pnm7s ckrv518 c6u7hdu c1ndny3z c1kwqs5p cmvstsy c1h8opas cdw0jo8 cbcybab`}>
 <div
 className={`w-element c1r1zv9s`}>
 <h2
@@ -954,7 +963,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 className={`w-element cfoar8i c13ilcm6 c1w497fm c8dkrv8 c142ylfi ctv2jj6 cndeprc c1r1zv9s cg5ykre c1merv6x cdot8hu cssz5kv c1kc7yp1 c1jmc64i`}>
 <HtmlEmbed
 code={"<table>\n  <thead>\n    <tr>\n      <th style\">Features</th>\n      <th>Mac App Store Version</th>\n      <th>GitHub Version</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Price</td>\n      <td><span style=\"font-size: 24px;\"><strong>$2.99*</strong></span> / One-time purchase</td>\n      <td><strong><span style=\"font-size: 24px;\">Free</span></strong></td>\n    </tr>\n    <tr>\n      <td>Access from Menu</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Standard Phrases and History Window</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Standard Phrase Presets</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>App Assignment of Presets</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Shortcut Keys</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Quick Paste</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Import and Export</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Show Color Codes</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Create and Scan QR Codes</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Pause Clipboard Monitoring</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Exclude Apps</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Privacy Protection</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Automatic App Updates</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#a5000025, #ff000025); color: light-dark(#a50000, #ff0000);\">×</td>\n    </tr>\n  </tbody>\n</table>\n"}
-className={`w-html-embed cxsst0j c1dm57t7 c14et3xy c1p94064 cf7vwbz c1pt54az c1v1aqip c1fybrir c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c1c5nuzn c11drp1d c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-html-embed cxsst0j c1dm57t7 c14et3xy c1p94064 cf7vwbz c1pt54az c1v1aqip c1fybrir c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c1c5nuzn c11drp1d c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </HtmlEmbed>
 </div>
 <p
@@ -1046,12 +1055,43 @@ className={`w-element c23z8nw cqo7lub`}>
 </Link>
 </div>
 </div>
+<div
+className={`w-element`}>
+<h3
+className={`w-element c1yn6h70 ck3238v c23z8nw cqo7lub c1karaxo`}>
+{"Are you interested in other apps too?"}
+</h3>
+<p
+className={`w-element c1yn6h70 clfs8zh c2oe4sx c1dgg9g4 c1uj2yq0 c12817z7`}>
+{"I'd be very happy if you could try out my other apps as well!"}
+<br />
+{"You can see my other apps here."}
+</p>
+<div
+className={`w-element c10ahqwr c17rvfg7 cc7vtwb cz4mm69`}>
+<Link
+href={"https://www.taikun.design/en/apps"}
+target={"_blank"}
+aria-label={"See All Apps Button"}
+data-umami-event={"all-apps"}
+data-umami-event-region={"us"}
+className={`w-element cs02lc cdjvmmy`}>
+<div
+className={`w-element c5shpkj c170tjmx c1vn5tfs c1kp31s8 czucxib cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld c1yk3zoa c1ga2ams cgbsic3 cinh8md c10mtjet c10h7c1p`}>
+<p
+className={`w-element c23z8nw cqo7lub`}>
+{"See All Apps"}
+</p>
+</div>
+</Link>
+</div>
+</div>
 </div>
 </div>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c10ahqwr ccy4onp c12v245d c1atdl27 c18r7lsh cik47ol cv0104a cepgicz cyxspfs c1qe7rj6 c1xndikr`}>
+className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c16qnb3j c10ahqwr ccy4onp c12v245d c1k001t5 c1y0vhl0 c3qq3un c1atdl27 c18r7lsh cik47ol cepgicz c1aeyyf c1f7ljgu ciyi9fo cacj515 c1qe7rj6 c1xndikr`}>
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed
@@ -1110,7 +1150,7 @@ className={`w-image`} />
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub c12grc7c c1co68v6`}>
+className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub cey7iys c175p17 c1rl5guf c12grc7c c1co68v6 c89z8hu`}>
 <Link
 href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}

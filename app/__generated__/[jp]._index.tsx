@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-11-02T06:16:26.978Z";
+      export const lastPublished = "2025-11-11T11:31:01.154Z";
 
       export const siteName = "Clip Hold";
 
@@ -30,14 +30,15 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
       
 
       const Page = (_props: { system: any; }) => {
+const system = _props.system;
 return <Body
 className={`w-element cbbr0dc`}>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d c1ilsqas cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq c1m7ydhu`}>
+className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d c1ilsqas cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq cnq5uvv cn7vhbn c1m7ydhu`}>
 <div
-className={`w-element c1qopeiv c7z4ryg c1jt805z c1mbyuac c1c43ngc c10ahqwr ccy4onp cdm1ag0`}>
+className={`w-element c1qopeiv c7z4ryg c1jt805z c10ahqwr ccy4onp cdm1ag0`}>
 <Link
 href={"/jp"}
 className={`w-element c10ahqwr ccy4onp ciqrpa6 cdjvmmy`}>
@@ -302,9 +303,11 @@ className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
+<Slot>
+<Fragment_1>
 <NavigationMenuLink>
 <Link_1
-href={"/"}
+href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname)}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -314,7 +317,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp"}
+href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname)}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -322,6 +325,8 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </Text>
 </Link_1>
 </NavigationMenuLink>
+</Fragment_1>
+</Slot>
 </Box>
 </Box>
 </NavigationMenuContent>
@@ -361,9 +366,11 @@ className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
+<Slot>
+<Fragment_1>
 <NavigationMenuLink>
 <Link_1
-href={"/"}
+href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname)}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -373,7 +380,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp"}
+href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname)}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -381,6 +388,8 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </Text>
 </Link_1>
 </NavigationMenuLink>
+</Fragment_1>
+</Slot>
 </Box>
 </Box>
 </NavigationMenuContent>
@@ -563,7 +572,7 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 </Fragment_1>
 </Slot>
 <div
-className={`w-element c7z4ryg c14pipg4 c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv caanqdp c10ahqwr ccy4onp c12v245d c1k001t5 c11iyp3e c1s01ekh c1atdl27 cepgicz c1f7ljgu c1ikxxo6 c1otyg8m ccwkvc`}>
+className={`w-element c7z4ryg c1ozennv c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv caanqdp c10ahqwr ccy4onp c12v245d c1k001t5 c1y0vhl0 c3qq3un c1atdl27 cepgicz c1f7ljgu ciyi9fo cacj515 ccwkvc`}>
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed
@@ -622,7 +631,7 @@ className={`w-image`} />
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub c12grc7c c1co68v6`}>
+className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub cey7iys c175p17 c1rl5guf c12grc7c c1co68v6 c89z8hu`}>
 <Link
 href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
@@ -671,7 +680,7 @@ className={`w-element c1x1dfts c12fyb4s cik47ol c1mbyuac c1c43ngc c19cs4i7 c2oe4
 </p>
 </div>
 <div
-className={`w-element c7z4ryg c10ahqwr ccy4onp c12v245d cbbr0dc c1atdl27 c1stm7fv c1o69y7d c1s01ekh c11iyp3e c159jr2l c1pnm7s cks2l98 c1sacup0 c1ndny3z c1kwqs5p cnbgtry ch91fr5 cdw0jo8 cbcybab`}>
+className={`w-element c7z4ryg c10ahqwr ccy4onp c12v245d cbbr0dc c1atdl27 c1stm7fv c1o69y7d c3qq3un c1y0vhl0 c159jr2l c1pnm7s ckrv518 c6u7hdu c1ndny3z c1kwqs5p cmvstsy c1h8opas cdw0jo8 cbcybab`}>
 <div
 className={`w-element c1r1zv9s`}>
 <h2
@@ -928,7 +937,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 className={`w-element cfoar8i c13ilcm6 c1w497fm c8dkrv8 c142ylfi ctv2jj6 cndeprc c1r1zv9s cg5ykre c1merv6x cdot8hu cssz5kv c1kc7yp1 c1jmc64i`}>
 <HtmlEmbed
 code={"<table>\n  <thead>\n    <tr>\n      <th>機能</th>\n      <th>Mac App Store版</th>\n      <th>GitHub版</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>価格</td>\n      <td><span style=\"font-size: 24px;\"><strong>500円</strong></span> / 一回限り</td>\n      <td><strong><span style=\"font-size: 24px;\">無料</span></strong></td>\n    </tr>\n    <tr>\n      <td>メニューからアクセス</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>定型文と履歴ウィンドウ</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>定型文プリセット</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>プリセットのアプリ割り当て</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>ショートカットキー</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>クイックペースト</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>インポートとエクスポート</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>カラーコードの表示</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>QRコードの作成と読み取り</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>クリップボード監視の一時停止</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>アプリの除外</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>プライバシーの保護</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>アプリの自動アップデート</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#a5000025, #ff000025); color: light-dark(#a50000, #ff0000);\">×</td>\n    </tr>\n  </tbody>\n</table>\n"}
-className={`w-html-embed c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c1c5nuzn c11drp1d c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2 cxsst0j c1dm57t7 c14et3xy c1p94064 cf7vwbz c1pt54az c1v1aqip c1fybrir`}>
+className={`w-html-embed c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c1c5nuzn c11drp1d c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2 cxsst0j c1dm57t7 c14et3xy c1p94064 cf7vwbz c1pt54az c1v1aqip c1fybrir`}>
 </HtmlEmbed>
 </div>
 <p
@@ -1013,12 +1022,43 @@ className={`w-element c23z8nw cqo7lub`}>
 </Link>
 </div>
 </div>
+<div
+className={`w-element`}>
+<h3
+className={`w-element c1yn6h70 ck3238v c23z8nw cqo7lub c1karaxo`}>
+{"他のアプリにも興味はありませんか？"}
+</h3>
+<p
+className={`w-element c1yn6h70 clfs8zh c2oe4sx c1dgg9g4 c1uj2yq0 c12817z7`}>
+{"​私が開発している他のアプリもお試しいただけるととてもうれしいです！"}
+<br />
+{"他のアプリはこちらからご覧いただけます。"}
+</p>
+<div
+className={`w-element c10ahqwr c17rvfg7 cc7vtwb cz4mm69`}>
+<Link
+href={"https://www.taikun.design/apps"}
+target={"_blank"}
+aria-label={"すべてのアプリを見るボタン"}
+data-umami-event={"all-apps"}
+data-umami-event-region={"jp"}
+className={`w-element cs02lc cdjvmmy`}>
+<div
+className={`w-element c5shpkj c170tjmx c1vn5tfs c1kp31s8 czucxib cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld c1yk3zoa c1ga2ams cgbsic3 cinh8md c10mtjet c10h7c1p`}>
+<p
+className={`w-element c23z8nw cqo7lub`}>
+{"すべてのアプリを見る"}
+</p>
+</div>
+</Link>
+</div>
+</div>
 </div>
 </div>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c10ahqwr ccy4onp c12v245d c1atdl27 c18r7lsh cik47ol cv0104a cepgicz cyxspfs c1qe7rj6 c1xndikr`}>
+className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c16qnb3j c10ahqwr ccy4onp c12v245d c1k001t5 c1y0vhl0 c3qq3un c1atdl27 c18r7lsh cik47ol cepgicz c1aeyyf c1f7ljgu ciyi9fo cacj515 c1qe7rj6 c1xndikr`}>
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed
@@ -1077,7 +1117,7 @@ className={`w-image`} />
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub c12grc7c c1co68v6`}>
+className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub cey7iys c175p17 c1rl5guf c12grc7c c1co68v6 c89z8hu`}>
 <Link
 href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}

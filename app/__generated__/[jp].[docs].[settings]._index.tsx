@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-11-02T06:16:26.978Z";
+      export const lastPublished = "2025-11-11T11:31:01.154Z";
 
       export const siteName = "Clip Hold";
 
@@ -30,14 +30,15 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
       
 
       const Page = (_props: { system: any; }) => {
+const system = _props.system;
 return <Body
 className={`w-element c1uoa21q c10ahqwr c1atdl27 cdm1ag0`}>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d c1ilsqas cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq c1m7ydhu`}>
+className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d c1ilsqas cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq cnq5uvv cn7vhbn c1m7ydhu`}>
 <div
-className={`w-element c1qopeiv c7z4ryg c1jt805z c1mbyuac c1c43ngc c10ahqwr ccy4onp cdm1ag0`}>
+className={`w-element c1qopeiv c7z4ryg c1jt805z c10ahqwr ccy4onp cdm1ag0`}>
 <Link
 href={"/jp"}
 className={`w-element c10ahqwr ccy4onp ciqrpa6 cdjvmmy`}>
@@ -302,9 +303,11 @@ className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
+<Slot>
+<Fragment_1>
 <NavigationMenuLink>
 <Link_1
-href={"/"}
+href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname)}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -314,7 +317,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp"}
+href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname)}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -322,6 +325,8 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </Text>
 </Link_1>
 </NavigationMenuLink>
+</Fragment_1>
+</Slot>
 </Box>
 </Box>
 </NavigationMenuContent>
@@ -361,9 +366,11 @@ className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
 className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
+<Slot>
+<Fragment_1>
 <NavigationMenuLink>
 <Link_1
-href={"/"}
+href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname)}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -373,7 +380,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={"/jp"}
+href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname)}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -381,6 +388,8 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </Text>
 </Link_1>
 </NavigationMenuLink>
+</Fragment_1>
+</Slot>
 </Box>
 </Box>
 </NavigationMenuContent>
@@ -563,12 +572,12 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 </Fragment_1>
 </Slot>
 <div
-className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c1s01ekh c11iyp3e c1k001t5 cks2l98 c1sacup0 cnbgtry ch91fr5`}>
+className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c3qq3un c1y0vhl0 c1k001t5 ckrv518 c6u7hdu cmvstsy c1h8opas`}>
 <div
 className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1r1zv9s cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
 <MarkdownEmbed
 code={"[ドキュメントホーム](/jp/docs) / [その他](/jp/docs#other) / **設定**"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
@@ -576,7 +585,7 @@ className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 </h1>
 <MarkdownEmbed
 code={"## 一般\n### Clip Holdの設定\n\n- **ログイン時に開く**\n  - Macのログイン時にClip Holdを自動で開くようにします。\n  - デフォルト: `オフ`\n- **クイックペースト**\n  - 定型文またはコピー履歴をメニューから選択したとき、またはショートカットキーでコピーしたときに、Command + Vキー操作を送信します。アクセシビリティの許可が必要です。\n  - デフォルト: `オフ`\n- **クイックペーストをテキストに限定**\n  - 履歴項目がテキストである場合のみクイックペーストを行うようにします。\n  - デフォルト: `オフ`\n\n> **豆知識**\\\n> クイックペーストの詳細については[**こちらのドキュメント**](/jp/docs/standard-phrases-and-copy-history#%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%88)からご確認いただけます。\n\n### メニュー\n\n- **定型文の最大表示数**\n  - メニューに表示される定型文の最大数を設定します。\n  - デフォルト: `5`\n- **履歴の最大表示数**\n  - メニューに表示される履歴の最大数を設定します。\n  - デフォルト: `10`\n- **メニューバーアイコンを隠す**\n  - Clip Holdのメニューバーアイコンを一時的に非表示にします。もう一度アプリを開くと再び表示されるようになります。\n  - デフォルト: `オフ`"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h3
 id={"定型文ウィンドウ"}
@@ -585,7 +594,7 @@ className={`w-element c23z8nw c11yke06`}>
 </h3>
 <MarkdownEmbed
 code={"- **常に最前面に表示**\n  - ウィンドウを常に最も手前に表示します。\n  - デフォルト: `オフ`\n- **オーバーレイ表示**\n  - フォーカスが当たっていない時は、ウィンドウを半透明にします。\n  - デフォルト: `オフ`\n- **オーバーレイ時の透明度**\n  - 「オーバーレイ表示」がオンになっている時、ウィンドウが半透明状態の透明度を20%から80%の間で設定することができます。\n  - デフォルト: `50%`\n- **番号を隠す**\n  - 各項目に表示される番号を非表示にします。\n  - デフォルト: `オフ`\n- **ダブルクリックでウィンドウを閉じる**\n  - 項目をダブルクリックしてコピーしたときにウィンドウを閉じるようにします。\n  - デフォルト: `オフ`"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h3
 id={"履歴ウィンドウ"}
@@ -594,18 +603,18 @@ className={`w-element c23z8nw c11yke06`}>
 </h3>
 <MarkdownEmbed
 code={"- **常に最前面に表示**\n  - ウィンドウを常に最も手前に表示します。\n  - デフォルト: `オフ`\n- **オーバーレイ表示**\n  - フォーカスが当たっていない時は、ウィンドウを半透明にします。\n  - デフォルト: `オフ`\n- **オーバーレイ時の透明度**\n  - 「オーバーレイ表示」がオンになっている時、ウィンドウが半透明状態の透明度を20%から80%の間で設定することができます。\n  - デフォルト: `50%`\n- **アプリアイコンを表示**\n  - コピーしたときに最前面にあったアプリアイコンを各項目に表示します。\n  - デフォルト: `オン`\n- **自動スクロール**\n  - リストが更新されたとき、リストを自動的に最も上にスクロールします。\n  - デフォルト: `オン`\n- **番号を隠す**\n  - 各項目に表示される番号を非表示にします。\n  - デフォルト: `オフ`\n- **ダブルクリックでウィンドウを閉じる**\n  - 項目をダブルクリックしてコピーしたときにウィンドウを閉じるようにします。\n  - デフォルト: `オフ`\n- **アプリの「自動」フィルタリングでClip Holdのウィンドウ除外**\n  - アプリの「自動」フィルタリングが有効な状態でClip Holdのウィンドウ（履歴ウィンドウなど）をフォーカスしたときに、フィルタリングするアプリが切り替わらないようにします。\n  - デフォルト: `オフ`\n\n## 定型文\n### プリセットの設定\nプリセットの追加、削除、編集、並び替えを行うことができます。\n\n> **豆知識**\\\n> リスト項目を右クリックして「複製」をクリックすることでプリセットを複製することができます。\n\n- **ショートカットキーで切り替えたときに通知を送信する**\n  - ショートカットキーを使ってプリセットを切り替えたときに、切り替わったプリセット名が記載された通知を送信するかどうかを切り替えます。\n  - デフォルト: `オン`\n\n### プリセットの割り当て\n指定したアプリの追加、削除、すべて削除を行うことができます。\n\n> **豆知識**\\\n> アプリをリストにドラッグアンドドロップすることでもリストに追加することができます。\n\n- **Clip Holdのウィンドウを除外**\n  - Clip Holdのウィンドウ（定型文ウィンドウなど）をフォーカスしたときに、プリセットが切り替わらないようにします。\n  - デフォルト: `オフ`\n- **割り当てるプリセット**\n  - アプリに割り当てたいプリセットを選択します。\n\n### 定型文の設定\n定型文の追加、削除、編集、すべて削除、並び替えを行うことができます。\n\n> **豆知識**\\\n> リスト項目を右クリックして「別のプリセットに移動...」をクリックすることで指定した定型文を別のプリセットに移動することができます。\\\n> また、「複製」をクリックすることで定型文を複製することもできます。\n\n- **プリセット**\n  - 現在のプリセットを切り替えます。\n \n### 定型文の管理\n\n- **定型文**\n  - **インポート**\n    - 書き出した定型文のJSONファイルを読み込みます。\n  - **エクスポート**\n    - すべて、または特定のプリセットの定型文をJSONファイルとして書き出します。\n- **すべての定型文を削除**\n  - 設定されたすべての定型文を削除します。\n- **すべてのプリセットを削除**\n  - 設定されたすべてのプリセットを削除します。\n\n> **豆知識**\\\n> 定型文のエクスポートとインポート方法は[**こちらのドキュメント**](/jp/docs/export-and-import-of-standard-phrases)からご確認いただけます。\n\n## コピー履歴\n### 履歴の設定\n\n- **履歴の最大保存数**\n  - Clip Holdに保存する履歴の最大数を設定します。\n  - デフォルト: `無制限`\n- **コピーアラートを表示する容量**\n  - ここで設定した容量よりも大きいファイルをコピーしようとした際に、コピーしたファイルを履歴に保存するかどうかを求めるアラートが表示されます。\n  - デフォルト: `1 GB`\n- **各ファイルの最大容量**\n  - ここで設定した容量よりも小さいファイルがコピーされた時だけ、履歴に保存されます。過去の履歴は影響を受けません。\n  - デフォルト: `無制限`\n- **定型文を無視する**\n  - コピーした定型文を履歴に追加しないようにします。\n  - デフォルト: `オフ`\n\n### 履歴の管理\n\n- **クリップボード履歴**\n  - **インポート**\n    - 書き出したクリップボード履歴のJSONファイルを読み込みます。\n  - **エクスポート**\n    - すべてのクリップボード履歴をJSONファイルとして書き出します。\n- **すべての履歴を削除**\n  - 保存されたすべてのコピー履歴を削除します。\n\n### 保存フォルダの管理\n\n- **保存フォルダの項目数:**\n  - コピーしたファイルが保存されているフォルダ内の項目数が表示されます。\n- **保存フォルダの総容量:**\n  - コピーしたファイルが保存されているフォルダ内の総容量が表示されます。\n- **保存フォルダを開く**\n  - コピーしたファイルが保存されているフォルダをFinderで開きます。\n- **保存フォルダを空にする**\n  - コピーしたファイルが保存されているフォルダ内の項目をすべて削除します。関連する履歴も削除されます。\n\n## ショートカット\n### ウィンドウ操作\n\n- **定型文ウィンドウを開く**\n  - 定型文ウィンドウを開くためのショートカットキーを設定します。\n  - デフォルト: `^ (Control)` + `⌘ (Command)` + `V`\n- **履歴ウィンドウを開く**\n  - 履歴ウィンドウを開くためのショートカットキーを設定します。\n  - デフォルト: `⌥ (Option)` + `⌘ (Command)` + `V`\n\n#### プライバシー\n\n- **クリップボード監視を切り替える**\n  - クリップボード監視を切り替えるためのショートカットキーを設定します。\n  - デフォルト: `⌥ (Option)` + `⌘ (Command)` + `M`\n\n#### プリセット\n\n- **新しいプリセットを追加する**\n  - 新しいプリセットを追加するためのショートカットキーを設定します。\n  - デフォルト: `^ (Control)` + `⌘ (Command)` + `N`\n- **プリセットを切り替える**\n  - プリセットを切り替えるためのショートカットキーを設定します。\n  - デフォルト: `^ (Control)` + `⌘ (Command)` + `P`\n\n#### 定型文\n\n- **1番目の定型文をコピーする**\n  - 1番目の定型文をコピーするためのショートカットキーを設定します。\n  - デフォルト: `^ (Control)` + `⌘ (Command)` + `1`\n- **2番目の定型文をコピーする**\n  - 2番目の定型文をコピーするためのショートカットキーを設定します。\n  - デフォルト: `^ (Control)` + `⌘ (Command)` + `2`\n- **3番目の定型文をコピーする**\n  - 3番目の定型文をコピーするためのショートカットキーを設定します。\n  - デフォルト: `^ (Control)` + `⌘ (Command)` + `3`\n- **4番目の定型文をコピーする**\n  - 4番目の定型文をコピーするためのショートカットキーを設定します。\n  - デフォルト: `^ (Control)` + `⌘ (Command)` + `4`\n- **5番目の定型文をコピーする**\n  - 5番目の定型文をコピーするためのショートカットキーを設定します。\n  - デフォルト: `^ (Control)` + `⌘ (Command)` + `5`\n- **6番目の定型文をコピーする**\n  - 6番目の定型文をコピーするためのショートカットキーを設定します。\n  - デフォルト: `^ (Control)` + `⌘ (Command)` + `6`\n- **7番目の定型文をコピーする**\n  - 7番目の定型文をコピーするためのショートカットキーを設定します。\n  - デフォルト: `^ (Control)` + `⌘ (Command)` + `7`\n- **8番目の定型文をコピーする**\n  - 8番目の定型文をコピーするためのショートカットキーを設定します。\n  - デフォルト: `^ (Control)` + `⌘ (Command)` + `8`\n- **9番目の定型文をコピーする**\n  - 9番目の定型文をコピーするためのショートカットキーを設定します。\n  - デフォルト: `^ (Control)` + `⌘ (Command)` + `9`\n- **10番目の定型文をコピーする**\n  - 10番目の定型文をコピーするためのショートカットキーを設定します。\n  - デフォルト: `^ (Control)` + `⌘ (Command)` + `0`\n- **新しい定型文を追加する**\n  - 新しい定型文を追加するためのショートカットキーを設定します。\n  - デフォルト: `^ (Control)` + `⌘ (Command)` + `A`\n- **クリップボードの内容から定型文を追加する**\n  - 現在のクリップボード内容を使って新しいスタンダードフレーズを追加するショートカットキーを設定します。\n  - デフォルト: `^ (Control)` + `⌘ (Command)` + `C`\n\n#### コピー履歴\n\n- **履歴ウィンドウフィルタリングされたコピー履歴を使用**\n  - 履歴ウィンドウが開いていてフィルタリングが適用されている場合、ショートカットキーでフィルタリングされた履歴をコピーできるようにします。\n  - デフォルト: `オフ`\n- **1番目の履歴をコピーする**\n  - 1番目の履歴をコピーするためのショートカットキーを設定します。\n  - デフォルト: `⌥ (Option)` + `⌘ (Command)` + `1`\n- **2番目の履歴をコピーする**\n  - 2番目の履歴をコピーするためのショートカットキーを設定します。\n  - デフォルト: `⌥ (Option)` + `⌘ (Command)` + `2`\n- **3番目の履歴をコピーする**\n  - 3番目の履歴をコピーするためのショートカットキーを設定します。\n  - デフォルト: `⌥ (Option)` + `⌘ (Command)` + `3`\n- **4番目の履歴をコピーする**\n  - 4番目の履歴をコピーするためのショートカットキーを設定します。\n  - デフォルト: `⌥ (Option)` + `⌘ (Command)` + `4`\n- **5番目の履歴をコピーする**\n  - 5番目の履歴をコピーするためのショートカットキーを設定します。\n  - デフォルト: `⌥ (Option)` + `⌘ (Command)` + `5`\n- **6番目の履歴をコピーする**\n  - 6番目の履歴をコピーするためのショートカットキーを設定します。\n  - デフォルト: `⌥ (Option)` + `⌘ (Command)` + `6`\n- **7番目の履歴をコピーする**\n  - 7番目の履歴をコピーするためのショートカットキーを設定します。\n  - デフォルト: `⌥ (Option)` + `⌘ (Command)` + `7`\n- **8番目の履歴をコピーする**\n  - 8番目の履歴をコピーするためのショートカットキーを設定します。\n  - デフォルト: `⌥ (Option)` + `⌘ (Command)` + `8`\n- **9番目の履歴をコピーする**\n  - 9番目の履歴をコピーするためのショートカットキーを設定します。\n  - デフォルト: `⌥ (Option)` + `⌘ (Command)` + `9`\n- **10番目の履歴をコピーする**\n  - 10番目の履歴をコピーするためのショートカットキーを設定します。\n  - デフォルト: `⌥ (Option)` + `⌘ (Command)` + `0`\n- **最新の履歴を編集してコピーする**\n  - 最新の履歴を編集してコピーするためのショートカットキーを設定します。\n  - デフォルト: `⌥ (Option)` + `⌘ (Command)` + `E`\n\n## プライバシー\n\n> **豆知識**\\\n> インジケーターを色で区別するのが難しい場合、システム設定から「カラー以外で区別」をオンにすることで、インジケーターを図形で区別することができるようになります。\n\n### クリップボード\n\n- **クリップボード監視**\n  - **一時停止**\n    - クリップボード監視を一時停止します。\n  - **再開**\n    - クリップボード監視を再開します。\n\n### 権限\n\n- **通知**\n  - **設定を開く**\n    - システム設定の通知設定を開きます。\n  - **通知をテスト**\n    - テスト通知を送信します。\n- **アクセシビリティ**\n  - **設定を開く**\n    - システム設定のアクセシビリティ許可設定を開きます。\n\n### 除外するアプリ\nクリップボード監視から除外するアプリの追加、削除、すべて削除を行うことができます。\n\n> **豆知識**\\\n> アプリをリストにドラッグアンドドロップすることでもリストに追加することができます。\n\n## 開発者向け機能\n### テキスト\n- **文字数カウントを表示**\n  - 履歴ウィンドウとメニューの日付の後に、文字数カウントを表示するかどうかを切り替えます。\n  - デフォルト: `オフ`\n\n### カラーコード\n- **カラーコードに基づくカラーアイコンを表示**\n  - HEX、HSL / HSLA、RGB / RGBA形式のカラーコードをコピーしたときに履歴と定型文ウィンドウ、メニューにカラーアイコンを表示するかどうかを切り替えます。\n  - デフォルト: `オフ`\n- **カラーコードでフィルタリングできるようにする**\n  - 履歴ウィンドウのフィルタリングオプションに「カラーコードのみ」を追加するかどうかを切り替えます。\n  - デフォルト: `オフ`\n\n### デバッグ\n- **すべての設定をリセット**\n  - **リセット...**\n    - アプリのすべての設定を初期状態に戻します。コピー履歴と定型文は影響を受けません。\n\n## 情報\n### Clip Holdについて\nアプリのバージョン、ビルド番号、著作権情報が表示されます。アプリのライセンス情報、開発に携わった貢献者を確認することができます。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <HtmlEmbed
 code={"<h3>サポートとフィードバック</h3>\n<p>バグ報告、フィードバックの送信、<a href=\"https://github.com/taikun114/Clip-Hold/discussions\" target=\"_blank\" data-umami-event=\"gh-discussion\" data-umami-event-region=\"jp\"><b>コミュニティ（ディスカッション）ページ</b></a>へのアクセスを行うことができます。</p>\n\n<h3>開発者をサポート</h3>\n<p>リポジトリにスターをつけるために<a href=\"https://github.com/taikun114/Clip-Hold\" target=\"_blank\" data-umami-event=\"gh-repo\" data-umami-event-region=\"jp\"><b>リポジトリへのページ</b></a>を開いたり、<a href=\"https://www.buymeacoffee.com/i_am_taikun\" target=\"_blank\" data-umami-event=\".buymeacoffee\" data-umami-event-region=\"jp\"><b>Buy Me a Coffee</b></a>や<a href=\"https://paypal.me/taikun114\" target=\"_blank\" data-umami-event=\"paypal\" data-umami-event-region=\"jp\"><b>PayPal.Me</b></a>のページを開いたりすることができます。</p>"}
-className={`w-html-embed cvh06f7 cz7p94 c1s236z9 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-html-embed cvh06f7 cz7p94 c1s236z9 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </HtmlEmbed>
 </div>
 </div>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c10ahqwr ccy4onp c12v245d c1atdl27 c18r7lsh cik47ol cv0104a cepgicz cyxspfs c1qe7rj6 c1xndikr`}>
+className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv c16qnb3j c10ahqwr ccy4onp c12v245d c1k001t5 c1y0vhl0 c3qq3un c1atdl27 c18r7lsh cik47ol cepgicz c1aeyyf c1f7ljgu ciyi9fo cacj515 c1qe7rj6 c1xndikr`}>
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed
@@ -664,7 +673,7 @@ className={`w-image`} />
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub c12grc7c c1co68v6`}>
+className={`w-element c10ahqwr cz4mm69 c17rvfg7 cc7vtwb c2oe4sx cqo7lub cey7iys c175p17 c1rl5guf c12grc7c c1co68v6 c89z8hu`}>
 <Link
 href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
