@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-12-02T08:15:19.716Z";
+      export const lastPublished = "2025-12-02T08:34:39.895Z";
 
       export const siteName = "Clip Hold";
 
@@ -584,7 +584,7 @@ className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"通知"}
 </h1>
 <MarkdownEmbed
-code={"![クリップボード監視の一時停止](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Pause-Clipboard-Monitoring-ja.webp?raw=true)\n\nClip Holdには、**クリップボード監視の状態に応じて通知が送信される**機能が搭載されています。\n\n以下の時に通知が届きます。\n\n- クリップボード監視を一時停止した時\n- クリップボード監視を再開した時\n- クリップボード監視が一時停止の状態でアプリを起動した時\n- 設定からテスト通知を送信した時\n- 履歴ファイルのアップグレードに成功した時と失敗した時\n- キーボードショートカットでプリセットを切り替えた時\n\nこのうち、「クリップボード監視が一時停止の状態でアプリを起動した時」と「履歴ファイルのアップグレードに成功した時と失敗した時」に届く通知のみサウンドが再生されます。\\\nまた、前差の通知パネルには「再開」ボタンがあり、そこをクリックすることでクリップボード監視を素早く再開することができます。後者の場合、アップグレードに失敗したときの通知パネルにのみ「ドキュメントを表示...」ボタンがあり、そこをクリックすることで[**履歴ファイルの手動アップグレード方法に関するドキュメントページ**](/jp/docs/upgrade-history-data)を開くことができます。"}
+code={"![クリップボード監視の一時停止](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Pause-Clipboard-Monitoring-ja.webp?raw=true)\n\nClip Holdには、**クリップボード監視の状態に応じて通知が送信される**機能が搭載されています。\n\n以下の時に通知が届きます。\n\n- クリップボード監視を一時停止した時\n- クリップボード監視を再開した時\n- クリップボード監視が一時停止の状態でアプリを起動した時\n- 設定からテスト通知を送信した時\n- 履歴ファイルのアップグレードに成功した時と失敗した時\n- キーボードショートカットでプリセットを切り替えた時\n- 設定されていない定型文を呼び出すキーボードショートカットが押された時\n\nこのうち、「クリップボード監視が一時停止の状態でアプリを起動した時」と「履歴ファイルのアップグレードに成功した時と失敗した時」に届く通知のみサウンドが再生されます。\\\nまた、前差の通知パネルには「再開」ボタンがあり、そこをクリックすることでクリップボード監視を素早く再開することができます。後者の場合、アップグレードに失敗したときの通知パネルにのみ「ドキュメントを表示...」ボタンがあり、そこをクリックすることで[**履歴ファイルの手動アップグレード方法に関するドキュメントページ**](/jp/docs/upgrade-history-data)を開くことができます。"}
 className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 </div>
