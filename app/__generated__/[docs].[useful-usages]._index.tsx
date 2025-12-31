@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-12-02T08:34:39.895Z";
+      export const lastPublished = "2025-12-31T12:17:45.726Z";
 
       export const siteName = "Clip Hold";
 
@@ -36,7 +36,7 @@ className={`w-element c1uoa21q c10ahqwr c1atdl27 cdm1ag0`}>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d c1ilsqas cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq cnq5uvv cn7vhbn`}>
+className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d czcq795 cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq cnq5uvv cn7vhbn`}>
 <div
 className={`w-element c1qopeiv c7z4ryg c1jt805z c10ahqwr ccy4onp cdm1ag0`}>
 <Link
@@ -81,13 +81,13 @@ className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
 href={"/docs"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Documents"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"How to use the app and other documentation"}
 </Paragraph>
 </Link_1>
@@ -95,13 +95,13 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 <NavigationMenuLink>
 <Link_1
 href={"/release-notes"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Release Notes"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"Update history and changelog"}
 </Paragraph>
 </Link_1>
@@ -109,13 +109,13 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 <NavigationMenuLink>
 <Link_1
 href={"/support"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Support and Feedback"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"Bug reports, contacts, etc."}
 </Paragraph>
 </Link_1>
@@ -123,13 +123,13 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 <NavigationMenuLink>
 <Link_1
 href={"/privacy-policy"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Privacy Policy"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"About handling of personal information in the app"}
 </Paragraph>
 </Link_1>
@@ -168,13 +168,13 @@ href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
 data-umami-event={"gh-repo"}
 data-umami-event-region={"us"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Give It a Star to the Repository"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"I would be so glad if you could open repository page and give it a star by clicking the “Star” button in the upper right corner!"}
 </Paragraph>
 </Link_1>
@@ -185,13 +185,13 @@ href={"https://www.buymeacoffee.com/i_am_taikun"}
 target={"_blank"}
 data-umami-event={"buymeacoffee"}
 data-umami-event-region={"us"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Buy Me a Coffee"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"You can support me at Buy Me a Coffee from the price of a cup of green tea"}
 </Paragraph>
 </Link_1>
@@ -202,13 +202,13 @@ href={"https://paypal.me/taikun114"}
 target={"_blank"}
 data-umami-event={"paypal"}
 data-umami-event-region={"us"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"PayPal.Me"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"If you have a PayPal account, you can also donate directly at PayPal."}
 </Paragraph>
 </Link_1>
@@ -247,13 +247,13 @@ href={"https://apps.apple.com/app/clip-hold/id6748125479"}
 target={"_blank"}
 data-umami-event={"mac-app-store"}
 data-umami-event-region={"us"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"from Mac App Store"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"Support a developer by purchasing an app"}
 </Paragraph>
 </Link_1>
@@ -264,13 +264,13 @@ href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 data-umami-event={"gh-release"}
 data-umami-event-region={"us"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"from GitHub"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"Download the app for free"}
 </Paragraph>
 </Link_1>
@@ -308,7 +308,7 @@ className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
 href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname)}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"English"}
@@ -318,7 +318,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 <NavigationMenuLink>
 <Link_1
 href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname)}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Japanese (日本語)"}
@@ -335,7 +335,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 <Box
 className={`w-box c12fyb4s chu2gw7 c10ahqwr c12v245d cllx2wu`}>
 <NavigationMenuViewport
-className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c18rgb3y caqkv26 cknkzax chdvygq c145ebzo c1hmrw97 c109howh cafscv2 c1tt00pm c5gq79w cfq9b07 cbsu0mq cpv83kh`} />
+className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c18rgb3y caqkv26 cirmrkx chdvygq c145ebzo c169pe5h c109howh cafscv2 c1tt00pm c5gq79w cfq9b07 cbsu0mq cpv83kh`} />
 </Box>
 </NavigationMenu>
 <NavigationMenu
@@ -371,7 +371,7 @@ className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
 href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname)}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"English"}
@@ -381,7 +381,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 <NavigationMenuLink>
 <Link_1
 href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname)}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Japanese (日本語)"}
@@ -400,7 +400,7 @@ className={`w-menu-item`}>
 <NavigationMenuTrigger>
 <Button
 aria-label={"ナビゲーションメニュー"}
-className={`w-button c6t8baf ccy4onp c12v245d c1bxwz0t c1qhcdyy c1fi5cuq cht0eit ci7vqja c7feqdc c170tjmx c1vn5tfs c1kp31s8 czucxib cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ksihlx cge9bev cjk2p3u c1ey153p c1wffj6h cg3odet cwblwtu c14z3omo ca508ev c1r1ndh8 cz89aj4 ckffmm9 crs1rsf c1q1affg cjb1u0k c1uzl7ts cao2a7h c1jvzd51 c18wbi70`}>
+className={`w-button c6t8baf ccy4onp c12v245d c1phwbjc c1qhcdyy c1fi5cuq cht0eit ci7vqja c7feqdc c170tjmx c1vn5tfs c1kp31s8 czucxib cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ksihlx cge9bev cjk2p3u c1ey153p c1wffj6h cg3odet cwblwtu c14z3omo ca508ev c1r1ndh8 cfl6z32 ckffmm9 crs1rsf c1q1affg cjb1u0k c1uzl7ts cao2a7h c1jvzd51 cgq20k9`}>
 <Box
 className={`w-box c1uc2j84 c1kss2rn c1mrqewb`}>
 <HtmlEmbed
@@ -418,13 +418,13 @@ className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27 ctsrmp7 c142ylfi c
 <NavigationMenuLink>
 <Link_1
 href={"/docs"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Documents"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"How to use the app and other documentation"}
 </Paragraph>
 </Link_1>
@@ -432,13 +432,13 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 <NavigationMenuLink>
 <Link_1
 href={"/release-notes"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Release Notes"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"Update history and changelog"}
 </Paragraph>
 </Link_1>
@@ -446,13 +446,13 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 <NavigationMenuLink>
 <Link_1
 href={"/support"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Support and Feedback"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"Bug reports, contacts, etc."}
 </Paragraph>
 </Link_1>
@@ -460,13 +460,13 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 <NavigationMenuLink>
 <Link_1
 href={"/privacy-policy"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Privacy Policy"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"About handling of personal information in the app"}
 </Paragraph>
 </Link_1>
@@ -477,13 +477,13 @@ href={"https://apps.apple.com/app/clip-hold/id6748125479"}
 target={"_blank"}
 data-umami-event={"mac-app-store"}
 data-umami-event-region={"us"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Download from Mac App Store"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"Support a developer by purchasing an app"}
 </Paragraph>
 </Link_1>
@@ -494,13 +494,13 @@ href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 data-umami-event={"gh-release"}
 data-umami-event-region={"us"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Download from GitHub"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"Download the app for free"}
 </Paragraph>
 </Link_1>
@@ -511,13 +511,13 @@ href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
 data-umami-event={"gh-repo"}
 data-umami-event-region={"us"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Give It a Star to the Repository"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"I would be so glad if you could open repository page and give it a star by clicking the “Star” button in the upper right corner!"}
 <br />
 {""}
@@ -530,13 +530,13 @@ href={"https://www.buymeacoffee.com/i_am_taikun"}
 target={"_blank"}
 data-umami-event={"buymeacoffee"}
 data-umami-event-region={"us"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Buy Me a Coffee"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"You can support me at Buy Me a Coffee from the price of a cup of green tea"}
 </Paragraph>
 </Link_1>
@@ -547,13 +547,13 @@ href={"https://paypal.me/taikun114"}
 target={"_blank"}
 data-umami-event={"paypal"}
 data-umami-event-region={"us"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"PayPal.Me"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"If you have a PayPal account, you can also donate directly at PayPal."}
 </Paragraph>
 </Link_1>
@@ -566,7 +566,7 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 <Box
 className={`w-box c12fyb4s chu2gw7 c10ahqwr c12v245d c1x5aw03 c15f3w52`}>
 <NavigationMenuViewport
-className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c18rgb3y caqkv26 cknkzax chdvygq c145ebzo c1hmrw97 c109howh cafscv2 c1tt00pm c5gq79w cfq9b07 cbsu0mq cpv83kh`} />
+className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c18rgb3y caqkv26 cirmrkx chdvygq c145ebzo c169pe5h c109howh cafscv2 c1tt00pm c5gq79w cfq9b07 cbsu0mq cpv83kh`} />
 </Box>
 </NavigationMenu>
 </div>
@@ -579,7 +579,7 @@ className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c1k001t5
 className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1r1zv9s cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
 <MarkdownEmbed
 code={"[Documents Home](/docs) / [General](/docs#general) / **Useful Usage of Clip Hold**"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
@@ -587,7 +587,7 @@ className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 </h1>
 <MarkdownEmbed
 code={"Clip Hold has a variety of useful features that can greatly enhance your work efficiency by making full use of them.\\\nThis document introduces several usage techniques that can be very useful if you keep them in mind. Use the useful features to increase your work efficiency!"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h2
 className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
@@ -595,7 +595,7 @@ className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
 </h2>
 <MarkdownEmbed
 code={"![Use Shortcut Keys to Paste in Sequence](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Sequential-Paste.webp?raw=true)\n\nThe \"Quick Paste\" feature combined with a shortcut key allows you to paste copied text **in the order it was copied**.\n\n### Steps\n\n1. Ensure \"Quick Paste\" is turned on in the Clip Hold settings and that accessibility permissions have been granted.\\\n   For more information on Quick Paste, please see the [**Quick Paste documentation**](/docs/standard-phrases-and-copy-history#quick-paste).\n2. **Copy the text or files in the order you want to paste them**.\n3. Press the shortcut key for copying a history of the same number as the number of times you have copied, the **same number of times as you have copied**.\\\n   Example: If you copied text 5 times, press the shortcut key to copy the 5th history (default is `⌥ (Option)` + `⌘ (Command)` + `5` keys) 5 times.\n\n> **Note**\\\n> The shortcut keys are for up to the 10th copy history, so the maximum number of times you can paste in order is also 10.\n\n> **Note**\\\n> Pressing the shortcut key too quickly may not work. If it doesn't work, try waiting for 0.5 seconds or more between presses.\n\n> **Tip**\\\n> You can customize the shortcut key for copying a previous history from the \"**Shortcuts**\" settings in Clip Hold.\n\n> **Tip**\\\n> It is convenient to turn on \"**Show Numbers**\" in the \"**History Window**\" section of the \"**General**\" settings in Clip Hold settings and keep the History window open, as you can **quickly check the number of times you have copied**."}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h2
 className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
@@ -603,7 +603,7 @@ className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
 </h2>
 <MarkdownEmbed
 code={"![Switch Standard Phrases Presets for Each App](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Assign-Presets-to-Apps.webp?raw=true)\n\nBy assigning the created preset to an app, you can automatically switch presets when the assigned app is in the foreground.\n\n### Steps\n\n![Assign Presets](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Assign-Presets.png?raw=true)\n\n1. Create a preset that you want to assign to an app. If a preset already exists, you can use that one.\n2. Open the \"**Standard Phrases**\" settings in Clip Hold's Settings.\n3. In the \"**Assign Presets**\" section, switch to the preset you want to assign the app to, using the \"**Preset to Assign**\" option.\n4. Click the \"**+**\" button at the bottom of the list to add the app you want to assign.\\\n   Currently running apps will be displayed in a list, but you can also add your preferred app from Finder.\n5. Open the added app and check that the preset has been switched.\n\n> **Tip**\\\n> You can assign multiple apps to a single preset, which is useful if you want to use a specific preset across multiple apps. However, note that you cannot assign the same app to multiple presets.\n\n> **Tip**\\\n> You can prevent presets from switching when focusing on the Standard Phrases window by enabling “Exclude Clip Hold Windows” in the Settings."}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h2
 className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
@@ -611,7 +611,7 @@ className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
 </h2>
 <MarkdownEmbed
 code={"![Share Text or Links with QR Code](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/QR-Code.webp?raw=true)\n\nClip Hold includes a feature that allows you to create and display a QR Code, which is convenient for easily sharing text and links with your smartphone or other devices.\n\n### Steps\n\n1. **Copy the text or link you want to create a QR Code for, or create a standard phrase**.\n2. Open the **History window or Standard Phrases window**.\n3. Right-click the item you want to create a QR Code for, or click \"**Show QR Code...**\" from the menu on the right.\n\n> **Note**\\\n> It may not be possible to create a QR Code if the text is too long or contains invalid characters.\n\n> **Tip**\\\n> You can copy or save the QR Code image by right-clicking on the generated QR Code."}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h2
 className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
@@ -619,7 +619,7 @@ className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
 </h2>
 <MarkdownEmbed
 code={"![Scan and Copy the QR Code Contained in the Image](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Copy-QR-Code-Contents.webp?raw=true)\n\nClip Hold allows you to scan images containing a QR Code and copy its content. This turns Clip Hold into a simple QR Code scanner, which is useful for scanning a QR Code displayed on your screen.\n\n### Steps\n\n1. **Copy the image containing the QR Code**.\n2. Open the **History window**.\n3. Right-click the image item containing the QR Code, or click \"**Copy QR Code Contents**\" from the menu on the right.\n\n> **Note**\\\n> \"**Copy QR Code Contents**\" is only displayed for items where the **QR Code scan was successful**.\\\n> The QR Code included in the image must be at a minimum readable resolution. Blurry or unclear images may not be scannable. If \"**Copy QR Code Contents**\" is not displayed, you will need to copy a higher-resolution image.\n\n> **Note**\\\n> If an image contains multiple QR Codes, it may not be scanned correctly. If your desired QR Code is not scanned, please ensure the image contains only one QR Code.\n\n> **Tip**\\\n> The QR Code does not need to fill the entire image; it can be read as long as it is present and large enough to be readable."}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h2
 className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
@@ -627,7 +627,7 @@ className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
 </h2>
 <MarkdownEmbed
 code={"![Scanning QR Code Images](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Drag-and-Drop-to-Copy-QR-Code.webp?raw=true)\n\nYou can drag and drop an image containing a QR Code into the History window to copy its content.\n\n### Steps\n\n1. **Drag and drop the image containing the QR Code into the History window**.\n\n> **Note**\\\n> Drag and drop copying of QR Code images is only displayed for items where the **QR Code scan was successful**.\\\n> The QR Code included in the image must be at a minimum readable resolution. Blurry or unclear images may not be scanable. If you drag and drop an image and nothing appears, you will need to drag and drop a higher-resolution image.\n\n> **Note**\\\n> If an image contains multiple QR Codes, it may not be scanned correctly. If your desired QR Code is not scanned, please ensure the image contains only one QR Code.\n\n> **Tip**\\\n> The QR Code does not need to fill the entire image; it can be read as long as it is present and large enough to be readable."}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h2
 className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
@@ -635,11 +635,11 @@ className={`w-element c1cgzzq8 c1dgg9g4 cua250e`}>
 </h2>
 <MarkdownEmbed
 code={"![Show a Color Icon Based on Color Code](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Copy-Color-Codes.webp?raw=true)\n\nBy enabling a setting in **Developer Features**, you can display a color icon based on the copied color code in the History and Standard Phrases windows, and in the menu. If you frequently work with color codes, this feature is very useful because you can see the color at a glance.\n\n### Steps\n\n1. Open \"**Developer Features**\" in Clip Hold's Settings.\n2. Turn on the \"**Show a Color Icon Based on Color Code**\" switch in the \"**Color Codes**\" section.\n3. Copy a color code and check that the color icon is displayed.\n\n> **Note**\\\n> The following types of color codes are currently supported:\n> - **HEX**\\\n>   Example: `#4879E2`, `4879e2ff`, etc.\n> - **HSL / HSLA**\\\n>   Example: `hsl(221deg 73% 58%)`, `hsla(221deg, 73%, 58%, 1)`, etc.\n> - **RGB / RGBA**\\\n>   Example: `rgb(72 121 226)`, `rgba(72, 121, 226, 1)`, etc.\n\n> **Tip**\\\n> Color codes are designed to be recognized correctly even with slight variations in notation. For example, text like `hsl(221deg 73% 58%)`, `hsl(221, 73, 58)`, or `hsl(221deg,73,58/1)` will be recognized without any issues.\n\n> **Tip**\\\n> If you turn on “**Allow Filtering by Color Codes**” in the same settings, “**Color Code Only**” will be added to the filtering options in the History window, allowing you to filter down to just the color code."}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <MarkdownEmbed
 code={"This document will be updated continuously.\\\nIf you have any information or suggestions that you would like to see added, please send us [**feedback**](/support)."}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t c1d83kno c1ivf25o c6nfgdb cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t c1d83kno c1yalx9n c6nfgdb cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 </div>
 </div>
@@ -656,11 +656,11 @@ className={`w-html-embed c13o8mej cit9x1f c1nnnk8m c4f6612 c9gwnxb c1bge907 c1xo
 <div
 className={`w-element c1mbyuac c17yqxus c1ghn8z4`}>
 <h1
-className={`w-element cvddzxn cbgovzd c117tk5u clk5tgp c7ep1pc c1x1dfts c1f3f3n8 cks20wo`}>
+className={`w-element cvddzxn cbgovzd c117tk5u clk5tgp c7ep1pc c1ucel5e c1f3f3n8 cks20wo`}>
 {"Clip Hold"}
 </h1>
 <p
-className={`w-element c1x1dfts c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 cqx7kte`}>
+className={`w-element c1ucel5e c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 cqx7kte`}>
 {"Become a Clipboard Expert"}
 </p>
 <Slot>
@@ -743,7 +743,7 @@ className={`w-markdown-embed cvwxmdx c13jyokv c17xwl4u c1445yj8 c1tqhnvc c1xhku0
 </Fragment_1>
 </Slot>
 <p
-className={`w-element cmfetcc cqo7lub c15rzea7 cbgovzd c1f3f3n8`}>
+className={`w-element cmfetcc cqo7lub cqrwb2y cbgovzd c1f3f3n8`}>
 {"Compatible with macOS Sonoma (14.0) or later"}
 </p>
 </div>

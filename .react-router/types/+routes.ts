@@ -68,6 +68,9 @@ type Pages = {
   "/jp/release-notes": {
     params: {};
   };
+  "/jp/docs/news": {
+    params: {};
+  };
   "/jp/github-repo": {
     params: {};
   };
@@ -96,6 +99,9 @@ type Pages = {
     params: {};
   };
   "/jp/support": {
+    params: {};
+  };
+  "/docs/news": {
     params: {};
   };
   "/github-repo": {
@@ -145,7 +151,7 @@ type Pages = {
 type RouteFiles = {
   "root.tsx": {
     id: "root";
-    page: "/" | "/jp/docs/standard-phrases-window-and-history-window" | "/docs/standard-phrases-window-and-history-window" | "/jp/docs/export-and-import-of-standard-phrases" | "/jp/docs/standard-phrases-and-copy-history" | "/docs/export-and-import-of-standard-phrases" | "/docs/standard-phrases-and-copy-history" | "/jp/docs/upgrade-history-data" | "/docs/upgrade-history-data" | "/jp/docs/notifications" | "/jp/docs/useful-usages" | "/docs/notifications" | "/docs/useful-usages" | "/jp/buy-me-a-coffee" | "/jp/docs/settings" | "/jp/github-release" | "/jp/privacy-policy" | "/jp/mac-app-store" | "/jp/release-notes" | "/jp/github-repo" | "/buy-me-a-coffee" | "/docs/settings" | "/jp/docs/faq" | "/github-release" | "/jp/paypal-me" | "/privacy-policy" | "/mac-app-store" | "/release-notes" | "/jp/support" | "/github-repo" | "/sitemap.xml" | "/docs/faq" | "/jp/docs" | "/paypal-me" | "/support" | "/docs" | "/robots.txt" | "/jp" | "/_image/*" | "/jp/*" | "/*";
+    page: "/" | "/jp/docs/standard-phrases-window-and-history-window" | "/docs/standard-phrases-window-and-history-window" | "/jp/docs/export-and-import-of-standard-phrases" | "/jp/docs/standard-phrases-and-copy-history" | "/docs/export-and-import-of-standard-phrases" | "/docs/standard-phrases-and-copy-history" | "/jp/docs/upgrade-history-data" | "/docs/upgrade-history-data" | "/jp/docs/notifications" | "/jp/docs/useful-usages" | "/docs/notifications" | "/docs/useful-usages" | "/jp/buy-me-a-coffee" | "/jp/docs/settings" | "/jp/github-release" | "/jp/privacy-policy" | "/jp/mac-app-store" | "/jp/release-notes" | "/jp/docs/news" | "/jp/github-repo" | "/buy-me-a-coffee" | "/docs/settings" | "/jp/docs/faq" | "/github-release" | "/jp/paypal-me" | "/privacy-policy" | "/mac-app-store" | "/release-notes" | "/jp/support" | "/docs/news" | "/github-repo" | "/sitemap.xml" | "/docs/faq" | "/jp/docs" | "/paypal-me" | "/support" | "/docs" | "/robots.txt" | "/jp" | "/_image/*" | "/jp/*" | "/*";
   };
   "routes/[jp].[docs].[standard-phrases-window-and-history-window]._index.tsx": {
     id: "routes/[jp].[docs].[standard-phrases-window-and-history-window]._index";
@@ -219,6 +225,10 @@ type RouteFiles = {
     id: "routes/[jp].[release-notes]._index";
     page: "/jp/release-notes";
   };
+  "routes/[jp].[docs].[news]._index.tsx": {
+    id: "routes/[jp].[docs].[news]._index";
+    page: "/jp/docs/news";
+  };
   "routes/[jp].[github-repo]._index.ts": {
     id: "routes/[jp].[github-repo]._index";
     page: "/jp/github-repo";
@@ -258,6 +268,10 @@ type RouteFiles = {
   "routes/[jp].[support]._index.tsx": {
     id: "routes/[jp].[support]._index";
     page: "/jp/support";
+  };
+  "routes/[docs].[news]._index.tsx": {
+    id: "routes/[docs].[news]._index";
+    page: "/docs/news";
   };
   "routes/[github-repo]._index.ts": {
     id: "routes/[github-repo]._index";
@@ -333,6 +347,7 @@ type RouteModules = {
   "routes/[jp].[privacy-policy]._index": typeof import("./app/routes/[jp].[privacy-policy]._index.tsx");
   "routes/[jp].[mac-app-store]._index": typeof import("./app/routes/[jp].[mac-app-store]._index.ts");
   "routes/[jp].[release-notes]._index": typeof import("./app/routes/[jp].[release-notes]._index.tsx");
+  "routes/[jp].[docs].[news]._index": typeof import("./app/routes/[jp].[docs].[news]._index.tsx");
   "routes/[jp].[github-repo]._index": typeof import("./app/routes/[jp].[github-repo]._index.ts");
   "routes/[buy-me-a-coffee]._index": typeof import("./app/routes/[buy-me-a-coffee]._index.ts");
   "routes/[docs].[settings]._index": typeof import("./app/routes/[docs].[settings]._index.tsx");
@@ -343,6 +358,7 @@ type RouteModules = {
   "routes/[mac-app-store]._index": typeof import("./app/routes/[mac-app-store]._index.ts");
   "routes/[release-notes]._index": typeof import("./app/routes/[release-notes]._index.tsx");
   "routes/[jp].[support]._index": typeof import("./app/routes/[jp].[support]._index.tsx");
+  "routes/[docs].[news]._index": typeof import("./app/routes/[docs].[news]._index.tsx");
   "routes/[github-repo]._index": typeof import("./app/routes/[github-repo]._index.ts");
   "routes/[sitemap.xml]._index": typeof import("./app/routes/[sitemap.xml]._index.tsx");
   "routes/[docs].[faq]._index": typeof import("./app/routes/[docs].[faq]._index.tsx");

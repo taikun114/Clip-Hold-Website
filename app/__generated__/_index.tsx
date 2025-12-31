@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-12-02T08:34:39.895Z";
+      export const lastPublished = "2025-12-31T12:17:45.726Z";
 
       export const siteName = "Clip Hold";
 
@@ -57,7 +57,7 @@ className={`w-element cbbr0dc`}>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d c1ilsqas cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq cnq5uvv cn7vhbn`}>
+className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d czcq795 cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq cnq5uvv cn7vhbn`}>
 <div
 className={`w-element c1qopeiv c7z4ryg c1jt805z c10ahqwr ccy4onp cdm1ag0`}>
 <Link
@@ -102,13 +102,13 @@ className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
 href={"/docs"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Documents"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"How to use the app and other documentation"}
 </Paragraph>
 </Link_1>
@@ -116,13 +116,13 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 <NavigationMenuLink>
 <Link_1
 href={"/release-notes"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Release Notes"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"Update history and changelog"}
 </Paragraph>
 </Link_1>
@@ -130,13 +130,13 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 <NavigationMenuLink>
 <Link_1
 href={"/support"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Support and Feedback"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"Bug reports, contacts, etc."}
 </Paragraph>
 </Link_1>
@@ -144,13 +144,13 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 <NavigationMenuLink>
 <Link_1
 href={"/privacy-policy"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Privacy Policy"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"About handling of personal information in the app"}
 </Paragraph>
 </Link_1>
@@ -189,13 +189,13 @@ href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
 data-umami-event={"gh-repo"}
 data-umami-event-region={"us"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Give It a Star to the Repository"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"I would be so glad if you could open repository page and give it a star by clicking the “Star” button in the upper right corner!"}
 </Paragraph>
 </Link_1>
@@ -206,13 +206,13 @@ href={"https://www.buymeacoffee.com/i_am_taikun"}
 target={"_blank"}
 data-umami-event={"buymeacoffee"}
 data-umami-event-region={"us"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Buy Me a Coffee"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"You can support me at Buy Me a Coffee from the price of a cup of green tea"}
 </Paragraph>
 </Link_1>
@@ -223,13 +223,13 @@ href={"https://paypal.me/taikun114"}
 target={"_blank"}
 data-umami-event={"paypal"}
 data-umami-event-region={"us"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"PayPal.Me"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"If you have a PayPal account, you can also donate directly at PayPal."}
 </Paragraph>
 </Link_1>
@@ -268,13 +268,13 @@ href={"https://apps.apple.com/app/clip-hold/id6748125479"}
 target={"_blank"}
 data-umami-event={"mac-app-store"}
 data-umami-event-region={"us"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"from Mac App Store"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"Support a developer by purchasing an app"}
 </Paragraph>
 </Link_1>
@@ -285,13 +285,13 @@ href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 data-umami-event={"gh-release"}
 data-umami-event-region={"us"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"from GitHub"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"Download the app for free"}
 </Paragraph>
 </Link_1>
@@ -329,7 +329,7 @@ className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
 href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname)}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"English"}
@@ -339,7 +339,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 <NavigationMenuLink>
 <Link_1
 href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname)}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Japanese (日本語)"}
@@ -356,7 +356,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 <Box
 className={`w-box c12fyb4s chu2gw7 c10ahqwr c12v245d cllx2wu`}>
 <NavigationMenuViewport
-className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c18rgb3y caqkv26 cknkzax chdvygq c145ebzo c1hmrw97 c109howh cafscv2 c1tt00pm c5gq79w cfq9b07 cbsu0mq cpv83kh`} />
+className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c18rgb3y caqkv26 cirmrkx chdvygq c145ebzo c169pe5h c109howh cafscv2 c1tt00pm c5gq79w cfq9b07 cbsu0mq cpv83kh`} />
 </Box>
 </NavigationMenu>
 <NavigationMenu
@@ -392,7 +392,7 @@ className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
 href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname)}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"English"}
@@ -402,7 +402,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 <NavigationMenuLink>
 <Link_1
 href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname)}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Japanese (日本語)"}
@@ -421,7 +421,7 @@ className={`w-menu-item`}>
 <NavigationMenuTrigger>
 <Button
 aria-label={"ナビゲーションメニュー"}
-className={`w-button c6t8baf ccy4onp c12v245d c1bxwz0t c1qhcdyy c1fi5cuq cht0eit ci7vqja c7feqdc c170tjmx c1vn5tfs c1kp31s8 czucxib cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ksihlx cge9bev cjk2p3u c1ey153p c1wffj6h cg3odet cwblwtu c14z3omo ca508ev c1r1ndh8 cz89aj4 ckffmm9 crs1rsf c1q1affg cjb1u0k c1uzl7ts cao2a7h c1jvzd51 c18wbi70`}>
+className={`w-button c6t8baf ccy4onp c12v245d c1phwbjc c1qhcdyy c1fi5cuq cht0eit ci7vqja c7feqdc c170tjmx c1vn5tfs c1kp31s8 czucxib cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ksihlx cge9bev cjk2p3u c1ey153p c1wffj6h cg3odet cwblwtu c14z3omo ca508ev c1r1ndh8 cfl6z32 ckffmm9 crs1rsf c1q1affg cjb1u0k c1uzl7ts cao2a7h c1jvzd51 cgq20k9`}>
 <Box
 className={`w-box c1uc2j84 c1kss2rn c1mrqewb`}>
 <HtmlEmbed
@@ -439,13 +439,13 @@ className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27 ctsrmp7 c142ylfi c
 <NavigationMenuLink>
 <Link_1
 href={"/docs"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Documents"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"How to use the app and other documentation"}
 </Paragraph>
 </Link_1>
@@ -453,13 +453,13 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 <NavigationMenuLink>
 <Link_1
 href={"/release-notes"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Release Notes"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"Update history and changelog"}
 </Paragraph>
 </Link_1>
@@ -467,13 +467,13 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 <NavigationMenuLink>
 <Link_1
 href={"/support"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Support and Feedback"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"Bug reports, contacts, etc."}
 </Paragraph>
 </Link_1>
@@ -481,13 +481,13 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 <NavigationMenuLink>
 <Link_1
 href={"/privacy-policy"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Privacy Policy"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"About handling of personal information in the app"}
 </Paragraph>
 </Link_1>
@@ -498,13 +498,13 @@ href={"https://apps.apple.com/app/clip-hold/id6748125479"}
 target={"_blank"}
 data-umami-event={"mac-app-store"}
 data-umami-event-region={"us"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Download from Mac App Store"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"Support a developer by purchasing an app"}
 </Paragraph>
 </Link_1>
@@ -515,13 +515,13 @@ href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 data-umami-event={"gh-release"}
 data-umami-event-region={"us"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Download from GitHub"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"Download the app for free"}
 </Paragraph>
 </Link_1>
@@ -532,13 +532,13 @@ href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
 data-umami-event={"gh-repo"}
 data-umami-event-region={"us"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Give It a Star to the Repository"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"I would be so glad if you could open repository page and give it a star by clicking the “Star” button in the upper right corner!"}
 <br />
 {""}
@@ -551,13 +551,13 @@ href={"https://www.buymeacoffee.com/i_am_taikun"}
 target={"_blank"}
 data-umami-event={"buymeacoffee"}
 data-umami-event-region={"us"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Buy Me a Coffee"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"You can support me at Buy Me a Coffee from the price of a cup of green tea"}
 </Paragraph>
 </Link_1>
@@ -568,13 +568,13 @@ href={"https://paypal.me/taikun114"}
 target={"_blank"}
 data-umami-event={"paypal"}
 data-umami-event-region={"us"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"PayPal.Me"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"If you have a PayPal account, you can also donate directly at PayPal."}
 </Paragraph>
 </Link_1>
@@ -587,7 +587,7 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 <Box
 className={`w-box c12fyb4s chu2gw7 c10ahqwr c12v245d c1x5aw03 c15f3w52`}>
 <NavigationMenuViewport
-className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c18rgb3y caqkv26 cknkzax chdvygq c145ebzo c1hmrw97 c109howh cafscv2 c1tt00pm c5gq79w cfq9b07 cbsu0mq cpv83kh`} />
+className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c18rgb3y caqkv26 cirmrkx chdvygq c145ebzo c169pe5h c109howh cafscv2 c1tt00pm c5gq79w cfq9b07 cbsu0mq cpv83kh`} />
 </Box>
 </NavigationMenu>
 </div>
@@ -596,6 +596,17 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 </Slot>
 <div
 className={`w-element c7z4ryg c1ozennv c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv caanqdp c10ahqwr ccy4onp c12v245d c1k001t5 c1y0vhl0 c3qq3un c1atdl27 cepgicz c1f7ljgu ciyi9fo cacj515 ccwkvc`}>
+<Link
+href={"/docs/news"}
+className={`w-element cs02lc c12fyb4s cq4iw2d c7z4ryg cdjvmmy ck8j1w1`}>
+<div
+className={`w-element c1nks7qz c7z4ryg c10ahqwr c12v245d c17xugsc c1xbn7ez c19cs4i7 c1x8i01y c5gq79w cfq9b07 cbsu0mq cpv83kh c1ays5ld c12eutsw`}>
+<p
+className={`w-element c23z8nw cqo7lub`}>
+{"News: Announcement of a 2-Day Limited Birthday Free Giveaway Starting January 14"}
+</p>
+</div>
+</Link>
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed
@@ -605,11 +616,11 @@ className={`w-html-embed c13o8mej cit9x1f c1lyu98q co98q9h c1bge907 c1xoovru`}>
 <div
 className={`w-element c1mbyuac c17yqxus c1ghn8z4`}>
 <h1
-className={`w-element cvddzxn cbgovzd c14l033j clk5tgp c7ep1pc c1x1dfts c1f3f3n8 c10ek0dz c1keexhk`}>
+className={`w-element cvddzxn cbgovzd c14l033j clk5tgp c7ep1pc c1ucel5e c1f3f3n8 c10ek0dz c1keexhk`}>
 {"Clip Hold"}
 </h1>
 <p
-className={`w-element c1x1dfts c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 c16tvqy9 c1juw3eu`}>
+className={`w-element c1ucel5e c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 c16tvqy9 c1juw3eu`}>
 {"Become a Clipboard Expert"}
 </p>
 <Slot>
@@ -692,13 +703,13 @@ className={`w-markdown-embed cvwxmdx c13jyokv c17xwl4u c1445yj8 c1tqhnvc c1xhku0
 </Fragment_1>
 </Slot>
 <p
-className={`w-element cmfetcc cqo7lub c15rzea7 cbgovzd c1f3f3n8`}>
+className={`w-element cmfetcc cqo7lub cqrwb2y cbgovzd c1f3f3n8`}>
 {"Compatible with macOS Sonoma (14.0) or later"}
 </p>
 </div>
 </div>
 <p
-className={`w-element c1x1dfts c12fyb4s cik47ol c1mbyuac c1c43ngc c19cs4i7 c2oe4sx c1ruoz7k cmnwzjl`}>
+className={`w-element c1ucel5e c12fyb4s cik47ol c1mbyuac c1c43ngc c19cs4i7 c2oe4sx c1ruoz7k cmnwzjl`}>
 {"Scroll Down for More Information"}
 </p>
 </div>
@@ -740,7 +751,7 @@ className={`w-html-embed`} />
 </VimeoSpinner>
 <VimeoPlayButton
 aria-label={"Play button"}
-className={`w-play-button c5shpkj c1hzn7de c1ux189r cfdjmjq cjfpz06 cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl c12fyb4s c4pbj97 c1kjjn33 c1hfc843 c12rrra5 cymmwca c1c1nm68 c10ahqwr ccy4onp c12v245d c1bxdvsy cxr8h7e c1ays5ld c1yk3zoa c1ga2ams cgbsic3 cinh8md c10mtjet c10h7c1p`}>
+className={`w-play-button c1d6gqly c1hzn7de c1ux189r cfdjmjq cjfpz06 c17xugsc cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl c12fyb4s c4pbj97 c1kjjn33 c1hfc843 c12rrra5 cymmwca c1c1nm68 c10ahqwr ccy4onp c12v245d c1bxdvsy cxr8h7e c1ays5ld c1x6fon0 cp5i50a czcdwjf c7wsf3h c14un0rh c1e0i4m1`}>
 <div
 aria-hidden={true}
 className={`w-element c1pbh4tf c4qv5oy`}>
@@ -963,7 +974,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 className={`w-element cfoar8i c13ilcm6 c1w497fm c8dkrv8 c142ylfi ctv2jj6 cndeprc c1r1zv9s cg5ykre c1merv6x cdot8hu cssz5kv c1kc7yp1 c1jmc64i`}>
 <HtmlEmbed
 code={"<table>\n  <thead>\n    <tr>\n      <th style\">Features</th>\n      <th>Mac App Store Version</th>\n      <th>GitHub Version</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Price</td>\n      <td><span style=\"font-size: 24px;\"><strong>$2.99*</strong></span> / One-time purchase</td>\n      <td><strong><span style=\"font-size: 24px;\">Free</span></strong></td>\n    </tr>\n    <tr>\n      <td>Access from Menu</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Standard Phrases and History Window</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Standard Phrase Presets</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>App Assignment of Presets</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Shortcut Keys</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Quick Paste</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Import and Export</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Show Color Codes</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Create and Scan QR Codes</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Pause Clipboard Monitoring</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Exclude Apps</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Privacy Protection</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n    </tr>\n    <tr>\n      <td>Automatic App Updates</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#00a50025, #00ff0025); color: light-dark(#00a500, #00ff00);\">✓</td>\n      <td style=\"text-align: center; font-size: 24px; background-color: light-dark(#a5000025, #ff000025); color: light-dark(#a50000, #ff0000);\">×</td>\n    </tr>\n  </tbody>\n</table>\n"}
-className={`w-html-embed cxsst0j c1dm57t7 c14et3xy c1p94064 cf7vwbz c1pt54az c1v1aqip c1fybrir c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c1c5nuzn c11drp1d c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-html-embed cxsst0j c1dm57t7 c14et3xy c1p94064 cf7vwbz c1pt54az c1v1aqip c1fybrir c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c1c5nuzn c11drp1d c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </HtmlEmbed>
 </div>
 <p
@@ -999,7 +1010,7 @@ href={"/support"}
 aria-label={"Support and Feedback button"}
 className={`w-element cs02lc cdjvmmy`}>
 <div
-className={`w-element c5shpkj c170tjmx c1vn5tfs c1kp31s8 czucxib cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld c1yk3zoa c1ga2ams cgbsic3 cinh8md c10mtjet c10h7c1p`}>
+className={`w-element c1d6gqly c170tjmx c1vn5tfs c1kp31s8 czucxib c17xugsc cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld c1x6fon0 cp5i50a czcdwjf c7wsf3h c14un0rh c1e0i4m1`}>
 <p
 className={`w-element c23z8nw cqo7lub`}>
 {"Support and Feedback"}
@@ -1031,7 +1042,7 @@ data-umami-event={"buymeacoffee"}
 data-umami-event-region={"us"}
 className={`w-element cs02lc cdjvmmy`}>
 <div
-className={`w-element c5shpkj c170tjmx c1vn5tfs c1kp31s8 czucxib cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld c1yk3zoa c1ga2ams cgbsic3 cinh8md c10mtjet c10h7c1p`}>
+className={`w-element c1d6gqly c170tjmx c1vn5tfs c1kp31s8 czucxib c17xugsc cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld c1x6fon0 cp5i50a czcdwjf c7wsf3h c14un0rh c1e0i4m1`}>
 <p
 className={`w-element c23z8nw cqo7lub`}>
 {"Buy Me a Coffee"}
@@ -1046,7 +1057,7 @@ data-umami-event={"paypal"}
 data-umami-event-region={"us"}
 className={`w-element cs02lc cdjvmmy`}>
 <div
-className={`w-element c5shpkj c170tjmx c1vn5tfs c1kp31s8 czucxib cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld c1yk3zoa c1ga2ams cgbsic3 cinh8md c10mtjet c10h7c1p`}>
+className={`w-element c1d6gqly c170tjmx c1vn5tfs c1kp31s8 czucxib c17xugsc cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld c1x6fon0 cp5i50a czcdwjf c7wsf3h c14un0rh c1e0i4m1`}>
 <p
 className={`w-element c23z8nw cqo7lub`}>
 {"PayPal.Me"}
@@ -1077,7 +1088,7 @@ data-umami-event={"all-apps"}
 data-umami-event-region={"us"}
 className={`w-element cs02lc cdjvmmy`}>
 <div
-className={`w-element c5shpkj c170tjmx c1vn5tfs c1kp31s8 czucxib cy4h7ms cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld c1yk3zoa c1ga2ams cgbsic3 cinh8md c10mtjet c10h7c1p`}>
+className={`w-element c1d6gqly c170tjmx c1vn5tfs c1kp31s8 czucxib c17xugsc cbgovzd crsmt4v c1ozn5tv cmnhnbl c16ykjvg c1um1orl cxr8h7e c1ays5ld c1x6fon0 cp5i50a czcdwjf c7wsf3h c14un0rh c1e0i4m1`}>
 <p
 className={`w-element c23z8nw cqo7lub`}>
 {"See All Apps"}
@@ -1101,11 +1112,11 @@ className={`w-html-embed c13o8mej cit9x1f c1nnnk8m c4f6612 c9gwnxb c1bge907 c1xo
 <div
 className={`w-element c1mbyuac c17yqxus c1ghn8z4`}>
 <h1
-className={`w-element cvddzxn cbgovzd c117tk5u clk5tgp c7ep1pc c1x1dfts c1f3f3n8 cks20wo`}>
+className={`w-element cvddzxn cbgovzd c117tk5u clk5tgp c7ep1pc c1ucel5e c1f3f3n8 cks20wo`}>
 {"Clip Hold"}
 </h1>
 <p
-className={`w-element c1x1dfts c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 cqx7kte`}>
+className={`w-element c1ucel5e c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 cqx7kte`}>
 {"Become a Clipboard Expert"}
 </p>
 <Slot>
@@ -1188,7 +1199,7 @@ className={`w-markdown-embed cvwxmdx c13jyokv c17xwl4u c1445yj8 c1tqhnvc c1xhku0
 </Fragment_1>
 </Slot>
 <p
-className={`w-element cmfetcc cqo7lub c15rzea7 cbgovzd c1f3f3n8`}>
+className={`w-element cmfetcc cqo7lub cqrwb2y cbgovzd c1f3f3n8`}>
 {"Compatible with macOS Sonoma (14.0) or later"}
 </p>
 </div>

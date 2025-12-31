@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-12-02T08:34:39.895Z";
+      export const lastPublished = "2025-12-31T12:17:45.726Z";
 
       export const siteName = "Clip Hold";
 
@@ -36,7 +36,7 @@ className={`w-element c1uoa21q c10ahqwr c1atdl27 cdm1ag0`}>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d c1ilsqas cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq cnq5uvv cn7vhbn c1m7ydhu`}>
+className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d czcq795 cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq cnq5uvv cn7vhbn c1m7ydhu`}>
 <div
 className={`w-element c1qopeiv c7z4ryg c1jt805z c10ahqwr ccy4onp cdm1ag0`}>
 <Link
@@ -81,13 +81,13 @@ className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
 href={"/jp/docs"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"ドキュメント"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"アプリの使い方などのドキュメント"}
 </Paragraph>
 </Link_1>
@@ -95,13 +95,13 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 <NavigationMenuLink>
 <Link_1
 href={"/jp/release-notes"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"リリースノート"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"アップデート履歴と変更ログ"}
 </Paragraph>
 </Link_1>
@@ -109,13 +109,13 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 <NavigationMenuLink>
 <Link_1
 href={"/jp/support"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"サポートとフィードバック"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"バグ報告やお問い合わせなど"}
 </Paragraph>
 </Link_1>
@@ -123,13 +123,13 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 <NavigationMenuLink>
 <Link_1
 href={"/jp/privacy-policy"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"プライバシーポリシー"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"アプリ内での個人情報の取り扱いについて"}
 </Paragraph>
 </Link_1>
@@ -168,13 +168,13 @@ href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
 data-umami-event={"gh-repo"}
 data-umami-event-region={"jp"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"リポジトリにスターをつける"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"リポジトリのページを開き、右上の「Star」ボタンをクリックしてスターをつけてくださるととてもうれしいです！"}
 </Paragraph>
 </Link_1>
@@ -185,13 +185,13 @@ href={"https://www.buymeacoffee.com/i_am_taikun"}
 target={"_blank"}
 data-umami-event={"buymeacoffee"}
 data-umami-event-region={"jp"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Buy Me a Coffee"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"Buy Me a Coffeeで緑茶一杯分の金額からサポートしていただけます。"}
 </Paragraph>
 </Link_1>
@@ -202,13 +202,13 @@ href={"https://paypal.me/taikun114"}
 target={"_blank"}
 data-umami-event={"paypal"}
 data-umami-event-region={"jp"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"PayPal.Me"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"PayPalアカウントをお持ちの方は、PayPalで直接寄付していただくこともできます。"}
 </Paragraph>
 </Link_1>
@@ -247,13 +247,13 @@ href={"https://apps.apple.com/jp/app/clip-hold/id6748125479"}
 target={"_blank"}
 data-umami-event={"mac-app-store"}
 data-umami-event-region={"jp"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Mac App Storeから"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"アプリを購入して開発者をサポート"}
 </Paragraph>
 </Link_1>
@@ -264,13 +264,13 @@ href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 data-umami-event={"gh-release"}
 data-umami-event-region={"jp"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"GitHubから"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"アプリを無料でダウンロード"}
 </Paragraph>
 </Link_1>
@@ -308,7 +308,7 @@ className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
 href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname)}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"English"}
@@ -318,7 +318,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 <NavigationMenuLink>
 <Link_1
 href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname)}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Japanese (日本語)"}
@@ -335,7 +335,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 <Box
 className={`w-box c12fyb4s chu2gw7 c10ahqwr c12v245d cllx2wu`}>
 <NavigationMenuViewport
-className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c18rgb3y caqkv26 cknkzax chdvygq c145ebzo c1hmrw97 c109howh cafscv2 c1tt00pm c5gq79w cfq9b07 cbsu0mq cpv83kh`} />
+className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c18rgb3y caqkv26 cirmrkx chdvygq c145ebzo c169pe5h c109howh cafscv2 c1tt00pm c5gq79w cfq9b07 cbsu0mq cpv83kh`} />
 </Box>
 </NavigationMenu>
 <NavigationMenu
@@ -371,7 +371,7 @@ className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <NavigationMenuLink>
 <Link_1
 href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname)}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"English"}
@@ -381,7 +381,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 <NavigationMenuLink>
 <Link_1
 href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname)}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Japanese (日本語)"}
@@ -400,7 +400,7 @@ className={`w-menu-item`}>
 <NavigationMenuTrigger>
 <Button
 aria-label={"ナビゲーションメニュー"}
-className={`w-button c6t8baf ccy4onp c12v245d c1bxwz0t c1qhcdyy c1fi5cuq cht0eit ci7vqja c7feqdc c170tjmx c1vn5tfs c1kp31s8 czucxib cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ksihlx cge9bev cjk2p3u c1ey153p c1wffj6h cg3odet cwblwtu c14z3omo ca508ev c1r1ndh8 cz89aj4 ckffmm9 crs1rsf c1q1affg cjb1u0k c1uzl7ts cao2a7h c1jvzd51 c18wbi70`}>
+className={`w-button c6t8baf ccy4onp c12v245d c1phwbjc c1qhcdyy c1fi5cuq cht0eit ci7vqja c7feqdc c170tjmx c1vn5tfs c1kp31s8 czucxib cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ksihlx cge9bev cjk2p3u c1ey153p c1wffj6h cg3odet cwblwtu c14z3omo ca508ev c1r1ndh8 cfl6z32 ckffmm9 crs1rsf c1q1affg cjb1u0k c1uzl7ts cao2a7h c1jvzd51 cgq20k9`}>
 <Box
 className={`w-box c1uc2j84 c1kss2rn c1mrqewb`}>
 <HtmlEmbed
@@ -418,13 +418,13 @@ className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27 ctsrmp7 c142ylfi c
 <NavigationMenuLink>
 <Link_1
 href={"/jp/docs"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"ドキュメント"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"アプリの使い方などのドキュメント"}
 </Paragraph>
 </Link_1>
@@ -432,13 +432,13 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 <NavigationMenuLink>
 <Link_1
 href={"/jp/release-notes"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"リリースノート"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"アップデート履歴と変更ログ"}
 </Paragraph>
 </Link_1>
@@ -446,13 +446,13 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 <NavigationMenuLink>
 <Link_1
 href={"/jp/support"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"サポートとフィードバック"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"バグ報告やお問い合わせなど"}
 </Paragraph>
 </Link_1>
@@ -460,13 +460,13 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 <NavigationMenuLink>
 <Link_1
 href={"/jp/privacy-policy"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"プライバシーポリシー"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"アプリ内での個人情報の取り扱いについて"}
 </Paragraph>
 </Link_1>
@@ -477,13 +477,13 @@ href={"https://apps.apple.com/jp/app/clip-hold/id6748125479"}
 target={"_blank"}
 data-umami-event={"mac-app-store"}
 data-umami-event-region={"jp"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Mac App Storeから"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"アプリを購入して開発者をサポート"}
 </Paragraph>
 </Link_1>
@@ -494,13 +494,13 @@ href={"https://github.com/taikun114/Clip-Hold/releases/latest"}
 target={"_blank"}
 data-umami-event={"gh-release"}
 data-umami-event-region={"jp"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"GitHubから"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"アプリを無料でダウンロード"}
 </Paragraph>
 </Link_1>
@@ -511,13 +511,13 @@ href={"https://github.com/taikun114/Clip-Hold"}
 target={"_blank"}
 data-umami-event={"gh-repo"}
 data-umami-event-region={"jp"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c1anpkwc c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"リポジトリにスターをつける"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"リポジトリのページを開き、右上の「Star」ボタンをクリックしてスターをつけてくださるととてもうれしいです！"}
 </Paragraph>
 </Link_1>
@@ -528,13 +528,13 @@ href={"https://www.buymeacoffee.com/i_am_taikun"}
 target={"_blank"}
 data-umami-event={"buymeacoffee"}
 data-umami-event-region={"jp"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 c170tjmx c1vn5tfs czucxib c1kp31s8 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"Buy Me a Coffee"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"Buy Me a Coffeeで緑茶一杯分の金額からサポートしていただけます。"}
 </Paragraph>
 </Link_1>
@@ -545,13 +545,13 @@ href={"https://paypal.me/taikun114"}
 target={"_blank"}
 data-umami-event={"paypal"}
 data-umami-event-region={"jp"}
-className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cbwbvjs czmuqwl c3m68st`}>
+className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 {"PayPal.Me"}
 </Text>
 <Paragraph
-className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh6ed`}>
+className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh6ed`}>
 {"PayPalアカウントをお持ちの方は、PayPalで直接寄付していただくこともできます。"}
 </Paragraph>
 </Link_1>
@@ -564,7 +564,7 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1u9aos4 cwjh
 <Box
 className={`w-box c12fyb4s chu2gw7 c10ahqwr c12v245d c1x5aw03 c15f3w52`}>
 <NavigationMenuViewport
-className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c18rgb3y caqkv26 cknkzax chdvygq c145ebzo c1hmrw97 c109howh cafscv2 c1tt00pm c5gq79w cfq9b07 cbsu0mq cpv83kh`} />
+className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c18rgb3y caqkv26 cirmrkx chdvygq c145ebzo c169pe5h c109howh cafscv2 c1tt00pm c5gq79w cfq9b07 cbsu0mq cpv83kh`} />
 </Box>
 </NavigationMenu>
 </div>
@@ -577,7 +577,7 @@ className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c3qq3un 
 className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1r1zv9s cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
 <MarkdownEmbed
 code={"[ドキュメントホーム](/jp/docs) / [一般](/jp/docs#general) / **よくある質問と回答**"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
@@ -585,7 +585,7 @@ className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 </h1>
 <MarkdownEmbed
 code={"## 有料版と無料版の違いはありますか？\n**いいえ、アプリに搭載されている機能に違いはありません。**\n\nClip Holdには無料版（GitHub版）と有料版（Mac App Store版）がありますが、どちらもほとんど機能の違いはありません。**唯一の違いは自動アップデート機能の有無**です。\\\n有料版ではApp Storeの機能でアップデートとインストールを自動で行うことができますが、無料版では今のところアップデート確認機能とインストール機能は搭載されていません（つまり、アプリの機能としては何一つ変わりません！）。\n\n私としてはApp Storeから購入してくださるとありがたいですが、まずは無料でダウンロードしてみて、とても便利だと思ったら購入したり[**寄付**](#どうすれば開発者の方をサポートできますか)したりしてくださると大変嬉しいです！\n\n## Clip Holdのシステム要件を教えてください。\nClip Holdは、**macOS Sonoma（14.0）またはそれ以降**がインストールされた、**Appleシリコン搭載のMac**と**Intelプロセッサ搭載のMac**に対応しています。\n\n## Clip Holdは個人情報を収集しますか？\n**いいえ、個人情報は収集しません。**\n\nシステム設定の「プライバシーとセキュリティ」設定内にある「解析と改善」で「アプリデベロッパと共有」をオンにしているユーザーの使用状況データとクラッシュレポートが共有される場合がありますが、アプリ自体には情報を収集して送信する機能は全く搭載されていません。プライバシーが心配な方でも安心してお使いいただけます。\n\nアプリが取得する情報とその取り扱いについては、[**プライバシーポリシー**](/jp/privacy-policy)ページをご覧ください。\n\n## Clip Holdは重たいですか？\n**いいえ、Clip Holdは非常に軽量です。**\n\nアプリの大きさは15 MBを切っており、古いシステムでも快適に動作するように設計されています。\n\n## Clip Holdは画像やファイルなどに対応していますか？\n**はい、最新バージョンでは次のファイル種類に対応しています。**\n- 標準テキスト\n- リッチテキスト\n- 画像データ\n- PDFデータ\n- すべてのファイル\n\n## バグを見つけた場合はどうしたらいいですか？\n[**サポートとフィードバック**](/jp/support)ページの内容に従ってバグを報告してください。\n\n## こんな機能を追加してほしいです。\nバグ報告と同様、[**サポートとフィードバック**](/jp/support)ページの内容に従ってフィードバックを送信してください。\n\n## Clip Holdをアップデートするにはどうしたらいいですか？\n### Mac App Storeから購入された方\nApp Storeを使ってアップデートすることができます。\n\n### GitHubからダウンロードされた方\n次の手順でアップデートしてください。\n\n1. [**リリースページ**](/jp/github-release)から最新バージョンをダウンロードします。\n2. ダウンロードしたディスクイメージを開きます。\n3. ディスクイメージ内のClip Holdのアイコンをアプリケーションフォルダへドラッグアンドドロップし、上書き保存します。\n4. アップデート完了です。\n\n> **注意**\\\n> 上書き保存する際、Clip Holdが起動している場合は一旦終了させる必要があります。\\\n> アプリをアップデートしてもデータは消えませんのでご安心ください。心配な場合、アップデート前に定型文と履歴をエクスポートしておけば問題ありません。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h2
 id={"どうすれば開発者の方をサポートできますか"}
@@ -594,7 +594,7 @@ className={`w-element c11yke06`}>
 </h2>
 <HtmlEmbed
 code={"<h3>リポジトリにスターをつける</h3>\n<p><a href=\"https://github.com/taikun114/Clip-Hold\" target=\"_blank\" data-umami-event=\"gh-repo\" data-umami-event-region=\"jp\"><b>こちらのページ</b></a>を開き、右上の「Star」ボタンをクリックしてスターをつけてくださるととてもうれしいです！<br>\nこのボタンは言わば高評価ボタンのようなもので、開発を続けるモチベーションになります！この機能は無料なので、Clip Holdを気に入ったらぜひスターをつけてください！</p>\n\n<h3>寄付</h3>\n<p>Clip Holdが気に入ったら寄付してくださると嬉しいです。開発を続けるモチベーションになります！</p>\n<p>以下のサービスを使って寄付していただくことができます。</p>\n\n<h4>Buy Me a Coffee</h4>\n<p><a href=\"https://www.buymeacoffee.com/i_am_taikun\" target=\"_blank\" data-umami-event=\"buymeacoffee\" data-umami-event-region=\"jp\"><b>Buy Me a Coffee</b></a>で緑茶一杯分の金額からサポートしていただけます。.</p>\n\n<h4>PayPal.Me</h4>\n<p>PayPalアカウントをお持ちの方は、<a href=\"https://paypal.me/taikun114\" target=\"_blank\" data-umami-event=\"paypal\" data-umami-event-region=\"jp\"><b>PayPal</b></a>で直接寄付していただくこともできます。</p>\n\n<h2>他にも質問がありますか？</h2>\n<p><a href=\"https://github.com/taikun114/Clip-Hold/discussions\" target=\"_blank\" data-umami-event=\"gh-discussion\" data-umami-event-region=\"jp\"><b>ディスカッション</b></a>ページが用意されているので、質問を投稿したり、意見交換などを行ったりすることができますのでぜひ確認してみてください！</p>"}
-className={`w-html-embed c93cdo9 cvh06f7 cz7p94 c1s236z9 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva clihmdn cvkpfwr cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d c1r74vbe c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-html-embed c93cdo9 cvh06f7 cz7p94 c1s236z9 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </HtmlEmbed>
 </div>
 </div>
@@ -611,11 +611,11 @@ className={`w-html-embed c13o8mej cit9x1f c1nnnk8m c4f6612 c9gwnxb c1bge907 c1xo
 <div
 className={`w-element c1mbyuac c17yqxus c1ghn8z4`}>
 <h2
-className={`w-element cvddzxn cbgovzd c117tk5u clk5tgp c7ep1pc c1x1dfts c1f3f3n8 cks20wo`}>
+className={`w-element cvddzxn cbgovzd c117tk5u clk5tgp c7ep1pc c1ucel5e c1f3f3n8 cks20wo`}>
 {"Clip Hold"}
 </h2>
 <p
-className={`w-element c1x1dfts c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 cqx7kte`}>
+className={`w-element c1ucel5e c7qjy52 clk5tgp c1dgg9g4 c1f3f3n8 cqx7kte`}>
 {"クリップボードの達人になろう"}
 </p>
 <Slot>
@@ -698,7 +698,7 @@ className={`w-markdown-embed cvwxmdx c13jyokv c17xwl4u c1445yj8 c1tqhnvc c1xhku0
 </Fragment_1>
 </Slot>
 <p
-className={`w-element cmfetcc cqo7lub c15rzea7 cbgovzd c1f3f3n8`}>
+className={`w-element cmfetcc cqo7lub cqrwb2y cbgovzd c1f3f3n8`}>
 {"macOS Sonoma（14.0）またはそれ以降に対応"}
 </p>
 </div>

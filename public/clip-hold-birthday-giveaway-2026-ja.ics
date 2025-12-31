@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Taiga Imaura
+BEGIN:VEVENT
+DTSTART:20260114
+DTEND:20260116
+SUMMARY:Clip Hold バースデー無料配布期間
+DESCRIPTION:この期間中、Mac App StoreでClip Holdを無料でダウンロードすることができます。\n\nダウンロードリンク:\nhttps://apps.apple.com/app/clip-hold/id6748125479
+END:VEVENT
+END:VCALENDAR
