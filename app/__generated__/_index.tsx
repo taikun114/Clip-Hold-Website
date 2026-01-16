@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-12-31T12:17:45.726Z";
+      export const lastPublished = "2026-01-16T07:04:38.473Z";
 
       export const siteName = "Clip Hold";
 
@@ -596,17 +596,6 @@ className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c1
 </Slot>
 <div
 className={`w-element c7z4ryg c1ozennv c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekanbs c113b8pv caanqdp c10ahqwr ccy4onp c12v245d c1k001t5 c1y0vhl0 c3qq3un c1atdl27 cepgicz c1f7ljgu ciyi9fo cacj515 ccwkvc`}>
-<Link
-href={"/docs/news"}
-className={`w-element cs02lc c12fyb4s cq4iw2d c7z4ryg cdjvmmy ck8j1w1`}>
-<div
-className={`w-element c1nks7qz c7z4ryg c10ahqwr c12v245d c17xugsc c1xbn7ez c19cs4i7 c1x8i01y c5gq79w cfq9b07 cbsu0mq cpv83kh c1ays5ld c12eutsw`}>
-<p
-className={`w-element c23z8nw cqo7lub`}>
-{"News: Announcement of a 2-Day Limited Birthday Free Giveaway Starting January 14"}
-</p>
-</div>
-</Link>
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed

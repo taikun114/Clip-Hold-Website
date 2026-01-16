@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "b774a0ec-c992-4d49-bc30-22c112f28cef",
+    "id": "5343434b-f61d-49e0-8e15-b4e16a2aa031",
     "projectId": "a910d043-5ab4-41b7-8e15-5b9eb80d0c41",
-    "version": 11644,
-    "createdAt": "2025-12-31T12:17:45.726+00:00",
-    "updatedAt": "2025-12-31T12:17:45.726+00:00",
+    "version": 11663,
+    "createdAt": "2026-01-16T07:04:38.473+00:00",
+    "updatedAt": "2026-01-16T07:04:38.473+00:00",
     "pages": {
       "meta": {
         "siteName": "Clip Hold",
@@ -81651,6 +81651,80 @@
             "value": 0
           }
         }
+      ],
+      [
+        "bb8Q3v7YMc2Zz24kGmo4n:oQXIk9J0diVFLo9CICSX4:marginTop:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "bb8Q3v7YMc2Zz24kGmo4n",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "bb8Q3v7YMc2Zz24kGmo4n:oQXIk9J0diVFLo9CICSX4:marginBottom:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "bb8Q3v7YMc2Zz24kGmo4n",
+          "property": "marginBottom",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "bb8Q3v7YMc2Zz24kGmo4n:oQXIk9J0diVFLo9CICSX4:borderTopStyle:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "bb8Q3v7YMc2Zz24kGmo4n",
+          "property": "borderTopStyle",
+          "value": {
+            "type": "keyword",
+            "value": "solid"
+          }
+        }
+      ],
+      [
+        "bb8Q3v7YMc2Zz24kGmo4n:oQXIk9J0diVFLo9CICSX4:borderRightStyle:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "bb8Q3v7YMc2Zz24kGmo4n",
+          "property": "borderRightStyle",
+          "value": {
+            "type": "keyword",
+            "value": "solid"
+          }
+        }
+      ],
+      [
+        "bb8Q3v7YMc2Zz24kGmo4n:oQXIk9J0diVFLo9CICSX4:borderLeftStyle:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "bb8Q3v7YMc2Zz24kGmo4n",
+          "property": "borderLeftStyle",
+          "value": {
+            "type": "keyword",
+            "value": "solid"
+          }
+        }
+      ],
+      [
+        "bb8Q3v7YMc2Zz24kGmo4n:oQXIk9J0diVFLo9CICSX4:borderBottomStyle:",
+        {
+          "breakpointId": "oQXIk9J0diVFLo9CICSX4",
+          "styleSourceId": "bb8Q3v7YMc2Zz24kGmo4n",
+          "property": "borderBottomStyle",
+          "value": {
+            "type": "keyword",
+            "value": "solid"
+          }
+        }
       ]
     ],
     "styleSources": [
@@ -138206,7 +138280,7 @@
           "instanceId": "Q0rZKWKs9qEy-EzCvBi6-",
           "name": "code",
           "type": "string",
-          "value": "皆様、あけましておめでとうございます！\\\n2026年1月14日はClip Holdの開発者である私、**今浦大雅の22歳を迎える誕生日**となります。この機会に、より多くの皆様にClip Holdを使っていただきたいと思い、**期間限定でMac App StoreでのClip Hold無料配布を実施することにしました！**\n\nまた、同じ期間に、私が開発したOllamaマネージャーアプリ[**「Mocolamma」の無料配布も並行して行います**](https://mocolamma.taikun.design/jp/docs/news#birthday-giveaway-2026)ので、こちらもご確認をお忘れなく！\n\n### 無料配布の実施期間\n\n- **2026年1月14日 現地時間0:00 〜 2026年1月15日 現地時間23:59 までの2日間**を予定\n\n「現地時間」とは、Mac App Storeをご利用の地域ごとの時間となります。\n"
+          "value": "**2026/1/16 更新:**\\\nバースデー無料配布は終了しました。\n\n私としては、この2日間の無料配布期間で100人以上にダウンロードしてもらうことを目標としていましたが、大変うれしいことに、当初の目標を上回る800人以上の方々にダウンロードしていただきました！多くの方々にアプリをダウンロードしていただき、ありがとうございました！\\\nダウンロードしていただいた皆様に、私のアプリを気に入っていただけることを心より願っています！\n\n---\n\n皆様、あけましておめでとうございます！\\\n2026年1月14日はClip Holdの開発者である私、**今浦大雅の22歳を迎える誕生日**となります。この機会に、より多くの皆様にClip Holdを使っていただきたいと思い、**期間限定でMac App StoreでのClip Hold無料配布を実施することにしました！**\n\nまた、同じ期間に、私が開発したOllamaマネージャーアプリ[**「Mocolamma」の無料配布も並行して行います**](https://mocolamma.taikun.design/jp/docs/news#birthday-giveaway-2026)ので、こちらもご確認をお忘れなく！\n\n### 無料配布の実施期間\n\n- **2026年1月14日 現地時間0:00 〜 2026年1月15日 現地時間23:59 までの2日間**を予定\n\n「現地時間」とは、Mac App Storeをご利用の地域ごとの時間となります。\n"
         }
       ],
       [
@@ -138656,7 +138730,7 @@
           "instanceId": "0HKDSXWn-1H2_ZBhC1RP8",
           "name": "code",
           "type": "string",
-          "value": "Happy New Year, everyone!\\\nJanuary 14, 2026, marks the **22nd birthday of myself, Taiga Imaura**, the developer of Clip Hold. To celebrate this occasion and to encourage more people to experience Clip Hold, I have decided to hold a **limited-time giveaway of Clip Hold on the Mac App Store!**\n\nDuring the same period, I will also be running a **[parallel giveaway for Mocolamma](https://mocolamma.taikun.design/docs/news#birthday-giveaway-2026)**, the Ollama manager app I developed, so don't forget to check that out as well!\n\n### Giveaway Period\n\n- **Scheduled for 2 days: January 14, 2026, 0:00 local time to January 15, 2026, 23:59 local time.**\n\n\"Local time\" refers to the time in the region where you use the Mac App Store.\n"
+          "value": "**2026/1/16 Update:**\\\nBirthday Giveaway has ended.\n\nMy goal for this two-day giveaway was to have over 100 people download the app. I'm incredibly happy to say that over 800 people downloaded it, exceeding my initial goal! Thank you to everyone who downloaded the app!\\\nI sincerely hope everyone who downloaded it enjoys my app!\n\n---\n\nHappy New Year, everyone!\\\nJanuary 14, 2026, marks the **22nd birthday of myself, Taiga Imaura**, the developer of Clip Hold. To celebrate this occasion and to encourage more people to experience Clip Hold, I have decided to hold a **limited-time giveaway of Clip Hold on the Mac App Store!**\n\nDuring the same period, I will also be running a **[parallel giveaway for Mocolamma](https://mocolamma.taikun.design/docs/news#birthday-giveaway-2026)**, the Ollama manager app I developed, so don't forget to check that out as well!\n\n### Giveaway Period\n\n- **Scheduled for 2 days: January 14, 2026, 0:00 local time to January 15, 2026, 23:59 local time.**\n\n\"Local time\" refers to the time in the region where you use the Mac App Store.\n"
         }
       ],
       [
@@ -139417,6 +139491,26 @@
           "name": "target",
           "type": "string",
           "value": "_blank"
+        }
+      ],
+      [
+        "kvEE8kvHX2lpHDlQ7SVX4",
+        {
+          "id": "kvEE8kvHX2lpHDlQ7SVX4",
+          "instanceId": "0DLt3uQPcVcgU1o8w373c",
+          "name": "data-ws-show",
+          "type": "boolean",
+          "value": false
+        }
+      ],
+      [
+        "IZl3Dt612HgWXpLQ_pfDd",
+        {
+          "id": "IZl3Dt612HgWXpLQ_pfDd",
+          "instanceId": "jMOaUwkQYUrlVrNQkzR0V",
+          "name": "data-ws-show",
+          "type": "boolean",
+          "value": false
         }
       ]
     ],
@@ -182414,7 +182508,7 @@
           "children": [
             {
               "type": "text",
-              "value": "2026/1/1: バースデー無料配布実施のお知らせ"
+              "value": "2026/1/1: 【終了】バースデー無料配布実施のお知らせ"
             }
           ]
         }
@@ -182837,7 +182931,7 @@
           "children": [
             {
               "type": "text",
-              "value": "January 1, 2026: Birthday Free Giveaway Announcement"
+              "value": "January 1, 2026: [Ended] Birthday Free Giveaway Announcement"
             }
           ]
         }

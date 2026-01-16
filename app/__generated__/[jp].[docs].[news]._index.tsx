@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2025-12-31T12:17:45.726Z";
+      export const lastPublished = "2026-01-16T07:04:38.473Z";
 
       export const siteName = "Clip Hold";
 
@@ -577,7 +577,7 @@ className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c3qq3un 
 className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1r1zv9s cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
 <MarkdownEmbed
 code={"[ドキュメントホーム](/jp/docs) / [一般](/jp/docs#general) / **ニュース**"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c11qmzdn c9di14k c7rite5 cijijao cgtk0xu c19hmctj c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
@@ -586,11 +586,11 @@ className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 <h2
 id={"birthday-giveaway-2026"}
 className={`w-element c11yke06`}>
-{"2026/1/1: バースデー無料配布実施のお知らせ"}
+{"2026/1/1: 【終了】バースデー無料配布実施のお知らせ"}
 </h2>
 <MarkdownEmbed
-code={"皆様、あけましておめでとうございます！\\\n2026年1月14日はClip Holdの開発者である私、**今浦大雅の22歳を迎える誕生日**となります。この機会に、より多くの皆様にClip Holdを使っていただきたいと思い、**期間限定でMac App StoreでのClip Hold無料配布を実施することにしました！**\n\nまた、同じ期間に、私が開発したOllamaマネージャーアプリ[**「Mocolamma」の無料配布も並行して行います**](https://mocolamma.taikun.design/jp/docs/news#birthday-giveaway-2026)ので、こちらもご確認をお忘れなく！\n\n### 無料配布の実施期間\n\n- **2026年1月14日 現地時間0:00 〜 2026年1月15日 現地時間23:59 までの2日間**を予定\n\n「現地時間」とは、Mac App Storeをご利用の地域ごとの時間となります。\n"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+code={"**2026/1/16 更新:**\\\nバースデー無料配布は終了しました。\n\n私としては、この2日間の無料配布期間で100人以上にダウンロードしてもらうことを目標としていましたが、大変うれしいことに、当初の目標を上回る800人以上の方々にダウンロードしていただきました！多くの方々にアプリをダウンロードしていただき、ありがとうございました！\\\nダウンロードしていただいた皆様に、私のアプリを気に入っていただけることを心より願っています！\n\n---\n\n皆様、あけましておめでとうございます！\\\n2026年1月14日はClip Holdの開発者である私、**今浦大雅の22歳を迎える誕生日**となります。この機会に、より多くの皆様にClip Holdを使っていただきたいと思い、**期間限定でMac App StoreでのClip Hold無料配布を実施することにしました！**\n\nまた、同じ期間に、私が開発したOllamaマネージャーアプリ[**「Mocolamma」の無料配布も並行して行います**](https://mocolamma.taikun.design/jp/docs/news#birthday-giveaway-2026)ので、こちらもご確認をお忘れなく！\n\n### 無料配布の実施期間\n\n- **2026年1月14日 現地時間0:00 〜 2026年1月15日 現地時間23:59 までの2日間**を予定\n\n「現地時間」とは、Mac App Storeをご利用の地域ごとの時間となります。\n"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c11qmzdn c9di14k c7rite5 cijijao cgtk0xu c19hmctj c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <Link
 href={"/clip-hold-birthday-giveaway-2026-ja.ics"}
@@ -610,7 +610,7 @@ className={`w-element c23z8nw cqo7lub`}>
 </Link>
 <MarkdownEmbed
 code={"以前よりGitHubでは無料配布をしておりましたが、より多くの方々に、より簡単にダウンロードしていただけるように、Mac App Store版を無料配布します。\\\n上記期間に一度でもMac App Storeでダウンロードしていただくとお使いのApple Accountに購入履歴が残るため、無料配布期間終了後もいつでも再ダウンロードできるようになります。**すぐにご利用いただく予定がない場合でも、この期間に一度ダウンロードしておくことをおすすめします！**\n\n### フィードバックやレビューなどをお待ちしております！\n\n**Clip Holdを使っていただいた感想や、「こうして欲しい」「こんな機能が欲しい」などのフィードバックをぜひお送りいただけるととてもうれしいです！**\\\nフィードバックの送信方法については「[**サポートとフィードバック**](/jp/support)」ページをご確認ください。\n\nまた、**Mac App Storeでレビューを残していただけるととてもうれしいです！**\\\n他にも、XなどのSNSで「**#ClipHold**」をつけて、Clip Holdを使ってみた感想を気軽にシェアしていただけるととてもありがたいです！\n\nたくさんの皆様にClip Holdを使っていただけるのがとても楽しみです！\\\n2026年もClip Holdをよろしくお願いします。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c11qmzdn c9di14k c7rite5 cijijao cgtk0xu c19hmctj c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 </div>
 </div>
