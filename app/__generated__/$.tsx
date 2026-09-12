@@ -3,15 +3,19 @@
 
 
       import { Fragment, useState } from "react";
-      import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
+      import { renderText, useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body, Link as Link, Link as Link_1 } from "@webstudio-is/sdk-components-react-router";
-import { Fragment as Fragment_1, Slot as Slot, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, Image as Image, MarkdownEmbed as MarkdownEmbed } from "@webstudio-is/sdk-components-react";
+import { Fragment as Fragment_1, Slot as Slot, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, Image as Image, MarkdownEmbed as MarkdownEmbed } from "@webstudio-is/sdk-components-react/components";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuLink as NavigationMenuLink, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2026-01-16T07:04:38.473Z";
+      
+
+      export const projectDomain = "clip-hold-794nv";
+
+      export const lastPublished = "2025-07-04T04:37:07.814Z";
 
       export const siteName = "Clip Hold";
 
@@ -31,6 +35,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       const Page = (_props: { system: any; }) => {
 const system = _props.system;
+let [imagePath, set$imagePath] = useVariableState<any>("https://github.com/taikun114/Clip-Hold/blob/main/docs/images")
 return <Body
 className={`w-element cdm1ag0 c1uoa21q c10ahqwr c1atdl27`}>
 <Slot>
@@ -596,7 +601,7 @@ className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekan
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"160\"\n    width=\"160\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + imagePath + "/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"" + imagePath + "/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"160\"\n    width=\"160\"\n  />\n</picture>\n"}
 className={`w-html-embed c13o8mej cit9x1f c1nnnk8m c4f6612 c9gwnxb c1bge907 c1xoovru`}>
 </HtmlEmbed>
 <div

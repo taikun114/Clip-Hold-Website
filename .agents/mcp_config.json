@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "webstudio": {
+      "command": "sh",
+      "args": [
+        "-c",
+        "cd '/Users/taikun/ウェブサイト/アプリ/Clip-Hold-Website' && npx -y webstudio mcp"
+      ]
+    }
+  }
+}

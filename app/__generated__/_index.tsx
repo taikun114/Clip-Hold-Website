@@ -3,15 +3,19 @@
 
 
       import { Fragment, useState } from "react";
-      import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
+      import { renderText, useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body, Link as Link, Link as Link_1 } from "@webstudio-is/sdk-components-react-router";
-import { Slot as Slot, Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, Image as Image, MarkdownEmbed as MarkdownEmbed, YouTube as YouTube, VimeoPreviewImage as VimeoPreviewImage, VimeoSpinner as VimeoSpinner, VimeoPlayButton as VimeoPlayButton } from "@webstudio-is/sdk-components-react";
+import { Slot as Slot, Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, Image as Image, MarkdownEmbed as MarkdownEmbed, YouTube as YouTube, VimeoPreviewImage as VimeoPreviewImage, VimeoSpinner as VimeoSpinner, VimeoPlayButton as VimeoPlayButton } from "@webstudio-is/sdk-components-react/components";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuLink as NavigationMenuLink, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2026-01-16T07:04:38.473Z";
+      export const projectVersion = 12167;
+
+      export const projectDomain = "clip-hold-794nv";
+
+      export const lastPublished = "2025-07-04T04:37:07.814Z";
 
       export const siteName = "Clip Hold";
 
@@ -52,6 +56,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       const Page = (_props: { system: any; }) => {
 const system = _props.system;
+let [imagePath, set$imagePath] = useVariableState<any>("https://github.com/taikun114/Clip-Hold/blob/main/docs/images")
 return <Body
 className={`w-element cbbr0dc`}>
 <Slot>
@@ -599,7 +604,7 @@ className={`w-element c7z4ryg c1ozennv c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekan
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"200\"\n    width=\"200\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + imagePath + "/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"" + imagePath + "/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"200\"\n    width=\"200\"\n  />\n</picture>\n"}
 className={`w-html-embed c13o8mej cit9x1f c1lyu98q co98q9h c1bge907 c1xoovru`}>
 </HtmlEmbed>
 <div
@@ -762,7 +767,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"Frequently used standard phrases and copy history items can be accessed quickly from the menu. You can easily copy an item by simply clicking on it."}
 </p>
 <Image
-src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Standard-Phrase-and-History.webp?raw=true"}
+src={imagePath + "/Standard-Phrase-and-History.webp?raw=true"}
 alt={"Standard Phrases and Copy History"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -780,7 +785,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"You can list all standard phrases you have set and all saved history items. You can easily copy an item by simply double-clicking on it."}
 </p>
 <Image
-src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Standard-Phrase-and-History-Window.webp?raw=true"}
+src={imagePath + "/Standard-Phrase-and-History-Window.webp?raw=true"}
 alt={"Standard Phrases Window and History Window"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -798,7 +803,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"Standard Phrases can be grouped into different presets, and the presets can be automatically switched depending on the app that is opened. Presets can also be switched using shortcut keys."}
 </p>
 <Image
-src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Presets.webp?raw=true"}
+src={imagePath + "/Presets.webp?raw=true"}
 alt={"Presets"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -816,7 +821,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"Dedicated shortcut keys allow you to quickly copy up to 10 standard phrases and 10 copy history items. You can also open the standard phrases and history windows instantly."}
 </p>
 <Image
-src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Shortcuts.webp?raw=true"}
+src={imagePath + "/Shortcuts.webp?raw=true"}
 alt={"Shortcut Keys"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -834,7 +839,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"With the “Quick Paste” feature, when you copy an item from the menu or use a shortcut key, the copied content is immediately pasted. You don't need to paste it yourself."}
 </p>
 <Image
-src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Quick-Paste.webp?raw=true"}
+src={imagePath + "/Quick-Paste.webp?raw=true"}
 alt={"Quick Paste"}
 loading={"lazy"}
 optimize={false}
@@ -853,7 +858,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"Standard phrases and clipboard history can be imported and exported. You can share your favorite standard phrases with someone else, or import clipboard history from another Mac."}
 </p>
 <Image
-src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Import-Export.webp?raw=true"}
+src={imagePath + "/Import-Export.webp?raw=true"}
 alt={"Import and Export Features"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -871,7 +876,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"By enabling it from the “Developer Features” settings, you can show the color icons based on the copied color codes in the history window and the menu."}
 </p>
 <Image
-src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Color-Codes.webp?raw=true"}
+src={imagePath + "/Color-Codes.webp?raw=true"}
 alt={"Color Codes"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -922,7 +927,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"While paused, the menu bar icon becomes translucent so you can see the current status at a glance. You will receive a notification when you start the app while it is paused, so you will never forget to resume clipboard monitoring."}
 </p>
 <Image
-src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Pause-Clipboard-Monitoring.webp?raw=true"}
+src={imagePath + "/Pause-Clipboard-Monitoring.webp?raw=true"}
 alt={"Pause Clipboard Monitoring"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -940,7 +945,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"If you do not want the history to be saved only in specific apps, no problem, you can add apps to exclude from clipboard monitoring. There is no need to pause clipboard monitoring."}
 </p>
 <Image
-src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Apps-to-Exclude.webp?raw=true"}
+src={imagePath + "/Apps-to-Exclude.webp?raw=true"}
 alt={"Apps to Exclude"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -1095,7 +1100,7 @@ className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekan
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"160\"\n    width=\"160\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + imagePath + "/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"" + imagePath + "/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"160\"\n    width=\"160\"\n  />\n</picture>\n"}
 className={`w-html-embed c13o8mej cit9x1f c1nnnk8m c4f6612 c9gwnxb c1bge907 c1xoovru`}>
 </HtmlEmbed>
 <div

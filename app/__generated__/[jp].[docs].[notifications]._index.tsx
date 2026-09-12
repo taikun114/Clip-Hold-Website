@@ -3,15 +3,19 @@
 
 
       import { Fragment, useState } from "react";
-      import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
-      import { Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, Slot as Slot, Image as Image, MarkdownEmbed as MarkdownEmbed } from "@webstudio-is/sdk-components-react";
+      import { renderText, useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
+      import { Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, Slot as Slot, Image as Image, MarkdownEmbed as MarkdownEmbed } from "@webstudio-is/sdk-components-react/components";
 import { Link as Link, Link as Link_1, Body as Body } from "@webstudio-is/sdk-components-react-router";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuLink as NavigationMenuLink, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2026-01-16T07:04:38.473Z";
+      
+
+      export const projectDomain = "clip-hold-794nv";
+
+      export const lastPublished = "2025-07-04T04:37:07.814Z";
 
       export const siteName = "Clip Hold";
 
@@ -31,6 +35,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       const Page = (_props: { system: any; }) => {
 const system = _props.system;
+let [imagePath, set$imagePath] = useVariableState<any>("https://github.com/taikun114/Clip-Hold/blob/main/docs/images")
 return <Body
 className={`w-element c1uoa21q c10ahqwr c1atdl27 cdm1ag0`}>
 <Slot>
@@ -577,15 +582,20 @@ className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c3qq3un 
 className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1r1zv9s cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
 <MarkdownEmbed
 code={"[ドキュメントホーム](/jp/docs) / [その他](/jp/docs#other) / **通知**"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c11qmzdn c9di14k c7rite5 cijijao cgtk0xu c19hmctj c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 c1fkhv8g c1anbdbd cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c11qmzdn c9di14k c7rite5 cijijao cgtk0xu c19hmctj c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"通知"}
 </h1>
+<Image
+alt={"クリップボード監視の一時停止"}
+loading={"lazy"}
+src={imagePath + "/Pause-Clipboard-Monitoring-ja.webp?raw=true"}
+className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg cssx0h5`} />
 <MarkdownEmbed
-code={"![クリップボード監視の一時停止](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Pause-Clipboard-Monitoring-ja.webp?raw=true)\n\nClip Holdには、**クリップボード監視の状態に応じて通知が送信される**機能が搭載されています。\n\n以下の時に通知が届きます。\n\n- クリップボード監視を一時停止した時\n- クリップボード監視を再開した時\n- クリップボード監視が一時停止の状態でアプリを起動した時\n- 設定からテスト通知を送信した時\n- 履歴ファイルのアップグレードに成功した時と失敗した時\n- キーボードショートカットでプリセットを切り替えた時\n- 設定されていない定型文を呼び出すキーボードショートカットが押された時\n\nこのうち、「クリップボード監視が一時停止の状態でアプリを起動した時」と「履歴ファイルのアップグレードに成功した時と失敗した時」に届く通知のみサウンドが再生されます。\\\nまた、前差の通知パネルには「再開」ボタンがあり、そこをクリックすることでクリップボード監視を素早く再開することができます。後者の場合、アップグレードに失敗したときの通知パネルにのみ「ドキュメントを表示...」ボタンがあり、そこをクリックすることで[**履歴ファイルの手動アップグレード方法に関するドキュメントページ**](/jp/docs/upgrade-history-data)を開くことができます。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c11qmzdn c9di14k c7rite5 cijijao cgtk0xu c19hmctj c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+code={"Clip Holdには、**クリップボード監視の状態に応じて通知が送信される**機能が搭載されています。\n\n以下の時に通知が届きます。\n\n- クリップボード監視を一時停止した時\n- クリップボード監視を再開した時\n- クリップボード監視が一時停止の状態でアプリを起動した時\n- 設定からテスト通知を送信した時\n- 履歴ファイルのアップグレードに成功した時と失敗した時\n- キーボードショートカットでプリセットを切り替えた時\n- 設定されていない定型文を呼び出すキーボードショートカットが押された時\n\nこのうち、「クリップボード監視が一時停止の状態でアプリを起動した時」と「履歴ファイルのアップグレードに成功した時と失敗した時」に届く通知のみサウンドが再生されます。\\\nまた、前差の通知パネルには「再開」ボタンがあり、そこをクリックすることでクリップボード監視を素早く再開することができます。後者の場合、アップグレードに失敗したときの通知パネルにのみ「ドキュメントを表示...」ボタンがあり、そこをクリックすることで[**履歴ファイルの手動アップグレード方法に関するドキュメントページ**](/jp/docs/upgrade-history-data)を開くことができます。"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 c1fkhv8g c1anbdbd cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c11qmzdn c9di14k c7rite5 cijijao cgtk0xu c19hmctj c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 </div>
 </div>
@@ -596,7 +606,7 @@ className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekan
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"160\"\n    width=\"160\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + imagePath + "/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"" + imagePath + "/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"160\"\n    width=\"160\"\n  />\n</picture>\n"}
 className={`w-html-embed c13o8mej cit9x1f c1nnnk8m c4f6612 c9gwnxb c1bge907 c1xoovru`}>
 </HtmlEmbed>
 <div

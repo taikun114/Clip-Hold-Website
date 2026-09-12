@@ -3,15 +3,19 @@
 
 
       import { Fragment, useState } from "react";
-      import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
-      import { Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, Slot as Slot, MarkdownEmbed as MarkdownEmbed, Image as Image } from "@webstudio-is/sdk-components-react";
+      import { renderText, useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
+      import { Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, Slot as Slot, MarkdownEmbed as MarkdownEmbed, Image as Image } from "@webstudio-is/sdk-components-react/components";
 import { Link as Link, Link as Link_1, Body as Body } from "@webstudio-is/sdk-components-react-router";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuLink as NavigationMenuLink, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2026-01-16T07:04:38.473Z";
+      
+
+      export const projectDomain = "clip-hold-794nv";
+
+      export const lastPublished = "2025-07-04T04:37:07.814Z";
 
       export const siteName = "Clip Hold";
 
@@ -31,6 +35,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       const Page = (_props: { system: any; }) => {
 const system = _props.system;
+let [imagePath, set$imagePath] = useVariableState<any>("https://github.com/taikun114/Clip-Hold/blob/main/docs/images")
 return <Body
 className={`w-element c1uoa21q c10ahqwr c1atdl27 cdm1ag0`}>
 <Slot>
@@ -585,7 +590,7 @@ className={`w-element c1yn6h70`}>
 </p>
 <MarkdownEmbed
 code={"## ウェブサイトが収集する情報について\n当ウェブサイトでは、アクセス解析ツールとして「Googleアナリティクス」および「Umami」を使用しています。これらの収集するトラフィックデータは匿名であり、個人を特定するものではありません。\n\n### Googleアナリティクス\nGoogleアナリティクスではCookieを使用してトラフィックデータを収集しています。Cookie無効化することで収集を拒否することができますので、お使いのブラウザの設定をご確認ください。\\\nGoogleアナリティクスの規約に関しては、[**こちら**](http://www.google.com/analytics/terms/jp.html)、または[**こちら**](https://www.google.com/intl/ja/policies/privacy/partners/)のページをご確認ください。\n\n### Umami\nUmamiでは、トラフィックデータの収集にCookieを使用していません。そのため、トラフィックデータの収集を拒否したい場合は[**こちらのドキュメント**](https://umami.is/docs/exclude-my-own-visits)をご覧ください。\\\nUmamiの規約に関しては、[**こちら**](https://umami.is/privacy)のページをご確認ください。\n\n## アプリによる情報の収集について\nClip Holdは、ユーザーのいかなる情報も収集・送信しません。\\\nシステム設定の「プライバシーとセキュリティ」設定内にある「解析と改善」で「**アプリデベロッパと共有**」をオンにしているユーザーの使用状況データとクラッシュレポートが共有される場合がありますが、アプリ自体には情報を収集して送信する機能は全く搭載されていません。プライバシーが心配な方でも安心してお使いいただけます。\n\n### Clip Holdが取得する情報\nClip Holdの機能が正しく動作するために取得する情報があります。次の情報が取得されます。\n\n- クリップボードのコンテンツ\n  - クリップボードの履歴を保存するために使用されています。\n- コピーした時刻\n  - コピーされた時刻を記録・表示するために使用されています。\n- キーボード入力\n  - グローバルショートカットを認識するために使用されています。\n- 実行中のアプリ名・情報\n  - 「**除外するアプリ**」に追加する際、実行中のアプリから追加できるようにするために使用されています。\n- 最前面のアプリ名・情報\n  - プリセットの自動切り替えを行うために使用されています。\n- コピー元（コピーしたときに最前面にあったアプリ）のアプリ名・情報\n  - アプリが「**除外するアプリ**」に登録されているかどうかを検出したり、履歴ウィンドウにコピーしたアプリアイコンを表示したりするために使用されています。\n- ファイルピッカーを通してユーザーが提供したファイル\n  - 履歴や定型文のインポートを行うために使用されています。\n- システム情報・アプリのバージョン情報\n  - アプリ内の「フィードバックを送信」ボタンをクリックした際に、フィードバックテンプレート言語の自動検出及びこちらで必要な情報が事前入力される機能のために使用されています。この機能には、以下の情報が取得されます。\n    - アプリの言語（日本語かそれ以外か）\n    - 機種ID（例: `Mac16,11`）\n    - CPUアーキテクチャ（例: `Apple Silicon (arm64)`）\n    - macOSバージョン情報（例: `バージョン15.6.1（ビルド24G90）`）\n    - アプリバージョン情報（例: `バージョン1.3.0（ビルド202508301714）`）\n \nこれらの取得された情報はアプリ内にのみとどまり、外部へ送信される事は一切ありません。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c11qmzdn c9di14k c7rite5 cijijao cgtk0xu c19hmctj c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 c1fkhv8g c1anbdbd cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c11qmzdn c9di14k c7rite5 cijijao cgtk0xu c19hmctj c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 </div>
 </div>
@@ -596,7 +601,7 @@ className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekan
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"160\"\n    width=\"160\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + imagePath + "/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"" + imagePath + "/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"160\"\n    width=\"160\"\n  />\n</picture>\n"}
 className={`w-html-embed c13o8mej cit9x1f c1nnnk8m c4f6612 c9gwnxb c1bge907 c1xoovru`}>
 </HtmlEmbed>
 <div

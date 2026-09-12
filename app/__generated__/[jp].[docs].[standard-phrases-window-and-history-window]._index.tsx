@@ -3,15 +3,19 @@
 
 
       import { Fragment, useState } from "react";
-      import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
-      import { Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, Slot as Slot, Image as Image, MarkdownEmbed as MarkdownEmbed } from "@webstudio-is/sdk-components-react";
+      import { renderText, useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
+      import { Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, Slot as Slot, Image as Image, MarkdownEmbed as MarkdownEmbed } from "@webstudio-is/sdk-components-react/components";
 import { Link as Link, Link as Link_1, Body as Body } from "@webstudio-is/sdk-components-react-router";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuLink as NavigationMenuLink, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2026-01-16T07:04:38.473Z";
+      
+
+      export const projectDomain = "clip-hold-794nv";
+
+      export const lastPublished = "2025-07-04T04:37:07.814Z";
 
       export const siteName = "Clip Hold";
 
@@ -31,6 +35,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       const Page = (_props: { system: any; }) => {
 const system = _props.system;
+let [imagePath, set$imagePath] = useVariableState<any>("https://github.com/taikun114/Clip-Hold/blob/main/docs/images")
 return <Body
 className={`w-element c1uoa21q c10ahqwr c1atdl27 cdm1ag0`}>
 <Slot>
@@ -577,19 +582,60 @@ className={`w-element c7z4ryg c10ahqwr ccy4onp ciqrpa6 caanqdp c1atdl27 c3qq3un 
 className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1r1zv9s cv0104a cg5ykre c1merv6x cdot8hu cssz5kv cyxspfs`}>
 <MarkdownEmbed
 code={"[ドキュメントホーム](/jp/docs) / [定型文とコピー履歴](/jp/docs#standard-phrases-and-copy-history) / **定型文ウィンドウと履歴ウィンドウ**"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c11qmzdn c9di14k c7rite5 cijijao cgtk0xu c19hmctj c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 chjqrll c13jyokv cvh06f7 c1fkhv8g c1anbdbd cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c11qmzdn c9di14k c7rite5 cijijao cgtk0xu c19hmctj c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <h1
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"定型文ウィンドウと履歴ウィンドウ"}
 </h1>
 <h2
-className={`w-element cua250e`}>
+className={`w-element c1btyfa c1dgg9g4 c1cgzzq8`}>
 {"定型文ウィンドウと履歴ウィンドウ"}
 </h2>
+<Image
+alt={"定型文ウィンドウと履歴ウィンドウ"}
+loading={"lazy"}
+src={imagePath + "/Standard-Phrase-and-History-Window-ja.webp?raw=true"}
+className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg cssx0h5`} />
 <MarkdownEmbed
-code={"![定型文ウィンドウと履歴ウィンドウ](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Standard-Phrase-and-History-Window-ja.webp?raw=true)\n\nすべての定型文やコピー履歴は、定型文ウィンドウと履歴ウィンドウからアクセスすることができます。\\\n定型文ウィンドウは、Clip Holdのメニューバーアイコンの「すべての定型文を表示...」、履歴ウィンドウは「すべてのコピー履歴を表示...」をクリックすることで開くことができます。\\\nこれらのウィンドウはショートカットキーを使って開くこともできます。定型文ウィンドウはデフォルトで`^ (Control)` + `⌘ (Command)` + `V`、履歴ウィンドウはデフォルトで`⌥ (Option)` + `⌘ (Command)` + `V`で開くことができます。\n\n### 各項目について\nウィンドウ内に表示される各項目をダブルクリックすることでコピーすることができます。\\\nデフォルトではコピー後にウィンドウが自動的に閉じますが、設定で閉じないようにすることもできます。\n\n> **豆知識**\\\n> 各項目にカーソルを乗せると、ツールチップにコンテンツ全体が表示されます。コピーする前に長いコンテンツを確認したいときに便利です。\n\n![QRコードの作成](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/QR-Code-ja.webp?raw=true)\n\n他にも、各項目を右クリックしてコピーやQRコードの作成、そして削除することもできます（削除した場合、ストレージからも削除されます）。\\\nこれらに加えて、定型文ウィンドウでは定型文の編集を、履歴ウィンドウではその項目から定型文を作成するオプションが表示されます。\n\n> **豆知識**\\\n> 各項目のメニューから「標準テキストとしてコピー」をクリックすると、リッチテキストを標準テキストとしてコピーすることができます。\\\n> 各項目のメニューから「変更してコピー...」をクリックすると、その履歴を編集して新たにコピーすることもできます。コピーしたテキストの一部分を変更してコピーしたいときに便利です。\n\n![ドラッグアンドドロップしてコピー](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Drag-and-Drop-to-Copy-ja.webp?raw=true)\n\nまた、各項目をドラッグアンドドロップして、ドロップした場所にコピーすることができます。\\\n定型文ウィンドウの場合は各リスト項目、履歴ウィンドウの場合は各リスト項目に表示されているアイコンをドラッグすることができます。\n\n### 検索\n上部にある検索欄にキーワードを入力することで定型文やコピー履歴を検索することができます。検索機能はバックグラウンドで行われるため、定型文やコピー履歴の数が多くてもUIがフリーズすることなく高速に検索することができます。\n\n#### フィルタリングと並べ替え\n![フィルタリングと並べ替え](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Filter-and-Sort-ja.webp?raw=true)\n\n検索ボックスの右側にある2つのボタンからそれぞれフィルタリングと並べ替えを行うことができます。\n\nフィルタリングオプションは以下の通りです。\n- すべての項目\n- テキストのみ\n  - すべてのテキスト\n  - 標準テキストのみ\n  - リッチテキストのみ\n  - リンクのみ\n- ファイルのみ\n  - すべてのファイル\n  - 画像のみ\n    - 次の拡張子のファイルが表示されます: `jpg`、`jpeg`、`png`、`gif`、`bmp`、`heic`、`webp`、`tiff`、`tif`、`ico`、`icns`、`svg`、`eps`、`ai`、`psd`\n  - 動画のみ\n    - 次の拡張子のファイルが表示されます: `mov`、`mp4`、`avi`、`mkv`、`wmv`、`flv`、`webm`、`m4v`、`qt`\n  - PDFのみ\n  - フォルダのみ\n  - その他のファイル\n- カラーコードのみ\n  - このオプションを表示するには、「開発者向け設定」から有効化する必要があります。\n\nさらに、同時に特定のアプリのみに絞り込むこともできます。\n\n> **豆知識**\\\n> アプリの「自動」を選択すると、最前面のアプリによって自動的にフィルタリングが切り替わるようになります。\\\n> 例えば、Safariにフォーカスを合わせるとSafariからコピーしたものだけが表示され、メールにフォーカスを合わせるとメールからコピーしたものだけが表示されるようになります。\n\n並べ替えオプションは以下の通りです。\n- 新しい順\n- 古い順\n- ファイルサイズが大きい順\n- ファイルサイズが小さい順\n\n> **豆知識**\\\n> 並べ替えオプションの「ファイルサイズが小さい順」を選択する際、フィルタリングオプションで「ファイルのみ」または「画像のみ」を指定しておくとテキスト項目が表示されなくなるため便利です。\n\n## QRコード画像のスキャン\n![QRコード画像のスキャン](https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Drag-and-Drop-to-Copy-QR-Code-ja.webp?raw=true)\n\nQRコードが含まれた画像を履歴ウィンドウにドラッグアンドドロップすると、QRコードのコンテンツがコピーされ、履歴に追加されます。\n\n> **豆知識**\\\n> 最低限読み取り可能な解像度のQRコードが含まれていれば、画像全体にQRコードが表示されている必要はありません。\n\n### 設定項目\n定型文ウィンドウに関する設定は[**こちらのページ**](/jp/docs/settings#%E5%AE%9A%E5%9E%8B%E6%96%87%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6)、履歴ウィンドウに関する設定は[**こちらのページ**](/jp/docs/settings#%E5%B1%A5%E6%AD%B4%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6)をご覧ください。"}
-className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 cz7p94 cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c11qmzdn c9di14k c7rite5 cijijao cgtk0xu c19hmctj c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+code={"すべての定型文やコピー履歴は、定型文ウィンドウと履歴ウィンドウからアクセスすることができます。\\\n定型文ウィンドウは、Clip Holdのメニューバーアイコンの「すべての定型文を表示...」、履歴ウィンドウは「すべてのコピー履歴を表示...」をクリックすることで開くことができます。\\\nこれらのウィンドウはショートカットキーを使って開くこともできます。定型文ウィンドウはデフォルトで`^ (Control)` + `⌘ (Command)` + `V`、履歴ウィンドウはデフォルトで`⌥ (Option)` + `⌘ (Command)` + `V`で開くことができます。\n\n### 各項目について\nウィンドウ内に表示される各項目をダブルクリックすることでコピーすることができます。\\\nデフォルトではコピー後にウィンドウが自動的に閉じますが、設定で閉じないようにすることもできます。\n\n> **豆知識**\\\n> 各項目にカーソルを乗せると、ツールチップにコンテンツ全体が表示されます。コピーする前に長いコンテンツを確認したいときに便利です。"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 c1fkhv8g c1anbdbd cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c11qmzdn c9di14k c7rite5 cijijao cgtk0xu c19hmctj c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+</MarkdownEmbed>
+<Image
+alt={"QRコードの作成"}
+loading={"lazy"}
+src={imagePath + "/QR-Code-ja.webp?raw=true"}
+className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg cssx0h5`} />
+<MarkdownEmbed
+code={"他にも、各項目を右クリックしてコピーやQRコードの作成、そして削除することもできます（削除した場合、ストレージからも削除されます）。\\\nこれらに加えて、定型文ウィンドウでは定型文の編集を、履歴ウィンドウではその項目から定型文を作成するオプションが表示されます。\n\n> **豆知識**\\\n> 各項目のメニューから「標準テキストとしてコピー」をクリックすると、リッチテキストを標準テキストとしてコピーすることができます。\\\n> 各項目のメニューから「変更してコピー...」をクリックすると、その履歴を編集して新たにコピーすることもできます。コピーしたテキストの一部分を変更してコピーしたいときに便利です。"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 c1fkhv8g c1anbdbd cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c11qmzdn c9di14k c7rite5 cijijao cgtk0xu c19hmctj c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+</MarkdownEmbed>
+<Image
+alt={"ドラッグアンドドロップしてコピー"}
+loading={"lazy"}
+src={imagePath + "/Drag-and-Drop-to-Copy-ja.webp?raw=true"}
+className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg cssx0h5`} />
+<MarkdownEmbed
+code={"また、各項目をドラッグアンドドロップして、ドロップした場所にコピーすることができます。\\\n定型文ウィンドウの場合は各リスト項目、履歴ウィンドウの場合は各リスト項目に表示されているアイコンをドラッグすることができます。\n\n### 検索\n上部にある検索欄にキーワードを入力することで定型文やコピー履歴を検索することができます。検索機能はバックグラウンドで行われるため、定型文やコピー履歴の数が多くてもUIがフリーズすることなく高速に検索することができます。\n\n#### フィルタリングと並べ替え"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 c1fkhv8g c1anbdbd cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c11qmzdn c9di14k c7rite5 cijijao cgtk0xu c19hmctj c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+</MarkdownEmbed>
+<Image
+alt={"フィルタリングと並べ替え"}
+loading={"lazy"}
+src={imagePath + "/Filter-and-Sort-ja.webp?raw=true"}
+className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg cssx0h5`} />
+<MarkdownEmbed
+code={"検索ボックスの右側にある2つのボタンからそれぞれフィルタリングと並べ替えを行うことができます。\n\nフィルタリングオプションは以下の通りです。\n- すべての項目\n- テキストのみ\n  - すべてのテキスト\n  - 標準テキストのみ\n  - リッチテキストのみ\n  - リンクのみ\n- ファイルのみ\n  - すべてのファイル\n  - 画像のみ\n    - 次の拡張子のファイルが表示されます: `jpg`、`jpeg`、`png`、`gif`、`bmp`、`heic`、`webp`、`tiff`、`tif`、`ico`、`icns`、`svg`、`eps`、`ai`、`psd`\n  - 動画のみ\n    - 次の拡張子のファイルが表示されます: `mov`、`mp4`、`avi`、`mkv`、`wmv`、`flv`、`webm`、`m4v`、`qt`\n  - PDFのみ\n  - フォルダのみ\n  - その他のファイル\n- カラーコードのみ\n  - このオプションを表示するには、「開発者向け設定」から有効化する必要があります。\n\nさらに、同時に特定のアプリのみに絞り込むこともできます。\n\n> **豆知識**\\\n> アプリの「自動」を選択すると、最前面のアプリによって自動的にフィルタリングが切り替わるようになります。\\\n> 例えば、Safariにフォーカスを合わせるとSafariからコピーしたものだけが表示され、メールにフォーカスを合わせるとメールからコピーしたものだけが表示されるようになります。\n\n並べ替えオプションは以下の通りです。\n- 新しい順\n- 古い順\n- ファイルサイズが大きい順\n- ファイルサイズが小さい順\n\n> **豆知識**\\\n> 並べ替えオプションの「ファイルサイズが小さい順」を選択する際、フィルタリングオプションで「ファイルのみ」または「画像のみ」を指定しておくとテキスト項目が表示されなくなるため便利です。\n\n## QRコード画像のスキャン"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 c1fkhv8g c1anbdbd cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c11qmzdn c9di14k c7rite5 cijijao cgtk0xu c19hmctj c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+</MarkdownEmbed>
+<Image
+alt={"QRコード画像のスキャン"}
+loading={"lazy"}
+src={imagePath + "/Drag-and-Drop-to-Copy-QR-Code-ja.webp?raw=true"}
+className={`w-image c9ugdj9 c1xw4c7e c15n9rp3 c1ii8kx5 c7z4ryg cssx0h5`} />
+<MarkdownEmbed
+code={"QRコードが含まれた画像を履歴ウィンドウにドラッグアンドドロップすると、QRコードのコンテンツがコピーされ、履歴に追加されます。\n\n> **豆知識**\\\n> 最低限読み取り可能な解像度のQRコードが含まれていれば、画像全体にQRコードが表示されている必要はありません。\n\n### 設定項目\n定型文ウィンドウに関する設定は[**こちらのページ**](/jp/docs/settings#%E5%AE%9A%E5%9E%8B%E6%96%87%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6)、履歴ウィンドウに関する設定は[**こちらのページ**](/jp/docs/settings#%E5%B1%A5%E6%AD%B4%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6)をご覧ください。"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 c1fkhv8g c1anbdbd cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c11qmzdn c9di14k c7rite5 cijijao cgtk0xu c19hmctj c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 </div>
 </div>
@@ -600,7 +646,7 @@ className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekan
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"160\"\n    width=\"160\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + imagePath + "/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"" + imagePath + "/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"160\"\n    width=\"160\"\n  />\n</picture>\n"}
 className={`w-html-embed c13o8mej cit9x1f c1nnnk8m c4f6612 c9gwnxb c1bge907 c1xoovru`}>
 </HtmlEmbed>
 <div

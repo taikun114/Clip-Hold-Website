@@ -3,15 +3,19 @@
 
 
       import { Fragment, useState } from "react";
-      import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
+      import { renderText, useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body, Link as Link, Link as Link_1 } from "@webstudio-is/sdk-components-react-router";
-import { Slot as Slot, Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, Image as Image, MarkdownEmbed as MarkdownEmbed, YouTube as YouTube, VimeoPreviewImage as VimeoPreviewImage, VimeoSpinner as VimeoSpinner, VimeoPlayButton as VimeoPlayButton } from "@webstudio-is/sdk-components-react";
+import { Slot as Slot, Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, Image as Image, MarkdownEmbed as MarkdownEmbed, YouTube as YouTube, VimeoPreviewImage as VimeoPreviewImage, VimeoSpinner as VimeoSpinner, VimeoPlayButton as VimeoPlayButton } from "@webstudio-is/sdk-components-react/components";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuLink as NavigationMenuLink, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
 
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const lastPublished = "2026-01-16T07:04:38.473Z";
+      
+
+      export const projectDomain = "clip-hold-794nv";
+
+      export const lastPublished = "2025-07-04T04:37:07.814Z";
 
       export const siteName = "Clip Hold";
 
@@ -31,6 +35,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       const Page = (_props: { system: any; }) => {
 const system = _props.system;
+let [imagePath, set$imagePath] = useVariableState<any>("https://github.com/taikun114/Clip-Hold/blob/main/docs/images")
 return <Body
 className={`w-element cbbr0dc`}>
 <Slot>
@@ -576,7 +581,7 @@ className={`w-element c7z4ryg c1ozennv c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekan
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"200\"\n    width=\"200\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + imagePath + "/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"" + imagePath + "/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"200\"\n    width=\"200\"\n  />\n</picture>\n"}
 className={`w-html-embed c13o8mej cit9x1f c1lyu98q co98q9h c1bge907 c1xoovru`}>
 </HtmlEmbed>
 <div
@@ -739,7 +744,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"よく使う定型文とコピー履歴には、メニューからすぐにアクセスできます。項目をクリックするだけで簡単にコピーすることができます。"}
 </p>
 <Image
-src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Standard-Phrase-and-History-ja.webp?raw=true"}
+src={imagePath + "/Standard-Phrase-and-History-ja.webp?raw=true"}
 alt={"定型文とコピー履歴"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -757,7 +762,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"設定したすべての定型文と、保存されたすべての履歴を一覧表示することができます。項目をダブルクリックするだけで簡単にコピーすることができます。"}
 </p>
 <Image
-src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Standard-Phrase-and-History-Window-ja.webp?raw=true"}
+src={imagePath + "/Standard-Phrase-and-History-Window-ja.webp?raw=true"}
 alt={"定型文ウィンドウとは履歴ウィンドウ"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -775,7 +780,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"定型文をプリセットごとに分けて、開いたアプリによって自動でプリセットを切り替えることができます。プリセットはショートカットキーで切り替えることもできます。"}
 </p>
 <Image
-src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Presets-ja.webp?raw=true"}
+src={imagePath + "/Presets-ja.webp?raw=true"}
 alt={"プリセット"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -793,7 +798,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"各10個までの定型文とコピー履歴をすぐさまコピーできるショートカットキーが用意されており、素早くコピーすることができます。定型文や履歴ウィンドウを開くのも一瞬。"}
 </p>
 <Image
-src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Shortcuts-ja.webp?raw=true"}
+src={imagePath + "/Shortcuts-ja.webp?raw=true"}
 alt={"ショートカットキー"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -811,7 +816,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"「クイックペースト」機能を使えば、メニューで項目をコピーした時やショートカットキーを使ってコピーしたとき、コピーした内容が即座にペーストされます。わざわざ自分でペーストする必要はありません。"}
 </p>
 <Image
-src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Quick-Paste-ja.webp?raw=true"}
+src={imagePath + "/Quick-Paste-ja.webp?raw=true"}
 alt={"クイックペースト"}
 loading={"lazy"}
 optimize={false}
@@ -830,7 +835,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"定型文とクリップボード履歴は、インポートしたりエクスポートしたりすることができます。自分がよく使う定型文を誰かと共有したり、他のMacからのクリップボード履歴を読み込んだりすることができます。"}
 </p>
 <Image
-src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Import-Export-ja.webp?raw=true"}
+src={imagePath + "/Import-Export-ja.webp?raw=true"}
 alt={"インポートとエクスポート機能"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -848,7 +853,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"「開発者向け機能」設定から有効化すると、コピーしたカラーコードに基づくカラーアイコンを、履歴ウィンドウとメニューに表示させることができます。"}
 </p>
 <Image
-src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Color-Codes-ja.webp?raw=true"}
+src={imagePath + "/Color-Codes-ja.webp?raw=true"}
 alt={"カラーコード"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -894,7 +899,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"一時停止中はメニューバーアイコンが半透明になり、現在の状態が一目でわかります。一時停止の状態でアプリを起動すると通知が届くので、クリップボード監視の再開を忘れることもありません。"}
 </p>
 <Image
-src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Pause-Clipboard-Monitoring-ja.webp?raw=true"}
+src={imagePath + "/Pause-Clipboard-Monitoring-ja.webp?raw=true"}
 alt={"クリップボード監視の一時停止"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -912,7 +917,7 @@ className={`w-element c1yn6h70 clfs8zh c1mbyuac c1c43ngc c2oe4sx c1ruoz7k c1uj2y
 {"特定のアプリでのみ履歴が保存されて欲しくない時でも大丈夫、クリップボード監視から除外できるアプリを追加できます。わざわざクリップボード監視を一時停止する必要はありません。"}
 </p>
 <Image
-src={"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/Apps-to-Exclude-ja.webp?raw=true"}
+src={imagePath + "/Apps-to-Exclude-ja.webp?raw=true"}
 alt={"除外するアプリ"}
 loading={"lazy"}
 className={`w-image cfoar8i c13ilcm6 c1w497fm c8dkrv8 c7z4ryg cg5ykre c1merv6x cdot8hu cssz5kv`} />
@@ -1062,7 +1067,7 @@ className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekan
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"https://github.com/taikun114/Clip-Hold/blob/dev/docs/images/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"160\"\n    width=\"160\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + imagePath + "/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"" + imagePath + "/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"160\"\n    width=\"160\"\n  />\n</picture>\n"}
 className={`w-html-embed c13o8mej cit9x1f c1nnnk8m c4f6612 c9gwnxb c1bge907 c1xoovru`}>
 </HtmlEmbed>
 <div
