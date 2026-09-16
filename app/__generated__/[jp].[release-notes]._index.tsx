@@ -585,6 +585,15 @@ className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"Clip Hold リリースノート"}
 </h1>
 <h2
+id={"v1-7-1"}
+className={`w-element c1btyfa c1dgg9g4 c1cgzzq8`}>
+{"バージョン 1.7.1"}
+</h2>
+<MarkdownEmbed
+code={"リリース: 2026年9月16日\n\n### バグ修正と改善\n#### クイックオーバーレイ\n- **スクリーンエッジを左側に配置したときにツールチップが隠れてしまう問題を修正**"}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 c1fkhv8g c1anbdbd cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c11qmzdn c9di14k c7rite5 cijijao cgtk0xu c19hmctj c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+</MarkdownEmbed>
+<h2
 id={"v1-7-0"}
 className={`w-element c1btyfa c1dgg9g4 c1cgzzq8`}>
 {"バージョン 1.7.0"}

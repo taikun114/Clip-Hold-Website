@@ -11,7 +11,7 @@ import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuL
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
 
-      export const projectVersion = 12168;
+      export const projectVersion = 12178;
 
       export const projectDomain = "clip-hold-794nv";
 
