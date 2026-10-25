@@ -6,7 +6,7 @@
       import { renderText, useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, Slot as Slot, Image as Image, MarkdownEmbed as MarkdownEmbed } from "@webstudio-is/sdk-components-react/components";
 import { Link as Link, Link as Link_1, Body as Body } from "@webstudio-is/sdk-components-react-router";
-import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuLink as NavigationMenuLink, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
+import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuLink as NavigationMenuLink } from "@webstudio-is/sdk-components-react-radix";
 
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
@@ -41,9 +41,15 @@ className={`w-element c1uoa21q c10ahqwr c1atdl27 cdm1ag0`}>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d czcq795 cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq cnq5uvv cn7vhbn`}>
+className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d c3wsuep c1prvjh7 cjnw8bq c8rm0tm c1lfu9k3 cegjyhq cnq5uvv cn7vhbn`}>
 <div
-className={`w-element c1qopeiv c7z4ryg c1jt805z c10ahqwr ccy4onp cdm1ag0`}>
+aria-hidden={"true"}
+className={`w-element c12fyb4s c1bq9k1t c1yhr0wt c9uwmtv c1rbzz7m cy23g3g cgfgtm2 c1wid2z4 cvyvt8m cpi7ogg`} />
+<HtmlEmbed
+code={"<style>\n@keyframes clipHoldNavPopupFadeIn {\n  from { opacity: 0; transform: translateY(-8px) scale(0.96); }\n  to { opacity: 1; transform: translateY(0) scale(1); }\n}\n@keyframes clipHoldNavPopupFadeOut {\n  from { opacity: 1; transform: translateY(0) scale(1); }\n  to { opacity: 0; transform: translateY(-8px) scale(0.96); }\n}\n@media (prefers-reduced-motion: reduce) {\n  [data-clip-hold-nav-popup] { animation-duration: 0.01ms !important; }\n}\n</style>"}
+className={`w-html-embed c2cg3w5`} />
+<div
+className={`w-element c1qopeiv c7z4ryg c1jt805z c10ahqwr ccy4onp cdm1ag0 c18r7lsh c1q01pac`}>
 <Link
 href={"/"}
 className={`w-element c10ahqwr ccy4onp ciqrpa6 cdjvmmy`}>
@@ -61,7 +67,7 @@ className={`w-navigation-menu c18r7lsh c1nkdqmy c1s7f7m6`}>
 className={`w-menu-list c10ahqwr c1u51yoh c1fyxozx c1oby77s c1vqhak5 ccy4onp c12v245d chz2lhu c1mr8pq3 cwjh6ed cuugp9g`}>
 <NavigationMenuItem
 data-ws-index="0"
-className={`w-menu-item`}>
+className={`w-menu-item c18r7lsh`}>
 <NavigationMenuTrigger>
 <Button
 className={`w-button c6t8baf ccy4onp c12v245d c22bltr c1qhcdyy c1fi5cuq cht0eit ci7vqja c1yco124 c19kzc1u c1cijgzd ced3s0y cw8qqgw c170tjmx c1vn5tfs c1kp31s8 czucxib cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ey153p c1wffj6h cg3odet cwblwtu c14z3omo ca508ev c1r1ndh8 cl0rcjj ckffmm9 crs1rsf c1q1affg cjb1u0k c1uzl7ts cao2a7h c1jvzd51 c19z7nzm`}>
@@ -78,7 +84,8 @@ className={`w-html-embed c10svky5`} />
 </Button>
 </NavigationMenuTrigger>
 <NavigationMenuContent
-className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
+data-clip-hold-nav-popup={""}
+className={`w-menu-content c1h8gefg chu2gw7 c4im5ri c1kael5w c12fyb4s c1x5aw03 csaddr c8xszqq c10ooszm c1cvc1fy ctv2jj6 c1d37xbr cks8qh2 cafscv2 c1tc6v8u cen3wsf caqkv26 c18rgb3y c169pe5h c4t6xry c19y4hvr cvgvssi c1ngw9no c1ays5ld cp9r9ft cd7oday`}>
 <Box
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
@@ -145,7 +152,7 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh
 </NavigationMenuItem>
 <NavigationMenuItem
 data-ws-index="1"
-className={`w-menu-item`}>
+className={`w-menu-item c18r7lsh`}>
 <NavigationMenuTrigger>
 <Button
 className={`w-button c6t8baf ccy4onp c12v245d c22bltr c1qhcdyy c1fi5cuq cht0eit ci7vqja c1yco124 c19kzc1u c1cijgzd ced3s0y cw8qqgw c170tjmx c1vn5tfs c1kp31s8 czucxib cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ey153p c1wffj6h cg3odet cwblwtu c14z3omo ca508ev c1r1ndh8 cl0rcjj ckffmm9 crs1rsf c1q1affg cjb1u0k c1uzl7ts cao2a7h c1jvzd51 c19z7nzm`}>
@@ -162,7 +169,8 @@ className={`w-html-embed c10svky5`} />
 </Button>
 </NavigationMenuTrigger>
 <NavigationMenuContent
-className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
+data-clip-hold-nav-popup={""}
+className={`w-menu-content c1h8gefg chu2gw7 c4im5ri c1kael5w c12fyb4s c1x5aw03 csaddr c8xszqq c10ooszm c1cvc1fy ctv2jj6 c1d37xbr cks8qh2 cafscv2 c1tc6v8u cen3wsf caqkv26 c18rgb3y c169pe5h c4t6xry c19y4hvr cvgvssi c1ngw9no c1ays5ld cp9r9ft cd7oday`}>
 <Box
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
@@ -224,7 +232,7 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh
 </NavigationMenuItem>
 <NavigationMenuItem
 data-ws-index="2"
-className={`w-menu-item`}>
+className={`w-menu-item c18r7lsh`}>
 <NavigationMenuTrigger>
 <Button
 className={`w-button c6t8baf ccy4onp c12v245d c170tjmx c1vn5tfs czucxib c1kp31s8 c1qhcdyy c1fi5cuq cht0eit ci7vqja c1yco124 c19kzc1u c1cijgzd ced3s0y cw8qqgw c22bltr cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ey153p c1wffj6h cg3odet cl0rcjj ckffmm9 crs1rsf c19z7nzm c1q1affg`}>
@@ -241,7 +249,8 @@ className={`w-html-embed c10svky5`} />
 </Button>
 </NavigationMenuTrigger>
 <NavigationMenuContent
-className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
+data-clip-hold-nav-popup={""}
+className={`w-menu-content c1h8gefg chu2gw7 c4im5ri c1kael5w c12fyb4s c1x5aw03 csaddr c8xszqq c10ooszm c1cvc1fy ctv2jj6 c1d37xbr cks8qh2 cafscv2 c1tc6v8u cen3wsf caqkv26 c18rgb3y c169pe5h c4t6xry c19y4hvr cvgvssi c1ngw9no c1ays5ld cp9r9ft cd7oday`}>
 <Box
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
@@ -286,7 +295,7 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl
 </NavigationMenuItem>
 <NavigationMenuItem
 data-ws-index="3"
-className={`w-menu-item`}>
+className={`w-menu-item c18r7lsh`}>
 <NavigationMenuTrigger>
 <Button
 className={`w-button c6t8baf ccy4onp c12v245d c170tjmx c1vn5tfs czucxib c1kp31s8 c1qhcdyy c1fi5cuq cht0eit ci7vqja c1yco124 c19kzc1u c1cijgzd ced3s0y cw8qqgw c22bltr cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ey153p c1wffj6h cg3odet cl0rcjj ckffmm9 crs1rsf c19z7nzm c1q1affg`}>
@@ -303,7 +312,8 @@ className={`w-html-embed c10svky5`} />
 </Button>
 </NavigationMenuTrigger>
 <NavigationMenuContent
-className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
+data-clip-hold-nav-popup={""}
+className={`w-menu-content c1h8gefg chu2gw7 c4im5ri c1kael5w c12fyb4s c1x5aw03 csaddr c8xszqq c10ooszm c1cvc1fy ctv2jj6 c1d37xbr cks8qh2 cafscv2 c1tc6v8u cen3wsf caqkv26 c18rgb3y c169pe5h c4t6xry c19y4hvr cvgvssi c1ngw9no c1ays5ld cp9r9ft cd7oday`}>
 <Box
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
@@ -312,7 +322,7 @@ className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <Fragment_1>
 <NavigationMenuLink>
 <Link_1
-href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname)}
+href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname) == null ? system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname) : String(system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname))}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -322,7 +332,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname)}
+href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname) == null ? system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname) : String(system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname))}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -337,19 +347,14 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </NavigationMenuContent>
 </NavigationMenuItem>
 </NavigationMenuList>
-<Box
-className={`w-box c12fyb4s chu2gw7 c10ahqwr c12v245d cllx2wu`}>
-<NavigationMenuViewport
-className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c18rgb3y caqkv26 cirmrkx chdvygq c145ebzo c169pe5h c109howh cafscv2 c1tt00pm c5gq79w cfq9b07 cbsu0mq cpv83kh`} />
-</Box>
 </NavigationMenu>
 <NavigationMenu
 className={`w-navigation-menu c18r7lsh c1nkdqmy c2cg3w5 c1bq8pra`}>
 <NavigationMenuList
-className={`w-menu-list c10ahqwr c1u51yoh c1fyxozx c1oby77s c1vqhak5 ccy4onp c12v245d cq4ywzg cb3my67 cwjh6ed cuugp9g`}>
+className={`w-menu-list c10ahqwr c1u51yoh c1fyxozx c1oby77s c1vqhak5 ccy4onp c12v245d cq4ywzg cb3my67 c18r7lsh cwjh6ed cuugp9g`}>
 <NavigationMenuItem
 data-ws-index="0"
-className={`w-menu-item`}>
+className={`w-menu-item ci8e3jp`}>
 <NavigationMenuTrigger>
 <Button
 className={`w-button c6t8baf ccy4onp c12v245d c170tjmx c1vn5tfs czucxib c1kp31s8 c1qhcdyy c1fi5cuq cht0eit ci7vqja c1yco124 c19kzc1u c1cijgzd ced3s0y cw8qqgw c22bltr cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ey153p c1wffj6h cg3odet cl0rcjj ckffmm9 crs1rsf c19z7nzm c1q1affg`}>
@@ -366,7 +371,8 @@ className={`w-html-embed c10svky5`} />
 </Button>
 </NavigationMenuTrigger>
 <NavigationMenuContent
-className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
+data-clip-hold-nav-popup={""}
+className={`w-menu-content c1h8gefg chu2gw7 c4im5ri c1kael5w c12fyb4s c1x5aw03 csaddr c8xszqq c10ooszm c1cvc1fy ctv2jj6 c1d37xbr cks8qh2 cafscv2 c1tc6v8u cen3wsf caqkv26 c18rgb3y c169pe5h c4t6xry c19y4hvr cvgvssi c1ngw9no c1ays5ld cp9r9ft cd7oday`}>
 <Box
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
@@ -375,7 +381,7 @@ className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <Fragment_1>
 <NavigationMenuLink>
 <Link_1
-href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname)}
+href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname) == null ? system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname) : String(system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname))}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -385,7 +391,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname)}
+href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname) == null ? system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname) : String(system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname))}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -401,7 +407,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </NavigationMenuItem>
 <NavigationMenuItem
 data-ws-index="1"
-className={`w-menu-item`}>
+className={`w-menu-item c18r7lsh`}>
 <NavigationMenuTrigger>
 <Button
 aria-label={"ナビゲーションメニュー"}
@@ -415,7 +421,8 @@ className={`w-html-embed c10svky5`} />
 </Button>
 </NavigationMenuTrigger>
 <NavigationMenuContent
-className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
+data-clip-hold-nav-popup={""}
+className={`w-menu-content c1h8gefg chu2gw7 c4im5ri c1kael5w c12fyb4s c1x5aw03 csaddr c8xszqq c10ooszm c1cvc1fy ctv2jj6 c1d37xbr cks8qh2 cafscv2 c1tc6v8u cen3wsf caqkv26 c18rgb3y c169pe5h c4t6xry c19y4hvr cvgvssi c1ngw9no c1ays5ld cp9r9ft cd7oday`}>
 <Box
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
@@ -568,11 +575,6 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh
 </NavigationMenuContent>
 </NavigationMenuItem>
 </NavigationMenuList>
-<Box
-className={`w-box c12fyb4s chu2gw7 c10ahqwr c12v245d c1x5aw03 c15f3w52`}>
-<NavigationMenuViewport
-className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c18rgb3y caqkv26 cirmrkx chdvygq c145ebzo c169pe5h c109howh cafscv2 c1tt00pm c5gq79w cfq9b07 cbsu0mq cpv83kh`} />
-</Box>
 </NavigationMenu>
 </div>
 </div>
@@ -595,7 +597,7 @@ code={"## General\n### Basic\n\n- **Launch at Login**\n  - Make Clip Hold open a
 className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 c1fkhv8g c1anbdbd cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c11qmzdn c9di14k c7rite5 cijijao cgtk0xu c19hmctj c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <MarkdownEmbed
-code={"## Standard Phrases\n### Standard Phrases Window\n\n- **Always on Top**\n  - Always keep the window on top.\n  - Default: `Off`\n- **Overlay Display**\n  - When unfocused, make the window semi-transparent.\n  - Default: `Off`\n- **Overlay Transparency**\n  - When “Overlay Display” is enabled, you can set the transparency level of the semi-transparent window between 20% and 80%.\n  - Default: `50%`\n- **Hide Numbers**\n  - Hide numbers displayed in each item.\n  - Default: `Off`\n- **Close Window by Double-Click**\n  - Make the window close when you double-click an item to copy it.\n  - Default: `Off`\n\n### Preset Settings\nYou can add, remove, edit, or reorder presets.\n\n> **Tip**\\\n> You can also edit the preset name by double-clicking on the preset or by pressing the `Return` key.\n\n### Assign Presets\nYou can add, remove, or remove all designated apps.\n\n> **Tip**\\\n> You can also add apps to a list by drag and drop them into the list.\n\n### Standard Phrases Settings\nYou can add, remove, edit, remove all, or reorder standard phrases.\n\n> **Tip**\\\n> You can also edit the standard phrase by double-clicking on the standard phrase or by pressing the `Return` key.\n\n### Manage Standard Phrases\n\n- **Standard Phrases**\n  - **Import**\n    - Import a JSON file of the exported standard phrases.\n  - **Export**\n    - Export all standard phrases as a JSON file.\n- **Delete All Standard Phrases**\n  - Delete all saved standard phrases.\n\n> You can find instructions on how to export and import standard phrases from [**this documentation**](/docs/export-and-import-of-standard-phrases).\n\n## Copy History\n### History Window\n\n- **Always on Top**\n  - Always keep the window on top.\n  - Default: `Off`\n- **Overlay Display**\n  - When unfocused, make the window semi-transparent.\n  - Default: `Off`\n- **Overlay Transparency**\n  - When “Overlay Display” is enabled, you can set the transparency level of the semi-transparent window between 20% and 80%.\n  - Default: `50%`\n- **Date and Time Display Format**\n  - Changes how the date is displayed when copied. You can choose from the following options.\n    - **Absolute** (Default)\\\n      Example: 11/30/2025, 12:34PM\n    - **Relative**\\\n      Example: 5 minutes ago\n    - **Both: Absolute (Relative)**\\\n      Example: 11/30/2025, 12:34PM (5 minutes ago)\n    - **Both: Absolute - Relative**\\\n      Example: 11/30/2025, 12:34PM - 5 minutes ago\n    - **Both: Relative (Absolute)**\\\n      Example: 5 minutes ago (11/30/2025, 12:34PM)\n    - **Both: Relative - Absolute**\\\n      Example: 5 minutes ago - 11/30/2025, 12:34PM\n- **Auto Scroll**\n  - When the list is updated, automatically scroll to the top of the list.\n  - Default: `On`\n- **Hide Numbers**\n  - Hide numbers displayed in each item.\n  - Default: `Off`\n- **Close Window by Double-Click**\n  - Make the window close when you double-click an item to copy it.\n  - Default: `Off`\n- **Exclude Clip Hold Windows with App's “Automatic” Filtering**\n  - Do not switch the filtered app when you focus the Clip Hold window (such as the History window) while the app's “Automatic” filtering is active.\n  - Default: `Off`\n\n### History Settings\n\n- **Maximum Number of History Saves**\n  - Set the maximum number of items saved in Clip Hold history.\n  - Default: `Unlimited`\n- **Size for Copy Alert**\n  - When you copy a file that is larger than the size set here, you will get an alert asking if you want to save the copied file in the history or not.\n  - Default: `100 MB`\n- **Maximum File Size for Each File**\n  - Only when a file smaller than the size set here is copied will it be saved in the history. Previous history items are not affected.\n  - Default: `Unlimited`\n- **Folder Size Calculation Timeout**\n  - Set the maximum time spent calculating the size of copied folders. If the timeout is reached, folder size calculation will be skipped.\n  - Default: `3s`\n- **Ignore Standard Phrases**\n  - Prevents copied standard phrases from being added to the history.\n  - Default: `Off`\n\n### Manage History\n\n- **Clipboard History**\n  - **Import**\n    - Import a JSON file of the exported clipboard history.\n  - **Export**\n    - Export all clipboard history as a JSON file.\n- **Delete All History**\n  - Delete all saved copy history.\n\n### Manage Saved Folder\n\n- **Number of Items in Saved Folder:**\n  - The number of items in the folder where copied files are saved is displayed.\n- **Total Size of the Saved Folder:**\n  - The total size of the folder where copied files are saved is displayed.\n- **Recalculate Total Size of Saved Folder**\n  - Rescan file sizes in the saved folder to recalculate the accurate total size.\n- **Open Saved Folder**\n  - Open the folder where copied files are saved in Finder.\n- **Empty the Saved Folder**\n  - Delete all items in the folder where copied files are saved. Related history will also be deleted.\n\n## Shortcuts\n### Quick Overlay\n\n- **Standard Phrase Overlay**\n  - Set the shortcut key to show the Quick Overlay for standard phrases.\n  - Default: `⌃ (Control)` + `⌘ (Command)`\n- **History Overlay**\n  - Set the shortcut key to show the Quick Overlay for history.\n  - Default: `⌥ (Option)` + `⌘ (Command)`\n\n### Window Operations\n\n- **Open Standard Phrases Window**\n  - Set the shortcut key to open the Standard Phrases window.\n  - Default: `^ (Control)` + `⌘ (Command)` + `V`\n- **Open History Window**\n  - Set the shortcut key to open the History window.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `V`\n\n### Privacy\n\n- **Toggle Clipboard Monitoring**\n  - Set the shortcut key to toggle clipboard monitoring.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `M`\n\n### Presets\n\n- **Add a New Preset**\n  - Set the shortcut key to add a new preset.\n  - Default: `^ (Control)` + `⌘ (Command)` + `N`\n- **Switch to Next Preset**\n  - Set the shortcut key to switch to next preset.\n  - Default: `^ (Control)` + `⌘ (Command)` + `P`\n- **Switch to Previous Preset**\n  - Set the shortcut key to switch to previous preset.\n  - Default: `^ (Control)` + `⇧ (Shift)` + `⌘ (Command)` + `P`\n\n### Standard Phrases\n\n- **Copy the 1st Standard Phrase**\n  - Set the shortcut key to copy the 1st standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `1`\n- **Copy the 2nd Standard Phrase**\n  - Set the shortcut key to copy the 2nd standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `2`\n- **Copy the 3rd Standard Phrase**\n  - Set the shortcut key to copy the 3rd standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `3`\n- **Copy the 4th Standard Phrase**\n  - Set the shortcut key to copy the 4th standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `4`\n- **Copy the 5th Standard Phrase**\n  - Set the shortcut key to copy the 5th standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `5`\n- **Copy the 6th Standard Phrase**\n  - Set the shortcut key to copy the 6th standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `6`\n- **Copy the 7th Standard Phrase**\n  - Set the shortcut key to copy the 7th standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `7`\n- **Copy the 8th Standard Phrase**\n  - Set the shortcut key to copy the 8th standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `8`\n- **Copy the 9th Standard Phrase**\n  - Set the shortcut key to copy the 9th standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `9`\n- **Copy the 10th Standard Phrase**\n  - Set the shortcut key to copy the 10th standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `0`\n- **Add a New Standard Phrase**\n  - Set the shortcut key to add a new standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `A`\n- **Add a Standard Phrase from Clipboard Contents**\n  - Set the shortcut key to add a new standard phrase using the current clipboard contents.\n  - Default: `^ (Control)` + `⌘ (Command)` + `C`\n\n### Copy History\n\n- **Use Filtered Copy History in the History Window**\n  - Allow copying filtered history using shortcut keys when the History window is open and filtering is applied.\n  - Default: `Off`\n- **Copy Pinned Item**\n  - Set the shortcut key to copy pinned items.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `P`\n- **Copy the 1st History Item**\n  - Set the shortcut key to copy the 1st history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `1`\n- **Copy the 2nd History Item**\n  - Set the shortcut key to copy the 2nd history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `2`\n- **Copy the 3rd History Item**\n  - Set the shortcut key to copy the 3rd history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `3`\n- **Copy the 4th History Item**\n  - Set the shortcut key to copy the 4th history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `4`\n- **Copy the 5th History Item**\n  - Set the shortcut key to copy the 5th history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `5`\n- **Copy the 6th History Item**\n  - Set the shortcut key to copy the 6th history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `6`\n- **Copy the 7th History Item**\n  - Set the shortcut key to copy the 7th history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `7`\n- **Copy the 8th History Item**\n  - Set the shortcut key to copy the 8th history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `8`\n- **Copy the 9th History Item**\n  - Set the shortcut key to copy the 9th history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `9`\n- **Copy the 10th History Item**\n  - Set the shortcut key to copy the 10th history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `0`\n- **Open New Copy Window**\n  - Set the shortcut key to open the New Copy window.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `A`\n- **Change and Copy the Latest History Item**\n  - Set the shortcut key to change the contents of the latest history item and copy it.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `E`\n\n## Privacy\n\n> **Tip**\\\n> If you have difficulty to differentiate indicators by color, you can enable “Differentiate Without Color” in the System Settings to differentiate indicators by shape.\n\n### Clipboard\n\n- **Clipboard Monitoring**\n  - Enable or disable clipboard monitoring.\n  - Default: `On`\n\n### Permission\n\n- **Notifications**\n  - **Open Settings**\n    - Open the Notification settings in the System Settings.\n  - **Test Notification**\n    - Send a test notification.\n- **Accessibility**\n  - **Open Settings**\n    - Open the Accessibility Permissions setting in the System Settings.\n\n### Apps to Exclude\nYou can add, remove, or remove all apps to exclude from clipboard monitoring.\n\n> **Tip**\\\n> You can also add apps to a list by drag and drop them into the list.\n\n## Developer Features\n### Text\n- **Show Character Count**\n  - Toggle to show or hide the character count after the date in the History window and in the menu.\n  - Default: `Off`\n- **Show Whitespace and Newline Symbols**\n  - Displays half-width spaces, full-width spaces, newlines, and tabs with symbols. In text replacement history, they are always displayed regardless of this setting.\n  - Default: `Off`\n\n### Color Codes\n- **Show a Color Icon Based on Color Code**\n  - Toggle to show or hide color icons in the History and Standard Phrases windows and in the menu when color codes in HEX, HSL / HSLA, or RGB / RGBA format are copied.\n  - Default: `Off`\n- **Allow Filtering by Color Codes**\n  - Toggle to add “Color Code Only” to the filtering options in the History window.\n  - Default: `Off`\n\n### Spotlight\n- **Spotlight Index Status**\n  - Displays the current registration status of the index for Spotlight search.\n- **Reset Spotlight Index**\n  - Reset and reindex all history and Standard Phrases indexed by Clip Hold.\n\n### Code Detection\n- **Code Detection Index Status**\n  - Displays the status of the syntax index used by the programming language code detection feature.\n- **Reset Code Detection Index**\n  - Reinitializes and resets the index for code detection.\n\n### Debug\n- **Reset All Settings**\n  - **Reset...**\n    - Reset all settings of the app to their defaults. Copy history and standard phrases are not affected.\n\n## Information\n### About Clip Hold\nDisplays the app version, build number, and copyright information. You can check the app license information and contributors involved in the development."}
+code={"## Standard Phrases\n### Standard Phrases Window\n\n- **Always on Top**\n  - Always keep the window on top.\n  - Default: `Off`\n- **Overlay Display**\n  - When unfocused, make the window semi-transparent.\n  - Default: `Off`\n- **Overlay Transparency**\n  - When “Overlay Display” is enabled, you can set the transparency level of the semi-transparent window between 20% and 80%.\n  - Default: `50%`\n- **Hide Numbers**\n  - Hide numbers displayed in each item.\n  - Default: `Off`\n- **Close Window by Double-Click**\n  - Make the window close when you double-click an item to copy it.\n  - Default: `Off`\n\n### Preset Settings\nYou can add, remove, edit, or reorder presets.\n\n> **Tip**\\\n> You can also edit the preset name by double-clicking on the preset or by pressing the `Return` key.\n\n### Assign Presets\nYou can add, remove, or remove all designated apps.\n\n> **Tip**\\\n> You can also add apps to a list by drag and drop them into the list.\n\n### Standard Phrases Settings\nYou can add, remove, edit, remove all, or reorder standard phrases.\n\n> **Tip**\\\n> You can also edit the standard phrase by double-clicking on the standard phrase or by pressing the `Return` key.\n\n### Manage Standard Phrases\n\n- **Standard Phrases**\n  - **Import**\n    - Import a JSON file of the exported standard phrases.\n  - **Export**\n    - Export all standard phrases as a JSON file.\n- **Delete All Standard Phrases**\n  - Delete all saved standard phrases.\n\n> You can find instructions on how to export and import standard phrases from [**this documentation**](/docs/export-and-import-of-standard-phrases).\n\n## Copy History\n### History Window\n\n- **Always on Top**\n  - Always keep the window on top.\n  - Default: `Off`\n- **Overlay Display**\n  - When unfocused, make the window semi-transparent.\n  - Default: `Off`\n- **Overlay Transparency**\n  - When “Overlay Display” is enabled, you can set the transparency level of the semi-transparent window between 20% and 80%.\n  - Default: `50%`\n- **Date and Time Display Format**\n  - Changes how the date is displayed when copied. You can choose from the following options.\n    - **Absolute** (Default)\\\n      Example: 11/30/2025, 12:34PM\n    - **Relative**\\\n      Example: 5 minutes ago\n    - **Both: Absolute (Relative)**\\\n      Example: 11/30/2025, 12:34PM (5 minutes ago)\n    - **Both: Absolute - Relative**\\\n      Example: 11/30/2025, 12:34PM - 5 minutes ago\n    - **Both: Relative (Absolute)**\\\n      Example: 5 minutes ago (11/30/2025, 12:34PM)\n    - **Both: Relative - Absolute**\\\n      Example: 5 minutes ago - 11/30/2025, 12:34PM\n- **Auto Scroll**\n  - When the list is updated, automatically scroll to the top of the list.\n  - Default: `On`\n- **Hide Numbers**\n  - Hide numbers displayed in each item.\n  - Default: `Off`\n- **Close Window by Double-Click**\n  - Make the window close when you double-click an item to copy it.\n  - Default: `Off`\n- **Exclude Clip Hold Windows with App's “Automatic” Filtering**\n  - Do not switch the filtered app when you focus the Clip Hold window (such as the History window) while the app's “Automatic” filtering is active.\n  - Default: `Off`\n\n### History Settings\n\n- **Maximum Number of History Saves**\n  - Set the maximum number of items saved in Clip Hold history.\n  - Default: `Unlimited`\n- **Size for Copy Alert**\n  - When you copy a file that is larger than the size set here, you will get an alert asking if you want to save the copied file in the history or not.\n  - Default: `100 MB`\n- **Maximum File Size for Each File**\n  - Only when a file smaller than the size set here is copied will it be saved in the history. Previous history items are not affected.\n  - Default: `Unlimited`\n- **Folder Size Calculation Timeout**\n  - Set the maximum time spent calculating the size of copied folders. If the timeout is reached, folder size calculation will be skipped.\n  - Default: `3s`\n- **Ignore Content from Universal Clipboard**\n  - Prevents content copied on another device and synced via Universal Clipboard from being added to the history.\n  - Default: `Off`\n- **Ignore Standard Phrases**\n  - Prevents copied standard phrases from being added to the history.\n  - Default: `Off`\n\n### Manage History\n\n- **Clipboard History**\n  - **Import**\n    - Import a JSON file of the exported clipboard history.\n  - **Export**\n    - Export all clipboard history as a JSON file.\n- **Delete All History**\n  - Delete all saved copy history.\n\n### Manage Saved Folder\n\n- **Number of Items in Saved Folder:**\n  - The number of items in the folder where copied files are saved is displayed.\n- **Total Size of the Saved Folder:**\n  - The total size of the folder where copied files are saved is displayed.\n- **Recalculate Total Size of Saved Folder**\n  - Rescan file sizes in the saved folder to recalculate the accurate total size.\n- **Open Saved Folder**\n  - Open the folder where copied files are saved in Finder.\n- **Empty the Saved Folder**\n  - Delete all items in the folder where copied files are saved. Related history will also be deleted.\n\n## Shortcuts\n### Quick Overlay\n\n- **Standard Phrase Overlay**\n  - Set the shortcut key to show the Quick Overlay for standard phrases.\n  - Default: `⌃ (Control)` + `⌘ (Command)`\n- **History Overlay**\n  - Set the shortcut key to show the Quick Overlay for history.\n  - Default: `⌥ (Option)` + `⌘ (Command)`\n\n### Window Operations\n\n- **Open Standard Phrases Window**\n  - Set the shortcut key to open the Standard Phrases window.\n  - Default: `^ (Control)` + `⌘ (Command)` + `V`\n- **Open History Window**\n  - Set the shortcut key to open the History window.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `V`\n\n### Privacy\n\n- **Toggle Clipboard Monitoring**\n  - Set the shortcut key to toggle clipboard monitoring.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `M`\n\n### Presets\n\n- **Add a New Preset**\n  - Set the shortcut key to add a new preset.\n  - Default: `^ (Control)` + `⌘ (Command)` + `N`\n- **Switch to Next Preset**\n  - Set the shortcut key to switch to next preset.\n  - Default: `^ (Control)` + `⌘ (Command)` + `P`\n- **Switch to Previous Preset**\n  - Set the shortcut key to switch to previous preset.\n  - Default: `^ (Control)` + `⇧ (Shift)` + `⌘ (Command)` + `P`\n\n### Standard Phrases\n\n- **Copy the 1st Standard Phrase**\n  - Set the shortcut key to copy the 1st standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `1`\n- **Copy the 2nd Standard Phrase**\n  - Set the shortcut key to copy the 2nd standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `2`\n- **Copy the 3rd Standard Phrase**\n  - Set the shortcut key to copy the 3rd standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `3`\n- **Copy the 4th Standard Phrase**\n  - Set the shortcut key to copy the 4th standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `4`\n- **Copy the 5th Standard Phrase**\n  - Set the shortcut key to copy the 5th standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `5`\n- **Copy the 6th Standard Phrase**\n  - Set the shortcut key to copy the 6th standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `6`\n- **Copy the 7th Standard Phrase**\n  - Set the shortcut key to copy the 7th standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `7`\n- **Copy the 8th Standard Phrase**\n  - Set the shortcut key to copy the 8th standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `8`\n- **Copy the 9th Standard Phrase**\n  - Set the shortcut key to copy the 9th standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `9`\n- **Copy the 10th Standard Phrase**\n  - Set the shortcut key to copy the 10th standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `0`\n- **Add a New Standard Phrase**\n  - Set the shortcut key to add a new standard phrase.\n  - Default: `^ (Control)` + `⌘ (Command)` + `A`\n- **Add a Standard Phrase from Clipboard Contents**\n  - Set the shortcut key to add a new standard phrase using the current clipboard contents.\n  - Default: `^ (Control)` + `⌘ (Command)` + `C`\n\n### Copy History\n\n- **Use Filtered Copy History in the History Window**\n  - Allow copying filtered history using shortcut keys when the History window is open and filtering is applied.\n  - Default: `Off`\n- **Copy Pinned Item**\n  - Set the shortcut key to copy pinned items.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `P`\n- **Copy the 1st History Item**\n  - Set the shortcut key to copy the 1st history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `1`\n- **Copy the 2nd History Item**\n  - Set the shortcut key to copy the 2nd history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `2`\n- **Copy the 3rd History Item**\n  - Set the shortcut key to copy the 3rd history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `3`\n- **Copy the 4th History Item**\n  - Set the shortcut key to copy the 4th history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `4`\n- **Copy the 5th History Item**\n  - Set the shortcut key to copy the 5th history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `5`\n- **Copy the 6th History Item**\n  - Set the shortcut key to copy the 6th history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `6`\n- **Copy the 7th History Item**\n  - Set the shortcut key to copy the 7th history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `7`\n- **Copy the 8th History Item**\n  - Set the shortcut key to copy the 8th history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `8`\n- **Copy the 9th History Item**\n  - Set the shortcut key to copy the 9th history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `9`\n- **Copy the 10th History Item**\n  - Set the shortcut key to copy the 10th history item.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `0`\n- **Open New Copy Window**\n  - Set the shortcut key to open the New Copy window.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `A`\n- **Change and Copy the Latest History Item**\n  - Set the shortcut key to change the contents of the latest history item and copy it.\n  - Default: `⌥ (Option)` + `⌘ (Command)` + `E`\n\n## Privacy\n\n> **Tip**\\\n> If you have difficulty to differentiate indicators by color, you can enable “Differentiate Without Color” in the System Settings to differentiate indicators by shape.\n\n### Clipboard\n\n- **Clipboard Monitoring**\n  - Enable or disable clipboard monitoring.\n  - Default: `On`\n\n### Permission\n\n- **Notifications**\n  - **Open Settings**\n    - Open the Notification settings in the System Settings.\n  - **Test Notification**\n    - Send a test notification.\n- **Accessibility**\n  - **Open Settings**\n    - Open the Accessibility Permissions setting in the System Settings.\n\n### Apps to Exclude\nYou can add, remove, or remove all apps to exclude from clipboard monitoring.\n\n> **Tip**\\\n> You can also add apps to a list by drag and drop them into the list.\n\n## Developer Features\n### Text\n- **Show Character Count**\n  - Toggle to show or hide the character count after the date in the History window and in the menu.\n  - Default: `Off`\n- **Show Whitespace and Newline Symbols**\n  - Displays half-width spaces, full-width spaces, newlines, and tabs with symbols. In text replacement history, they are always displayed regardless of this setting.\n  - Default: `Off`\n\n### Color Codes\n- **Show a Color Icon Based on Color Code**\n  - Toggle to show or hide color icons in the History and Standard Phrases windows and in the menu when color codes in HEX, HSL / HSLA, or RGB / RGBA format are copied.\n  - Default: `Off`\n- **Allow Filtering by Color Codes**\n  - Toggle to add “Color Code Only” to the filtering options in the History window.\n  - Default: `Off`\n\n### Spotlight\n- **Spotlight Index Status**\n  - Displays the current registration status of the index for Spotlight search.\n- **Reset Spotlight Index**\n  - Reset and reindex all history and Standard Phrases indexed by Clip Hold.\n\n### Code Detection\n- **Code Detection Index Status**\n  - Displays the status of the syntax index used by the programming language code detection feature.\n- **Reset Code Detection Index**\n  - Reinitializes and resets the index for code detection.\n\n### Debug\n- **Reset All Settings**\n  - **Reset...**\n    - Reset all settings of the app to their defaults. Copy history and standard phrases are not affected.\n\n## Information\n### About Clip Hold\nDisplays the app version, build number, and copyright information. You can check the app license information and contributors involved in the development."}
 className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 c1fkhv8g c1anbdbd cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c11qmzdn c9di14k c7rite5 cijijao cgtk0xu c19hmctj c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
 </MarkdownEmbed>
 <HtmlEmbed
@@ -611,7 +613,7 @@ className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekan
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + imagePath + "/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"" + imagePath + "/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"160\"\n    width=\"160\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + imagePath + "/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"" + imagePath + "/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"160\"\n    width=\"160\"\n  />\n</picture>\n" == null ? "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + imagePath + "/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"" + imagePath + "/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"160\"\n    width=\"160\"\n  />\n</picture>\n" : String("<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + imagePath + "/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"" + imagePath + "/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"160\"\n    width=\"160\"\n  />\n</picture>\n")}
 className={`w-html-embed c13o8mej cit9x1f c1nnnk8m c4f6612 c9gwnxb c1bge907 c1xoovru`}>
 </HtmlEmbed>
 <div

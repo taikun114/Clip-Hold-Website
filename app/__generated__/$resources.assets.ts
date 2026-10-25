@@ -412,4 +412,27 @@
     "contentRef": "Clip_Hold_Overlay_HowTo_Copy_as_Plain_Text_YyzroXSkrQO84dE6p1Rgz.webp"
   }
 };
+    export const assetUrlsByPath = {
+  "/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917.svg": "/assets/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917_wsuiz2VllMYTAd-yb-_mG.svg",
+  "/Clip_Hold_YT-ja.webp": "/assets/Clip_Hold_YT-ja_MvVXL18DfzSiLKcLntVzD.webp",
+  "/Clip%20Hold%20Overlay%20HowTo%20Screen%20Edge%20Drag%20Plain%20Text.webp": "/assets/Clip_Hold_Overlay_HowTo_Screen_Edge_Drag_Plain_Text_vx-SroX_5oWaYSjds-wou.webp",
+  "/Download_on_the_Mac_App_Store_Badge_JP_RGB_blk_100317.svg": "/assets/Download_on_the_Mac_App_Store_Badge_JP_RGB_blk_100317_PBTOdZUu8ZYNgCcHrs3tY.svg",
+  "/GitHub_Badge_2x.png": "/assets/GitHub_Badge_2x_TI3XZydyWMTVRNJI2jGQT.png",
+  "/GitHub_Badge-ja_2x.png": "/assets/GitHub_Badge-ja_2x_KZ0_CT1LL7XPznxhyQAlV.png",
+  "/Clip%20Hold%20Overlay%20HowTo%20Screen%20Edge%20Drag.webp": "/assets/Clip_Hold_Overlay_HowTo_Screen_Edge_Drag_4v4KGKAzdaqFk06lPT7oz.webp",
+  "/Clip%20Hold%20Overlay%20HowTo%20Open%20Window.webp": "/assets/Clip_Hold_Overlay_HowTo_Open_Window_OC7oieJ_0mLfVmTHYGtNv.webp",
+  "/Clip%20Hold%20Overlay%20HowTo%20Open%20Presets%20Menu.webp": "/assets/Clip_Hold_Overlay_HowTo_Open_Presets_Menu_XjZ6Tf5xLsIMHyWWvn4-F.webp",
+  "/Clip%20Hold%20Overlay%20HowTo%20Overlays.webp": "/assets/Clip_Hold_Overlay_HowTo_Overlays_pMkJAC4eOaJe80MWUHuTm.webp",
+  "/Clip%20Hold%20Overlay%20HowTo%20Copy%20Content.webp": "/assets/Clip_Hold_Overlay_HowTo_Copy_Content_EYmtClgzHx5c8RidlMu1X.webp",
+  "/favicon.png": "/assets/favicon_s3qidvMMGRxZju269ILbB.png",
+  "/Clip_Hold_YT.webp": "/assets/Clip_Hold_YT_-7VoJq9CLwj7UDwx5_dd9.webp",
+  "/Clip_Hold_Social.webp": "/assets/Clip_Hold_Social_xtI2IUhHGLa0MqrvDzbHv.webp",
+  "/Clip_Hold_Social-ja.webp": "/assets/Clip_Hold_Social-ja_3731BMDfmvMqR8o3iej-U.webp",
+  "/Clip%20Hold%20Overlay%20HowTo%20New%20Preset.webp": "/assets/Clip_Hold_Overlay_HowTo_New_Preset_w8177dOSMTaAXXd_7l-nK.webp",
+  "/Clip%20Hold%20Overlay%20HowTo%20Screen%20Edge.webp": "/assets/Clip_Hold_Overlay_HowTo_Screen_Edge_W_XBvaFdMhdQa6CpilWJO.webp",
+  "/Clip%20Hold%20Overlay%20HowTo%20New.webp": "/assets/Clip_Hold_Overlay_HowTo_New_JBvO18A3HU8fcMOZS3oKN.webp",
+  "/Clip%20Hold%20Overlay%20HowTo%20Change%20and%20Copy.webp": "/assets/Clip_Hold_Overlay_HowTo_Change_and_Copy_q66oOk4-h4bFfi9aq7LkZ.webp",
+  "/Clip%20Hold%20Overlay%20HowTo%20Using%20Presets%20Menu.webp": "/assets/Clip_Hold_Overlay_HowTo_Using_Presets_Menu_XKVjn6gl2krBOt444a6KY.webp",
+  "/Clip%20Hold%20Overlay%20HowTo%20Copy%20as%20Plain%20Text.webp": "/assets/Clip_Hold_Overlay_HowTo_Copy_as_Plain_Text_YyzroXSkrQO84dE6p1Rgz.webp"
+};
     

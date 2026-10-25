@@ -92,9 +92,6 @@
   p.w-paragraph {
     box-sizing: border-box
   }
-  div.w-menu-viewport {
-    box-sizing: border-box
-  }
   img.w-image {
     box-sizing: border-box;
     max-width: 100%;
@@ -163,11 +160,11 @@
   .c12v245d {
     justify-content: center
   }
-  .czcq795 {
-    box-shadow: 0px 0px 16px 0px rgb(0 0 0 / 0.2)
+  .c3wsuep {
+    box-shadow: none
   }
-  .cvam674 {
-    background-color: light-dark(#ffffffaa, #000000aa)
+  .c1prvjh7 {
+    background-color: rgb(0 0 0 / 0)
   }
   .cjnw8bq {
     position: fixed
@@ -175,9 +172,9 @@
   .c8rm0tm {
     top: 0px
   }
-  .cvyvt8m {
-    -webkit-backdrop-filter: blur(64px);
-    backdrop-filter: blur(64px)
+  .c1lfu9k3 {
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none
   }
   .cegjyhq {
     z-index: 5
@@ -291,6 +288,12 @@
   .c1jt805z {
     max-width: 1200px
   }
+  .c18r7lsh {
+    position: relative
+  }
+  .c1q01pac {
+    z-index: 1
+  }
   .ciqrpa6 {
     justify-content: start
   }
@@ -308,9 +311,6 @@
   }
   .c1615a3h {
     min-width: max-content
-  }
-  .c18r7lsh {
-    position: relative
   }
   .c1nkdqmy {
     max-width: max-content
@@ -486,11 +486,11 @@
   .cw3x7ao {
     transition-delay: 0s
   }
-  .c1rbzz7m {
-    left: 0
+  .c1h8gefg {
+    left: auto
   }
-  .c1bq9k1t {
-    top: 0
+  .chu2gw7 {
+    top: 100%
   }
   .c4im5ri {
     positon: absolute
@@ -498,8 +498,69 @@
   .c1kael5w {
     width: max-content
   }
+  .c1x5aw03 {
+    right: 0px
+  }
+  .csaddr {
+    margin-top: 0.375rem
+  }
+  .c8xszqq {
+    max-width: calc(100vw - 32px)
+  }
+  .c10ooszm {
+    max-height: 80dvh
+  }
+  .c1cvc1fy {
+    overflow-x: hidden
+  }
+  .ctv2jj6 {
+    overflow-y: auto
+  }
+  .c1d37xbr {
+    background-color: light-dark(rgb(255 255 255 / 90%), rgb(0 0 0 / 90%))
+  }
+  .cks8qh2 {
+    -webkit-backdrop-filter: blur(4px);
+    backdrop-filter: blur(4px)
+  }
+  .cafscv2 {
+    z-index: 10
+  }
+  .c1tc6v8u {
+    border-top-left-radius: 24px
+  }
+  .cen3wsf {
+    border-top-right-radius: 24px
+  }
+  .caqkv26 {
+    border-bottom-left-radius: 24px
+  }
+  .c18rgb3y {
+    border-bottom-right-radius: 24px
+  }
+  .c169pe5h {
+    box-shadow: rgb(0 0 0 / 0.2) 0px 0px 16px 0px
+  }
+  .c4t6xry {
+    transform-origin: top right
+  }
+  .c19y4hvr {
+    animation-duration: 200ms
+  }
+  .cvgvssi {
+    animation-timing-function: ease
+  }
+  .c1ngw9no {
+    animation-fill-mode: both
+  }
   .c1ays5ld {
     padding: 1rem
+  }
+  .cp9r9ft[data-state="open"] {
+    animation-name: clipHoldNavPopupFadeIn
+  }
+  .cd7oday[data-state="closed"] {
+    animation-name: clipHoldNavPopupFadeOut
   }
   .ctnbop5 {
     row-gap: 1rem
@@ -547,9 +608,6 @@
   .c1xbn7ez {
     font-weight: 700
   }
-  .c1cvc1fy {
-    overflow-x: hidden
-  }
   .cdmq0wa {
     overflow-y: hidden
   }
@@ -568,26 +626,8 @@
   .coxefsf {
     -webkit-line-clamp: 2
   }
-  .chu2gw7 {
-    top: 100%
-  }
   .cllx2wu {
     right: 96px
-  }
-  .csaddr {
-    margin-top: 0.375rem
-  }
-  .c1tc6v8u {
-    border-top-left-radius: 24px
-  }
-  .cen3wsf {
-    border-top-right-radius: 24px
-  }
-  .c18rgb3y {
-    border-bottom-right-radius: 24px
-  }
-  .caqkv26 {
-    border-bottom-left-radius: 24px
   }
   .cirmrkx {
     color: rgb(2 8 23 / 1)
@@ -598,14 +638,8 @@
   .c145ebzo {
     width: var(--radix-navigation-menu-viewport-width)
   }
-  .c169pe5h {
-    box-shadow: rgb(0 0 0 / 0.2) 0px 0px 16px 0px
-  }
   .c109howh {
     background-color: light-dark(#fff, #000)
-  }
-  .cafscv2 {
-    z-index: 10
   }
   .c1tt00pm {
     transition-property: height
@@ -634,17 +668,11 @@
   .cgq20k9:hover {
     background-color: rgb(0 120 216 / 1)
   }
-  .c1x5aw03 {
-    right: 0px
-  }
   .ctsrmp7 {
     max-height: 70vh
   }
   .c142ylfi {
     overflow-x: auto
-  }
-  .ctv2jj6 {
-    overflow-y: auto
   }
   .cfoar8i {
     border-top-left-radius: 32px
@@ -1197,6 +1225,37 @@
   }
   .cssx0h5 {
     margin-top: 16px
+  }
+  .ci8e3jp {
+    position: static
+  }
+  .c1bq9k1t {
+    top: 0
+  }
+  .c1yhr0wt {
+    right: 0
+  }
+  .c9uwmtv {
+    bottom: 0
+  }
+  .c1rbzz7m {
+    left: 0
+  }
+  .cy23g3g {
+    pointer-events: none
+  }
+  .cgfgtm2 {
+    z-index: 0
+  }
+  .c1wid2z4 {
+    background-color: light-dark(#ffffffaa,#000000aa)
+  }
+  .cvyvt8m {
+    -webkit-backdrop-filter: blur(64px);
+    backdrop-filter: blur(64px)
+  }
+  .cpi7ogg {
+    box-shadow: 0 0 16px rgb(0 0 0 / 0.2)
   }
 }
 @media all and (max-width: 991px) {

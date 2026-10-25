@@ -6,7 +6,7 @@
       import { renderText, useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Button as Button, Text as Text, Box as Box, Paragraph as Paragraph, Slot as Slot, Image as Image, MarkdownEmbed as MarkdownEmbed } from "@webstudio-is/sdk-components-react/components";
 import { Link as Link, Link as Link_1, Body as Body } from "@webstudio-is/sdk-components-react-router";
-import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuLink as NavigationMenuLink, NavigationMenuViewport as NavigationMenuViewport } from "@webstudio-is/sdk-components-react-radix";
+import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuLink as NavigationMenuLink } from "@webstudio-is/sdk-components-react-radix";
 
 
       export const projectId = "a910d043-5ab4-41b7-8e15-5b9eb80d0c41";
@@ -41,9 +41,15 @@ className={`w-element c1uoa21q c10ahqwr c1atdl27 cdm1ag0`}>
 <Slot>
 <Fragment_1>
 <div
-className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d czcq795 cvam674 cjnw8bq c8rm0tm cvyvt8m cegjyhq cnq5uvv cn7vhbn`}>
+className={`w-element c7z4ryg c1bv1fm7 c10ahqwr ccy4onp c12v245d c3wsuep c1prvjh7 cjnw8bq c8rm0tm c1lfu9k3 cegjyhq cnq5uvv cn7vhbn`}>
 <div
-className={`w-element c1qopeiv c7z4ryg c1jt805z c10ahqwr ccy4onp cdm1ag0`}>
+aria-hidden={"true"}
+className={`w-element c12fyb4s c1bq9k1t c1yhr0wt c9uwmtv c1rbzz7m cy23g3g cgfgtm2 c1wid2z4 cvyvt8m cpi7ogg`} />
+<HtmlEmbed
+code={"<style>\n@keyframes clipHoldNavPopupFadeIn {\n  from { opacity: 0; transform: translateY(-8px) scale(0.96); }\n  to { opacity: 1; transform: translateY(0) scale(1); }\n}\n@keyframes clipHoldNavPopupFadeOut {\n  from { opacity: 1; transform: translateY(0) scale(1); }\n  to { opacity: 0; transform: translateY(-8px) scale(0.96); }\n}\n@media (prefers-reduced-motion: reduce) {\n  [data-clip-hold-nav-popup] { animation-duration: 0.01ms !important; }\n}\n</style>"}
+className={`w-html-embed c2cg3w5`} />
+<div
+className={`w-element c1qopeiv c7z4ryg c1jt805z c10ahqwr ccy4onp cdm1ag0 c18r7lsh c1q01pac`}>
 <Link
 href={"/"}
 className={`w-element c10ahqwr ccy4onp ciqrpa6 cdjvmmy`}>
@@ -61,7 +67,7 @@ className={`w-navigation-menu c18r7lsh c1nkdqmy c1s7f7m6`}>
 className={`w-menu-list c10ahqwr c1u51yoh c1fyxozx c1oby77s c1vqhak5 ccy4onp c12v245d chz2lhu c1mr8pq3 cwjh6ed cuugp9g`}>
 <NavigationMenuItem
 data-ws-index="0"
-className={`w-menu-item`}>
+className={`w-menu-item c18r7lsh`}>
 <NavigationMenuTrigger>
 <Button
 className={`w-button c6t8baf ccy4onp c12v245d c22bltr c1qhcdyy c1fi5cuq cht0eit ci7vqja c1yco124 c19kzc1u c1cijgzd ced3s0y cw8qqgw c170tjmx c1vn5tfs c1kp31s8 czucxib cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ey153p c1wffj6h cg3odet cwblwtu c14z3omo ca508ev c1r1ndh8 cl0rcjj ckffmm9 crs1rsf c1q1affg cjb1u0k c1uzl7ts cao2a7h c1jvzd51 c19z7nzm`}>
@@ -78,7 +84,8 @@ className={`w-html-embed c10svky5`} />
 </Button>
 </NavigationMenuTrigger>
 <NavigationMenuContent
-className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
+data-clip-hold-nav-popup={""}
+className={`w-menu-content c1h8gefg chu2gw7 c4im5ri c1kael5w c12fyb4s c1x5aw03 csaddr c8xszqq c10ooszm c1cvc1fy ctv2jj6 c1d37xbr cks8qh2 cafscv2 c1tc6v8u cen3wsf caqkv26 c18rgb3y c169pe5h c4t6xry c19y4hvr cvgvssi c1ngw9no c1ays5ld cp9r9ft cd7oday`}>
 <Box
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
@@ -145,7 +152,7 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh
 </NavigationMenuItem>
 <NavigationMenuItem
 data-ws-index="1"
-className={`w-menu-item`}>
+className={`w-menu-item c18r7lsh`}>
 <NavigationMenuTrigger>
 <Button
 className={`w-button c6t8baf ccy4onp c12v245d c22bltr c1qhcdyy c1fi5cuq cht0eit ci7vqja c1yco124 c19kzc1u c1cijgzd ced3s0y cw8qqgw c170tjmx c1vn5tfs c1kp31s8 czucxib cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ey153p c1wffj6h cg3odet cwblwtu c14z3omo ca508ev c1r1ndh8 cl0rcjj ckffmm9 crs1rsf c1q1affg cjb1u0k c1uzl7ts cao2a7h c1jvzd51 c19z7nzm`}>
@@ -162,7 +169,8 @@ className={`w-html-embed c10svky5`} />
 </Button>
 </NavigationMenuTrigger>
 <NavigationMenuContent
-className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
+data-clip-hold-nav-popup={""}
+className={`w-menu-content c1h8gefg chu2gw7 c4im5ri c1kael5w c12fyb4s c1x5aw03 csaddr c8xszqq c10ooszm c1cvc1fy ctv2jj6 c1d37xbr cks8qh2 cafscv2 c1tc6v8u cen3wsf caqkv26 c18rgb3y c169pe5h c4t6xry c19y4hvr cvgvssi c1ngw9no c1ays5ld cp9r9ft cd7oday`}>
 <Box
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
@@ -224,7 +232,7 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh
 </NavigationMenuItem>
 <NavigationMenuItem
 data-ws-index="2"
-className={`w-menu-item`}>
+className={`w-menu-item c18r7lsh`}>
 <NavigationMenuTrigger>
 <Button
 className={`w-button c6t8baf ccy4onp c12v245d c170tjmx c1vn5tfs czucxib c1kp31s8 c1qhcdyy c1fi5cuq cht0eit ci7vqja c1yco124 c19kzc1u c1cijgzd ced3s0y cw8qqgw c22bltr cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ey153p c1wffj6h cg3odet cl0rcjj ckffmm9 crs1rsf c19z7nzm c1q1affg`}>
@@ -241,7 +249,8 @@ className={`w-html-embed c10svky5`} />
 </Button>
 </NavigationMenuTrigger>
 <NavigationMenuContent
-className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
+data-clip-hold-nav-popup={""}
+className={`w-menu-content c1h8gefg chu2gw7 c4im5ri c1kael5w c12fyb4s c1x5aw03 csaddr c8xszqq c10ooszm c1cvc1fy ctv2jj6 c1d37xbr cks8qh2 cafscv2 c1tc6v8u cen3wsf caqkv26 c18rgb3y c169pe5h c4t6xry c19y4hvr cvgvssi c1ngw9no c1ays5ld cp9r9ft cd7oday`}>
 <Box
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
@@ -286,7 +295,7 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1huger0 coxefsf c1qhcdyy cicl
 </NavigationMenuItem>
 <NavigationMenuItem
 data-ws-index="3"
-className={`w-menu-item`}>
+className={`w-menu-item c18r7lsh`}>
 <NavigationMenuTrigger>
 <Button
 className={`w-button c6t8baf ccy4onp c12v245d c170tjmx c1vn5tfs czucxib c1kp31s8 c1qhcdyy c1fi5cuq cht0eit ci7vqja c1yco124 c19kzc1u c1cijgzd ced3s0y cw8qqgw c22bltr cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ey153p c1wffj6h cg3odet cl0rcjj ckffmm9 crs1rsf c19z7nzm c1q1affg`}>
@@ -303,7 +312,8 @@ className={`w-html-embed c10svky5`} />
 </Button>
 </NavigationMenuTrigger>
 <NavigationMenuContent
-className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
+data-clip-hold-nav-popup={""}
+className={`w-menu-content c1h8gefg chu2gw7 c4im5ri c1kael5w c12fyb4s c1x5aw03 csaddr c8xszqq c10ooszm c1cvc1fy ctv2jj6 c1d37xbr cks8qh2 cafscv2 c1tc6v8u cen3wsf caqkv26 c18rgb3y c169pe5h c4t6xry c19y4hvr cvgvssi c1ngw9no c1ays5ld cp9r9ft cd7oday`}>
 <Box
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
@@ -312,7 +322,7 @@ className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <Fragment_1>
 <NavigationMenuLink>
 <Link_1
-href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname)}
+href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname) == null ? system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname) : String(system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname))}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -322,7 +332,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname)}
+href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname) == null ? system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname) : String(system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname))}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -337,19 +347,14 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </NavigationMenuContent>
 </NavigationMenuItem>
 </NavigationMenuList>
-<Box
-className={`w-box c12fyb4s chu2gw7 c10ahqwr c12v245d cllx2wu`}>
-<NavigationMenuViewport
-className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c18rgb3y caqkv26 cirmrkx chdvygq c145ebzo c169pe5h c109howh cafscv2 c1tt00pm c5gq79w cfq9b07 cbsu0mq cpv83kh`} />
-</Box>
 </NavigationMenu>
 <NavigationMenu
 className={`w-navigation-menu c18r7lsh c1nkdqmy c2cg3w5 c1bq8pra`}>
 <NavigationMenuList
-className={`w-menu-list c10ahqwr c1u51yoh c1fyxozx c1oby77s c1vqhak5 ccy4onp c12v245d cq4ywzg cb3my67 cwjh6ed cuugp9g`}>
+className={`w-menu-list c10ahqwr c1u51yoh c1fyxozx c1oby77s c1vqhak5 ccy4onp c12v245d cq4ywzg cb3my67 c18r7lsh cwjh6ed cuugp9g`}>
 <NavigationMenuItem
 data-ws-index="0"
-className={`w-menu-item`}>
+className={`w-menu-item ci8e3jp`}>
 <NavigationMenuTrigger>
 <Button
 className={`w-button c6t8baf ccy4onp c12v245d c170tjmx c1vn5tfs czucxib c1kp31s8 c1qhcdyy c1fi5cuq cht0eit ci7vqja c1yco124 c19kzc1u c1cijgzd ced3s0y cw8qqgw c22bltr cf7vwbz c1pt54az c1v1aqip c1fybrir c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c1ey153p c1wffj6h cg3odet cl0rcjj ckffmm9 crs1rsf c19z7nzm c1q1affg`}>
@@ -366,7 +371,8 @@ className={`w-html-embed c10svky5`} />
 </Button>
 </NavigationMenuTrigger>
 <NavigationMenuContent
-className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
+data-clip-hold-nav-popup={""}
+className={`w-menu-content c1h8gefg chu2gw7 c4im5ri c1kael5w c12fyb4s c1x5aw03 csaddr c8xszqq c10ooszm c1cvc1fy ctv2jj6 c1d37xbr cks8qh2 cafscv2 c1tc6v8u cen3wsf caqkv26 c18rgb3y c169pe5h c4t6xry c19y4hvr cvgvssi c1ngw9no c1ays5ld cp9r9ft cd7oday`}>
 <Box
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
@@ -375,7 +381,7 @@ className={`w-box c1vodrrg c10ahqwr ctnbop5 c17rvfg7 c1atdl27`}>
 <Fragment_1>
 <NavigationMenuLink>
 <Link_1
-href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname)}
+href={system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname) == null ? system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname) : String(system?.pathname === '/jp' ? '/' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname?.replace?.('/jp', '') : system?.pathname))}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -385,7 +391,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </NavigationMenuLink>
 <NavigationMenuLink>
 <Link_1
-href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname)}
+href={system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname) == null ? system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname) : String(system?.pathname === '/' ? '/jp' : (system?.pathname?.startsWith?.('/jp') ? system?.pathname : '/jp' + system?.pathname))}
 className={`w-link cmx2o2d c10ahqwr c1atdl27 cvvc3zs cq4ywzg cb3my67 crxt7mc cdjvmmy c16ya8nv c5gq79w cfq9b07 cbsu0mq cpv83kh c170tjmx c1vn5tfs c1kp31s8 czucxib cufe47 czck9s6 c19z7nzm cncksmc czmuqwl c1hpqdu5`}>
 <Text
 className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
@@ -401,7 +407,7 @@ className={`w-text c1qhcdyy c1xbn7ez crxt7mc c10svky5`}>
 </NavigationMenuItem>
 <NavigationMenuItem
 data-ws-index="1"
-className={`w-menu-item`}>
+className={`w-menu-item c18r7lsh`}>
 <NavigationMenuTrigger>
 <Button
 aria-label={"ナビゲーションメニュー"}
@@ -415,7 +421,8 @@ className={`w-html-embed c10svky5`} />
 </Button>
 </NavigationMenuTrigger>
 <NavigationMenuContent
-className={`w-menu-content c1rbzz7m c1bq9k1t c4im5ri c1kael5w c1ays5ld`}>
+data-clip-hold-nav-popup={""}
+className={`w-menu-content c1h8gefg chu2gw7 c4im5ri c1kael5w c12fyb4s c1x5aw03 csaddr c8xszqq c10ooszm c1cvc1fy ctv2jj6 c1d37xbr cks8qh2 cafscv2 c1tc6v8u cen3wsf caqkv26 c18rgb3y c169pe5h c4t6xry c19y4hvr cvgvssi c1ngw9no c1ays5ld cp9r9ft cd7oday`}>
 <Box
 className={`w-box c10ahqwr ctnbop5 c17rvfg7`}>
 <Box
@@ -568,11 +575,6 @@ className={`w-paragraph c1cvc1fy cdmq0wa c1unn2rf c1qhcdyy cicl67j c1hvvxg4 cwjh
 </NavigationMenuContent>
 </NavigationMenuItem>
 </NavigationMenuList>
-<Box
-className={`w-box c12fyb4s chu2gw7 c10ahqwr c12v245d c1x5aw03 c15f3w52`}>
-<NavigationMenuViewport
-className={`w-menu-viewport c18r7lsh csaddr c1cvc1fy cdmq0wa c1tc6v8u cen3wsf c18rgb3y caqkv26 cirmrkx chdvygq c145ebzo c169pe5h c109howh cafscv2 c1tt00pm c5gq79w cfq9b07 cbsu0mq cpv83kh`} />
-</Box>
 </NavigationMenu>
 </div>
 </div>
@@ -586,6 +588,15 @@ className={`w-element c7z4ryg c109howh cfoar8i c13ilcm6 c1w497fm c8dkrv8 c1r1zv9
 className={`w-element c117tk5u c23z8nw c1dgg9g4 cua250e`}>
 {"Clip Hold Release Notes"}
 </h1>
+<h2
+id={"v1-7-1"}
+className={`w-element c1btyfa c1dgg9g4 c1cgzzq8`}>
+{"Version 1.7.2"}
+</h2>
+<MarkdownEmbed
+code={"Release: October 25, 2026\n\n### New Features\n#### Copy History\n- **Add the \"Ignore Content from Universal Clipboard\" setting**\n  - Prevents content copied on another device and synced via Universal Clipboard from being added to the history.\n\n### Bug Fixes and Improvements\n#### General\n- **Improve code detection**\n  - Shell script detection is now more accurate, and false positives for non-code text have been reduced.\n- **Improve usability of the \"Change Item and Copy\" screen**\n  - When you try to cancel after changing the content, an alert now asks whether you want to discard your changes. You can also activate the Discard button in the alert by pressing `⌘ (Command)` + `D`.\n\n#### Copy History\n- **Improve source application detection**\n  - The source application is now detected more accurately when copying files from the desktop or copying items using context menus, among other cases.\n\n#### Quick Overlay\n- **Fix issue where Quick Overlay could remain visible when shortcut keys were released quickly**\n- **Improve Quick Overlay performance**\n- **Improve Quick Overlay usability**\n- **Improve tooltip performance**\n- **Improve Quick Paste processing from Quick Overlay**\n- **Improve Quick Overlay to close when touching the screen edge again after opening it from that edge**\n  - Quick Overlay can now be closed with minimal cursor movement, even when opened unintentionally."}
+className={`w-markdown-embed c1btyfa c1yn6h70 cgm33l3 cu6rr2t cvh06f7 c1fkhv8g c1anbdbd cpz8b15 cl9ob9i c1sr8v96 c11k13wx c16oomju c1cjjo2m c13amotr ca5czps chbx7ou cc9fjt2 c1kaohmx c3pvp22 c10uadrl c10wrxyb co7anm5 c1gm4vhf c1a3306b c1pngh2o c1i1ssua c6vyc6y ct8dvwa c1dbc9mv ckfhbto c11cn4z9 c1i4opmp cj1uatf cbahgcg c1pdgxs0 ch6h5mx c11qmzdn c9di14k c7rite5 cijijao cgtk0xu c19hmctj c13vvc9x c13yiq2p cdxnsle cvqcr91 c8aeqr1 cnyqbuq cvpueh2 c18cffgd c1vm6q1b c110tfwo cdr93bb c1y26qy3 c28letw cmmd6l4 c1uavql0 c1numm6r cxb3o4o cxwi62w cen4rqz cfgexva c1iouawa c7v4hxy cnr5mh4 c1dffutb cn1jhwk c1gr8i1y c14m0z9d cq69d57 c1xtg8wy cprh4dv c1f53ie1 c1sx0g94 c1kr23xr c1v6qm63 ci9rfmi c3fvy2x cnbw67s c4xja9h c1v7wo8r c1vai48 cf4v29l cjt05yl cc6t6k2`}>
+</MarkdownEmbed>
 <h2
 id={"v1-7-1"}
 className={`w-element c1btyfa c1dgg9g4 c1cgzzq8`}>
@@ -748,7 +759,7 @@ className={`w-element c7z4ryg c1vr770l c1se3qqu c1tbobo9 c6e8y9s c1iw2zw1 c1ekan
 <div
 className={`w-element c10ahqwr ccy4onp c12v245d c501a67`}>
 <HtmlEmbed
-code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + imagePath + "/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"" + imagePath + "/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"160\"\n    width=\"160\"\n  />\n</picture>\n"}
+code={"<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + imagePath + "/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"" + imagePath + "/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"160\"\n    width=\"160\"\n  />\n</picture>\n" == null ? "<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + imagePath + "/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"" + imagePath + "/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"160\"\n    width=\"160\"\n  />\n</picture>\n" : String("<picture>\n  <source\n    media=\"(prefers-color-scheme: dark)\"\n    srcset=\"" + imagePath + "/AppIconLiquidGlassDark@1x.webp?raw=true\"\n  />\n  <img\n    src=\"" + imagePath + "/AppIconLiquidGlassLight@1x.webp?raw=true\"\n    alt=\"Clip Hold Logo\"\n    height=\"160\"\n    width=\"160\"\n  />\n</picture>\n")}
 className={`w-html-embed c13o8mej cit9x1f c1nnnk8m c4f6612 c9gwnxb c1bge907 c1xoovru`}>
 </HtmlEmbed>
 <div

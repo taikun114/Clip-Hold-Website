@@ -3,3 +3,4 @@
 .webstudio/project-session.json
 .env
 /build
+/.vite
